@@ -1,0 +1,1343 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Engineering and Computer Science  
+  
+## College of Engineering and Computer Science
+
+#### Courses
+
+**Aerospace Engineering**
+
+  * ### AEE 527 - Helicopter Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Introduction to the helicopter; hover- and vertical-flight analysis;
+autorotation and vertical descent; blade motion and rotor control;
+aerodynamics of forward flight.  
+PREREQ AEE 342 AND 427  
+
+  * ### AEE 542 - Hypersonic/High Temperature Gas Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Inviscid and viscous hypersonic fluid dynamics with and without high
+temperature effects. Approximate and exact methods for analyzing hypersonic
+flows. Elements of statistical thermodynamics, kinetic theory, and
+nonequilibrium gas dynamics. Experimental methods.  
+PREREQ MAE 251 AND AEE 343  
+
+  * ### AEE 577 - Introduction to Space Flight
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Two-body orbital mechanics, orbits and trajectories, interplanetary transfers,
+vehicle and booster performance.  
+PREREQ ECS 222  
+
+  * ### AEE 628 - Adv Spacecraft Dyn
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Analytical techniques, including dyadic operators for rotational motion,
+Lambert's theorem and its use in spacecraft mission analysis computer
+programs, and Bierman's factorized estimation board.  
+
+  * ### AEE 630 - Spacecraft Dynamics & Control
+
+_Spacecraft Dynamics & Control_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Stability; spacecraft orbital dynamics and control; Lagrange points; attitude
+representations like rotation matrix, Euler angles, and Euler parameters;
+attitude kinematics; attitude determination (Wahba's problem); attitude
+dynamics; inertia tensor; gravity gradient torque; attitude stabilization and
+control.  
+
+  * ### AEE 636 - Strctral Dynamics/Vehicle
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Static aeroelasticity, unsteady aerodynamics of airfoils and wings, lifting
+surface flutter, panel flutter, and dynamic response including modal
+techniques.  
+PREREQ MAE 627  
+
+  * ### AEE 637 - Adv/Mech/Aerospce/Structr
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Structural problems not amenable to elementary analysis, such as swept and
+delta wings, stresses around cutouts, shear lag, torsion with restrained
+warping, general instability of stiffened shells, thermal stresses. Matrix and
+energy methods.  
+
+  * ### AEE 747 - Hypersonic Gas Dyn
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Classification, physical properties of hypersonic flows. Thickness and
+structure of shock fronts. Real gas effects, relaxation phenomena.
+Compressible viscous boundary layer flows. Shock layer flows. Two-layer
+Newtonian flow models. Aerodynamic applications. Hypersonic flow generation,
+simulation.  
+PREREQ MAE 647  
+
+  * ### AEE 996 - Special Project
+
+_College of Engineering and Computer Science_  
+0-6 credit(s)
+
+* * *
+
+Repeatable  
+
+  * ### AEE 997 - Masters Thesis
+
+_College of Engineering and Computer Science_  
+0-9 credit(s) At least 1x fall or spring
+
+* * *
+
+Repeatable  
+
+  * ### AEE 999 - Dissertation
+
+_College of Engineering and Computer Science_  
+0-15 credit(s) At least 1x fall or spring
+
+* * *
+
+Repeatable  
+
+**Bioengineering**
+
+  * ### BEN 500 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### BEN 521 - Stem Cell Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Covers wide-ranging topics related to stem cell and regenerative biology,
+including: introduction of cell and developmental biology, stem cell biology,
+tissue engineering, regenerative medicine, and the political and ethical
+issues surrounding the stem cell debate.  
+
+  * ### BEN 522 - Biomedical-Device Infections
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEN 522  
+
+Discussion of the complex issues related to biomedical-device infections.
+Investigation of the impact of biomaterials, microbiology, detection, and
+device regulation to reduce biomedical-device infections.  
+
+  * ### BEN 541 - Principles of Tissue Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Cellular and biomaterials principles relevant to tissue engineering, focusing
+on cellular and tissue organization; regulation of cell behavior; biomaterials
+for tissue regenerations; tissue engineering applications in cardiovascular,
+neurological, and musculoskeletal and other organ systems.  
+
+  * ### BEN 565 - Biomechanics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Functions and mechanical properties of cells and tissues, how those cells and
+tissues combine to form structures, the properties and behaviors of those
+structures, and biomechanical techniques to analyze the structures and
+individual components.  
+PREREQ ECS 221 AND MAT 485 AND BEN 364  
+
+  * ### BEN 568 - Biomaterials & Medical Devices
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Materials science and biological issues associated with medical devices and
+biomaterials are discussed. Bulk and surface materials science, tissue
+engineering, degradation and biocompatibility are addressed and related to
+medical device design and regulatory issues.  
+
+  * ### BEN 580 - International Course
+
+_College of Engineering and Computer Science_  
+1-12 credit(s) Irregularly
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the S.U.
+academic department to assign the appropriate course level, title, and grade
+for the student's transcript.  
+Repeatable  
+
+  * ### BEN 600 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### BEN 601 - Graduate Bioengineering and Chemical Engineering Seminar
+
+_College of Engineering and Computer Science_  
+0-1 credit(s) Every semester
+
+* * *
+
+Crosslisted with CEN 601  
+Selected topics in bioengineering. Presentations by internal and external
+speakers, discussions with students.  
+Repeatable, 1 credits maximum  
+
+  * ### BEN 602 - Ethical Issues in Engineering and Research
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEN 602  
+Explores the application of professional norms to ethical decision making in
+engineering and scientific research. Includes examination of cases in light of
+the requirements of the Responsible Conduct of Research.  
+
+  * ### BEN 612 - BioMEMS, Biosensors & Biophotonics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BEN 412  
+Building blocks, fabrication techniques, sensing and actuation principles of
+biomedical microelectromechanical systems (bioMEMS). Case studies on
+biosensors, biophotonics and microsystem technologies that enhance biomedical
+research and healthcare. Additional work required of graduate students.  
+
+  * ### BEN 613 - Readings in Neuroscience
+
+_College of Engineering and Computer Science_  
+0-3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with BIO 624 , CSD 753 , NEU 613 , PSY 778  
+A literature-based team-taught course focusing on in depth discussions of
+classical or recent papers of exceptional import to neuroscience. Students
+will complete weekly readings assigned by faculty and participate in a 3-hr/wk
+group facilitated discussion  
+
+  * ### BEN 614 - Interdisciplinary Methods of Neuroscience
+
+_College of Engineering and Computer Science_  
+0-3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with BIO 625 , CSD 754 , NEU 614 , PSY 779  
+A practical interdisciplinary survey course whereby neuroscience faculty
+introduce students to a wide array of methodologies, including molecular,
+cellular, developmental, systems, behavioral, and cognitive neuroscientific
+approaches to investigate basic, pre-clinical, translational, and clinical
+questions to unravel the relationship between brain and behavior.  
+
+  * ### BEN 621 - Biochemical Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEN 621  
+Double Numbered with BEN 421  
+Introduction to microbiology, biochemical kinetics. Biochemical-reactor
+design, including methods for oxygen transfer and control. Introduction to
+separation processes in biochemical engineering. Additional work for graduate
+students.  
+
+  * ### BEN 630 - Sports Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BEN 430  
+Study of engineering principles involved in sports: body systems in human
+motion, analysis of gait, basic performance patterns in athletic movements,
+performance improvements, and design of sports equipment. Additional work
+required of graduate students.  
+
+  * ### BEN 631 - Introduction to Global Regulatory Affairs
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BEN 431  
+An introduction to Global Regulatory Affairs. Providing a foundational
+understanding of how regulatory and health authorities regulate products to
+bring safe and effective solutions to patients and consumers. Additional work
+required of graduate students.  
+
+  * ### BEN 633 - Drug Delivery
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEN 633  
+Double Numbered with BEN 433  
+Integration of biology, chemistry, and engineering to understand how
+pharmaceuticals are delivered to, and behave within, the body. Includes drug
+formulation, pharmacokinetics, pharmacodynamics, controlled release, and
+targeted delivery. Additional work is required of graduate students.  
+
+  * ### BEN 634 - Polymer Physics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with CEN 634  
+Exploration into the physical properties of polymers focusing on polymer
+theoretical physics, characterization of their physical properties, and the
+importance of their structure-property relationships in various applications.  
+
+  * ### BEN 635 - Physical Cell Biology
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BIO 635 , CEN 635 , CHE 635 , PHY 635  
+This interdisciplinary class for science and engineering students provides an
+introduction to the quantitative description of biological systems and
+processes. The focus is on the biological and physical aspects of structure
+and function of cells and their subsystems.  
+
+  * ### BEN 638 - Open Problems in Soft Interfaces
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BIO 638 , CEN 638 , CHE 638 , PHY 638  
+In this seminar course on soft and biological materials and interfaces, teams
+from science and engineering will identify, discuss and assess current
+articles from the literature. Writing skills related to publishing peer-
+reviewed research are introduced.  
+
+  * ### BEN 641 - Mobile Health (mHealth) Device Design and Application
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BEN 441  
+This course will introduce students to the rapidly growing field of Mobile
+Health (mHealth), including concepts of mHealth design, hardware, software,
+wireless integration, and mobile apps, with application of those concepts to
+problems faced by different patient and user populations. Additional work
+required of graduate students.  
+
+  * ### BEN 648 - Biofluid Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with MAE 648  
+Principles of momentum transfer in bioengineering systems. Flight and swimming
+in nature including flagellar propulsion. Newtonian and non-Newtonian fluid
+phenomena, including low-Reynolds-number flow, pulsatile and separated flows.
+Flow past bifurcations. Respiratory and blood circulatory flows.  
+
+  * ### BEN 650 - Environmental Risk Assessment & Toxicology
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEN 650, CEE 650  
+Double Numbered with BEN 450  
+Students will analyze the human health impact of exposure to toxic chemicals
+in air, water, and soil according to USEPA  _Risk Assessment Guidance for
+Superfund_. Additional work required of graduate students.  
+
+  * ### BEN 658 - Biomedical Imaging
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BEN 458  
+Basics of imaging techniques useful for biological and medical applications.
+Microscopy, electron microscopy, acoustic microscopy, atomic force microscopy,
+magnetic resonance imaging. Discussion of images and literature. MRI
+laboratory exercises.  
+
+  * ### BEN 662 - Biofuels, Bioproducts, and Biorefining
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CEN 662  
+Double Numbered with BEN 462  
+Survey of modern technologies available for the production of transportation
+fuels from abundant natural resources. Additional work required of graduate
+students.  
+
+  * ### BEN 664 - Quantitative Physiology
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BEN 364  
+Introduction to mammalian physiology from an engineering perspective. Each of
+the major systems of the body will be addressed, with an emphasis on
+electrical, mechanical, and thermodynamic principles Lecture and laboratory.
+Additional work required of graduate students.  
+
+  * ### BEN 666 - Advanced Biomechanics
+
+_College of Engineering and Computer Science_  
+3-4 credit(s) Irregularly
+
+* * *
+
+Double Numbered with BEN 466  
+Introduction to kinesiology and kinematics; finite element method; joint force
+analysis and the properties of bone cartilage and tendon as related to
+functional analysis of bone-joint systems.  
+PREREQ BEN 565  
+
+  * ### BEN 670 - Experience Credit
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Every semester
+
+* * *
+
+Participation in a discipline or subject related experience. Student must be
+evaluated by written or oral reports or an examination. Permission in advance
+with the consent of the department chairperson, instructor, and dean. Limited
+to those in good academic standing.  
+Repeatable  
+
+  * ### BEN 673 - Biomanufacturing
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEN 673  
+Double Numbered with BEN 473  
+Students learn the governing principles of conventional and advanced
+manufacturing techniques, which are adapted/modified to engineer living
+tissues/organs, biomedical products and test-platforms for investigating
+fundamental cell biology. Additional work required for grad students.  
+
+  * ### BEN 674 - Medical Image Processing & Analysis
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BEN 474  
+Introductory medical image processing and analysis. An open source software
+that has been developed for this purpose will be used. Additional work
+required of graduate students.  
+
+  * ### BEN 687 - Advanced Bioengineering Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Bioengineering solution development experience. Team development of a
+bioengineering innovation. Brainstorm, design, iterate and test hypotheses.
+Lecture and experiential learning. Hands on concept development and
+evaluation, bioengineering industry exposure, visual management, oral, and
+poster presentations.  
+
+  * ### BEN 690 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Every semester
+
+* * *
+
+Exploration of a problem, or problems, in depth. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor(s) and the department.  
+Repeatable  
+
+  * ### BEN 741 - Biopolymers
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Polymer structure, physical properties, and clinical applications of natural
+and synthetic biomedical polymers. Polymer synthesis, structural and molecular
+characterization, material properties, polymer processing, biocompatibility,
+and polymer degradation will be discussed.  
+PREREQ BEN 568  
+
+  * ### BEN 768 - Surfaces of Biomaterials
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Metallic, ceramic, and polymeric surfaces used in biomaterials. Surface
+forces, structure, chemistry, electrochemical behavior of surfaces, and
+corrosion reactions related to material-body interactions will be discussed
+and surface-analytical techniques present.  
+
+  * ### BEN 991 - Introduction to MS Research
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Preliminary research and investigation on a topic of interest under
+supervision of a member of the faculty.  
+
+  * ### BEN 996 - Masters Project
+
+_Masters Project_  
+0 credit(s) At least 1x fall or spring
+
+* * *
+
+Investigation of a bioengineering problem. An oral defense is required in
+accordance with current departmental guidelines. Required of all students
+electing the non-thesis option for a master's degree.  
+
+  * ### BEN 997 - Masters Thesis
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Independent investigation on a topic of interest under supervision of a member
+of the faculty.  
+PREREQ BEN 991  
+
+  * ### CEN 522 - Biomedical-Device Infections
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 522  
+
+Discussion of the complex issues related to biomedical-device infections.
+Investigation of the impact of biomaterials, microbiology, detection, and
+device regulation to reduce biomedical-device infections.  
+
+**Chemical Engineering**
+
+  * ### CEN 500 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### CEN 520 - Radiochemistry, Nuclear Fuel Reprocessing and Nonproliferation
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with NUC 520  
+Radiochemistry for nuclear reactors and nuclear fuel reprocessing;
+nonproliferation issues through detection and monitoring, nuclear fuel
+reprocessing and design, waste vitrification and storage facilities, safety
+issues in nuclear fuel reprocessing.  
+PREREQ NUC 301  
+
+  * ### CEN 540 - Experiential Studies in Nuclear Technology
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with NUC 540  
+Introduction to experimental methods, procedures and research techniques
+through projects at participating government facilities, industrial entities
+or Syracuse University.  
+PREREQ NUC 301 AND (NUC 510 OR NUC 520 )  
+
+  * ### CEN 561 - Polymer Science & Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with BEN 561  
+Polymer structure, physical properties, and applications of polymers. Polymer
+synthesis, characterization of molecular structure, and copolymerization and
+blending. Unique physical properties of polymeric materials. Processing and
+applications of polymers.  
+
+  * ### CEN 562 - Air Resources I
+
+_Air Resources I_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEE 562  
+Occurrence, nature and properties, major sources and quantities of
+contaminants. Ambient air concentration levels, community distribution
+patterns, and control of air pollution.  
+
+  * ### CEN 565 - Bioremediation
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Uses of bioremediation in engineering applications. Role of microorganisms in
+degradation of pollutants and contaminants. Regulatory, societal, and legal
+issues of bioremediation.  
+PREREQ CEE 472 OR CEN 472  
+
+  * ### CEN 567 - Biotechnology
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Engineering applications of biotechnology in agriculture, industry, and the
+environment. Principles of molecular genetics as applied in the biotechnology
+industry. Hands-on exposure to laboratory recombinant DNA technology.  
+PREREQ CEE 472/CEN 472  
+
+  * ### CEN 573 - Principles and Design in Air Pollution Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Fundamental principles of pollution control, design of control processes and
+equipment. Criteria for selection of control processes and equipment for
+gaseous and particulate pollutants.  
+
+  * ### CEN 575 - Process Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Modeling and linearization of process dynamics. Transfer functions.
+Performance and stability of feedback control loops. Introduction to
+multivariable and digital controls.  
+PREREQ MAT 485  
+
+  * ### CEN 576 - Green Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Review of environmental regulations. Evaluating the environmental fate of
+chemicals. Techniques for improving environmental performance of processes.
+Methods for evaluating environmental performance, design of unit operations,
+and flowsheets for pollution prevention. Environmental cost accounting.  
+PREREQ CEN 341 AND 353  
+
+  * ### CEN 587 - Chemical Reaction Engineering
+
+_College of Engineering and Computer Science_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Conversion and reactor sizing, isothermal reactor design for flow and batch
+systems, rate laws and stoichiometry, analysis of rate data, multiple
+reactions, introduction to heterogeneous reactor design.  
+PREREQ CEN 341  
+
+  * ### CEN 590 - Recent Advances In CEN
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected topics in research and new areas of competence in chemical
+engineering.  
+Repeatable  
+
+  * ### CEN 600 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### CEN 601 - Graduate Bioengineering and Chemical Engineering Seminar
+
+_College of Engineering and Computer Science_  
+0-1 credit(s) Every semester
+
+* * *
+
+Crosslisted with BEN 601  
+Selected topics in bioengineering. Presentations by internal and external
+speakers, discussions with students.  
+Repeatable, 1 credits maximum  
+
+  * ### CEN 602 - Ethical Issues in Engineering and Research
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 602  
+Explores the application of professional norms to ethical decision making in
+engineering and scientific research. Includes examination of cases in light of
+the requirements of the Responsible Conduct of Research.  
+
+  * ### CEN 621 - Biochemical Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 621  
+Double Numbered with CEN 421  
+Introduction to microbiology, biochemical kinetics. Biochemical-reactor
+design, including methods for oxygen transfer and control. Introduction to
+separation processes in biochemical engineering. Additional work for graduate
+students.  
+
+  * ### CEN 629 - Methods in Materials Characterization
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with CEN 429  
+Establish working knowledge of experimental tools to characterize solid
+materials (catalysts, metals, semiconductors). Theory for each technique,
+information provided for various research topics, experimental parameters, and
+data interpretation will be discussed. Additional work required of graduate
+students.  
+
+  * ### CEN 633 - Drug Delivery
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 633  
+Double Numbered with CEN 433  
+Integration of biology, chemistry, and engineering to understand how
+pharmaceuticals are delivered to, and behave within, the body. Includes drug
+formulation, pharmacokinetics, pharmacodynamics, controlled release, and
+targeted delivery. Additional work is required of graduate students.  
+
+  * ### CEN 634 - Polymer Physics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with BEN 634  
+Exploration into the physical properties of polymers focusing on polymer
+theoretical physics, characterization of their physical properties, and the
+importance of their structure-property relationships in various applications.  
+
+  * ### CEN 635 - Physical Cell Biology
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 635 , BIO 635 , CHE 635 , PHY 635  
+This interdisciplinary class for science and engineering students provides an
+introduction to the quantitative description of biological systems and
+processes. The focus is on the biological and physical aspects of structure
+and function of cells and their subsystems.  
+
+  * ### CEN 638 - Open Problems in Soft Interfaces
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 638 , BIO 638 , CHE 638 , PHY 638  
+In this seminar course on soft and biological materials and interfaces, teams
+from science and engineering will identify, discuss and assess current
+articles from the literature. Writing skills related to publishing peer-
+reviewed research are introduced.  
+
+  * ### CEN 643 - Fluid Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with MAE 643  
+Review of undergraduate fluids; kinematics, vorticity; dynamics, stresses,
+Euler and Navier-Stokes equations; energy, Bernoulli's equation; potential
+flows; Stokes flows; boundary layers; flow separation; other applications.  
+PREREQ MAE 341 OR CEN 333  
+
+  * ### CEN 650 - Environmental Risk Assessment & Toxicology
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 650, CEE 650  
+Double Numbered with CEN 450  
+Students will analyze the human health impact of exposure to toxic chemicals
+in air, water, and soil according to USEPA  _Risk Assessment Guidance for
+Superfund_. Additional work required of graduate students.  
+
+  * ### CEN 651 - Molecular and Statistical Thermodynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with CEN 451  
+Classical and molecular thermodynamics in chemical equilibrium, with
+applications. Emphasis on concepts of statistical mechanics and correlation
+with properties of gases and condensed matter. Additional work required of
+graduate students.  
+
+  * ### CEN 655 - Materials for Energy Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with CEN 455  
+Materials related to energy technologies and existing energy resources. Topics
+include: geologic fuels; photovoltaics; wind energy; thermoelectrics;
+electrical energy storage; hydrogen production, storage, and use; solid-state
+lighting; nuclear energy. Additional work required of graduate students  
+
+  * ### CEN 661 - Environmental Chemistry and Analysis
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEE 671  
+Double Numbered with CEN 461  
+An introduction to chemical principles in natural and engineered environmental
+systems. Thermodynamics and kinetics of reactions; acid-base chemistry;
+environmental organic chemistry; treatment process design applications.
+Includes selected laboratory exercises. Additional work is required of
+graduate students.  
+
+  * ### CEN 662 - Biofuels, Bioproducts, and Biorefining
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with BEN 662  
+Double Numbered with CEN 462  
+Survey of modern technologies available for the production of transportation
+fuels from abundant natural resources. Additional work required of graduate
+students.  
+
+  * ### CEN 666 - Heterogeneous Catalysis
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Surface chemistry and modern methods in analysis of catalytic systems. Special
+consideration will be given to green chemistry and sustainability.  
+
+  * ### CEN 671 - Chemical Engineering Methods I
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Use of fundamental physical, chemical and mathematical principles involving
+chemical engineering problems. Problems associated with transport theory and
+chemical kinetics requiring the solution of partial differential equations
+using orthogonal function expansions. Duhammel's theorem and other techniques.  
+
+  * ### CEN 672 - Applied Env Microbiology
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEE 672  
+Double Numbered with CEN 472  
+General Principles and application of environmental microbiology and microbial
+processes. Role of microbes in water pollution control, environmental health,
+and element cycling in the environment. Additional work is required of
+graduate students.  
+
+  * ### CEN 673 - Biomanufacturing
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 673  
+Double Numbered with CEN 473  
+Students learn the governing principles of conventional and advanced
+manufacturing techniques, which are adapted/modified to engineer living
+tissues/organs, biomedical products and test-platforms for investigating
+fundamental cell biology. Additional work required for grad students.  
+
+  * ### CEN 687 - Advanced Chemical Engineering Design
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Chemical Engineering Masters Project, to be completed by each student as an
+individual advanced design project, involving a chemical process synthesis.
+Students are expected to apply mathematical and engineering concepts to
+complete the design calculations.  
+
+  * ### CEN 741 - Transport Phenomena I
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Tensor analysis. Reynold's transport theorem. Constitutive equations for
+stress. Momentum transport equations. Creeping flow, nonviscous flow, boundary
+layer flow. Flow through porous media. Turbulence. Energy transport equation.
+Conduction, natural and forced convection solutions. Boundary layer heat
+transfer.  
+PREREQ CEN 542 , CEN 671  
+
+  * ### CEN 761 - Rheology &Polymer; Process
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Introduction to flow phenomena in polymeric fluids; the non-Newtonian
+rheological behavior of polymer solutions and melts; constitutive relations
+for the flow properties; applications in polymer processing; characterization
+of polymer mechanical properties, morphology and structure.  
+PREREQ CEN 741  
+
+  * ### CEN 786 - Kinetics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Homogenous reactions: tubular and stirred reactors, axial and radial
+transport. Residence time distribution. Heterogenous reactions-catalytic:
+rates, pores, transport, in fixed and fluid beds, non-catalytic reaction and
+growth of new phases.  
+PREREQ CEN 587 , CEN 651 , CEN 671  
+
+  * ### CEN 790 - Advanced Topics in Chemical Engineering
+
+_College of Engineering and Computer Science_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Recent advances in chemical engineering science.  
+Repeatable  
+
+  * ### CEN 890 - Advanced Topics In Chemical Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Recent advances in chemical engineering research, including experimental
+techniques.  
+Repeatable  
+
+  * ### CEN 991 - Introduction to MS Research
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Preliminary research and investigation on a topic of interest under
+supervision of a member of the faculty.  
+
+  * ### CEN 996 - Masters Project
+
+_Masters Project_  
+0 credit(s) At least 1x fall or spring
+
+* * *
+
+Investigation of a chemical engineering problem. An oral defense is required
+in accordance with current departmental guidelines. Required of all students
+electing the non-thesis option for a master's degree.  
+
+  * ### CEN 997 - Masters Thesis
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Independent investigation on a topic of interest under supervision of a member
+of the faculty.  
+PREREQ CEN 991  
+
+**Civil and Environmental Engineering**
+
+  * ### CEE 520 - Building Information Modeling
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Generating three-dimensional architectural/structural models. Dimensioning and
+Annotating. Modeling various components of a building, including floors,
+roofs, structure, ceilings, stairs, ramps, railings. Generating schedules,
+views and detailing views.  
+
+  * ### CEE 529 - Risk Anlys in Civ Engin
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Probability, statistics, and decision theory applied to a variety of civil-
+engineering disciplines, such as structural design and analysis, geotechnical,
+water quality, water resources, and transportation.  
+PREREQ MAT 397  
+
+  * ### CEE 535 - Strctrl Steel Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Design of structures using load- and resistance-factor design concept. Limit
+states design of columns, beams, beam-columns, frames, connections, plate
+girders, and composite sections. Computer applications to design.  
+PREREQ CEE 331  
+
+  * ### CEE 536 - Prestrssd Concrete Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Analysis and design of prestressed concrete members for flexure, shear,
+torsion, and compression. Basic concept of prestressing. Stress computation
+and prestress loss estimation. Deflection and crack control.  
+PREREQ CEE 331  
+
+  * ### CEE 538 - Dynamics of Structures
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Response of single and multiple degree of freedom systems to dynamic loadings
+(harmonic, blast, wind, earthquake); design of buildings, bridges, and
+pipelines for dynamic loading (with particular emphasis on earthquakes);
+building and bridge codes.  
+
+  * ### CEE 545 - Pavement Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Pavement types and stress analysis, traffic assessment, subgrade and pavement
+materials evaluation, design of flexible and rigid pavements for highways and
+airports, pavement distress and rehabilitation, introduction to pavement
+management systems and SuperPave mix design.  
+PREREQ CEE 338  
+COREQ CEE 443  
+
+  * ### CEE 548 - Engineering Economics and Technology Valuation
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with MAE 548  
+Value-based assessment and management of engineering/technology projects:
+equivalence; discounted cash flow; taxes/depreciation; financial statements.
+Risk-adjusted valuation: risk/uncertainty in staged projects; Monte Carlo
+simulations; decision trees; real options; project portfolio management.  
+PREREQ MAT 296  
+
+  * ### CEE 549 - Designing with Geofoam
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Introduction to geofoam production, physical properties, evaluation of
+engineering parameters, specification and quality assurance, analyses and
+design of selected applications, comparison with conventional methods, field
+monitoring, and case histories.  
+PREREQ CEE 338  
+
+  * ### CEE 551 - Energy Conversion
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with MAE 551  
+Energy demand and resources. Fundamentals of combustion. Power plants,
+refrigeration systems. Turbines and engines. Advanced systems. Direct energy
+conversion. Alternate energy sources. Energy storage. Costs and environmental
+impact.  
+
+  * ### CEE 552 - Building Environmental Measurements and Controls
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with MAE 552  
+Fundamentals of building ventilating methods for measuring and controlling
+indoor environmental conditioning, thermal comfort, and indoor air quality.  
+PREREQ MAE 341 AND MAE 355  
+
+  * ### CEE 553 - HVAC Systems Analysis and Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with MAE 553  
+Fundamentals of moist air properties, basic air conditioning processes, heat
+transfer in building structures, heating and cooling load calculations, and
+air distribution systems.  
+PREREQ MAE 251  
+
+Page: **1** | 2 | 3 | 4 | 5
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

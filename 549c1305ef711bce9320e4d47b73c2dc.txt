@@ -1,0 +1,222 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  Courses
+
+Expand All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+View Courses by College . Please note, when searching courses by Code or
+Number, an asterisk (*) can be used to return mass results. For instance a
+Code search of _6*_ can be entered, returning all 600-level courses.
+
+  * Guide to Reading Course Descriptions
+
+  
+  
+Course Filter |   
+---|---  
+Filter this list of courses using course prefix, course code, keywords or any
+combination.  
+Prefix: | Code or Number: | Keyword or Phrase: |   
+Choose Course Prefix All prefixes… AAA AAS ACC ADV AED AEE AIC AJC ALP AMC ANT APH ARB ARC ARI ARL ASL ATR BCM BDJ BEN BIO BSN BTB BUA CAR CAS CCR CEE CEN CFE CHE CHI CIN CIS CLR CMD COM COU CPS CRS CSD CSE CTG DBS DES DRS DSP EAR ECE ECN ECS EDA EDU EED EEE EGR ELE ELL ENA ENC ENG ENI ENL ENV EUP EXE FAS FHN FIL FIN FLT FMA FRE FSC FST GEO GER GRA GRE GTR HEB HED HFS HIN HOA HOM HPD HRP HST HUM ICC IDE IDS ILL INB IND ISD ISM IST ITA JNL JPS JSP KOR LAS LAT LAW LIN LIT LLM LPP MAE MAR MAS MAT MBC MEE MES MFE MFT MGT MHL MIS MMI MND MOT MPD MPH MTC MTD MTS MUE MUI MUS NAT NEU NEW NSD NUC OBO ORG PAI PDG PER PHI PHO PHP PHY PNO POL POR PPE PPM PRC PRL PRS PSC PSY QSX RAE RED REL RES RUS SAL SAS SCE SCI SCM SED SMC SOC SOS SPA SPE SPM SST STT SWA SWK SXP TML TRB TRF TRK TRP TXT VCO VID VIS VLA VLN VOC WGS WRT |  Choose Course Number |  Choose Keyword |   
+Find whole word or phrase only.  
+|  
+  
+---  
+  
+**Communication Sciences and Disorders**  
+| • CSD 727 - Neurogenic Communication Disorders II  
+| • CSD 731 - Language Disorders in School-Age Children  
+| • CSD 732 - Clinical Techniques - Language Disabilities of School Age
+Children  
+| • CSD 750 - Seminars in Speech-Language Pathology  
+| • CSD 753 - Readings in Neuroscience  
+| • CSD 754 - Interdisciplinary Methods of Neuroscience  
+| • CSD 760 - Directed Research  
+| • CSD 780 - Seminar in Audiology  
+| • CSD 781 - Hearing Conservation and Environmental Audiology  
+| • CSD 783 - Cochlear Implants  
+| • CSD 785 - Professional Issues in Audiology  
+| • CSD 787 - Vestibular Assessment and Management  
+| • CSD 788 - Pharmacology in Audiology  
+| • CSD 798 - Current Research in Audiology and Speech Pathology  
+| • CSD 799 - Independent Research in Speech Pathology or Audiology  
+| • CSD 996 - Internship in Audiology  
+  
+**Computer Engineering**  
+| • CSE 561 - Digital Machine Design  
+| • CSE 581 - Introduction to Database Management Systems  
+| • CSE 591 - Special Problems in Computer Systems Engineering  
+| • CSE 612 - Cloud Computing  
+| • CSE 618 - Machine Intelligence with Deep Learning  
+| • CSE 640 - Topics in Mobile Programming  
+| • CSE 643 - Computer Security  
+| • CSE 644 - Internet Security  
+| • CSE 651 - Mobile Application Programming  
+| • CSE 661 - Advanced Computer Architecture  
+| • CSE 664 - Introduction to System-on-Chip Design  
+| • CSE 671 - Embedded System Design  
+| • CSE 674 - Advanced Data Structures and Algorithms  
+| • CSE 684 - Introduction to Artificial Intelligence  
+| • CSE 686 - Internet Programming  
+| • CSE 687 - Object Oriented Design  
+| • CSE 690 - Independent Study  
+| • CSE 691 - Special Problems in Computer Systems Engineering  
+| • CSE 731 - VLSI Timing Analysis  
+| • CSE 764 - Advanced Topics in Synthesis of VLSI Systems  
+| • CSE 765 - System Verification and Testing  
+| • CSE 774 - Principles of Distributed Access Control  
+| • CSE 775 - Distributed Objects  
+| • CSE 776 - Design Patterns  
+| • CSE 778 - Advanced Windows Programming  
+| • CSE 787 - Analytical Data Mining  
+| • CSE 788 - Computer-Aided Design for VLSI and Digital Systems  
+| • CSE 791 - Special Problems in Computer Systems Engineering  
+| • CSE 864 - Topics in VLSI Design  
+| • CSE 890 - Independent Study  
+| • CSE 891 - Special Problems in Computer Systems Engineering  
+| • CSE 995 - Engineer Degree Project  
+| • CSE 997 - Masters Thesis  
+  
+**Conducting**  
+| • CTG 545 - Basic Conducting  
+| • CTG 546 - Intermediate Conducting Choral  
+| • CTG 548 - Intermediate Conducting, Instrumental  
+| • CTG 615 - Applied Music, Conducting  
+| • CTG 616 - Applied Music, Conducting  
+| • CTG 640 - Advanced Conducting  
+| • CTG 655 - Advanced Rehearsal Techniques  
+| • CTG 715 - Applied Music, Conducting  
+| • CTG 716 - Applied Music, Conducting  
+  
+**Double Bass**  
+| • DBS 540 - Double Bass/Non Mus Major  
+| • DBS 545 - Double Bass/Music Majors  
+| • DBS 546 - Double Bass/Music Majors  
+| • DBS 645 - Double Bass/Music Majors  
+| • DBS 646 - Double Bass/Music Majors  
+| • DBS 745 - Double Bass/Music Majors  
+| • DBS 746 - Double Bass/Music Majors  
+  
+**Design**  
+| • DES 561 - Furniture and Light Workshop  
+| • DES 562 - Advanced Detailing and Construction  
+| • DES 601 - Design Thinking and Strategies  
+| • DES 602 - Design Thinking & Ideas  
+| • DES 605 - Digital Design Techniques I  
+| • DES 606 - Digital Design Techniques II  
+| • DES 607 - Digital Design Techniques III  
+| • DES 612 - Interior Furnishings  
+| • DES 624 - Creative Problem Solving  
+| • DES 631 - Art Nouveau Design and Architecture: Studies in Material Culture  
+| • DES 635 - App Design and Prototyping  
+| • DES 641 - Fabrication Skills and Methods  
+| • DES 642 - Computer Generated Fabrication  
+| • DES 647 - Design Research  
+| • DES 648 - Introduction to Design Communication  
+| • DES 652 - Branding and Marketing Works  
+| • DES 663 - Design Innovation and Ideation  
+| • DES 670 - Experience Credit  
+| • DES 672 - Introductory Design Studio  
+| • DES 748 - Design Communication  
+| • DES 771 - Analysis and Synthesis  
+| • DES 772 - Design Project  
+| • DES 996 - Final Presentation  
+| • DES 997 - Masters Thesis  
+  
+**Drumset**  
+| • DRS 510 - Drumset Instruction  
+| • DRS 515 - Drumset Instruction  
+| • DRS 516 - Drumset Instruction  
+| • DRS 615 - Drumset Instruction  
+| • DRS 616 - Drumset Instruction  
+| • DRS 715 - Drumset Instruction  
+| • DRS 716 - Drumset Instruction  
+  
+**Disability Studies**  
+| • DSP 600 - Selected Topics: Disability Studies Program  
+| • DSP 614 - Critical Issues in Dis/Ability and Inclusion  
+| • DSP 621 - Sociology of Disability  
+| • DSP 632 - Disability, Technology, and New Media  
+  
+Page: 1 <\- 5 | 6 | 7 | 8 | 9 | **10** | 11 | 12 | 13 | 14 | 15 … Forward 10 -> 38  
+  
+
+* * *
+
+Expand All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

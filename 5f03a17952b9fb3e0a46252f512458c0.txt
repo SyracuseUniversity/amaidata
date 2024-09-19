@@ -1,0 +1,1578 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+View Courses by College . Please note, when searching courses by Code or
+Number, an asterisk (*) can be used to return mass results. For instance a
+Code search of _6*_ can be entered, returning all 600-level courses.
+
+  * Guide to Reading Course Descriptions
+
+  
+  
+Course Filter |   
+---|---  
+Filter this list of courses using course prefix, course code, keywords or any
+combination.  
+Prefix: | Code or Number: | Keyword or Phrase: |   
+Choose Course Prefix All prefixes… AAA AAS ACC ADV AED AEE AIC AJC ALP AMC ANT APH ARB ARC ARI ARL ASL ATR BCM BDJ BEN BIO BSN BTB BUA CAR CAS CCR CEE CEN CFE CHE CHI CIN CIS CLR CMD COM COU CPS CRS CSD CSE CTG DBS DES DRS DSP EAR ECE ECN ECS EDA EDU EED EEE EGR ELE ELL ENA ENC ENG ENI ENL ENV EUP EXE FAS FHN FIL FIN FLT FMA FRE FSC FST GEO GER GRA GRE GTR HEB HED HFS HIN HOA HOM HPD HRP HST HUM ICC IDE IDS ILL INB IND ISD ISM IST ITA JNL JPS JSP KOR LAS LAT LAW LIN LIT LLM LPP MAE MAR MAS MAT MBC MEE MES MFE MFT MGT MHL MIS MMI MND MOT MPD MPH MTC MTD MTS MUE MUI MUS NAT NEU NEW NSD NUC OBO ORG PAI PDG PER PHI PHO PHP PHY PNO POL POR PPE PPM PRC PRL PRS PSC PSY QSX RAE RED REL RES RUS SAL SAS SCE SCI SCM SED SMC SOC SOS SPA SPE SPM SST STT SWA SWK SXP TML TRB TRF TRK TRP TXT VCO VID VIS VLA VLN VOC WGS WRT |  Choose Course Number |  Choose Keyword |   
+Find whole word or phrase only.  
+|  
+  
+---  
+  
+**Computer and Information Science**  
+|
+
+  * ### CIS 563 - Introduction to Data Science
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fundamentals of the knowledge discovery and data mining process. Basics of
+supervised and unsupervised learning. Applications (recommendation and
+collaborative filtering) and computational tools for carrying out
+predictive/descriptive modeling. Additional work required for graduate
+students.  
+PREREQ MAT 503  
+
+  
+|
+
+  * ### CIS 565 - Introduction to Artificial Neural Networks
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Perceptrons and the Perceptron Convergence Theorem; non-linear optimization,
+gradient descent methods; neural net architecture, conjugate-gradient and
+recurrent networks; Hopfield networks, Kohonen's feature maps; non-neural
+clustering algorithms.  
+
+  
+|
+
+  * ### CIS 612 - Cloud Computing
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 612  
+Virtualized data centers, including virtual machine management, power
+management, and networking; cloud computing applications; and mobile cloud
+computing.  
+
+  
+|
+
+  * ### CIS 623 - Assured Programming with Formal Methods
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Reasoning about programs and secure systems. Specification-based, test-driven
+program development and verification. Development of programs using software
+tools for secure software systems.  
+
+  
+|
+
+  * ### CIS 628 - Introduction to Cryptography
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Classical and public-key cryptography. Topics include classical cryptosystems
+and their cryptanalysis, RSA and other public key cryptosystems, pseudo-random
+sequences, zero-knowledge protocols, related ethical and social concerns.  
+PREREQ (CIS 477 OR CIS 675 ) OR (MAT 534 OR MAT 541 )  
+
+  
+|
+
+  * ### CIS 629 - Blockchain: Foundation and Applications
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with FIN 629  
+Bitcoin principles, Blockchain foundation, peer-to-peer networks, distributed
+ledgers and blockchain programming. Programming-oriented topics include
+transactions, smart contracts, token applications, and efficiency. Domain
+applications include financial intermediaries, supply-chains and other
+emerging areas. Basic programming/scripting skills (e.g., python or
+javascript) are required.  
+
+  
+|
+
+  * ### CIS 632 - Modeling Concurrent Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Formal methods for specifying, modeling, and analyzing concurrent systems, and
+mathematical basis for such methods. Automated and semi-automated tools to
+apply these methods to analyze emergent behavior of computing related
+applications.  
+PREREQ CIS 607 /CSE 607  
+
+  
+|
+
+  * ### CIS 640 - Topics in Mobile Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CSE 640  
+Double Numbered with CIS 440  
+A variety of subjects surveyed or a particular subject in depth. Additional
+coursework required of graduate students.  
+Repeatable 2 time(s), 9 credits maximum  
+
+  
+|
+
+  * ### CIS 645 - Graph Theory
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with MAT 645  
+Fundamentals of graph theory and special topics including networks, matching,
+connectivity, planarity, and automorphism groups.  
+PREREQ MAT 531  
+
+  
+|
+
+  * ### CIS 646 - Enumeration, Designs, and Matroids
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with MAT 646  
+Generating functions, Polya enumeration, set systems, design parameters,
+finite projective planes, matroids.  
+PREREQ MAT 531  
+
+  
+|
+
+  * ### CIS 651 - Mobile Application Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CSE 651  
+Double Numbered with CIS 444  
+Development of applications for different mobile devices. Creating effective
+user interfaces, efficient use of persistent storage, network services, GPS,
+maps and sensors. Additional work required of graduate students.  
+
+  
+|
+
+  * ### CIS 655 - Computer Architecture
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Computer-architecture characteristics and their effect on the design and
+performance of programs. Price-performance tradeoffs, instruction set design,
+memory hierarchies, pipelining, storage systems, selected topics in parallel
+architectures. Architecture of specified computers.  
+PREREQ CIS 341  
+
+  
+|
+
+  * ### CIS 656 - Concepts in Concurrent Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Introduction to concurrent programming. Programming-language features for
+expressing concurrent execution (processes), process communication, and
+process synchronization; methods of proving properties of concurrent programs,
+techniques for implementing concurrent systems.  
+PREREQ CIS 623  
+
+  
+|
+
+  * ### CIS 657 - Principles of Operating Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Design and implementation of operating systems. Process and memory management,
+resource scheduling, synchronization, file system management, I/O and kernel
+services and structuring.  
+PREREQ CIS/CSE 486  
+
+  
+|
+
+  * ### CIS 662 - Introduction to Machine Learning & its Algorithms
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Linear regression, logistic regression, classification, clustering, and tree-
+based machine learning; feature extraction and selection; bias-variance trade-
+off; probabilistic and statistical analyses of learning models and algorithms.
+Programming assignments.  
+
+  
+|
+
+  * ### CIS 663 - Biometrics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Foundational principles, concepts, and the formulation of algorithms used in
+biometrics. Analysis of fingerprint, face, gait, keystrokes, etc. Pattern
+recognition approach to design and analysis of biometric systems. Security of
+biometric systems.  
+
+  
+|
+
+  * ### CIS 667 - Introduction to Artificial Intelligence
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CSE 684  
+Double Numbered with CIS 467  
+Knowledge representation, production systems, search algorithms, game playing,
+uncertainty handling, learning, automated reasoning, computer vision, and
+natural language processing. Programming project or term paper required for
+CIS 667, not for CIS 467.  
+
+  
+|
+
+  * ### CIS 668 - Natural Language Processing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with IST 664  
+Double Numbered with CIS 468  
+Linguistic and computational aspect of natural language processing
+technologies. Lectures, readings, and projects in the computational techniques
+required to perform all levels of linguistic processing of text. Additional
+work required of graduate students.  
+
+  
+|
+
+  * ### CIS 675 - Design and Analysis of Algorithms
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Asymptotic analysis and recurrences; classical numeric algorithms; advanced
+data structures; graph algorithms; divide-and-conquer, greedy choice, dynamic
+programming, and other computational strategies; NP-completeness.  
+PREREQ CIS 607 /CSE 607  
+
+  
+|
+
+  * ### CIS 678 - Quantum Computing
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Purpose of QC; quantum registers; quantum state transitions; classical vs
+quantum models of computation; quantum cellular automata and Hilbert Space 12;
+no-cloning theorem; quantum teleportation; quantum logic.  
+PREREQ CIS 607 /CSE 607 , MAT 397 OR MAT 331  
+
+  
+|
+
+  * ### CIS 681 - Software Modeling and Analysis
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 681  
+Project-based course covering software modeling, architecture, design, and
+implementation using diagramming, analysis tools, and common sense engineering
+methods to analyze performance of concurrent, message-driven systems.  
+
+  
+|
+
+  * ### CIS 687 - Object Oriented Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 687  
+Basic methods of object oriented software design and implementation. Object
+oriented software engineering methodologies: specification, hierarchical
+decomposition, reuse and extensibility. Implementation of projects in object
+oriented programming language and analysis of design case studies.  
+
+  
+|
+
+  * ### CIS 688 - Internet Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Crosslisted with CSE 686  
+A laboratory projects course. Programming models on web clients and servers.
+Topics include: browser and server object models, tagged languages,
+emphasizing HTML and XML, ASP programming, and database connectivity.  
+
+  
+|
+
+  * ### CIS 690 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  
+|
+
+  * ### CIS 731 - Artificial Neural Netwks
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Perceptions, capabilities and limitations. Supervised and unsupervised neural
+learning. Error back propagation and related algorithms. Hopfield model,
+feature maps, associative memory, simulated annealing, Boltzmann machines, and
+genetic algorithms. Complexity, capabilities, applications of neural networks.  
+
+  
+|
+
+  * ### CIS 735 - Machine Learning for Security
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Foundational principles of machine learning (ML) algorithms as applied to
+security. Feature extraction and selection; supervised and unsupervised
+learning classifiers; performance evaluation and vulnerability analysis of ML
+algorithms; and case studies of ML application to security.  
+PREREQ CIS 675  
+
+  
+|
+
+  * ### CIS 752 - Wireless Network Security
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Wireless communication technologies, wireless LAN, mobile IP, mobile ad-hoc
+networks, wireless sensor networks, secure routing, secure locationing, key
+management, trust management, group communication, energy efficiency.  
+COREQ CIS/CSE 758 OR CIS/CSE 785  
+
+  
+|
+
+  * ### CIS 774 - Principles of Distributed Access Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 774  
+Specification, verification, and design of secure networks using formal logic.
+Includes historical access control models, role-based access control, and
+logics for reasoning about authentication, authorization, audit, delegation,
+and trust.  
+PREREQ CIS 607 OR CSE 607  
+
+  
+|
+
+  * ### CIS 775 - Distributed Objects
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 775  
+Design and implement software components using the Component Object Model
+(COM). Students will develop programs with COM components, ActiveX controls,
+and distributed applications.  
+
+  
+|
+
+  * ### CIS 776 - Design Patterns
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 776  
+A seminar course based on the book "Design Patterns." Object oriented design
+methods emphasizing conceptual understanding rather than software development
+projects.  
+
+  
+|
+
+  * ### CIS 778 - Advanced Windows Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 778  
+Seminar/projects course including: MFC library; windows architecture Graphics
+Device Interface; common, ActiveX, and Explorer controls; bitmaps; property
+sheets; toolbars; and status bars.  
+
+  
+|
+
+  * ### CIS 787 - Analytical Data Mining
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 787  
+Knowledge discovery process, data warehouses, OLAP, data mining inference
+based on statistics and machine learning, rule generation; emphasis on
+analytical aspects; applications.  
+PREREQ CIS 675 , ELE 606 , CSE 607  
+
+  
+|
+
+  * ### CIS 997 - Masters Thesis
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) At least 1x fall or spring
+
+* * *
+
+Repeatable  
+
+  
+|
+
+  * ### ECS 697 - Capstone Project in Operations Research and System Analytics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Capstone course for MS in Operations Research and System Analytics. Focus on
+solving real-world and industry-inspired problems and generating professional
+outputs.  
+PREREQ ELE 603 and ELE 606 and ECS 629 and MAE 630 and CIS 662  
+
+  
+  
+**Clarinet**  
+|
+
+  * ### CLR 540 - Clarinet/Non Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For non-music students.  
+Repeatable 1 time(s), 4 credits maximum  
+
+  
+|
+
+  * ### CLR 545 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### CLR 546 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### CLR 645 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-6 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+|
+
+  * ### CLR 646 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-6 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+|
+
+  * ### CLR 745 - Clarinet/Music Major
+
+_Setnor School of Music_  
+1-6 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+|
+
+  * ### CLR 746 - Clarinet/Music Major
+
+_Setnor School of Music_  
+1-6 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+  
+**Communication Design**  
+|
+
+  * ### CMD 550 - Communication Design Problems
+
+_School of Design_  
+1-6 credit(s) Every semester
+
+* * *
+
+Individual instruction in various areas of editorial design. In mixed-level
+groups, students develop projects according to individual interests and
+abilities. Strategic planning based on research and marketing principles. CMD
+450 students also develop writing and presentation skills.  
+Repeatable  
+
+  
+|
+
+  * ### CMD 650 - Commun Design Research Problem
+
+_School of Design_  
+1-12 credit(s) Every semester
+
+* * *
+
+Individual projects in selected areas of communications design. Emphasizes
+professional problems.  
+Repeatable  
+
+  
+  
+**Communications**  
+|
+
+  * ### COM 500 - Selected Topics
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### COM 505 - Communications Law for Journalists
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Survey of communications law emphasizing First Amendment issues: libel,
+privacy, confidentiality, access to information, etc. for journalists.
+Students may not receive credit for more than one of the following: COM 505,
+506, 507, 509.  
+
+  
+|
+
+  * ### COM 506 - Communications Law for Television, Radio, Film
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Survey of communications law emphasizing First Amendment and regulatory law as
+they pertain to television, radio, film. Students may not receive credit for
+more than one of the following: COM 505, 506, 507, 509.  
+
+  
+|
+
+  * ### COM 507 - Communications Law for Advertising and Public Relations
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Survey of communications law emphasizing applications to advertising and
+public relations. Students may not receive credit for more than one of the
+following: COM 505, 506, 507, 509.  
+
+  
+|
+
+  * ### COM 509 - Communications Law for Public Communicators
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+The course covers the First Amendment; systems of media regulation; corporate
+speech and election-related speech; commercial speech (advertising
+regulation); defamation; privacy; access to places, documents and meetings;
+reporter/source confidentiality; and intellectual property. Students may not
+receive credit for more than one of the following: COM 505, 506, 507, 509.  
+
+  
+|
+
+  * ### COM 527 - International Communications
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Irregularly
+
+* * *
+
+Communication of news and opinion among nations and under varying types of
+social, political, and economic systems. Roles of mass media, news agencies,
+governments, and communications systems. Offered at SU Abroad Centers in
+London and Strasbourg.  
+
+  
+|
+
+  * ### COM 600 - Selected Topics
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### COM 601 - Research Project Design
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Only during the summer
+
+* * *
+
+All aspects of designing academic or applied research projects. Students write
+proposals that include introductory, literature review, and methodology
+chapters. Practical matters associated with successful completion of a
+significant research project.  
+
+  
+|
+
+  * ### COM 602 - Introduction to Digital Communications
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+This course will examine the evolving nature of digital communications as it
+relates to the media. Students will evaluate the use and impact on the
+creation, dissemination and consumption of news and information.  
+
+  
+|
+
+  * ### COM 605 - Quantitative Methods for Mass Communications Research
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Philosophical and practical implications of quantitative research. Application
+of survey research, experiments and content analysis to mass communications
+research. Statistical analysis and use of statistical software. Students
+conduct primary research.  
+
+  
+|
+
+  * ### COM 606 - Qualitative Methods for Mass Communications Research
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Philosophical and practical implications of qualitative research. Application
+of textual analysis, in-depth interviews, and focus groups to mass
+communications research. Analysis of qualitative data and writing of research
+results. Students conduct primary research.  
+
+  
+|
+
+  * ### COM 617 - Multimedia Storytelling
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Students write and produce short fiction and non-fiction video stories using
+digital media. Emphasis on storytelling and story structures. Projects will be
+incorporated into websites and promoted with social media.  
+
+  
+|
+
+  * ### COM 627 - Social Media for Communicators
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Course examines strategic use of digital and social media platforms and tools
+for professional communication purposes, with emphasis on hands-on experience
+and skill. Students learn to analyze social media for communication
+industries.  
+
+  
+|
+
+  * ### COM 628 - Social Media Strategy and Practice
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+This course will examine communications theories and their professional
+application to social media. Students will gain hands-on experience and learn
+best practices and strategies for how to stay on top of the ever-changing
+digital landscape.  
+
+  
+|
+
+  * ### COM 629 - Advanced Social Media Strategy
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Students will use the latest in social media analytics technologies to analyze
+data to create managerial-level communications strategy while learning best
+practices in digital-team management.  
+
+  
+|
+
+  * ### COM 630 - Topics in Digital Media Content Strategies
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Double Numbered with COM 430  
+Students will develop skills that enhance a digital media property's social
+media and distributed content. Leading media properties such as Buzzfeed will
+rotate by section as industry partner. Additional work is required of graduate
+students.  
+
+  
+|
+
+  * ### COM 634 - Trendspotting in Digital Media
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Double Numbered with COM 434  
+Students analyze current and future technologies, searching for innovative and
+disruptive new media, platforms, and careers. They will learn strategies to
+recognize potential trends. Additional work is required of graduate students.  
+
+  
+|
+
+  * ### COM 637 - Historical Methods in Mass Media
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Irregularly
+
+* * *
+
+Seminar in media problems explored via qualitative-historiographic research
+techniques. For students writing theses, planning for research and teaching,
+or planning specialized careers in investigative reporting.  
+
+  
+|
+
+  * ### COM 643 - Diversity, Inclusion and Leadership in Communications
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Provide students with the tools to analytically and critically examine the
+forces which make the pursuit of diversity and inclusion difficult, and to
+design strategies to be more effective as a leader for inclusion in
+organizations.  
+
+  
+|
+
+  * ### COM 646 - Media and Diversity
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Analysis of contemporary media processes as they relate to race, ethnicity,
+class, gender, and sexual orientation.  
+
+  
+|
+
+  * ### COM 647 - Applied Media Research
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Application of communications research techniques to specific problems of
+broadcasting, advertising, newspapers, magazines, and public relations.
+Individual and group projects.  
+
+  
+|
+
+  * ### COM 670 - Experience Credit
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Every semester
+
+* * *
+
+Participation in a discipline or subject related experience. Student must be
+evaluated by written or oral reports or an examination. Permission in advance
+with the consent of the department chairperson, instructor, and dean. Limited
+to those in good academic standing.  
+Repeatable  
+
+  
+|
+
+  * ### COM 688 - Origins of Contemporary Media Issues
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Irregularly
+
+* * *
+
+Historic origins and development of current issues in mass communications,
+involving the structure and function of the media.  
+
+  
+|
+
+  * ### COM 690 - Independent Study
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a problem, or problems, in depth. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor(s) and the department.  
+Repeatable  
+
+  
+|
+
+  * ### COM 697 - Advertising & Public Relations Law
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Students will learn the fundamental cases and laws that apply to the
+advertising and public relations fields. Topics include First Amendment,
+corporate speech, intellectual property, defamation and advertising
+regulation.  
+
+  
+|
+
+  * ### COM 698 - Media Law
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Problems in media law, including libel, privacy, fair trial/free press,
+obscenity.  
+
+  
+|
+
+  * ### COM 700 - Selected Topics
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### COM 701 - Proseminar for Graduate Study
+
+_S.I. Newhouse School of Public Communications_  
+0 credit(s) At least 1x fall or spring
+
+* * *
+
+Required for all first-year Ph.D. and Media Studies Master's students. Topics
+to include academic integrity, research resources, major communication
+organizations and journals, and faculty research. Specific focus to vary
+annually.  
+
+  
+|
+
+  * ### COM 740 - Topics in Research Communication
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Irregularly
+
+* * *
+
+Problems that grow out of experiences of professional workers in
+communications, or problems that will prepare students for work in highly
+specialized fields. Particularly for students who have had NEW 615.  
+Repeatable 1 time(s), 6 credits maximum  
+
+  
+|
+
+  * ### COM 755 - Communications Theory
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Application of information theory to mass communications problems. Nature of
+the communications process in groups and between mass media and audiences.
+Contribution of theoretical concepts to solving specific problems.  
+
+  
+|
+
+  * ### COM 777 - Seminar in Media Effects
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Irregularly
+
+* * *
+
+Course examines research and theory on media effects as well as problems
+associated with conducting effects research. Focus is primarily on social
+scientific approaches to media effects. Students are expected to conduct
+original research.  
+PREREQ COM 605 , COM 755  
+
+  
+|
+
+  * ### COM 788 - Theories of Media Content
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Irregularly
+
+* * *
+
+Influences on media content over five levels of analysis: individual, media
+routines, organizational, social institutions, and social systems. Seminar
+participants are responsible for leading discussions and writing a theoretical
+paper.  
+
+  
+|
+
+  * ### COM 800 - Selected Topics
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### COM 806 - Survey Research Methods
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Irregularly
+
+* * *
+
+Seminar provides hands-on experience with online surveys and discussion of
+other survey methods. Students design their research studies, using data
+collected from the common survey, and write quantitative research papers.  
+
+  
+|
+
+  * ### COM 807 - Content Analysis Research Methods
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Quantitative content analysis designs and methods. Students are required to
+propose and complete a quantitative research paper. Students are encouraged to
+submit their papers to academic conferences.  
+
+  
+|
+
+  * ### COM 990 - Readings: Doctorate
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Undifferentiated program for individualized study for students working for
+doctorate.  
+Repeatable 1 time(s), 12 credits maximum  
+
+  
+|
+
+  * ### COM 997 - Masters Thesis
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+  
+|
+
+  * ### COM 999 - Dissertation
+
+_S.I. Newhouse School of Public Communications_  
+1-18 credit(s) Every semester
+
+* * *
+
+Repeatable 17 time(s), 18 credits maximum  
+
+  
+  
+**Counseling**  
+|
+
+  * ### COU 585 - General Counseling Methods
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+For non-majors, introduces students to fundamental components of the practice
+of counseling for application in a variety of professional settings. This
+course cannot be used to waive a required course for a master's program in
+Counseling and Human Services.  
+
+  
+|
+
+  * ### COU 600 - Selected Topics in Counseling
+
+_School of Education_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### COU 612 - Professional Orientation & Ethical Practice
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The historical development of counseling, legal and ethical issues,
+professional identity, and professional counseling roles and practices in
+various settings.  
+
+  
+|
+
+  * ### COU 614 - Group Work in Counseling
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Principles of group dynamics, group developmental stage theory, leadership
+styles, and group leadership methods, with a focus on the integration of
+practice and theory in multiple group contexts. Course includes student
+participation in a within-class group experience. Permission of instructor.  
+
+  
+|
+
+  * ### COU 624 - Theories of Counseling
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Counseling theories: their psychological assumptions, the therapeutic process
+inherent in each, and the expected outcomes of successful counseling.  
+
+  
+|
+
+  * ### COU 626 - Social and Cultural Dimensions of Counseling
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Theory and research related to counseling persons of different cultural
+identities. A broad definition of cultural as premise for increasing student
+awareness and knowledge of how culture affects the counseling process.  
+
+  
+|
+
+  * ### COU 628 - Life-Span Human Development
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Developmental theory and research pertaining to change and consistency across
+the lifespan. Focus on the facilitation of human development for persons of
+varying background and experience. Application of developmental principles to
+counseling practice.  
+
+  
+|
+
+  * ### COU 642 - Career Development
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The meaning of work for individuals and within cultural contexts; theories of
+career development; using computers in career counseling; vocational decision
+making; and career counseling strategies for working with diverse populations
+including persons with disabilities.  
+
+  
+|
+
+  * ### COU 644 - Counseling Prepracticum
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to counseling skills and techniques, including assessment,
+relationship building, goal setting, and therapeutic intervention. Extensive
+use of video and audio taping of role-played counseling interactions.
+Permission of instructor.  
+
+  
+|
+
+  * ### COU 645 - Counseling Prepracticum II: Advanced Multicultural Counseling Skills
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Clinical and case conceptualization skills for working with diverse
+populations. Race, ethnicity, culture, gender, sexual orientation, ability,
+and religion, with focus on applicability for counseling practice.  
+PREREQ COU 644  
+COREQ COU 626  
+
+  
+|
+
+  * ### COU 646 - Assessment in Counseling
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Analysis and interpretation of selected interest and personality tests, as
+well as assessment environments. Synthesis of comprehensive case data and
+report writing in educational, vocational, and general counseling. Assessment
+of individuals and families.  
+
+  
+|
+
+  * ### COU 651 - Crisis Counseling
+
+_School of Education_  
+3 credit(s) Only during the summer
+
+* * *
+
+Review of the theory, history and practice of crisis counseling. Emphasis is
+placed on the study of techniques and interventions appropriate for use in a
+variety of crisis situations.  
+
+  
+|
+
+  * ### COU 672 - Counseling Children and Adolescents
+
+_School of Education_  
+3 credit(s) Only during the summer
+
+* * *
+
+Specialized knowledge, skills, and awareness necessary for counseling children
+and adolescents within individual, group, and family counseling modalities.
+Developing a therapeutic relationship and implementing effective
+interventions.  
+
+  
+|
+
+  * ### COU 675 - Substance Abuse Counseling
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Biological, psychological, and social factors contributing to chemical
+dependency. Overview of different theoretical approaches to substance abuse
+counseling. Discussion, demonstration, and practice of counseling strategies
+for prevention and intervention.  
+
+  
+|
+
+  * ### COU 678 - Child Centered Play Therapy
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Theoretical and applied philosophical understanding of child-centered play
+therapy. Reflective listening, tracking, limit setting, selecting props,
+structuring sessions, identifying themes, using consultation, etc., to conduct
+individual, dyadic, group and filial therapy. Cross-cultural relationships.  
+
+  
+|
+
+  * ### COU 700 - Selected Topics in Counseling
+
+_School of Education_  
+1-6 credit(s)
+
+* * *
+
+  
+|
+
+  * ### COU 723 - Psychological, Social, and Cultural Aspects of Disability
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Survey of the psychological, social, and cultural dimensions of disability
+with a focus on implications of social construction of disability for the
+adjustment of persons with disabilities in educational, rehabilitation, and
+community settings.  
+
+  
+|
+
+  * ### COU 727 - Foundations of Mental Health Counseling
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Roles, functions, and contexts for mental health counselors working in
+community agencies. A review of dimensions, interventions, and characteristics
+of agencies serving diverse populations. Foundations of mental health
+consultation, prevention, and program evaluation.  
+
+  
+|
+
+  * ### COU 729 - The Counselor in the Schools
+
+_School of Education_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Roles and functions of school counselors. Analysis of the history,
+development, implementation and evaluation of school counseling programs,
+K-12.  
+
+  
+  
+Page: 1 <\- 3 | 4 | 5 | 6 | 7 | **8** | 9 | 10 | 11 | 12 | 13 … Forward 10 -> 38  
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

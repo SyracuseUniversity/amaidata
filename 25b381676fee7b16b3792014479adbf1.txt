@@ -1,0 +1,207 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science Courses
+
+Expand All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Engineering and Computer Science  
+  
+## College of Engineering and Computer Science
+
+#### Courses
+
+**Electrical Engineering**
+
+  * • ELE 758 - Selected Topics in Data Networks
+  * • ELE 759 - Digital Signal Process II
+  * • ELE 761 - VLSI Timing Analysis
+  * • ELE 762 - Computer-Aided Design for VLSI and Digital Systems
+  * • ELE 765 - System Verification and Testing
+  * • ELE 784 - Optical Information Processng
+  * • ELE 786 - Laser Propagation and Modulation
+  * • ELE 787 - Lasers
+  * • ELE 791 - Advanced Topics in Electrical Engineering
+  * • ELE 851 - Detection and Estimation Theory
+  * • ELE 890 - Independent Study
+  * • ELE 995 - Engineer Degree Project
+  * • ELE 997 - Masters Thesis
+
+**Mechanical and Aerospace Engineering**
+
+  * • MAE 510 - Nuclear Reactor Design, Operation and Safety
+  * • MAE 512 - Technology Management
+  * • MAE 525 - Soft Robotics: Materials, Mechanics, and Machines
+  * • MAE 530 - Introduction to Design Optimization
+  * • MAE 536 - Composite Materials
+  * • MAE 545 - Applications of Fluid Mechanics
+  * • MAE 548 - Engineering Economics and Technology Valuation
+  * • MAE 551 - Energy Conversion
+  * • MAE 552 - Building Environmental Measurements and Controls
+  * • MAE 553 - HVAC Systems Analysis and Design
+  * • MAE 554 - Principles of Refrigeration
+  * • MAE 555 - Fundamentals of Nano-Science & Nano-Engineering
+  * • MAE 571 - Applications of Computational Fluid Dynamics
+  * • MAE 573 - Application of Finite Element Analysis
+  * • MAE 580 - International Course
+  * • MAE 585 - Principles of Turbomachines
+  * • MAE 587 - Design of Solar Energy System
+  * • MAE 588 - Principles of Wind Turbines
+  * • MAE 611 - Analytical and Computational Dynamics
+  * • MAE 613 - New Product Development
+  * • MAE 615 - Instrumentation
+  * • MAE 621 - Failure Analysis of Composite Materials
+  * • MAE 625 - Fracture Mechanics
+  * • MAE 626 - Vibration of Mechanical Systems
+  * • MAE 627 - Advanced Helicopter Dynamics
+  * • MAE 628 - Linear Systems
+  * • MAE 630 - Advanced Practical Optimization
+  * • MAE 635 - Advanced Mechanics of Materials
+  * • MAE 643 - Fluid Dynamics
+  * • MAE 644 - Applied Fluid Dynamics
+  * • MAE 645 - Fluid Dynamics Measurements
+  * • MAE 647 - Gas Dynamics
+  * • MAE 648 - Biofluid Dynamics
+  * • MAE 651 - Advanced Thermodynamics
+  * • MAE 655 - Advanced Heat Transfer
+  * • MAE 657 - Convective Heat and Mass Transfer
+  * • MAE 658 - Building Environmental Modeling and Simulations
+  * • MAE 659 - Building Materials and Envelope
+  * • MAE 671 - Numerical Methods in Mechanical Engineering
+  * • MAE 675 - Methods of Analysis in Mechanical Engineering
+  * • MAE 682 - Computational Solid Mechanics
+  * • MAE 683 - Applied Environmental Acoustics and Noise Control
+  * • MAE 686 - Advanced Fuel Cell Science and Technology
+  * • MAE 688 - Machine Learning for Mechanical Engineers
+  * • MAE 721 - Theory of Elasticity
+  * • MAE 723 - Asymptotic Methods for Engineering Applications
+  * • MAE 728 - Geometric and Optimal Control
+  * • MAE 731 - Bending of Plates and Shells I
+  * • MAE 735 - Buckling Problems
+  * • MAE 741 - Fundamentals of Turbulence
+  * • MAE 746 - Viscous Fluids
+  * • MAE 765 - Combustion Phenomena in Engineering
+  * • MAE 771 - Computational Fluid Mechanics
+  * • MAE 785 - Continuum Mechanics
+  * • MAE 849 - Advanced Topics in Fluid Mechanics
+  * • MAE 879 - Advanced Topics in Mechanical Design
+  * • MAE 889 - Selected Topics
+  * • MAE 990 - Independent Study
+  * • MAE 994 - Capstone Project
+  * • MAE 995 - Graduate Seminar
+  * • MAE 997 - Master's Thesis
+  * • MAE 999 - Dissertation
+
+**Mechanical Engineering**
+
+  * • MEE 524 - Microprocessors in Mechanical and Manufacturing Engineering
+  * • MEE 571 - Computer Aided Design
+  * • MEE 584 - Noise from Industrial Flow Systems
+  * • MEE 585 - Fuel & Energy Utilization
+  * • MEE 637 - Mechanics of Heterogeneous Solids
+  * • MEE 715 - Robot Manipulators I
+  * • MEE 725 - Advanced Engineering Dynamics
+  * • MEE 775 - Dynamics of Controls
+  * • MEE 825 - Theory of Plasticity
+  * • MEE 829 - Advanced Topics in Dynamics
+  * • MEE 856 - Advanced Topics in Heat Transfer
+  * • MEE 859 - Advanced Topics in Thermodynamics
+  * • MEE 885 - Advanced Topics in Thermal Engineering
+  * • MEE 895 - Advanced Topics in Mechanics of Deformable Bodies
+  * • MEE 990 - Independent Study
+  * • MEE 996 - Special Projects
+
+**Manufacturing Engineering**
+
+  * • MFE 534 - Statistical Quality Control
+  * • MFE 595 - Multidisciplinary Analysis and Design
+  * • MFE 633 - Enterprise Systems
+  * • MFE 634 - Productivity and Quality Engineering
+  * • MFE 635 - Manufacturing Systems
+  * • MFE 636 - Materials and Processing in Manufacturing
+  * • MFE 639 - CAD/CAM Systems
+  * • MFE 654 - Production System Design and Control
+  * • MFE 676 - Computer Control of Machines and Processes
+
+Page: 1 | 2 | 3 | **4** | 5
+
+  
+
+* * *
+
+Expand All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

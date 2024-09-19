@@ -1,0 +1,1615 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+View Courses by College . Please note, when searching courses by Code or
+Number, an asterisk (*) can be used to return mass results. For instance a
+Code search of _6*_ can be entered, returning all 600-level courses.
+
+  * Guide to Reading Course Descriptions
+
+  
+  
+Course Filter |   
+---|---  
+Filter this list of courses using course prefix, course code, keywords or any
+combination.  
+Prefix: | Code or Number: | Keyword or Phrase: |   
+Choose Course Prefix All prefixes… AAA AAS ACC ADV AED AEE AIC AJC ALP AMC ANT APH ARB ARC ARI ARL ASL ATR BCM BDJ BEN BIO BSN BTB BUA CAR CAS CCR CEE CEN CFE CHE CHI CIN CIS CLR CMD COM COU CPS CRS CSD CSE CTG DBS DES DRS DSP EAR ECE ECN ECS EDA EDU EED EEE EGR ELE ELL ENA ENC ENG ENI ENL ENV EUP EXE FAS FHN FIL FIN FLT FMA FRE FSC FST GEO GER GRA GRE GTR HEB HED HFS HIN HOA HOM HPD HRP HST HUM ICC IDE IDS ILL INB IND ISD ISM IST ITA JNL JPS JSP KOR LAS LAT LAW LIN LIT LLM LPP MAE MAR MAS MAT MBC MEE MES MFE MFT MGT MHL MIS MMI MND MOT MPD MPH MTC MTD MTS MUE MUI MUS NAT NEU NEW NSD NUC OBO ORG PAI PDG PER PHI PHO PHP PHY PNO POL POR PPE PPM PRC PRL PRS PSC PSY QSX RAE RED REL RES RUS SAL SAS SCE SCI SCM SED SMC SOC SOS SPA SPE SPM SST STT SWA SWK SXP TML TRB TRF TRK TRP TXT VCO VID VIS VLA VLN VOC WGS WRT |  Choose Course Number |  Choose Keyword |   
+Find whole word or phrase only.  
+|  
+  
+---  
+  
+**Economics**  
+|
+
+  * ### ECN 778 - Development Finance: Building Inclusive Financial Systems
+
+_Maxwell School of Citizenship and Public Affairs_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with PAI 778  
+Focus on how to build the policy and institutional infrastructure for
+delivering financial services that serve the poor.  
+
+  
+|
+
+  * ### ECN 820 - Dissertation Workshop I
+
+_Maxwell School of Citizenship and Public Affairs_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+For dissertators at all stages, providing critical feedback for those who are
+advanced and guidance for those who are beginning. Coverage includes:
+establishing a topic (originality, importance, search); trade off and balance
+between theory and empirical research; oral and written presentation,
+packaging, persuasion.  
+Repeatable  
+
+  
+|
+
+  * ### ECN 821 - Dissertation Workshop II
+
+_Maxwell School of Citizenship and Public Affairs_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course is intended to give experience in writing and presenting papers as
+well as evaluation of classmates' papers. Third- and fourth-year graduate
+economics students.  
+Repeatable  
+
+  
+|
+
+  * ### ECN 865 - Topics International Economics
+
+_Maxwell School of Citizenship and Public Affairs_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Understanding of the intuition, theory, and methods underlying current
+research on trade and trade policy. Overall picture of research on
+international trade policy.  
+PREREQ ECN 765 OR ECN 665  
+
+  
+|
+
+  * ### ECN 997 - Masters Thesis
+
+_Maxwell School of Citizenship and Public Affairs_  
+1-6 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+  
+|
+
+  * ### ECN 999 - Dissertation
+
+_Maxwell School of Citizenship and Public Affairs_  
+1-15 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+  
+  
+**Engineering and Computer Science**  
+|
+
+  * ### ECS 511 - Sustainable Manufacturing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Visions of sustainable manufacturing, systems approach to sustainable product
+development and design, manufacturing processes and systems, alternative
+energy systems for manufacturing, innovation and entrepreneurship
+opportunities. Senior standing.  
+PREREQ MFE 331  
+
+  
+|
+
+  * ### ECS 525 - Probability for Engineers
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Sample spaces, events, and probabilities. Conditional probability and
+independence. Random variables, random vectors. Probability distributions and
+densities. Expectations. Moment-generating functions. Introduction to data
+analysis. Engineering applications.  
+
+  
+|
+
+  * ### ECS 526 - Statistics for Engineers
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Point estimation, confidence intervals, simple hypothesis testing,
+nonparametric tests, curve fitting and regression, analysis of variance,
+factorial experiments, and engineering applications.  
+PREREQ ECS 525 OR MAT 521  
+
+  
+|
+
+  * ### ECS 555 - Virtual Design Studio for Green Building Systems (VDS-GBS)
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Integrative design methodology; Interactions between form, structure, and
+flows of energy & mass, and their impacts on building performance; Computer
+simulation tools for performance-based design. Exploration of green building
+design and technology through case studies  
+
+  
+|
+
+  * ### ECS 561 - Data Centers: Infrastructure Design and Energy Efficiency
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to data centers and the infrastructure supporting the IT
+equipment. Focus on the energy efficiency aspects of various designs.
+Introduction of servers, storage and networking equipment that are housed in
+data centers. Power and cooling infrastructure that supports the IT equipment.  
+Repeatable 1 time(s)  
+
+  
+|
+
+  * ### ECS 570 - Professional Practice
+
+_College of Engineering and Computer Science_  
+0 credit(s) Every semester
+
+* * *
+
+Full-time practical engineering or computer work experience, with a
+participating employer, that is related to the student's field of study, and
+is of a semester's duration. May not be repeated.  
+PREREQ ECS GRADUATE PROGRAM  
+
+  
+|
+
+  * ### ECS 588 - Principles of Wind Turbines
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CEE 588, MAE 588  
+Aerodynamics, performance, control, and electrical aspects wind turbines.  
+PREREQ MAE 341  
+
+  
+|
+
+  * ### ECS 629 - Modeling and Optimization Techniques
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Introduction to major deterministic and stochastic modeling techniques,
+including linear programming and its extensions, integer programming, dynamic
+programming, Markov chains, queuing theory, simulation, and other modeling
+techniques.  
+
+  
+|
+
+  * ### ECS 630 - Simulation and Data Analytics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Introduction to discrete-event simulation, system dynamics, and agent-based
+simulation; hybrid simulation modeling, input and output data analysis, tools
+and techniques needed for practice, uses of simulation for predictive and
+prescriptive analytics.  
+PREREQ ECS 526  
+
+  
+|
+
+  * ### ECS 636 - Sustainable Development and Infrastructure Management
+
+_College of Engineering and Computer Science_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Crosslisted with CEE 639  
+Introduction to public infrastructure systems. Management of infrastructure
+systems. Monitoring, planning, design, construction,
+maintenance/rehabilitation and operation. Emphasis on water, storm water,
+waste water, transportation, electrical power distribution and
+telecommunications systems.  
+
+  
+|
+
+  * ### ECS 650 - Managing Sustainability: Purpose, Principles, and Practice
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BUA 650  
+Dynamics and interdependence of economic, social, and environmental systems.
+Sustainable management frameworks, tools, and metrics. Local, national, and
+international implications. Relevance of technology, ethics, law, and policy.
+Interdisciplinary emphasis.  
+
+  
+|
+
+  * ### ECS 651 - Strategic Management and the Natural Environment
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BUA 651  
+Sustainability from firm perspective. Regulatory, international, resource,
+market, and social drivers of environmental strategy. Impact of
+sustainability-related strategies on competitive advantage and potential
+liability.  
+PREREQ ECS 650 /BUA 650  
+
+  
+|
+
+  * ### ECS 666 - Advanced Course in Engineering I
+
+_College of Engineering and Computer Science_  
+6 credit(s)
+
+* * *
+
+Multidisciplinary course of study to develop engineering leadership skills.
+Weekly problems on engineering law, engineering mathematics, modeling, control
+theory, system and signals, thermodynamics, structural analysis, materials.  
+
+  
+|
+
+  * ### ECS 667 - Advanced Course in Engineering II
+
+_College of Engineering and Computer Science_  
+6 credit(s)
+
+* * *
+
+Continuation of ECS 666. Covers fluid mechanics, environmental engineering,
+computer hardware and software theories, modeling and simulation, network
+theory and implementation.  
+PREREQ ECS 666  
+
+  
+|
+
+  * ### ECS 691 - Fundamentals of Research
+
+_College of Engineering and Computer Science_  
+1 credit(s)
+
+* * *
+
+Subjects such as selection of a dissertation topic, state-of-the-art search,
+research proposal, intellectual property, and academic integrity will be
+examined within the context of a mini-research project.  
+
+  
+|
+
+  * ### ECS 759 - Sustainability-Driven Enterprise
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BUA 759  
+CAS in Sustainable Enterprise capstone. Sustainable approaches to complex
+organizational challenges, opportunities: organizational, industry,
+stakeholder analysis, sustainability objectives, strategies, and metrics.
+Multidisciplinary team consulting project.  
+PREREQ (ECS 650 OR BUA 650 ) AND (ECS 651 OR BUA 651 )  
+
+  
+|
+
+  * ### MAE 672 - Engineering Data Analytics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course introduces students the fundamental concepts of engineering data
+techniques including data collection, cleaning, transformation, management and
+analysis. It also provides students with hands-on experiences exploring key
+concepts related to data science and engineering field.  
+
+  
+|
+
+  * ### MAE 673 - Fundamentals of Photovoltaics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fundamental topics on photovoltaic materials and devices. Analysis of
+different photovoltaic materials and performance evaluation of photovoltaic
+devices. Solar cell structures and fabrication technologies.  
+
+  
+  
+**Education Leadership**  
+|
+
+  * ### EDA 600 - Selected Topics
+
+_School of Education_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### EDA 634 - Collaboration/Cooperation in Schools
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with SPE 634  
+Formal specialized services and informal support networks that promote
+collaboration between teachers, administrators, therapists, paraprofessionals,
+students, families, and community members.  
+
+  
+|
+
+  * ### EDA 670 - Experience Credit
+
+_School of Education_  
+1-6 credit(s)
+
+* * *
+
+Repeatable  
+
+  
+|
+
+  * ### EDA 700 - Selected Topics
+
+_School of Education_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### EDA 712 - Leadership for Diverse Learners and Communities
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Conceptual overview of leadership in education and other contexts. Tacit
+conceptions and current approaches in light of theoretical and research bases
+for practice. Educational Leadership core.Introduction to the roles and
+challenges of leaders in public education. Themes include integration of
+theory and practice, serving diverse student populations, and developing
+school visions, collaborative cultures, and ethical platforms. Permission of
+instructor.  
+
+  
+|
+
+  * ### EDA 722 - Curriculum and instructional leadership for Equity and Excellence
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Addresses issues and trends affecting curriculum and instructional leadership
+in American schools, and how leaders promote culturally responsive pedagogy,
+integration of literacy development across the curriculum, equity, and high
+levels of achievement for all learners.  
+PREREQ EDA 712  
+
+  
+|
+
+  * ### EDA 725 - Current Research on Teaching
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with EDU 725  
+Political, historical, and methodological aspects of elementary and secondary
+schools. Skills in analysis, synthesis, and criticism developed.  
+
+  
+|
+
+  * ### EDA 727 - Curriculum Studies
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with EDU 727  
+Curriculum decision making as a function of the school's role in society.
+Theory and research in human growth and learning. Models of organization and
+instruction.  
+
+  
+|
+
+  * ### EDA 732 - Ldrshp for Adult Develop
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Roles of educational leaders in the professional development and supervision
+of adults in school systems, pre-kindergarten through 12th grade. Educational
+Leadership core.  
+PREREQ EDA 712  
+
+  
+|
+
+  * ### EDA 735 - Human Resource Management in Public Education
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Strategic implications, technical functions, and emerging issues in human
+resources management, including collective bargaining, in public education.
+Impact of human resource management policies and practices on educational
+quality.  
+
+  
+|
+
+  * ### EDA 748 - Theory and Practice in Mentoring Teachers
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with EDU 748  
+Concepts and practices in mentoring among teachers. Induction programs at the
+state and local levels. Programs as part of professional development.
+Qualities and skills of mentors.  
+
+  
+|
+
+  * ### EDA 752 - Leadership for Organizational and Institutional Development
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Roles of educational leaders in developing structures and processes promoting
+learning. Theoretical and research bases of educational organization
+practices. Educational Leadership core.Addresses the roles of school leaders
+in developing, maintaining, and improving school structures and processes that
+support the continuous learning of all children and adults, including
+relationships with families and schools' various external constituencies.  
+PREREQ EDA 712  
+
+  
+|
+
+  * ### EDA 762 - Leadership for Inclusive Schooling
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Addresses the roles of school leaders in developing and managing systems that
+provide effective and inclusive education to students with diverse needs,
+including students with disabilities, English language learners, and students
+facing other learning challenges  
+PREREQ EDA 712  
+
+  
+|
+
+  * ### EDA 772 - Issues and Practices in Building Leadership
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Exploration of the functions of school principals, focusing on how they can
+balance different roles and promote high expectations and respect for all
+students, collaboration among staff and families, and effective management of
+resources.  
+PREREQ EDA 712  
+
+  
+|
+
+  * ### EDA 780 - Workshop in Educational Administration
+
+_School of Education_  
+1-3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  
+|
+
+  * ### EDA 782 - Issues and Practices in District Leadership
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Exploration of the roles of school superintendents and other district leaders,
+focusing on how they oversee various technical functions, mediate
+relationships with external authorities and constituencies, and provide needed
+support for teaching and learning.  
+PREREQ EDA 712  
+
+  
+|
+
+  * ### EDA 792 - Legal Basis of Education
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+School law as set forth in the common law, state and federal constitutions,
+statutes, judicial decisions, and the rules and regulations of state
+departments and local units of administration.  
+
+  
+|
+
+  * ### EDA 800 - Selected Topics
+
+_School of Education_  
+1-3 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### EDA 822 - Assessment of Teaching
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with EDU 822  
+Issues and concepts in assessment of teaching and teachers. Skill and
+experience developed from political, psychological, and sociological
+perspectives.  
+
+  
+|
+
+  * ### EDA 888 - School District Leader Internship
+
+_School of Education_  
+4 credit(s) Only during the summer
+
+* * *
+
+This internship experience will provide candidates with practical
+administrative and supervision experience at the district level under
+direction of a district administrator and an educational leadership faculty
+member. Related seminars are also required. Prerequisite- _Completion of the
+Principal Preparation Pilot Program_  
+
+  
+|
+
+  * ### EDA 890 - Seminar in Educational Leadership
+
+_School of Education_  
+1-3 credit(s) Every semester
+
+* * *
+
+Seminar for doctoral students in educational leadership. Includes theory to
+practice in educational leadership as well as scaffolding requirements of the
+doctoral degree.  
+Repeatable 11 time(s), 12 credits maximum  
+
+  
+|
+
+  * ### EDA 898 - Internship in School District Business Leadership
+
+_School of Education_  
+1-4 credit(s) At least 1x fall or spring
+
+* * *
+
+Provides candidates for School Business Leader certification with practical
+experience working in the business office of a school district under the
+supervision of a school business official. Student must have completed nine
+School District Business Leadership courses.  
+Repeatable 1 time(s), 4 credits maximum  
+
+  
+|
+
+  * ### EDA 899 - Internship in School District and Building Leadership
+
+_School of Education_  
+1-4 credit(s) Every semester
+
+* * *
+
+Practical administrative experience at school building and district levels
+under direction of administrators at each level and an educational leadership
+faculty member. Related seminars also required. Minimum 15 credits in program
+courses must be completed before internship.  
+Repeatable 3 time(s), 6 credit maximum  
+
+  
+|
+
+  * ### EDA 970 - Experience Credit
+
+_School of Education_  
+1-6 credit(s)
+
+* * *
+
+Repeatable  
+
+  
+  
+**Education (General)**  
+|
+
+  * ### EDU 508 - Student Teaching
+
+_School of Education_  
+2-15 credit(s) Every semester
+
+* * *
+
+Supervised teaching experience in pre-kindergarten through twelfth grade
+settings, with required seminars and conferences. Matriculated teacher
+preparation students only. Repeated as program requires. Variable length
+experiences earn V-grade until complete, leading to P or F grade.
+Prerequisites and credits vary by program. Offerings may vary each semester.  
+Repeatable  
+
+  
+|
+
+  * ### EDU 522 - Social Studies and Democracy: The Reconstruction of Education
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Relationship of social studies education to US democracy. Forces shaping our
+thinking about and understanding of history, politics, social issues, etc.
+Civic education's role in creating an active citizenry. Critical social theory
+around social studies related issues; current issues in the field of social
+studies.  
+
+  
+|
+
+  * ### EDU 535 - Quality Infant Care Giving
+
+_School of Education_  
+2-3 credit(s) Only during the summer
+
+* * *
+
+Crosslisted with HFS 535  
+Workshop. Research theories and demonstrations of infant/toddler care,
+development, and assessment; group care, legal and budgeting issues, and work
+with parents.  
+
+  
+|
+
+  * ### EDU 600 - Selected Topics
+
+_School of Education_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### EDU 601 - Methods and Practice in Teaching Art
+
+_School of Education_  
+4 credit(s) Every semester
+
+* * *
+
+Double Numbered with EDU 301  
+Immersion in arts instructional responsibilities. Focus on developing emergent
+approaches to K-12 arts pedagogy. Initiates development of meaningful
+instructional repertoires and practices; teacher-learner dialogue techniques;
+classroom management strategies. Includes teaching Saturday art workshops.
+Additional worked required of graduate students.  
+
+  
+|
+
+  * ### EDU 602 - Methods and Curriculum in Teaching Art
+
+_School of Education_  
+4 credit(s) Every semester
+
+* * *
+
+Double Numbered with EDU 302  
+Focuses on creating visual culture and culturally responsive curriculum and
+assessment units for first-year professional practice; interdisciplinary
+perspectives; values, ethics, and policy approaches for de-emphasizing
+prevailing "school art" paradigms. Includes teaching Saturday art workshops.  
+
+  
+|
+
+  * ### EDU 603 - Introduction to Qualitative Research
+
+_School of Education_  
+3 credit(s) Every semester
+
+* * *
+
+Crosslisted with WGS 614  
+Developing and using qualitative methods used by sociologists to conduct
+research. Underlying assumptions and limitations.  
+
+  
+|
+
+  * ### EDU 604 - World Music and the Interdisciplinary Curriculum
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with MUE 604  
+Examination of historical and social perspectives of world music in diverse
+cultural contexts. Strategies for teachers to develop and facilitate
+interdisciplinary curricula through examination of materials and resources
+featuring music from around the world.  
+
+  
+|
+
+  * ### EDU 606 - Understanding Learning and Teaching
+
+_School of Education_  
+4 credit(s) Only during the summer
+
+* * *
+
+Explore personal and professional constructs related to learning and teaching
+diverse students; understand theory construction; develop an emerging
+practical theory. Consider the contexts of schools and communities. Includes
+field placement. May not also receive credit for EDU 605, 607; EED 604 or 606.  
+
+  
+|
+
+  * ### EDU 610 - The American School
+
+_School of Education_  
+3 credit(s) Every semester
+
+* * *
+
+Double Numbered with EDU 310  
+Issues that impinge on teachers, teaching, and schools in today's society. May
+not be repeated for credit.  
+
+  
+|
+
+  * ### EDU 611 - Assessment in Music Education
+
+_School of Education_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with MUE 611  
+Examines a diverse selection of assessment methods for student learning within
+music education settings. Strategies for future instruction planning;
+instructional adaptations based on data gathered through teacher-created
+assessment tools.  
+
+  
+|
+
+  * ### EDU 616 - Understanding Educational Research
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with HED 616  
+For master's degree and beginning doctoral students who have had little, if
+any, exposure to research methods. Quantitative and qualitative methods are
+studied in the context of education.  
+
+  
+|
+
+  * ### EDU 621 - Behavior Techniques in Music Education
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with EDU 421  
+Behavior techniques in classroom and rehearsal situations. Development of
+music task-analysis skills and reinforcement techniques. Learning goals in
+music for children of different ages and abilities.  
+
+  
+|
+
+  * ### EDU 622 - International Education for Transformation
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with EDU 321  
+Theories of international development applied to international education. How
+nationalism, race, gender, culture, and class shape educational opportunity.
+Cultural and social transformation strategies. Additional work for graduate
+students.  
+
+  
+|
+
+  * ### EDU 647 - Statistical Thinking and Applications
+
+_School of Education_  
+3 credit(s) Every semester
+
+* * *
+
+The fundamental concepts, basic techniques, and logic of quantitative analysis
+in education and social science. Introductory inferential statistical methods
+covered include chi-square, t-test; basic ANOVA, correlation and multiple
+correlation.  
+
+  
+|
+
+  * ### EDU 655 - Education Tests and Measurements
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Basic theory under-lying construction, evaluation, and use of educational
+tests. Construction and evaluation of achievement tests. Guided practice in
+test construction and test score analysis.  
+
+  
+|
+
+  * ### EDU 660 - Field Workshop
+
+_School of Education_  
+3-6 credit(s) Upon sufficient interest
+
+* * *
+
+For elementary- and secondary-school administrators and teachers to work in
+their own schools toward improvement of their programs. Staff members
+available to give continual or periodic direction and consultation. Further
+information may be obtained from the Extended Campus Office, Syracuse
+University, Huntington Hall, Syracuse NY 13244.  
+Repeatable  
+
+  
+|
+
+  * ### EDU 664 - Creating Safe and Peaceful Schools
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Focus on building caring, secure, and nurturing learning communities and
+creating classroom and school climates that encourage student focus,
+productivity, and cooperation. Positive approaches for supporting individual
+students and helping them to manage conflict (e.g., self-determination, peer
+mediation).  
+
+  
+|
+
+  * ### EDU 665 - Literacy, Inclusion, and Diversity in Italy
+
+_School of Education_  
+3 credit(s) Only during the summer
+
+* * *
+
+Double Numbered with EDU 465  
+Three-week study abroad immersion course; literacy, inclusion, and diversity
+in Italian schools and communities through language study, school-based
+literacy projects, lectures, school and museum visits, readings, and
+discussions. Additional work for graduate students.  
+
+  
+|
+
+  * ### EDU 700 - Special Topics in Education
+
+_School of Education_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Special topics of current interest in the field of professional education for
+depth study by graduate students.  
+Repeatable  
+
+  
+|
+
+  * ### EDU 725 - Current Research on Teaching
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with EDA 725  
+Political, historical, and methodological aspects of elementary and secondary
+schools. Skills in analysis, synthesis, and criticism developed.  
+
+  
+|
+
+  * ### EDU 727 - Curriculum Studies
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with EDA 727  
+Curriculum decision making as a function of the school's role in society.
+Theory and research in human growth and learning. Models of organization and
+instruction.  
+
+  
+|
+
+  * ### EDU 737 - Quantitative Research Design
+
+_School of Education_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Seminar addresses key issues, strengths, and limitations of various
+quantitative research designs, and integrates design with theory, sampling,
+measurement, and statistical analysis, using examples from the research
+literature in students' program areas.  
+PREREQ EDU 647  
+
+  
+|
+
+  * ### EDU 748 - Theory and Practice in Mentoring Teachers
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with EDA 748  
+Concepts and practices in mentoring among teachers. Induction programs at the
+state and local levels. Programs as part of professional development.
+Qualities and skills of mentors.  
+
+  
+|
+
+  * ### EDU 760 - Workshop in Education
+
+_School of Education_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+For teachers, administrators, and other school personnel to work on campus
+toward solution of specific problems in elementary and secondary education in
+their schools. Each workshop has a core or central theme. Parallel to EDU 660.  
+Repeatable  
+
+  
+|
+
+  * ### EDU 778 - Narrative Inquiry in Research and Creative Practice
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+An exploration of the use of narrative methods in research and creative
+practice. Conducted in the form of a creative workshop, participants will
+learn to decode stories as data, and construct experiential data as stories.  
+
+  
+|
+
+  * ### EDU 781 - The Institutions and Processes of Education I
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Comprehensive study of learning and learners, the institutions of education,
+the public's interest in education from the perspectives of political economy,
+sociology, psychology, history, and philosophy. Uses of data in judgment.  
+
+  
+|
+
+  * ### EDU 791 - Advanced Seminar in Quantitative Research Methods I
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Reviews, integrates and extends concepts and techniques from introductory
+statistics and research design. Focuses on intermediate-level statistical
+techniques including AVOVA, multiple regression, discriminant analysis, and
+path analysis. Training in SPSS using extant data sets. Student must have
+completed a graduate course in statistics.  
+PREREQ EDU 647  
+
+  
+|
+
+  * ### EDU 800 - Selected Topics
+
+_School of Education_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### EDU 810 - Advanced Seminar in Qualitative Research I
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with SOC 811 , WGS 812  
+Expand fieldwork skills and increase theoretical understanding: emphasis on
+"thinking qualitatively;" intensive fieldwork.  
+PREREQ EDU 603 /SOC 614  
+
+  
+|
+
+  * ### EDU 815 - Advanced Seminar in Qualitative Research II
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with SOC 812  
+Applications to issues of special education and related educational or human
+service settings.  
+PREREQ EDU 810 OR SOC 811 OR WGS 812  
+
+  
+|
+
+  * ### EDU 820 - Program Development in Teacher Education
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Theoretical models, experimental programs. Historical perspective on recent
+innovative movements. Development in local pre-service/in-service program.  
+
+  
+|
+
+  * ### EDU 822 - Assessment of Teaching
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with EDA 822  
+Issues and concepts in assessment of teaching and teachers. Skill and
+experience developed from political, psychological, and sociological
+perspectives.  
+
+  
+|
+
+  * ### EDU 824 - Practices, Problems, and Prospects in the Field of Teacher Education
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Continuum of practices: recruitment preparation, induction, continuing
+professional development. Developing a frame of reference regarding teacher
+education.  
+
+  
+|
+
+  * ### EDU 833 - Critical Curriculum Theory
+
+_School of Education_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Radical traditions in curriculum theory in the Americas and Europe. Critical,
+radical, and progressive approaches concerned with issues of power, language
+access, justice, and equity. Critical theorists, feminists, multiculturalists,
+culturally relevant pedagogues, and post-structuralists.  
+
+  
+|
+
+  * ### EDU 835 - Learning Theories in Education
+
+_School of Education_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Crosslisted with MTD 835  
+Examination of cognitive science, constructivism, social cognition, and other
+learning theories and their influence on how educators view learning and have
+conducted research about learning.  
+
+  
+|
+
+  * ### EDU 841 - The Nature and Design of Inquiry
+
+_School of Education_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Crosslisted with IDE 841  
+Overview of social, academic, and psychological aspects, including fundamental
+mental abilities of inquiry. Introduction to full range of quantitative and
+qualitative inquiry strategies and practice in research topic identification,
+problem formation, and study design.  
+
+  
+|
+
+  * ### EDU 886 - Multivariate Research Methods
+
+_School of Education_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Crosslisted with COU 886  
+Discussion and critique of multivariate research methods, designs, and
+strategies as applied in contemporary educational research. Practical
+applications in multivariate research design, implementation, and
+interpretation of data.  
+
+  
+|
+
+  * ### EDU 888 - Structural Equation Modeling and Factor Analysis
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+An introduction to structural equation modeling (SEM) and factor analysis
+(FA), and the uses of these approaches in scientific research.  
+PREREQ EDU 791 OR EDU 886  
+
+  
+|
+
+  * ### EDU 910 - Current Scholarship in Teaching and Leadership
+
+_School of Education_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Seminar in current scholarly work of teaching and leadership faculty. Topics,
+interests, research. Methods and approaches. Forms of publication and
+exhibition. Matriculation at doctoral level.  
+Repeatable 1 time(s), 6 credits maximum  
+
+  
+|
+
+  * ### EDU 915 - Teaching and Leadership for Social Justice
+
+_School of Education_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Doctoral seminar exploring the writing of classic and contemporary educators
+who have had significant impact on the development of educational thinking,
+policies, and practices that promote democratic schooling and social justice.  
+
+  
+|
+
+  * ### EDU 970 - Experience Credit
+
+_School of Education_  
+1-6 credit(s) Every semester
+
+* * *
+
+Participation in a discipline- or subject-related experience. Students must be
+evaluated by written or oral reports or an examination. Limited to those in
+good academic standing.  
+Repeatable  
+
+  
+|
+
+  * ### EDU 990 - Independent Study
+
+_School of Education_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  
+|
+
+  * ### EDU 991 - Problems in Educational Research
+
+_School of Education_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+For qualified students who wish to pursue individual problems under faculty
+direction, particularly problems in those fields not served by a special
+research course.  
+
+  
+|
+
+  * ### EDU 997 - Thesis
+
+_School of Education_  
+1-6 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+  
+|
+
+  * ### EDU 999 - Dissertation
+
+_School of Education_  
+1-15 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+  
+  
+**Elementary Education**  
+|
+
+  * ### EED 601 - Strategies for Inclusive Education I
+
+_School of Education_  
+2 credit(s) Irregularly
+
+* * *
+
+Developing a classroom community, responding to diversity issues, and
+strategies for promoting cooperative, interactive education. Admission to the
+M.S./childhood education (1-6) preparation program.  
+
+  
+|
+
+  * ### EED 621 - Elementary Mathematics Methods and Curriculum I
+
+_School of Education_  
+2 credit(s) Irregularly
+
+* * *
+
+Integration of theory, research, and practice in teaching and learning of
+mathematics. Examination of programs' scope, sequence, and materials. Design
+and evaluate inclusive lessons and units including differentiated instruction
+and adaptations. For Childhood Preparation program students only.  
+
+  
+|
+
+  * ### EED 622 - Elementary Mathematics Methods and Curriculum II
+
+_School of Education_  
+1 credit(s) Irregularly
+
+* * *
+
+A continuation of EED 621. Integration of theory, research, and practice in
+teaching and learning of mathematics. Examination of programs' scope,
+sequence, and materials. Design and evaluate inclusive lessons and units
+including differentiated instruction and adaptations.  
+
+  
+|
+
+  * ### EED 624 - Elementary Language Arts Methods and Curriculum
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Design, implementation, and evaluation of programs for learners with and
+without handicaps. Relationships among the language arts and the role of oral
+and written language in personal, educational, social, and vocational
+development. Field experience. Student must be admitted to first professional
+block.  
+
+  
+|
+
+  * ### EED 625 - Elementary Reading Methods and Curriculum
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Decision making processes related to methods and materials used during reading
+instruction. Formulation of lesson plans, teaching, evaluation for children
+with and without handicaps. Understanding of comprehension processes. Field
+experience teaching. Students must be admitted to first professional block.  
+
+  
+|
+
+  * ### EED 626 - Elementary Social Studies Methods and Curriculum
+
+_School of Education_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with EED 336  
+Formulation and teaching of thematic unit plans to children with and without
+disabilities. Incorporates children's multicultural literature, inquiry-based
+curriculum materials, primary source documents, and activity-based
+instruction. Decisions based on concepts and values.  
+
+  
+  
+Page: 1 <\- Back 10 … 7 | 8 | 9 | 10 | 11 | **12** | 13 | 14 | 15 | 16 | 17 … Forward 10 -> 38  
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

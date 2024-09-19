@@ -1,0 +1,1344 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Undergraduate Course Catalog Syracuse University |   
+|  |  2023-2024 Undergraduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Engineering and Computer Science  
+  
+## College of Engineering and Computer Science
+
+#### Courses
+
+**Computational Science**
+
+  * ### CPS 506 - Introduction to C
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Programming in C: data types, control structures; the preprocessor; arrays and
+pointers. Substantial programming assignments. For students in computer
+science.  
+
+  * ### CPS 551 - Computer Organization & Operating System Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Fundamentals of computer organization and operating systems design. Computer
+organization topics: CPU & pipeline architecture, data representation and
+memory hierarchies, assembly language and instruction sets. Operating system
+concepts: system calls, processes, threads, synchronization, memory
+management, input-output, traps, and file systems.  
+Repeatable 1 time(s), 3 credits maximum  
+
+**Computer Engineering**
+
+  * ### CSE 261 - Digital Logic Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Number representations, Boolean Algebra, logic minimization, memory circuits,
+counters, state diagrams, state machine design, arithmetic circuits, and
+asynchronous circuits. Logic simulators will be used to demonstrate and
+provide students with design activities.  
+
+  * ### CSE 262 - Digital Logic Design Laboratory
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Basic digital logic circuit design and implementation. Logic-circuit design
+and testing using a Hardware Description Language and FPGAs. Digital system
+design, including coding, testing, synthesis, troubleshooting and
+documentation.  
+COREQ CSE 261  
+
+  * ### CSE 280 - International Course
+
+_College of Engineering and Computer Science_  
+1-12 credit(s) Irregularly
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the S.U.
+academic department to assign the appropriate course level, title, and grade
+for the student's transcript.  
+Repeatable  
+
+  * ### CSE 283 - Introduction to Object-Oriented Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Present fundamental software design concepts of functional decomposition and
+object-oriented design. Use both C++ and Java to implement design projects
+which will be completed to demonstrate the design concepts.  
+PREREQ CIS 151  
+
+  * ### CSE 381 - Computer Architecture
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Data representation, memory hierarchies, protection, specialized processors,
+multiple computers, performance evaluation, and reliability.  
+PREREQ CSE 261  
+
+  * ### CSE 382 - Algorithms & Data Structures
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Data structures and algorithms implemented in high-level language. Nonnumeric
+processing, including database management. Types, structures, pointers, linked
+lists, recursion, iteration, retrieval, pattern recognition, and context
+processing.  
+PREREQ CSE 283  
+
+  * ### CSE 384 - Systems and Network Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Unix programming and shell scripting for systems and network software.
+Makefiles, compilers, linkers, debuggers, software with multiple source files.
+Dynamic memory allocation, system calls, C programming, pointers,
+concurrent/parallel programming, defensive programming techniques, network
+programming.  
+PREREQ CSE 283 or CIS 351  
+
+  * ### CSE 389 - Web System Architecture and Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Issues involved in architecting and programming Web servers and clients.
+Topics include Java Socket Programming; Java Thread Programming; HTTP; Apache
+HTTP Server; PHP/Python scripting; Java Servlets; JSP.  
+PREREQ CIS 351 OR CSE 283  
+
+  * ### CSE 397 - Microcontroller Laboratory
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fundamentals of microcontrollers. Concepts include architecture, programming,
+interfacing, and communication with analog and digital components.  
+PREREQ CSE 262  
+
+  * ### CSE 398 - Embedded and Mobile Systems Laboratory
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Design and testing of embedded systems with an operating system. Rapid
+prototyping and design methods. Interfacing and network communication with
+mobile devices.  
+COREQ CSE 384  
+
+  * ### CSE 400 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### CSE 418 - Deep Learning
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Basic classification models, deep neural networks, recurrent neural networks,
+their software implementations, and state-of-art deep learning frameworks on
+CPU and GPU.  
+
+  * ### CSE 444 - Mobile Application Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CIS 444  
+Double Numbered with CSE 651  
+Development of applications for different mobile devices. Creating effective
+user interfaces, efficient use of persistent storage, network services, GPS,
+maps and sensors. Additional work required of graduate students.  
+
+  * ### CSE 458 - Data Networks: Basic Principles
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CIS 458, ELE 458  
+Data communication networks, multilayer network architecture, data
+transmission fundamentals, network protocols, local and wide area networks,
+transport and application protocols.  
+
+  * ### CSE 464 - Introduction to VLSI Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with ELE 464  
+MOS VLSI technologies. CMOS digital circuits. Layout design. Simulation.
+Realization of digital subsystems-adders, memory, etc. Opportunities for chip
+fabrication and testing.  
+PREREQ CSE 261  
+
+  * ### CSE 480 - International Course
+
+_College of Engineering and Computer Science_  
+1-12 credit(s) Irregularly
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the S.U.
+academic department to assign the appropriate course level, title, and grade
+for the student's transcript.  
+Repeatable  
+
+  * ### CSE 483 - C# and Windows Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Design and implementation of Windows 32-bit applications. Windows API
+techniques and Windows MFC techniques will be presented. This is a projects
+course.  
+PREREQ CSE 382 OR CIS 351  
+
+  * ### CSE 484 - Introduction to Computer and Network Security
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Operating system security. Authentication. Access control. Program
+vulnerabilities. Malicious code. Secure programming principles. TCP/IP
+protocols, vulnerabilities, attacks, and countermeasures. Firewalls. Intrusion
+detection. Secret-key and Public-key cryptography. One-way has function.
+Digital Signature.  
+PREREQ CSE 486 OR CSE 384  
+
+  * ### CSE 486 - Design of Operating Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Design, implementation, and security aspects of modern operating system
+components. Resource management and protection of CPU, memory, file systems,
+and input/output devices. Concurrent and parallel process implementation.
+Process synchronization. Networking. Distributed systems.  
+PREREQ (CIS 341 OR CSE 381) AND CSE 384 AND CIS 351  
+
+  * ### CSE 487 - Access Control, Security and Trust
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CIS 487  
+Analytical/logical basis for trusting systems. Access requests,
+authorizations, certificates, credentials, jurisdiction, and delegation.
+Applications include distributed access control, process isolation and
+sharing, and access policies.  
+PREREQ CIS 375  
+
+  * ### CSE 488 - Introduction to Internet Security
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Network attack techniques and methods to defend them. Topics include
+vulnerabilities of TCP/IP protocols, denial of service attacks, intrusion
+detection, firewalls, tracing the source of attacks, anonymous communication,
+IPsec, virtual private network, and PKI.  
+PREREQ CSE 486  
+
+  * ### CSE 491 - Senior Design Project I
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Design methodology and presentation techniques for one extensive team project
+to be completed in the follow-up course. Focus on design processes and
+associated technical documentation. Must be taken in sequence with CSE 492.  
+PREREQ CSE 398 or ELE 392  
+
+  * ### CSE 492 - Senior Design Project II
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Prototyping, construction, and demonstration skills for one extensive project
+created by a team of students. Must be taken in sequence with CSE 491 .  
+PREREQ CSE 491  
+
+  * ### CSE 499 - Honors Capstone Project
+
+_College of Engineering and Computer Science_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### CSE 561 - Digital Machine Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Behavioral and structural design methods and examples using a hardware
+description language (VHDL). Control, arithmetic, bus systems, memory systems.
+Logic synthesis from hardware language descriptions.  
+PREREQ CSE 261  
+
+  * ### CSE 581 - Introduction to Database Management Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+DBMS building blocks; entity-relationship and relational models; SQL/Oracle;
+integrity constraints; database design; file structures; indexing; query
+processing; transactions and recovery; overview of object relational DBMS,
+data warehouses, data mining.  
+PREREQ CSE 382 OR CIS 351  
+
+  * ### CSE 591 - Special Problems in Computer Systems Engineering
+
+_College of Engineering and Computer Science_  
+1-4 credit(s) Upon sufficient interest
+
+* * *
+
+Students work on special projects. Instructors present new or special
+material.  
+Repeatable 29 time(s), 30 credits maximum  
+
+**Electrical & Computer Engineering**
+
+  * ### ECE 499 - Honors Capstone Project
+
+_College of Engineering and Computer Science_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable 2 time(s), 3 credits maximum  
+
+**Engineering and Computer Science**
+
+  * ### ECS 100 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) At least 1x fall or spring
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable 11 time(s), 36 credits maximum  
+
+  * ### ECS 101 - Introduction to Engineering and Computer Science
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Gateway course: Discussion of disciplines within the college, technical
+communication, presentation of technical results, professional behavior,
+ethics, problem solving, modeling, and data analysis. Laboratory topics:
+computers, computer language, and software packages.  
+Shared Competencies Communication Skills
+
+  * ### ECS 102 - Introduction to Computing
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Computing concepts. Principles of programming. Applications of computing
+concepts to problem solving in engineering and computer science. Laboratory
+topics will include problem solving projects from various disciplines within
+the college.  
+
+  * ### ECS 104 - Engineering Computational Tools
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Elementary numerical techniques for root finding, sets of equations, curve
+fitting, differentiation, integration. Programming concepts: conditional
+branching, loops, etc. Examples of engineering calculations. Use of
+spreadsheets and interpreted programming languages.  
+COREQ MAT 295  
+
+  * ### ECS 105 - LCS SummerStart Supplemental Math Workshop
+
+_College of Engineering and Computer Science_  
+1 credit(s) Every semester
+
+* * *
+
+Workshop designed to supplement the theory taught in math courses. Design
+problems will incorporate course work. Limited enrollment/special permission.  
+Repeatable 7 time(s), 8 credits maximum  
+
+  * ### ECS 109 - ECS SummerStart Seminar
+
+_College of Engineering and Computer Science_  
+1 credit(s) Only during the summer
+
+* * *
+
+Designed to assist first-year students with their transition from high school
+to the University setting. Introduction of resources that will assist in the
+student's academic, social, cultural, and personal development through
+interactions with various representatives.  
+
+  * ### ECS 110 - Introduction to Engineering Mathematics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Only during the summer
+
+* * *
+
+This course brings together mathematics and engineering by quantifying and
+interpreting rates of change through the analysis of linear and non-linear
+phenomena and how these phenomena change with respect to time.  
+
+  * ### ECS 114 - Academic Excellence Workshop for Pre-Calculus
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Designed to supplement the theory taught in pre-calculus. Problems will
+incorporate course work. The computational component is designed to reinforce
+the understanding of concepts through a series of repetitive exercises.  
+COREQ MAT 194  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 115 - Academic Excellence Workshop for Calculus I
+
+_College of Engineering and Computer Science_  
+1 credit(s) Every semester
+
+* * *
+
+Designed to supplement the theory taught in Calculus I. problems will
+incorporate course work. The computational component is designed to reinforce
+the understanding of concepts through a series of repetitive exercises.  
+COREQ MAT 295  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 116 - Academic Excellence Worksho for Calculus II
+
+_College of Engineering and Computer Science_  
+1 credit(s) Every semester
+
+* * *
+
+Designed to supplement the theory taught in Calculus II. Problems will
+incorporate course work. The computational component is designed to reinforce
+the understanding of concepts through a series of repetitive exercises.  
+COREQ MAT 296  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 117 - Academic Excellence Workshop for Calculus III
+
+_College of Engineering and Computer Science_  
+1 credit(s) Every semester
+
+* * *
+
+Designed to supplement the theory taught in Calculus III. Problems will
+incorporate course work. The computational component is designed to reinforce
+the understanding of concepts through a series of repetitive exercises.  
+COREQ MAT 397  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 122 - Academic Excellence Workshop for Intro. to Computing
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Designed to supplement the material taught in Introduction to Computing.
+Problems will incorporate course work and are designed to reinforce the
+understanding of concepts through a series of repetitive exercises.  
+COREQ ECS 102  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 125 - Survey of Engineering Problems
+
+_College of Engineering and Computer Science_  
+2-3 credit(s) Irregularly
+
+* * *
+
+Current design and research problems in engineering presented by faculty
+members actively working on these problems. Opportunities for student
+participation and individual project.  
+
+  * ### ECS 200 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) At least 1x fall or spring
+
+* * *
+
+Exploration of topics not covered by the standard curriculum but of interest
+to faculty and students in a particular semester.  
+Repeatable 11 time(s), 36 credits maximum  
+
+  * ### ECS 201 - Academic Excellence Workshop for Statics
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Designed to supplement the theory taught in the static (ECS 221 ) course.
+Design problems will incorporate course work. Limited enrollment/special
+permission.  
+COREQ ECS 221  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 202 - Academic Excellence Workshop for Dynamics
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Designed to supplement the theory taught in the dynamics course (ECS 222 ).
+Design problems will incorporate course work. Limited enrollment/special
+permission.  
+COREQ ECS 222  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 203 - Introduction to Technology
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with STS 203  
+Basic engineering principles behind some of today's rapidly changing
+technologies. The capabilities, limitations, and application of these
+technologies to audio and TV systems, CD players, communications' satellites,
+radar, computers, and the electric power system. For nonspecialists.  
+
+  * ### ECS 204 - Mathematical Programming for Engineers
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Technical computing environment such as MATLAB; trigonometry and complex
+numbers; arrays and array operations; mathematical functions and applications;
+data analysis; selection programming; vectors; matrices and linear algebra;
+curve fitting and interpolation; integration and differentiation; symbolic
+processing.  
+
+  * ### ECS 205 - Academic Excellence Workshop for Thermodynamics
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Designed to supplement the material taught in Thermodynamics. Problems will
+incorporate course work and are designed to reinforce the understanding of
+concepts through a series of repetitive exercises.  
+COREQ MAE 251  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 206 - Academic Excellence Workshop for Mass & Energy Balances
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Designed to supplement the material taught in Mass & Energy Balances. Problems
+will incorporate course work and are designed to reinforce the understanding
+of concepts through a series of repetitive exercises.  
+COREQ CEN 231  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 207 - AEW for CEN Thermodynamics
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Designed to supplement the theory taught in CEN Thermodynamics. Problems will
+incorporate course work and are designed to reinforce the understanding of
+concepts through a series of repetitive exercises.  
+COREQ CEN 252  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 221 - Statics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fundamentals of static equilibrium. Vector algebra. Forces, moments,
+equivalent force systems. Free body diagrams and equilibrium problems in two
+and three dimensions. Analysis of structures and machines. Centroids and
+moments of inertia.  
+PREREQ PHY 211 OR PHY 215  
+COREQ MAT 296  
+
+  * ### ECS 222 - Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Dynamics of a particle. Newton's law and D'Alembert's principle. Plane motion.
+Cartesian, polar, and local coordinates. Energy and momentum methods. Motion
+of a rigid body. Review of vector algebra and moments of inertia.  
+PREREQ MAT 296 AND ECS 221  
+Shared Competencies Critical and Creative Thinking
+
+  * ### ECS 290 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+In depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor(s) and the department.  
+Repeatable  
+
+  * ### ECS 301 - Understanding Contemporary Technology
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Survey of significant areas of technology: scientific bases, operating
+principles, physical capabilities and performance, economic limitations,
+social impact. Areas include: fuel, energy, materials, pollution control,
+environmental modification. May be taken in either order with 302.  
+
+  * ### ECS 302 - Understanding Contemporary Technology
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Survey of significant areas of technology: scientific bases, operating
+principles, physical capabilities and performance, economic limitations,
+social impact. Areas include: fuel, energy, materials, pollution control,
+environmental modification.  
+
+  * ### ECS 325 - Mechanics of Solids
+
+_College of Engineering and Computer Science_  
+4 credit(s) Every semester
+
+* * *
+
+Theory of deformation, stress, stress resultants, transformation. Elastic and
+inelastic constitutive behavior. Equilibrium. Tension and torsion of bars;
+flexure and shear of beams; pressure vessels. Thermoelasticity. Elastic and
+inelastic stability. Energy methods.  
+PREREQ ECS 221  
+COREQ MAT 397  
+
+  * ### ECS 326 - Engineering Materials, Properties, and Processing
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to the properties and applications of engineering materials with
+emphasis on structure-property-processing relationships; fundamentals of
+structure, properties, and processing; materials selection for design; case
+studies of specific engineering applications.  
+Shared Competencies Critical and Creative Thinking
+
+  * ### ECS 353 - Automotive Technology for Non-Engineers
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+A study of the modern automobile, using a recent model car as a laboratory
+example. Description and demonstration of engines, transmissions, body,
+suspension, brakes, steering, safety equipment, and fuel systems. Federal
+Motor Vehicle Standards.  
+
+  * ### ECS 354 - Green Technology and Sustainability
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Energy consumption, climate change and global warming. The green movement.
+Current and alternative energy sources. Technologies for energy generation,
+conversion and storage. Sustainable development. Green economy. Political,
+economic and social aspects of green practices. Permission of instructor.  
+
+  * ### ECS 365 - Engineering Peer Mentor Forum
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Designed to give Peer Mentors the opportunity to discuss issues and concerns
+within their weekly group meetings. Peer Mentors will work as a group to
+discuss, analyze, and problem solve advising and first year transition issues.  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 370 - Professional Practice
+
+_College of Engineering and Computer Science_  
+0 credit(s) Every semester
+
+* * *
+
+Full-time practical engineering or computer science work experience, with a
+participating employer, that is directly related to the student's field of
+study and is of a semester's duration. Student must be in good standing in the
+College of Engineering and Computer Science Cooperative Education Program.  
+Repeatable  
+
+  * ### ECS 371 - International Professional Practice
+
+_College of Engineering and Computer Science_  
+0 credit(s)
+
+* * *
+
+A supervised work experience in a laboratory at one of several European
+universities near an SU Abroad center. Offered only overseas through Syracuse
+University Abroad.  
+
+  * ### ECS 375 - Academic Excellence Facilitator Forum
+
+_College of Engineering and Computer Science_  
+1 credit(s) Every semester
+
+* * *
+
+Designed to give facilitators the opportunity to discuss issues and concerns
+within their weekly workshop. Facilitators will work as a group to discuss,
+analyze, and problem solve participant issues.  
+Repeatable 7 time(s), 8 credits maximum  
+
+  * ### ECS 391 - Legal Aspects of Engineering and Computer Science
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Legal issues related to engineering and computer science are investigated
+using case studies, research projects, and term papers. Topics include
+patents, copyright, licenses, trade secrets, technology transfer, computer
+crime, contracts, and product liability.  
+Shared Competencies Ethics, Integrity, and Commitment to Diversity and
+Inclusion; Scientific Inquiry and Research Skills
+
+  * ### ECS 392 - Ethical Aspects of Engineering and Computer Science
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Ethical issues related to engineering and computer science studied, including
+professionalism, collective and individual moral responsibility, codes of
+ethics, whistle blowing, conflict of interest, pluralism in the workplace,
+product liability, and employer-employee expectations.  
+
+  * ### ECS 400 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+Exploration of engineering and computer science topics not covered by the
+standard curriculum but of interest to faculty and students in a particular
+semester.  
+Repeatable  
+
+  * ### ECS 401 - Spec. Projects-Soling Program
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Projects sponsored by the greater University community are completed by
+interdisciplinary teams in consultation with a faculty advisor. Open to
+juniors and seniors.  
+
+  * ### ECS 441 - Leonardo da Vinci: Artist and Engineer
+
+_College of Engineering and Computer Science_  
+4 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Crosslisted with HOA 425  
+Interdisciplinary exploration of the life and work of Leonardo da Vinci
+(1452-1519). Supplemented by required field trip to Europe. Special
+application required.  
+
+  * ### ECS 470 - Professional Practice
+
+_College of Engineering and Computer Science_  
+0 credit(s) Every semester
+
+* * *
+
+Full-time practical engineering or computer science work experience, with a
+participating employer, that is directly related to the student's field of
+study and is of one semester's duration.  
+Repeatable  
+
+  * ### ECS 480 - International Course
+
+_College of Engineering and Computer Science_  
+1-12 credit(s) Upon sufficient interest
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the S.U.
+academic department to assign the appropriate course level, title, and grade
+for the student's transcript.  
+Repeatable  
+
+  * ### ECS 490 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  * ### ECS 498 - Concepts & Issues of Tech.
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Role of engineering in modern society. Selection of criteria. Methods of
+problem analysis and decision making. Case studies.  
+
+  * ### ECS 499 - Honors Capstone Project
+
+_College of Engineering and Computer Science_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### ECS 511 - Sustainable Manufacturing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Visions of sustainable manufacturing, systems approach to sustainable product
+development and design, manufacturing processes and systems, alternative
+energy systems for manufacturing, innovation and entrepreneurship
+opportunities. Senior standing.  
+PREREQ MFE 331  
+
+  * ### ECS 525 - Probability for Engineers
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Sample spaces, events, and probabilities. Conditional probability and
+independence. Random variables, random vectors. Probability distributions and
+densities. Expectations. Moment-generating functions. Introduction to data
+analysis. Engineering applications.  
+
+  * ### ECS 526 - Statistics for Engineers
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Point estimation, confidence intervals, simple hypothesis testing,
+nonparametric tests, curve fitting and regression, analysis of variance,
+factorial experiments, and engineering applications.  
+PREREQ ECS 525 OR MAT 521  
+
+  * ### ECS 555 - Virtual Design Studio for Green Building Systems (VDS-GBS)
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Integrative design methodology; Interactions between form, structure, and
+flows of energy & mass, and their impacts on building performance; Computer
+simulation tools for performance-based design. Exploration of green building
+design and technology through case studies  
+
+  * ### ECS 561 - Data Centers: Infrastructure Design and Energy Efficiency
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to data centers and the infrastructure supporting the IT
+equipment. Focus on the energy efficiency aspects of various designs.
+Introduction of servers, storage and networking equipment that are housed in
+data centers. Power and cooling infrastructure that supports the IT equipment.  
+Repeatable 1 time(s)  
+
+  * ### ECS 570 - Professional Practice
+
+_College of Engineering and Computer Science_  
+0 credit(s) Every semester
+
+* * *
+
+Full-time practical engineering or computer work experience, with a
+participating employer, that is related to the student's field of study, and
+is of a semester's duration. May not be repeated.  
+PREREQ ECS GRADUATE PROGRAM  
+
+  * ### ECS 588 - Principles of Wind Turbines
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CEE 588, MAE 588  
+Aerodynamics, performance, control, and electrical aspects wind turbines.  
+PREREQ MAE 341  
+
+**Engineering Physics**
+
+  * ### ENP 499 - Honors Capstone Project
+
+_College of Engineering and Computer Science_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable 2 time(s), 3 credits maximum  
+
+**Electrical Engineering**
+
+  * ### ELE 231 - Electrical Engineering Fundamentals
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Analysis of electric circuits. Resistive, reactive circuits. Independent,
+dependent sources. Network theorems, circuit reduction, op amps. Elements of
+transient and steady state circuit analysis. Power and energy considerations.  
+PREREQ MAT 295  
+
+  * ### ELE 251 - Fundamentals of Linear Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Linear time invariant analogous systems. Step, Impulse, response in both time
+and frequency domain using the Laplace transform. The s-plane. Steady state AC
+response. Discrete time sampling, Nyquist limits, z-transform, z-plane. Simple
+digital filters.  
+PREREQ MAT 295  
+COREQ PHY 211 or PHY 215  
+
+  * ### ELE 280 - International Course
+
+_College of Engineering and Computer Science_  
+1-12 credit(s) Upon sufficient interest
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the S.U.
+academic department to assign the appropriate course level, title, and grade
+for the student's transcript.  
+Repeatable  
+
+  * ### ELE 291 - Electrical Engineering Laboratory I
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Electrical-instrumentation and measurement. Experimental methods in linear and
+nonlinear devices and circuits. One hour of recitation and one three hour
+laboratory a week.  
+COREQ ELE 231  
+
+  * ### ELE 292 - Linear Systems Laboratory
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Electrical-instrumentation, measurement and data-logging. Experimental methods
+in linear systems. Computer computations for analysis and modelling. One three
+hour laboratory per week.  
+COREQ ELE 251  
+
+  * ### ELE 314 - Power Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Phasors; complex power; single phase systems; three-phase systems;
+electromagnetic fundamentals of power systems; transformers; transmission line
+parameters; power flow analysis.  
+PREREQ ELE 231  
+
+  * ### ELE 324 - Electromagnetics
+
+_College of Engineering and Computer Science_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Vector analysis, electrostatics, dielectrics, magnetostatics, magnetic
+materials, Maxwell's equations, electromagnetic waves, wave propagation,
+reflection and transmission.  
+PREREQ MAT 397 AND (PHY 212 OR PHY 216)  
+
+  * ### ELE 333 - Analog Electronics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introductory semi-conductors; non-linear electronic circuits and devices
+including operational amplifiers, diodes and MOSFETs; Integrated electronics  
+PREREQ ELE 231  
+
+  * ### ELE 346 - Semiconductor Devices
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Physics of semiconductor devices. Energy bands. Electrons and holes. PN and
+metal semiconductor diodes. Characteristics, operation, properties and
+limitations of bipolar transistors, JFETS and MOSFETS. PNPN devices.
+Optoelectronic devices.  
+PREREQ PHY 212 OR PHY 216  
+
+  * ### ELE 351 - System and Signal Analysis
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Signal and system analysis in continuous-time, discrete-time, and frequency
+domains. Fourier series, continuous and discrete Fourier transforms,
+z-transform, LaPlace transform. Engineering applications.  
+PREREQ ELE 251  
+
+  * ### ELE 352 - Digital Signal Processing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Discrete time sequences and systems. Sampling. Discrete Fourier transform.
+z-transform. Finite impulse response (FIR) filters. Infinite impulse response
+(IIR) filters.  
+PREREQ ELE 351  
+
+  * ### ELE 354 - Communication Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Time and frequency domain representation of signals, LTI systems, analog
+modulation and demodulation, random processes, digital modulation schemes,
+geometric representation of signal waveforms, optimal receiver design.  
+PREREQ ELE 351 and CIS 321  
+
+  * ### ELE 392 - Digital Signal Processing and Control Systems Laboratory
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A hands-on introduction to basics and applications of digital signal
+processing and feedback control. Simulations using MATLAB/Simulink and
+experiments using microcontrollers will cover structured lab exercises that
+lead to a final multi-week design project.  
+PREREQ ELE 251  
+
+  * ### ELE 400 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### ELE 412 - Control Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Review of Laplace transforms and z-transforms. System modeling, transfer
+functions, feedback, stability. Analysis and design using computer tools.
+Applications of controls to engineering systems.  
+PREREQ ELE 351  
+
+  * ### ELE 414 - Power System Analysis and Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with ELE 614  
+Three phase power systems, Power flow analysis, Symmetrical components, Fault
+analysis, Power system stability, Power system controls, Fundamentals of
+economic dispatch. Additional work required for graduate students.  
+PREREQ ELE 314  
+
+  * ### ELE 415 - Microgrids
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with ELE 615  
+Challenges and opportunities in smart microgrids. Distributed energy resources
+in microgrids. Grid-connected and islanding mode of microgrid operation.
+Microgrid monitoring and protection. Control technology requirements and
+solutions. Additional work required for graduate students.  
+PREREQ ELE 314  
+
+  * ### ELE 416 - Electromechanical Devices
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Principles of energy conversion that provide the basis of operation for
+electrical machinery, meters, and other transducers. Rotating DC and AC
+machines.  
+PREREQ ELE 232  
+
+Page: 1 | 2 | **3** | 4
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Undergraduate University Requirements Syracuse University's Shared
+Competencies
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies Martin J. Whitman School of
+Management Maxwell School of Citizenship and Public Affairs S.I. Newhouse
+School of Public Communications College of Professional Studies College of
+Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

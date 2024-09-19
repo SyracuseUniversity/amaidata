@@ -1,0 +1,1260 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Arts and Sciences Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Arts and Sciences Maxwell offerings can be viewed
+individually by selecting the link.
+
+  * Maxwell School of Citizenship and Public Affairs Courses
+
+  
+  
+## College of Arts and Sciences
+
+#### Courses
+
+**Mathematics**
+
+  * ### MAT 652 - Probability and Statistics II
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Point and interval estimation, consistent, efficient, and sufficient
+statistics, Rao-Blackwellization, hypothesis testing, brief treatment of
+ranking and selection, decision theory.  
+PREREQ MAT 651 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 653 - Statistical Simulation and Nonstandard Data Analysis
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Simulation and Monte Carlo techniques appropriate where statistical theory
+does not yet provide a solution. Design and analysis of experiments under
+nonstandard conditions.  
+PREREQ MAT 651 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 654 - Linear Models
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Point estimation by least squares, regression, curve fitting, testing a linear
+hypothesis, analysis of variance, simple experimental designs.  
+PREREQ (MAT 525 AND MAT 531 ) OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 661 - Introduction to Topology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Topological spaces, continuous mappings, compactness, connectedness, path
+connectedness, separation axioms, metric spaces, quotient spaces, CW
+complexes, the fundamental group, and the classification of 2-dimensional
+manifolds.  
+PREREQ MAT 512 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 682 - Numerical Linear Algebra
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Solution of linear equations. Norms and conditioning. Calculation of
+eigenvalues and eigenvectors. Least squares approximation and orthogonal
+functions. Error analysis and writing computer programs.  
+PREREQ MAT 511 AND MAT 531  
+
+  * ### MAT 683 - Methods of Numerical Analysis I
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Numerical methods of interpolation, approximation, integration, and
+differentiation, solutions of nonlinear equations.  
+PREREQ MAT 512 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 684 - Methods of Numerical Analysis II
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Analysis of numerical methods for approximating solutions of ordinary and
+partial differential equations.  
+PREREQ MAT 683 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 687 - Introduction to Applied Mathematics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Mathematical model building, dimensional analysis, scaling, and perturbation
+theory. Models selected from the natural and social sciences according to the
+interests of instructor and students. Examples are: planetary orbits, fluid
+flow, isomers in organic chemistry, biological competition, biochemical
+kinetics, and physiological flow.  
+
+  * ### MAT 690 - Independent Study
+
+_College of Arts and Sciences_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  * ### MAT 695 - Fundamentals of Data Science
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with MAT 495  
+Fundamental methods for data science, such as regression, linear discriminant
+analysis, k-nearest neighbors, support vector machine, k-means, principal
+component analysis, and nonlinear dimension reduction. Performance evaluation
+and model selection. Additional work required of graduate students.  
+PREREQ (MAT 331 AND MAT 521 ) OR (MAT 503 AND MAT 523 )  
+
+  * ### MAT 701 - Real Variables I
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Measure and integration, including basic theorems on integration and
+differentiation of sequences of functions; modes of convergence, product
+measures.  
+PREREQ MAT 602 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 702 - Functional Analysis I
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Norms, seminorms, and inner products on linear spaces. Standard theorems on
+linear functionals and operations. Dual spaces and weak topologies, classical
+spaces and their duals. Applications.  
+PREREQ (MAT 631 AND MAT 661 AND MAT 701) OR GRADUATE STANDING IN MATHEMATICAL
+SCIENCES  
+
+  * ### MAT 704 - Differential Equations
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Existence theorems for ordinary differential equations, linear differential
+equations and systems, Euler variational equations, typical Cauchy and
+boundary-value problems for partial differential equations.  
+PREREQ (MAT 632 AND MAT 701 ) OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 705 - Calculus on Manifolds
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Differentiable manifolds, differential forms, exterior calculus, integration
+over manifolds, Stokes' Theorem, other selected topics.  
+PREREQ (MAT 602 AND MAT 632 AND MAT 661 ) OR GRADUATE STANDING IN MATHEMATICAL
+SCIENCES  
+
+  * ### MAT 712 - Functions of a Complex Variable I
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Cauchy theory, power series, analytic continuation, entire functions, the
+residue theorem, contour integration, maximum modulus theorem and
+applications, conformal representation. Dirichlet series, special functions.  
+PREREQ MAT 602 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 721 - Probability I
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Measure and integration. Random variables, their distributions and transforms.
+Modes of convergence. Classical limit laws. Markov chains.  
+PREREQ (MAT 602 AND MAT 701 ) OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 722 - Probability II
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Conditional expectation. Martingales. Brownian motion. Ergodic theorem. Random
+walks.  
+PREREQ MAT 721 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 731 - Rings and Modules
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Submodules, factor modules, chain conditions, Hilbert basis theorem, division
+rings, Schur's lemma, Jacobson density theorem, semi-simple modules, socles,
+Jacobson radical, semi primitive rings, Artin-Wedderburn theorem, integral
+extensions, completions, localization.  
+PREREQ (MAT 631 AND MAT 632 ) OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 732 - Homological Algebra
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Projective and injective resolutions, Tor and Ext, flatness, homology, derived
+categories, spectral sequences.  
+PREREQ MAT 731 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 733 - Commutative Algebra
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Localization, primary decomposition, and dimension theory; Nullstellensatz;
+Artin-Rees lemma and completion; integral and flat extensions; Koszul complex,
+Cohen-Macaulay and regular rings.  
+PREREQ MAT 731  
+
+  * ### MAT 737 - Representations of Groups and Algebras
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+The course covers representations of finite groups and finite-dimensional
+algebras. Topics will come from: ordinary and modular representations of
+finite groups, Auslander-Reiten theory, representations of quivers, Koszul
+algebras, Hopf algebras and Frobenius algebras.  
+PREREQ MAT 731  
+
+  * ### MAT 738 - Introduction to Algebraic Geometry
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+The study of the zeros of polynomials. Classical algebraic varieties in affine
+and projective space, followed by introduction to modern theory of sheaves,
+schemes, and cohomology.  
+PREREQ MAT 632 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 750 - Statistical Consulting
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with STT 750  
+Working with real data taken from case studies, published papers, and current
+projects in the statistical laboratory.  
+PREREQ (MAT 525 OR MAT 652 ) AND (MAT 654 OR APM 630 OR MAS 766 )  
+Repeatable  
+
+  * ### MAT 752 - Statistical Ranking, Selection, and Multiple Comparisons
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Statistical selection of the best category or population. Preference-zone and
+subset formulations. Multivariate preferences and populations. Applications.
+Recent developments, including Multiple Comparisons with the Best (MCB) and
+the Heteroscedastic Method (HM).  
+PREREQ MAT 652 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 753 - Decision Theory
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Minimax theorems, completeness of the class of Bayes procedures. Invariance.
+Criteria for admissibility.  
+PREREQ MAT 525 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 754 - Sequential Analysis
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+General sequential decision problems, sequential probability ratio test,
+sequential test among three hypotheses, sequential estimation, optimal
+stopping, Wald's identity. Generalized SPRT's, Cox's theorem, sequential
+regression, functional equations, dynamic programming, sequential choice of
+experiments.  
+PREREQ MAT 525 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 755 - Multivariate Statistical Analysis
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Multivariate normal distribution, conditional densities, partial correlation,
+multiple correlation, regression coefficients, maximum likelihood estimates,
+Hotelling's statistic, Wishart distribution, tests of hypotheses, and linear
+discriminant functions.  
+PREREQ MAT 525 OR MAT 532 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 757 - Nonparametric Statistics
+
+_Nonparametric Statistics_  
+3 credit(s) Irregularly
+
+* * *
+
+Overview of nonparametric statistics, empirical CDF, statistical functionals,
+density and probability function estimation, nonparametric kernel methods,
+nonparametric regression, conditional density estimation, bootstrap, partial
+linear models, single index models, and other advanced topics.  
+PREREQ MAT 651 and MAT 652 (or MAT 521 and MAT 525 or consent from the
+instructor)  
+
+  * ### MAT 758 - Statistical Machine Learning
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Topics in machine learning from statistical and probabilistic perspective:
+prediction errors and cross validation, bias-variance trade-off, regularized
+regression, variable selection, nonparametric regression and classification,
+bootstrap, trees-based methods, neural network, and other advanced topics.  
+PREREQ MAT 521, 525, and 651, or permission from the instructor  
+
+  * ### MAT 761 - Introduction to Algebraic Topology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fundamental group covering spaces, chain complexes, simplicial or singular
+homology and cohomology theory, exact sequences, and the Eilenberg-Steenrod
+axioms.  
+PREREQ (MAT 632 AND MAT 661 ) OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 762 - Algebraic Topology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Homology, cohomology ring, universal coefficient theorem, duality, homotopy,
+theory, selected topics.  
+PREREQ (MAT 632 AND MAT 761 ) OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 771 - Differential Geometry
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Differential manifolds, tensor fields and mappings, differential forms and
+Stokes's theorem, affine connections, exponential mapping, covariant
+differentiation, torsion and curvature tensors, Riemannian connections,
+complete Riemannian manifolds, other modern topics.  
+PREREQ (MAT 602 AND MAT 632 AND MAT 661 ) OR GRADUATE STANDING IN MATHEMATICAL
+SCIENCES  
+
+  * ### MAT 781 - Numerical Optimization I
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Newton methods, interior point methods, proximal point algorithms, alternating
+direction method of multipliers, coordinate descent method, and
+stochastic/randomized algorithms.  
+PREREQ (MAT 682 AND MAT 683 ) OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 782 - Numerical Optimization II
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Continuation of MAT 781.  
+PREREQ MAT 781 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 800 - Topics In Analysis
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### MAT 802 - Real Variables II
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Topics in real variables and measure theory, such as differentiation theory in
+euclidean and abstract spaces, generalized derivatives and integrals, ergodic
+theory, martingales, surface area.  
+PREREQ MAT 701 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 804 - Functional Analysis II
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Abstract integration, Radon-Nikodym theorem. Representation of set functions
+by integrals. Ergodic theorems. Duality. Weak topologies, convex sets, and
+extreme points. Elements of spectral theory.  
+PREREQ MAT 702 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 805 - Partial Differential Equations
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+First-order linear equations. Hamilton, Jacobi, and Lie transformations.
+Classifications of second-order linear equations. Boundary- and initial-value
+problems. Sturm-Liouville problems and connections with integral equations.
+Nonlinear equations.  
+
+  * ### MAT 807 - Integral Equations
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Classification and examples of regular integral equations. Fredholm's
+theorems, Hilbert-Schmidt theory. Applications to differential equations.
+Nonlinear integral equations. Connections with general functional analysis.  
+PREREQ MAT 804 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 812 - Functions of a Complex Variable
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Continuation of MAT 712  
+PREREQ MAT 602 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 820 - Topics in Probability
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### MAT 830 - Topics in Modern Algebra
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### MAT 850 - Topics in Statistics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Contents vary from semester to semester. May be repeated for credit with
+permission.  
+
+  * ### MAT 860 - Topics in Topology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### MAT 880 - Topics in Numerical Analysis and Applied Mathematics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### MAT 890 - Advanced Seminar
+
+_College of Arts and Sciences_  
+1-6 credit(s) Irregularly
+
+* * *
+
+For advanced graduate students and staff members; credit determined by extent
+of participation in the seminar.  
+Repeatable  
+
+  * ### MAT 999 - Dissertation
+
+_College of Arts and Sciences_  
+0-15 credit(s) Every semester
+
+* * *
+
+Research work on a doctoral dissertation, under supervision of some member of
+the graduate staff. Credit depends on amount of time devoted to the work;
+course may be repeated up to a maximum of 30 credits.  
+Repeatable 14 time(s), 30 credits maximum  
+
+**Native American Studies**
+
+  * ### NAT 607 - Indigenous Feminist Thought and Theory
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with WGS 607  
+Double Numbered with NAT 407  
+Surveys major theoretical interventions/debates/concerns in Native American
+and Indigenous Studies (NAIS) by centering Native women and Indigenous
+feminisms. Provides critical context for more ethical engagement with
+indigenous communities/knowledges. Additional work required of graduate
+students.  
+
+**Neuroscience**
+
+  * ### NEU 607 - Advanced Neuroscience
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BIO 607  
+Double Numbered with NEU 407  
+Detailed analysis of the anatomy, physiology, and chemistry of the nervous
+system and behaviors that it mediates. Topics include: neurons and
+electrochemical properties of neurons, sensory and motor systems, homeostasis,
+sleep, consciousness, learning, and memory. Additional work required of
+graduate students.  
+
+  * ### NEU 613 - Readings in Neuroscience
+
+_College of Arts and Sciences_  
+0-3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with BEN 613 , BIO 624 , CSD 753 , PSY 778  
+A literature-based team-taught course focusing on in depth discussions of
+classical or recent papers of exceptional import to neuroscience. Students
+will complete weekly readings assigned by faculty and participate in a 3-hr/wk
+group facilitated discussion  
+
+  * ### NEU 614 - Interdisciplinary Methods of Neuroscience
+
+_College of Arts and Sciences_  
+0-3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with BEN 614 , BIO 625 , CSD 754 , PSY 779  
+A practical interdisciplinary survey course whereby neuroscience faculty
+introduce students to a wide array of methodologies, including molecular,
+cellular, developmental, systems, behavioral, and cognitive neuroscientific
+approaches to investigate basic, pre-clinical, translational, and clinical
+questions to unravel the relationship between brain and behavior.  
+
+  * ### NEU 777 - Advanced Cognitive Neuroscience
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSY 777  
+The science of how thought processes are instantiated in the brain including
+advanced techniques for behavioral and neural data and approaches for linking
+them together. Applications that demonstrate the brain-behavior relationship.  
+
+**Philosophy**
+
+  * ### PHI 500 - Selected Topics
+
+_College of Arts and Sciences_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Study of a significant philosopher or philosophical movement.  
+Repeatable  
+
+  * ### PHI 510 - Topics in Ancient Greek and Roman Philosophy
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Examination of principal works such as Plato's Sophist or Aristotle's
+Metaphysics, or of central themes such as weakness of will or knowledge and
+belief.  
+Repeatable  
+
+  * ### PHI 550 - Selected Topics in Philosophy
+
+_College of Arts and Sciences_  
+1-3 credit(s) Irregularly
+
+* * *
+
+Study of a significant philosophical problem.  
+Repeatable  
+
+  * ### PHI 551 - Mathematical Logic
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Predicate calculus with identity, its relationship to mathematics and to
+computer theory. Important results concerning independence, consistency,
+completeness, decidability and computability.  
+PREREQ PHI 251 OR MAT 375 OR CIS 375  
+
+  * ### PHI 552 - Modal Logic
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Systems of modal logic (logic of the terms "necessary" and "possible").
+Formalization and evaluation of modal arguments and basic concepts of
+metatheory and semantics. Related logics.  
+PREREQ PHI 251  
+
+  * ### PHI 555 - Philosophy of Mathematics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Diverse ways in which philosophers from Plato to Wittgenstein have understood
+the concept of mathematics.  
+PREREQ ANY PHI OR JUNIOR STANDING  
+
+  * ### PHI 565 - Philosophy of Language
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Concept and phenomenon of language. Logical, epistemological, and metaphysical
+ramifications of natural language and speech.  
+PREREQ PHI 251  
+
+  * ### PHI 573 - Philosophy of Physical Science
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Impact of classical mechanics, relativity, and quantum theory on philosophical
+accounts of space, time, matter, and causality.  
+PREREQ ANY PHI OR JUNIOR STANDING  
+
+  * ### PHI 575 - Philosophy of Social Science
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Crosslisted with SOS 575  
+Philosophical and methodological issues in social and behavioral science. Role
+of laws in explanation of human action, methodological individualism and
+holism, functional explanation, value-neutrality, behaviorism, and com puter
+simulation.  
+
+  * ### PHI 576 - Philosophy of Mind
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Advanced study of topics in philosophy of mind.  
+PREREQ PHI 301 OR 376 OR 377 OR 378 OR GRADUATE STANDING  
+
+  * ### PHI 583 - Metaphysics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Introduction to metaphysical inquiry.  
+PREREQ ANY PHI OR JUNIOR OR SENIOR STANDING  
+
+  * ### PHI 593 - Ethics and the Health professions
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with REL 551  
+Ethical theories in professional, organizational, and political-economic
+fields in health care. Specific issues: assisted suicide, professional codes,
+ethics of "cost- cutting" and justice with respect to care.  
+
+  * ### PHI 594 - Bioethics
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Crosslisted with MPH 664 , REL 552  
+Use of ethical theory in thinking about case problems in health care. Moral
+dilemmas: use of reproductive technologies, abortion, surrogate motherhood,
+research with humans, refusal and withdrawal of treatment, physician-assisted
+suicide.  
+
+  * ### PHI 600 - Selected Topics
+
+_College of Arts and Sciences_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### PHI 615 - Kant's Critique of Pure Reason
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Readings, papers, and discussions aimed at appraising value of the Critique,
+both as a historical document and as a continuing source of philosophical
+questions and answers.  
+
+  * ### PHI 617 - Proseminar:History of Philosophy
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Analysis of arguments and concepts in the history of philosophy. At least two
+major philosophical problems, as examined in the works of at least three major
+philosophers. Writing-intensive.  
+
+  * ### PHI 618 - Hegel, Marx, and Nietzsche
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with PHI 418  
+Interrelationships and contemporary debate over interpretations of their major
+works. Topics include: philosophy of history, human nature, dialectics, theory
+of knowledge, alienation, concepts of self and freedom. Additional work
+required of graduate students.  
+
+  * ### PHI 622 - Twentieth Century French and German Philosophy
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with PHI 422  
+Twentieth-century French and German philosophical criticism of the legacy of
+the Enlightenment and its conceptions of subjectivity and epistemology.
+Critical theory, hermeneutics, poststructuralism, and psychoanalytically
+inspired theories. Additional work required of graduate students.  
+
+  * ### PHI 629 - Islamic Metaphysics and Epistemology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with REL 629  
+In-depth study of the main epistemological systems and theories of metaphysics
+developed in Islamic intellectual tradition. Explores the systems of
+interpretation of the Qur'an and Sunnah developed by legal scholars, mystics
+and philosophers.  
+
+  * ### PHI 640 - Continental Philosophy of Religion
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with REL 660  
+Continental philosophers such as Husseri, Heidegger, Levinas, Derrida,
+Foucault, Deleuze, Irigaray, and Marion. Their influence on theology,
+religious theory. Topics include overcoming onto-theology; phenomenology,
+deconstruction and theology; return of religion.  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### PHI 650 - Selected Topics in Philosophy
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### PHI 651 - Logic and Language
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to systems of formal logic and their relationships with natural
+language. Standard logic; its relationships with linguistics, philosophy, and
+mathematics. Translation and the limits of formalization.  
+
+  * ### PHI 665 - Problems in Philosophy of Language
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected areas or problems in the philosophy of language, e.g., meaning and
+reference, speech-act theory, logical form, referential opacity, generative
+semantics, or semantics and ontology.  
+Repeatable  
+
+  * ### PHI 673 - The Structure of Science
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Such topics as relations among observations, laws, and theoretical construct:
+nature of scientific explanations, philosophical theories of probability, and
+character of inductive reference.  
+
+  * ### PHI 687 - Proseminar: Language, Epistemology, Mind and Metaphysics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected major philosophical problems in philosophy of language, epistemology,
+philosophy of mind, and/or metaphysics, as examined in the works of at least
+three major philosophers. Writing intensive.  
+
+  * ### PHI 693 - Proseminar: Moral and Political Philosophy
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Selected major philosophical problems in moral and political philosophy as
+examined in the works of at least three major philosophers. Writing intensive.  
+
+  * ### PHI 695 - Aesthetics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Cheif aesthetic theories from Plato to the present. Application to literature
+and the fine arts.  
+
+  * ### PHI 696 - Selected Problems in Aesthetics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Philosophical issues that arise within the various arts and literature.  
+PREREQ PHI 695  
+
+  * ### PHI 700 - Research in History of Philosophy
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### PHI 710 - Seminar in Ancient and Medieval Philosophy
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### PHI 730 - Seminar in Modern Philosophy
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### PHI 740 - Seminar in Contemporary Philosophy
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### PHI 750 - Seminar in Current Philosophical Problems
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### PHI 840 - Seminar in Metaphysics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### PHI 850 - Seminar in Theory of Knowledge
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### PHI 860 - Seminar in Ethics and Value Theory
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### PHI 870 - Seminar in Aesthetics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### PHI 880 - Seminar in Social and Political Philosophy
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### PHI 997 - Masters Thesis
+
+_College of Arts and Sciences_  
+1-15 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+  * ### PHI 999 - Dissertation
+
+_College of Arts and Sciences_  
+1-15 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+**Physics**
+
+  * ### PHY 514 - Advanced Experimental Physics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The student will undertake an open-ended investigation of one or more physics
+experiments either in an active research laboratory or using departmental
+facilities. Ideas and progress will be discussed in regular seminars
+throughout the semester.  
+PREREQ PHY 344 or graduate standing  
+
+  * ### PHY 514 - Advanced Experimental Physics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The student will undertake an open-ended investigation of one or more physics
+experiments either in an active research laboratory or using departmental
+facilities. Ideas and progress will be discussed in regular seminars
+throughout the semester.  
+
+  * ### PHY 523 - Advanced Mechanics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Moving coordinate systems, systems of particles, mechanics of rigid bodies.
+Lagrangian mechanics, normal modes of vibrating systems.  
+PREREQ PHY 360 AND MAT 397  
+
+  * ### PHY 524 - Electromagnetics I
+
+_Physics_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Vector analysis, electrostatics, LaPlace's equation, dielectrics,
+magnetostatics, magnetic materials. Additional work required of graduate
+students.  
+PREREQ (PHY 212 OR PHY 216 OR AP PHYSICS C (ELEC & MAG) EXAM SCORE MIN 3) AND
+MAT 397  
+
+  * ### PHY 525 - Electromagnetics II
+
+_Physics_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Faraday's Law, displacement current, Maxwell's equations, plane waves, power
+flow in waves, reflection and transmission of waves, wave-guides, radiation,
+and antennas.  
+PREREQ PHY 524  
+
+  * ### PHY 531 - Thermodynamics and Statistical Mechanics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Laws of thermodynamics, temperature, work, heat. Thermodynamic potentials and
+methods. Application to special systems, low-temperature physics. Classical
+statistical mechanics. Quantum statistics. Connections between thermodynamics
+and statistical mechanics.  
+PREREQ PHY 361  
+
+  * ### PHY 557 - Quantum Information Science
+
+_Quantum Information Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Quantum mechanics from the standpoint of information science. Storage,
+transmission, and processing of quantum information. Quantum entanglement,
+quantum cryptography, and quantum computing. Open quantum systems, quantum
+entropy.  
+PREREQ PHY 361 and either MAT 485 or both MAT 331 and MAT 414  
+Repeatable 1 time(s)  
+
+  * ### PHY 567 - Introduction to Quantum Mechanics I
+
+_College of Arts and Sciences_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Problems with classical physics; one dimensional Schrodinger equation,
+concepts and illustrative problems; N particle systems including separation of
+center of mass, identical particles, and Pauli principle; Schrodinger equation
+in three dimensions.  
+PREREQ PHY 361 and either MAT 485 or both MAT 331 and MAT 414  
+
+Page: 1 | 2 | 3 | 4 | 5 | **6** | 7 | 8 | 9
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

@@ -1,0 +1,821 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Undergraduate Course Catalog Syracuse University |   
+|  |  2023-2024 Undergraduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG]  
+
+#  Sport Management Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: David B. Falk College of Sport and Human Dynamics Courses  
+  
+## Sport Management
+
+#### Courses
+
+**Sport Analytics**
+
+  * ### SAL 200 - Selected Topics
+
+_Sport Management_  
+1-6 credit(s) Upon Sufficient Interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+
+  * ### SAL 213 - Sport Data Analysis I
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Analyzing and interpreting sport data through analytical procedures. Current
+advanced statistics will be introduced, discussed, and computed across a
+variety of professional and college sports.  
+PREREQ SPM 295  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### SAL 284 - Introduction to Python for Sport Analytics
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Utilizing Python programming Sports Analytics students will collect, clean,
+and visualize sports data. Students will conduct statistical analyses of
+collected sports datasets, interpret, and visualize results.  
+
+  * ### SAL 290 - Independent Study
+
+_Sport Management_  
+1-6 credit(s)
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+based on a plan submitted by the student. Permission in advance with the
+consent of the department chairperson, instructor, and dean. Limited to those
+in good academic standing.  
+Repeatable  
+
+  * ### SAL 295 - Research Methodology for Sport Analytics
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to elements of sport analytics, research methods and design,
+applied probability and statistics. Students will conduct research and
+construct papers using Excel and R to interpret sport statistical analyses.  
+
+  * ### SAL 300 - Selected Topics
+
+_Sport Management_  
+1-6 credit(s) Every semester
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+
+  * ### SAL 313 - Sport Data Analysis II
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Advanced econometric techniques for cross-sectional, time-series and panel
+(i.e., cross-sectional and time-series) data are covered. Non-linear models
+are considered using the generalized linear model approach. Techniques will be
+applied to sport analytic data across sports.  
+PREREQ SAL 213  
+
+  * ### SAL 323 - Database and Programming for Sport Analytics
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+An introduction to computer programing within sport analytics. An emphasis on
+learning to code, program, package, and use modules within sport. Database
+management, storage, and debugging techniques will be reviewed for sport
+industry data.  
+PREREQ SAL 213 AND MAT 295  
+
+  * ### SAL 358 - Sport Analytics Arizona Immersion
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Differentiates structure within analytics departments among multiple
+professional sports organizations. Prepares students to compete in the
+baseball analytics based SABR Diamond Dollars Case Competition and attend the
+SABR Analytics Conference. Travel and field study course.  
+Repeatable 2 time(s), 6 credits maximum  
+
+  * ### SAL 366 - Sport Economics II
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Analyzing and explaining sport issues through the lens of economic analysis.
+Theoretical models and applications will be discussed that relates to aspects
+of professional, collegiate, and amateur sports nationally and
+internationally.  
+PREREQ ECN 311 and SAL 313 and SPM 365  
+Shared Competencies Critical and Creative Thinking; Scientific Inquiry and
+Research Skills
+
+  * ### SAL 384 - Advanced Python for Sport Analytics
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Advanced analysis of various web scraping techniques with the specific focus
+of learning how to scrape sports data from various sport websites. Significant
+time will be spent problem solving and cleaning data from complicated sources.  
+PREREQ SAL 284 OR IST 256  
+
+  * ### SAL 413 - R for Sport Analytics
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Analyzing and interpreting sport data through analytical procedures in the
+software program R. Current advanced statistics and techniques will be covered
+using a variety of sport databases.  
+COREQ SAL 213  
+
+  * ### SAL 490 - Independent Study
+
+_Sport Management_  
+1-6 credit(s)
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  * ### SAL 495 - Sport Analytics Thesis Seminar I
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+First course in a two-semester sequence for sport analytics students which
+will prepare the student for their thesis project. Within this course,
+students will be guided to research and choose their thesis topic.  
+PREREQ SPM 365  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### SAL 496 - Sport Analytics Thesis Seminar II
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Second semester in a two-semester course sequence for Sport Analytics majors
+who will complete an original research project within sport analytics.  
+PREREQ SAL 495  
+Shared Competencies Scientific Inquiry and Research Skills
+
+**Sport Management**
+
+  * ### SPM 101 - Personal and Social Responsibility
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Designed to assist students in coping with the transition and challenges of
+college, athletic life, and beyond. The course will promote students'
+ownership of their academic, athletic, personal, and social responsibility.  
+
+  * ### SPM 199 - The Super Bowl: Sport, Culture and Entertainment
+
+_Sport Management_  
+3 credit(s) Irregularly
+
+* * *
+
+The evolution and strategic brilliance that has allowed a football game to
+become a social phenomena with international audiences, business impact, and
+cultural implications.  
+
+  * ### SPM 200 - Selected Topics in Sport Management
+
+_Sport Management_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### SPM 201 - Professional Development in Sport Management
+
+_Sport Management_  
+1 credit(s) Every semester
+
+* * *
+
+Using a blend of theory, skill development, and practical application,
+students will gain the knowledge and ability to successfully prepare for the
+Senior Capstone Experience  
+
+  * ### SPM 205 - Principles and Contemporary Issues in Sport Management
+
+_Sport Management_  
+3 credit(s) Every semester
+
+* * *
+
+Overview of the sport industry through examination of problems and issues
+faced by contemporary sport managers. Unique characteristics of sport and
+resulting social and ethical responsibilities of sport managers are discussed
+using case study method.  
+Shared Competencies Ethics, Integrity, and Commitment to Diversity and
+Inclusion
+
+  * ### SPM 215 - Principles of Sales in Sport
+
+_Sport Management_  
+3 credit(s) Every semester
+
+* * *
+
+Sales promotions and management principles required for successful selling in
+the sport industry. Topics include identification of product segments and
+markets for ticket sales, promotions, sponsorship, and merchandise.  
+PREREQ SPM 205  
+
+  * ### SPM 224 - Introduction to Sport Event Management
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Students will gain knowledge of the principles and procedures for planning,
+managing, and implementing a variety of sporting events through an examination
+of promotions, marketing, ticketing, hiring, event logistics, risk management,
+volunteer management, budgeting, and contracts.  
+
+  * ### SPM 225 - Managing the Sport Organization
+
+_Sport Management_  
+3 credit(s) Every semester
+
+* * *
+
+Application of management concept and theories to sport organizations and the
+sport industry. Includes issues of leadership, ethics, organizational design,
+strategic planning, labor relations, diversity, globalization, and
+organizational changes.  
+PREREQ SPM 205  
+Shared Competencies Critical and Creative Thinking
+
+  * ### SPM 245 - Race, Gender, and Diversity in Sport Organizations
+
+_Sport Management_  
+3 credit(s) Every semester
+
+* * *
+
+Application of concepts and theories from the field of organizational studies
+to workforce diversity, inclusion, and equity in sport organizations. Issues
+of race/ethnicity and gender are emphasized.  
+Shared Competencies Critical and Creative Thinking; Ethics, Integrity, and
+Commitment to Diversity and Inclusion
+
+  * ### SPM 270 - Experience Credit
+
+_Sport Management_  
+1-6 credit(s) Every semester
+
+* * *
+
+Participation in a discipline- or subject-related experience. Students must be
+evaluated by written or oral reports or an examination. Permission in advance
+with the consent of the department chairperson, instructor, and dean. Limited
+to those in good academic standing.  
+Repeatable  
+
+  * ### SPM 290 - Independent Study
+
+_Sport Management_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+based on a plan submitted by the student. Permission in advance with the
+consent of the department chairperson, instructor, and dean. Limited to those
+in good academic standing.  
+Repeatable  
+
+  * ### SPM 300 - Selected Topics
+
+_Sport Management_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### SPM 305 - Principles of Sport Hospitality Management
+
+_Sport Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Hospitality industry as it relates to Sport Management. Examines the lodging,
+food and beverage, and travel/transportation logistics for sport participants
+and spectators.  
+
+  * ### SPM 324 - Sport Sponsorship and Promotion
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Overview of sponsorship and promotional principles used in marketing sport
+events. An emphasis on proposal writing, sponsorship solicitation, and the
+elements of a promotional campaign. Students will apply the theory to an
+existing sport event.  
+
+  * ### SPM 325 - Sport Communications
+
+_Sport Management_  
+3 credit(s) Every semester
+
+* * *
+
+Role of communications in management, news release writing, working with and
+utilizing the various forms of media, the expanding use of the Internet in
+sport communications, crisis management, pitching stories, interviews, and
+ethical issues.  
+PREREQ SPM 205  
+Shared Competencies Communication Skills
+
+  * ### SPM 327 - Human Development and Sport
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with HFS 327  
+Examines the dynamics of social change and human well-being in the context of
+sport in promoting positive youth development. Personal, social, and cultural
+development through sport-based programs and initiatives are explored.  
+
+  * ### SPM 330 - Name Image Likeness
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Foundations of NIL legislation and its implications for the sport industry
+will be covered. Students will engage in building a brand, proposal writing,
+infographic design, marketing and social media plans.  
+
+  * ### SPM 340 - Sports, Media and Society
+
+_Sport Management_  
+3 credit(s) Irregularly
+
+* * *
+
+The relationship between sport, media and the broader society. Students will
+explore the interrelationship of the principal mediums, gender, race,
+identity, sport and the society at-large.  
+PREREQ SPM 205  
+
+  * ### SPM 342 - The Business of Esports
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Overview of business elements of Esport management including marketing, event
+creation, sponsorship, and athlete representation. The course emphasizes the
+rationale, benefits, proposal development, solicitations, and theoretical
+concepts as it relates to real-world sport events.  
+
+  * ### SPM 345 - Technology in Sport Management
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A survey of communication and management technologies in the sport industry.
+Includes topics of information management, ticketing systems, scoreboard and
+video-board management, web and graphic design, publication layout and design,
+statistics management, and facilities operations.  
+PREREQ SPM 205  
+Shared Competencies Critical and Creative Thinking; Information Literacy and
+Technological Agility
+
+  * ### SPM 346 - Sport in American Society
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course will study the impact of sport on American society, and how our
+culture has influenced the development of sports, governing bodies, teams, and
+leagues. This course puts today's sports landscape into historical
+perspective.  
+
+  * ### SPM 348 - Analysis of Digital Media in Sport
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The analysis and sport business application of various social and digital
+media currently utilized in sport management and strategies employed to
+maximize their effectiveness. Students will assess the usage of various social
+media platforms as it relates to the strategic business decisions made within
+sport organizations.  
+
+  * ### SPM 350 - Sports Ticket Sales
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with SPM 650  
+Sports ticket sales process and best practices. Simulated ticket sales
+environments, application of sales practices and connecting with industry
+sales professionals. Additional work required of graduate students.  
+PREREQ SPM 215  
+
+  * ### SPM 354 - Esports and Event Management
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Examination of esports event management. Best practices for esports events and
+how esports differ from traditional sport events. Principles and procedures
+for planning, managing, budgeting, marketing, contracts, and the logistics of
+implementing esports events.  
+
+  * ### SPM 356 - Olympic Sport Management
+
+_Sport Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Ancient and Modern Olympic Games' influence on contemporary sport. Business
+and competitive athletic aspects in the history of Modern Games. Influences of
+and organization of International Olympic Committee, National Olympic
+Committees, and International Sports Federations.  
+
+  * ### SPM 357 - Olympic Odyssey
+
+_Sport Management_  
+3 credit(s) Irregularly
+
+* * *
+
+The Olympic movement from Ancient Games to modern Olympics is studied by
+visiting sites rich in international sport history. Governance, economics,
+culture, and history of Olympic sport is examined in major Olympic cities
+throughout Europe.  
+
+  * ### SPM 358 - Sport Management LA Immersion
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Differentiates governance structure among multiple professional sports and
+distinguishes organizational management strategies among sports media, event
+planning, marketing, athlete representation, facilities management, and
+professional and intercollegiate teams. Intensive spring break travel and
+field study course.  
+PREREQ SPM 205  
+
+  * ### SPM 365 - Sport Economics
+
+_Sport Management_  
+3 credit(s) Every semester
+
+* * *
+
+Analyzing and explaining sport issues through the lens of economic analysis.
+Theoretical models and applied applications will be discussed that relates to
+aspects of professional, collegiate, and amateur sports nationally and
+internationally.  
+
+  * ### SPM 375 - Capstone/Practicum Pre-Planning
+
+_Sport Management_  
+0 credit(s) Every semester
+
+* * *
+
+Double Numbered with SPM 675  
+
+Pre-planning for matching and securing a Capstone/Practicum. Course
+facilitates access to the Tevera Internship system via BlackBoard.  
+Repeatable 4 time(s)  
+
+  * ### SPM 380 - International Course
+
+_Sport Management_  
+1-12 credit(s) Irregularly
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the S.U.
+academic department to assign the appropriate course level, title, and grade
+for the student's transcript.  
+
+  * ### SPM 381 - International Sports Relations
+
+_Sport Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Through case studies, this course will examine sport's power as a tool in the
+domestic and international political arenas. Students will learn how sport can
+smother dissent, promote hyper-nationalism, protest injustice, and inspire
+better relations.  
+PREREQ SPM 205  
+
+  * ### SPM 395 - Psycho-Social Issues of Sport
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+An in-depth analysis of the psychosocial aspects of sport. Varied
+psychological and sociological topics as they relate to sport/exercise
+participation, performance, and enjoyment.  
+PREREQ SPM 205  
+
+  * ### SPM 415 - Sport Law
+
+_Sport Management_  
+3 credit(s) Every semester
+
+* * *
+
+Introduction and application of law to the sports industry. Legal concepts
+covered are agency, contract, labor, antitrust, tort, and criminal laws.
+Special focus on contemporary issues in sports including diversity, Title IX,
+drugs, and disabilities.  
+PREREQ SPM 205  
+
+  * ### SPM 437 - Sport Venue Management
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with SPM 637  
+Planning and managing different types of sport facilities. Understanding the
+complexity of conceptualizing, constructing, promoting, managing, and
+maintaining modern sport stadiums, arenas, domes and multi-purpose facilities.
+Additional work required of graduate students.  
+
+  * ### SPM 444 - Sports Marketing Management
+
+_Sport Management_  
+3 credit(s) Every semester
+
+* * *
+
+Analytical examination of the sport industry from the strategic marketing
+perspective of the organizations involved. Emphasizing writing and proposal
+design.  
+
+  * ### SPM 446 - Senior Seminar in Sport Revenue Management and Operations
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+An in-depth analysis and advanced study of sport revenue management and
+operations, with an emphasis on current topics impacting the sport industry. A
+culminating project will be completed in coordination with a sport
+organization.  
+PREREQ SPM 444  
+
+  * ### SPM 449 - Technologies in Game Day Operations
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with SPM 649  
+Current applications of technology as it relates to sport venues and sport
+organizations will be examined. Topics include: sound systems, ticketing
+systems, video and score board operations, and lighting systems. Additional
+work required of graduate students.  
+
+  * ### SPM 454 - Esports Business Practicum
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Provides students interested in a career in the Esports industry with a unique
+opportunity to intern with Esports businesses, Esports events, and Esports
+facilities. Students will be required to meet with instructor throughout
+semester.  
+Repeatable 2 time(s), 6 credits maximum  
+
+  * ### SPM 455 - Senior Sport Management Capstone
+
+_Sport Management_  
+12 credit(s) Every semester
+
+* * *
+
+Supervised professional work experience in the sport industry through
+positions in professional and intercollegiate sports, arenas, sport marketing
+and management firms, and other sport entities. Analysis paper and oral
+presentation required.  
+PREREQ SPM 201 AND SENIOR STANDING  
+
+  * ### SPM 470 - Experience Credit
+
+_Sport Management_  
+1-6 credit(s) Every semester
+
+* * *
+
+Participation in a discipline- or subject-related experience. Students must be
+evaluated by written or oral reports or an examination. Permission in advance
+with the consent of the department chairperson, instructor, and dean. Limited
+to those in good academic standing.  
+Repeatable  
+
+  * ### SPM 480 - International Course
+
+_Sport Management_  
+1-12 credit(s) Irregularly
+
+* * *
+
+Offered through Syracuse Abroad by educational institution outside the United
+States. Student registers for the course at the foreign institution and is
+graded according to that institution's practice. Syracuse Abroad works with
+the S.U. academic department to assign the appropriate course level, title,
+and grade for the student's transcript.  
+Repeatable  
+
+  * ### SPM 490 - Independent Study
+
+_Sport Management_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+based on a plan submitted by the student. Permission in advance with the
+consent of the department chairperson, instructor, and dean. Limited to those
+in good academic standing.  
+Repeatable  
+
+  * ### SPM 499 - Honors Capstone Project
+
+_Sport Management_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+PREREQ SPM 201  
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Undergraduate University Requirements Syracuse University's Shared
+Competencies
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies Martin J. Whitman School of
+Management Maxwell School of Citizenship and Public Affairs S.I. Newhouse
+School of Public Communications College of Professional Studies College of
+Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

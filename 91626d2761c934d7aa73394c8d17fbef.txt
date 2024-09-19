@@ -1,0 +1,1633 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+View Courses by College . Please note, when searching courses by Code or
+Number, an asterisk (*) can be used to return mass results. For instance a
+Code search of _6*_ can be entered, returning all 600-level courses.
+
+  * Guide to Reading Course Descriptions
+
+  
+  
+Course Filter |   
+---|---  
+Filter this list of courses using course prefix, course code, keywords or any
+combination.  
+Prefix: | Code or Number: | Keyword or Phrase: |   
+Choose Course Prefix All prefixes… AAA AAS ACC ADV AED AEE AIC AJC ALP AMC ANT APH ARB ARC ARI ARL ASL ATR BCM BDJ BEN BIO BSN BTB BUA CAR CAS CCR CEE CEN CFE CHE CHI CIN CIS CLR CMD COM COU CPS CRS CSD CSE CTG DBS DES DRS DSP EAR ECE ECN ECS EDA EDU EED EEE EGR ELE ELL ENA ENC ENG ENI ENL ENV EUP EXE FAS FHN FIL FIN FLT FMA FRE FSC FST GEO GER GRA GRE GTR HEB HED HFS HIN HOA HOM HPD HRP HST HUM ICC IDE IDS ILL INB IND ISD ISM IST ITA JNL JPS JSP KOR LAS LAT LAW LIN LIT LLM LPP MAE MAR MAS MAT MBC MEE MES MFE MFT MGT MHL MIS MMI MND MOT MPD MPH MTC MTD MTS MUE MUI MUS NAT NEU NEW NSD NUC OBO ORG PAI PDG PER PHI PHO PHP PHY PNO POL POR PPE PPM PRC PRL PRS PSC PSY QSX RAE RED REL RES RUS SAL SAS SCE SCI SCM SED SMC SOC SOS SPA SPE SPM SST STT SWA SWK SXP TML TRB TRF TRK TRP TXT VCO VID VIS VLA VLN VOC WGS WRT |  Choose Course Number |  Choose Keyword |   
+Find whole word or phrase only.  
+|  
+  
+---  
+  
+**Bioengineering**  
+|
+
+  * ### BEN 991 - Introduction to MS Research
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Preliminary research and investigation on a topic of interest under
+supervision of a member of the faculty.  
+
+  
+|
+
+  * ### BEN 996 - Masters Project
+
+_Masters Project_  
+0 credit(s) At least 1x fall or spring
+
+* * *
+
+Investigation of a bioengineering problem. An oral defense is required in
+accordance with current departmental guidelines. Required of all students
+electing the non-thesis option for a master's degree.  
+
+  
+|
+
+  * ### BEN 997 - Masters Thesis
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Independent investigation on a topic of interest under supervision of a member
+of the faculty.  
+PREREQ BEN 991  
+
+  
+|
+
+  * ### CEN 522 - Biomedical-Device Infections
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 522  
+Discussion of the complex issues related to biomedical-device infections.
+Investigation of the impact of biomaterials, microbiology, detection, and
+device regulation to reduce biomedical-device infections.  
+
+  
+  
+**Biology**  
+|
+
+  * ### BIO 501 - Biology of Cancer
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Classifications and model systems in cancer. Oncogenes; viral and chemical
+oncogenesis. Growth control, genetic and epigenetic changes, progression,
+invasion, metastasis, and tumor immunobiology. Cancer biochemistry, host-tumor
+interactions, chemotherapy, immunotherapy, and host-response modification.  
+PREREQ BIO 326 AND 327  
+
+  
+|
+
+  * ### BIO 503 - Developmental Biology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Regulation of form and differentiation in eucaryotic organisms. Control of
+development at the molecular, cellular, and organismal levels. Experimental
+approaches to provide an understanding of developmental processes.  
+PREREQ BIO 326 AND 327  
+
+  
+|
+
+  * ### BIO 565 - Cellular Physiology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+A lecture course on basic problems of cell function, including energetics,
+membrane transport, contractility, and properties of excitable membranes.  
+PREREQ BIO 326 AND 327  
+
+  
+|
+
+  * ### BIO 600 - Selected Topics
+
+_Arts and Sciences_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### BIO 602 - Ethical Issues in Biology and Biotechnology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A detailed introduction to the field of bioethics, including foundations of
+ethics and moral reasoning, as well as both matters associated with
+responsible conduct of research and societal issues that represent areas of
+intersection of ethics and advances in biotechnology and biomedicine.  
+
+  
+|
+
+  * ### BIO 607 - Advanced Neuroscience
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with NEU 607  
+Double Numbered with BIO 407  
+Detailed analysis of the anatomy, physiology, and chemistry of the nervous
+system and behaviors that it mediates. Topics include: neurons and
+electrochemical properties of neurons, sensory and motor systems, homeostasis,
+sleep, consciousness, learning, and memory. Additional work required of
+graduate students.  
+
+  
+|
+
+  * ### BIO 608 - Quantitative Methods for Life Scientists
+
+_Quantitative Methods for Life Scientists_  
+0-3 credit(s) At least 1x fall or spring
+
+* * *
+
+This is a graduate level course for those conducting research in field- or
+laboratory-based life sciences, wishing to use statistics and data analysis
+and produce effective data presentation.  
+
+  
+|
+
+  * ### BIO 610 - Graduate Research Laboratory
+
+_College of Arts and Sciences_  
+1-3 credit(s) Every semester
+
+* * *
+
+Work in research laboratories to acquire skills and techniques.  
+Repeatable 5 time(s), 6 credits maximum  
+
+  
+|
+
+  * ### BIO 611 - Evolutionary Mechanisms
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with BIO 411  
+Core processes & mechanisms involved in evolution, extending to molecular
+evolution, evolutionary genetics, & genomics. Topics include: genetic
+variation, mutation & neutral evolution, selection, drift & inbreeding,
+quantitative genetics, molecular evolution, selection in the wild, adaptation,
+& speciation. Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 614 - Brain & Behavioral Plasticity
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 414  
+Behavioral adaptations give animals the ability to use their pasts to solve
+new problems, an ability important to their survival. This course will examine
+behavioral plasticity and the brain mechanisms responsible for adaptive
+changes inn behavior. Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 615 - Conservation Biology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with BIO 415  
+Considered from the standpoint of modern molecular, genetic, and population
+biology. Biodiversity, minimum viable populations, reserve design, genetic
+variation, applications of recombinant DNA technology, ex situ, care and
+ecosystem reconstruction. Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 616 - Biology of Aging
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 416  
+Reviews and discusses current topics on biology of aging emphasizing
+distinctions between healthy and pathological aging. Primary focus will be on
+molecular, cellular, systems-level and whole organism changes accompanying
+aging. Additional work required of graduate students. Additional work required
+of graduate students.  
+
+  
+|
+
+  * ### BIO 621 - Grad Capstone in Biotechnology
+
+_College of Arts and Sciences_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Students will synthesize Biotechnology principles and concepts while
+developing skills in workshop-style sessions that enhance their
+competitiveness as applicants for jobs in the field and/or professional
+schools.  
+
+  
+|
+
+  * ### BIO 624 - Readings in Neuroscience
+
+_College of Arts and Sciences_  
+0-3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with BEN 613 , CSD 753 , NEU 613 , PSY 778  
+A literature-based team-taught course focusing on in depth discussions of
+classical or recent papers of exceptional import to neuroscience. Students
+will complete weekly readings assigned by faculty and participate in a 3-hr/wk
+group facilitated discussion  
+
+  
+|
+
+  * ### BIO 625 - Interdisciplinary Methods of Neuroscience
+
+_College of Arts and Sciences_  
+0-3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with BEN 614 , CSD 754 , NEU 614 , PSY 779  
+A practical interdisciplinary survey course whereby neuroscience faculty
+introduce students to a wide array of methodologies, including molecular,
+cellular, developmental, systems, behavioral, and cognitive neuroscientific
+approaches to investigate basic, pre-clinical, translational, and clinical
+questions to unravel the relationship between brain and behavior.  
+
+  
+|
+
+  * ### BIO 630 - Genetics Laboratory
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 430  
+Experience in genetic methods and analyses using various model organisms, such
+as budding yeast, fruit flies, nematodes, and mustard plants. Experiments will
+include gene mapping, phenotypic analysis, transformation, complementation,
+and an introduction to molecular biology. Additional work required for
+graduate students.  
+
+  
+|
+
+  * ### BIO 631 - Population Genetics
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Double Numbered with BIO 431  
+Models of population growth, Hardy-Weinburg equilibrium, X-linkage and two
+loci, subdivision, inbreeding and finite populations, quantitative characters,
+selection, migration, mutation, the fundamental theorem, stochastic processes,
+and requisite mathematics. Computer programming is part of the laboratory
+requirement. Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 634 - Advanced Microscopy Techniques in Cell and Developmental Biology Lab
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 434  
+Both a literature-based course in light microscopy and a hands-on lab
+experience using high-end microscopic systems. Students cover studies
+contributing to their knowledge on cell and development biology while
+implementing those techniques in the lab. Additional work required for grad.
+students.  
+
+  
+|
+
+  * ### BIO 635 - Physical Cell Biology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 635 , CEN 635 , CHE 635 , PHY 635  
+This interdisciplinary class for science and engineering students provides an
+introduction to the quantitative description of biological systems and
+processes. The focus is on the biological and physical aspects of structure
+and function of cells and their subsystems.  
+
+  
+|
+
+  * ### BIO 636 - Pharmacology of Substance Abuse
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 436  
+This course covers major substances of abuse, including alcohol, marijuana,
+cocaine, hallucinogens, methamphetamine, and opiates, and will include
+relevant neuroanatomy and cellular and biochemical mechanisms of their mode of
+action. Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 637 - Seminar in Developmental Neuroscience
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with BIO 437  
+Seminar course designed to enable students to develop & practice skills in
+critical analysis as applied to reading primary scientific literature,
+covering some of the general principles of how a functioning nervous system is
+made in developing animals. Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 638 - Open Problems in Soft Interfaces
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 638 , CEN 638 , CHE 638 , PHY 638  
+In this seminar course on soft and biological materials and interfaces, teams
+from science and engineering will identify, discuss and assess current
+articles from the literature. Writing skills related to publishing peer-
+reviewed research are introduced.  
+
+  
+|
+
+  * ### BIO 639 - Seminar in Ecosystem Ecology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with BIO 439  
+Examines the main drivers ¿ climate, biodiversity, trophic structure - of
+energy and nutrient flows through terrestrial and aquatic ecosystems by
+exploring reviews and the primary research literature. Additional work
+required of graduate students.  
+
+  
+|
+
+  * ### BIO 640 - Applied Genomics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 440  
+Introduction to Next Generation Sequencing (NGS) technologies and their
+application to a variety of biological problems, such as genome assembly and
+annotation, gene expression analysis, microbial genomics, and comparative
+evolutionary analyses. Additional work required for graduate students.  
+
+  
+|
+
+  * ### BIO 641 - Seminar in Infectious Diseases
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with BIO 441  
+Seminar focusing on human diseases caused by infectious agents such as viruses
+and bacteria. Cause (agent), contagion, symptoms, treatment & potential
+outcomes will be discussed. Lectures & review of patient case studies.
+Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 642 - Seminar in Model Organism Genetics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 442  
+Literature review of research papers using model genetic systems to
+investigate topics including animal and plant development, cancer,
+neurological disease, behavior, and aging. Additional work is required of
+graduate students.  
+
+  
+|
+
+  * ### BIO 643 - Seminar in Epigenetics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with BIO 443  
+Seminar covering how epigenetic (gene expression inherited without change in
+DNA sequence) mechanisms regulate gene expression for proper development of
+organisms, including how they regulate health & behavior of animals due to
+environmental stimuli. Additional work is required of graduate students.  
+
+  
+|
+
+  * ### BIO 644 - Seminar in Neurotoxicology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with BIO 444  
+Examination of the mechanisms and consequences of toxicity of poisons in the
+central and peripheral nervous systems with a focus on the primary research
+literature. Additional work is required of graduate students.  
+
+  
+|
+
+  * ### BIO 645 - Environmental Biology laboratory
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 445  
+Students learn spatial and Geographic Information System software, statistical
+analysis and evaluation of satellite data to explore, through discovery-based
+learning, major global environmental changes and their relevance to
+biodiversity and ecosystem function. Additional work required of graduate
+students.  
+
+  
+|
+
+  * ### BIO 646 - Epigenetics of Health &Disease;
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 446  
+Exploration of how epigenetic modifications influence our health and modify
+our risk of disease, including neurodevelopmental and neurodegenerative
+disorders, heart disease, and obesity. Additional work required of graduate
+students.  
+
+  
+|
+
+  * ### BIO 650 - Seminar in Evolutionary Genetics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with BIO 450  
+Topics relating to the fundamental principles underlying the evolution and
+genetics of complex traits. Current and/or classic examples from the primary
+research literature will be chosen for discussions. Additional work is
+required of graduate students.  
+
+  
+|
+
+  * ### BIO 652 - Neurodegenerative Disease
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 452  
+This seminar course is intended to review and to stimulate discussion about
+the current status of our knowledge about neurodegenerative disease,
+emphasizing distinctions between pathological and healthy brain aging. Jrs. &
+Srs. only; others by permission.
+
+* * *
+
+  
+
+  
+|
+
+  * ### BIO 656 - Seminar in Human Disease Genomics
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Double Numbered with BIO 456  
+Introduces students to influential genomic studies of the etiology &
+epidemiology of human disease. Recent insights into the genetic basis of human
+adaptation & its potential relevance to disease predisposition will be
+discussed. Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 657 - Principles of Human Toxicology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with FSC 657  
+Double Numbered with BIO 457  
+This course examines key aspects of human toxicology, including dose-response
+relationships, absorption, distribution, biotransformation, elimination,
+toxicokinetics, molecular mechanisms of toxicity, pesticides, metals, and
+toxic responses in specific organ systems. Additional work required of
+graduate students.  
+
+  
+|
+
+  * ### BIO 658 - Seminar in Animal Communication
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 458  
+Fundamental principles underlying how and why animals communicate with each
+other. Examination of the behavioral role of signaling, the conflicts that
+arise when senders and receivers have differing interests, and the behavioral
+strategies that result from these conflicts. Additional work required of
+graduate students.  
+
+  
+|
+
+  * ### BIO 659 - Plants & People
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with BIO 459  
+Focus on plant biology, the role of plants in the environment and society, and
+current topics surrounding plants and people. Additional work is required of
+graduate students.  
+
+  
+|
+
+  * ### BIO 662 - Molecular Genetics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 462  
+An introduction to gene and genome functions, mechanisms of gene regulation,
+epigenetics and the molecular basis of human disease. An emphasis will be
+placed on genomic, transcriptomic and epigenomic systems level approaches to
+these topics. Additional work required of graduate students.  
+PREREQ BIO 326, 327  
+
+  
+|
+
+  * ### BIO 663 - Molecular Biotechnology
+
+_College of Arts and Sciences_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 463  
+Introduction to the molecular and genetic principles and processes involved in
+biotechnology. Labs will cover many of the methods routinely used in
+biotechnology labs. Additional work required of graduate students.  
+PREREQ BIO 326, 327  
+
+  
+|
+
+  * ### BIO 664 - Applied Biotechnology
+
+_College of Arts and Sciences_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 464  
+Introduction to the scientific background necessary for applying tools of
+biotechnology for improvement of animal and human health, agriculture and
+environment. Labs will cover methods used in biotech industry and academia.
+Additional work required of graduate students.  
+PREREQ BIO 326, 327  
+
+  
+|
+
+  * ### BIO 665 - Molecular Biology Laboratory
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with BIO 465  
+Basic experimental techniques: isolation of DNA, restriction endonuclease
+cleavage of DNA, cloning of DNA, isolation of clones from DNA libraries, in
+vitro mutagenesis and other techniques to manipulate nucleic acids. Additional
+work required of graduate students.  
+PREREQ BIO 326 and 327  
+
+  
+|
+
+  * ### BIO 667 - Advances in Biotechnology Research & Ideas
+
+_Advances in Biotechnology Research & Ideas_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 467  
+This course surveys a variety of cutting-edge biotechnology research areas and
+explores current applications of biotechnology research. Additional work
+required for graduate students.  
+
+  
+|
+
+  * ### BIO 668 - Microbiomes in Biotechnology and Medicine
+
+_Microbiomes in Biotechnology and Medicine_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with 468  
+In this course, we will survey the microbial communities that live on and in
+humans from a genetic, biochemical, and molecular perspective. Additional work
+is required for graduate students.  
+
+  
+|
+
+  * ### BIO 669 - Science of Countering Weapons of Mass Destruction
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Crosslisted with FSC 669  
+Double Numbered with BIO 469  
+Scientific basis and means for countering WMDs, including biological systems.
+Protective measures, proven doctrines, practical questions, and problem
+solving. Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 670 - Experience Credit
+
+_College of Arts and Sciences_  
+1-6 credit(s) Upon Sufficient Interest
+
+* * *
+
+Participation in a discipline or subject related experience. Student must be
+evaluated by written or oral reports or an examination. Permission in advance
+with the consent of the department chairperson, instructor, and dean. Limited
+to those in good academic standing.  
+Repeatable  
+
+  
+|
+
+  * ### BIO 671 - Cell & Developmental Biology Lab
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 471  
+Survey of current methods employed in cell and developmental biology,
+including microscopy and imaging techniques, spatial analysis of gene
+expression, protein expression and localization, cell fractionation, and
+immunocytochemistry. Review general laboratory methods, data analysis,
+reporting. Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 672 - Advanced Light Microscopy
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with FSC 672  
+Double Numbered with BIO 472  
+Theory and practice of modern light microscopy, including the fundamentals of
+image formation and applications in the biological and biomedical sciences,
+including reviews of microscopy methods and analog and digital image capture.
+Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 673 - Pharmaceuticals and Cells
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 473  
+This course begins with an introduction to basic principles of pharmacology
+and drug discovery/development, followed by a thorough exploration of current
+research in signal transduction-related pharmaceuticals. Additional work for
+graduate students.  
+
+  
+|
+
+  * ### BIO 674 - Experimental Design & Interpretation
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 474  
+Seminar class where students (1) evaluate published papers for rigorous
+design, statistics and interpretation to determine their validity and
+contributions and (2) compose a series of mini grants to design and propose
+future experiments and studies. Additional work required for graduate
+students.  
+
+  
+|
+
+  * ### BIO 675 - Biochemistry Laboratory
+
+_College of Arts and Sciences_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 475  
+Experiments on amino acids, proteins, enzymes, fatty acids and nucleic acids,
+illustrating modern biochemical techniques applied to the chemistry of living
+cells. Titrations; electrophoresis; gel filtration; kinetics;
+spectrophotometric assays; cellular fractionation and analysis. Additional
+work required of graduate students.  
+PREREQ BIO 326, BIO 327  
+COREQ BIO 575  
+
+  
+|
+
+  * ### BIO 676 - Cold Cases
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Crosslisted with FSC 676  
+Double Numbered with BIO 476  
+Methods and practice in solving unsolved cases using fundamental science,
+court documents, and other sources of information. Will include work on real
+cases. Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 677 - Personalized Medicine
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 477  
+This course will address topics related to providing effective, personalized
+therapeutic treatment of diseases based on the genomic and proteomic profile
+of an individual. Additional work required for graduate students.  
+
+  
+|
+
+  * ### BIO 679 - Mind the Gap: Inclusion, Diversity, Equity and Accessibility in STEM
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with BIO 479  
+History of exclusion and bias that led to underrepresentation of women, people
+of color, people with disabilities and those with lower socioeconomic status
+in STEM fields and actionable steps that promote inclusion, diversity, equity,
+and accessibility. Additional work required of graduate students.  
+
+  
+|
+
+  * ### BIO 688 - Biological Literature
+
+_College of Arts and Sciences_  
+1-3 credit(s) Every semester
+
+* * *
+
+Lectures and library problems designed to acquaint student with reference
+sources. Technique of searching scientific literature and preparation of
+reports using such reference material. Also open to seniors.  
+Repeatable  
+
+  
+|
+
+  * ### BIO 690 - Independent Study
+
+_College of Arts and Sciences_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  
+|
+
+  * ### BIO 704 - Scientific Writing for Graduate Students in the Life Sciences
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Develop student's writing skills in preparation for writing research
+proposals, scientific papers, and meeting abstracts, and for communicating
+with the public. Major emphasis will be placed on preparing a proposal in a
+format suitable for the Biology PhD qualifying exam.  
+
+  
+|
+
+  * ### BIO 787 - Graduate Seminar in Functional Genomics
+
+_College of Arts and Sciences_  
+0-2 credit(s) Irregularly
+
+* * *
+
+Students review, critically evaluate, and present various topics related to
+genomic methods used for analysis of biological processes in a variety of
+model organisms.  
+Repeatable 1 time(s), 2 credits maximum  
+
+  
+|
+
+  * ### BIO 791 - Graduate Seminar in Species Interactions
+
+_College of Arts and Sciences_  
+0-2 credit(s) Irregularly
+
+* * *
+
+Selected topics dealing with ecological and evolutionary perspectives of
+species interactions. Students review, critically evaluate, and summarize
+recent literature on given topics. The summaries are presented and discussed
+in class.  
+Repeatable  
+
+  
+|
+
+  * ### BIO 792 - Animal Ecology & Behavior
+
+_College of Arts and Sciences_  
+0-3 credit(s) Irregularly
+
+* * *
+
+Students review, critically evaluate, and summarize recent literature on given
+topics. The summaries are presented and discussed in class.  
+Repeatable  
+
+  
+|
+
+  * ### BIO 793 - Plant Ecology
+
+_College of Arts and Sciences_  
+0-2 credit(s) Irregularly
+
+* * *
+
+Students review, critically evaluate, and summarize recent literature on given
+topics. The summaries are presented and discussed in class.  
+Repeatable  
+
+  
+|
+
+  * ### BIO 795 - Speciation
+
+_College of Arts and Sciences_  
+0-2 credit(s) Irregularly
+
+* * *
+
+Students review, critically evaluate, and summarize recent literature on given
+topics. The summaries are presented and discussed in class.  
+Repeatable  
+
+  
+|
+
+  * ### BIO 797 - Seminar: Topics in Evolution
+
+_College of Arts and Sciences_  
+0-2 credit(s) Irregularly
+
+* * *
+
+Sexual selection and conflict, parental care, social evolution, speciation,
+morphological evolution. Critically evaluate and discuss recent historical and
+classical literature on the given topics.  
+Repeatable  
+
+  
+|
+
+  * ### BIO 997 - Masters Thesis
+
+_College of Arts and Sciences_  
+1-6 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+  
+|
+
+  * ### BIO 999 - Dissertation
+
+_College of Arts and Sciences_  
+1-15 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+  
+  
+**Bassoon**  
+|
+
+  * ### BSN 560 - Bassoon/Non Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For non-music students.  
+Repeatable 1 time(s), 4 credits maximum  
+
+  
+|
+
+  * ### BSN 565 - Bassoon/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### BSN 566 - Bassoon/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### BSN 665 - Bassoon/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+|
+
+  * ### BSN 666 - Bassoon/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+|
+
+  * ### BSN 765 - Bassoon/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+|
+
+  * ### BSN 766 - Bassoon/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+  
+**Tuba**  
+|
+
+  * ### BTB 550 - Tuba/Non Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For non-music students.  
+Repeatable 1 time(s), 4 credits maximum  
+
+  
+|
+
+  * ### BTB 555 - Tuba/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### BTB 556 - Tuba/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### BTB 655 - Tuba/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+|
+
+  * ### BTB 656 - Tuba/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+|
+
+  * ### BTB 755 - Tuba/Music Majors
+
+_Setnor School of Music_  
+1-6 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+|
+
+  * ### BTB 756 - Tuba/Music Majors
+
+_Setnor School of Music_  
+1-6 credit(s) Every semester
+
+* * *
+
+For performance majors.  
+
+  
+  
+**Business Administration**  
+|
+
+  * ### BUA 600 - Selected Topics
+
+_Martin J. Whitman School of Management_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### BUA 650 - Managing Sustainability: Purpose, Principles, and Practice
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with ECS 650  
+Dynamics and interdependence of economic, social, and environmental systems.
+Sustainable management frameworks, tools, and metrics. Local, national, and
+international implications. Relevance of technology, ethics, law, and policy.
+Interdisciplinary emphasis.  
+
+  
+|
+
+  * ### BUA 651 - Strategic Management and the Natural Environment
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with ECS 651  
+Sustainability from firm perspective. Regulatory, international, resource,
+market, and social drivers of environmental strategy. Impact of
+sustainability-related strategies on competitive advantage and potential
+liability.  
+PREREQ BUA 650 OR ECS 650  
+
+  
+|
+
+  * ### BUA 670 - Experience Credit
+
+_Martin J. Whitman School of Management_  
+1-6 credit(s) Every semester
+
+* * *
+
+Participation in a discipline- or subject-related experience. Evaluation by
+written or oral reports or an examination. Prereq: permission of the
+department, assigned instructor, and dean. Limited to those in good academic
+standing.  
+Repeatable  
+
+  
+|
+
+  * ### BUA 674 - Project-based learning in business
+
+_Martin J. Whitman School of Management_  
+1-3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Double Numbered with BUA 474  
+Experiential learning opportunity that will apply knowledge and skills
+acquired in the classroom to external business projects, working directly with
+an external client. Students must apply and be accepted before registering.  
+
+  
+|
+
+  * ### BUA 690 - Independent Study
+
+_Martin J. Whitman School of Management_  
+1-6 credit(s) Every semester
+
+* * *
+
+Exploration of a problem or problems in depth. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  
+|
+
+  * ### BUA 751 - Machine Learning for Business
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course will cover several special topics in the application of machine
+learning tools. These machine learning tools can include perceptrons, support
+vector machines, neural networks, deep learning, decision trees, random
+forests, k-nearest neighbors, and k-means clustering.  
+
+  
+|
+
+  * ### BUA 759 - Sustainability-Driven Enterprise
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with ECS 759  
+CAS in Sustainable Enterprise capstone. Sustainable approaches to complex
+organizational challenges, opportunities: organizational, industry,
+stakeholder analysis, sustainability objectives, strategies, and metrics.
+Multidisciplinary team consulting project.  
+PREREQ (BUA 650 OR ECS 650 ) AND (BUA 651 OR ECS 651 )  
+
+  
+|
+
+  * ### BUA 786 - Sem/Army Comptrollership
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Courses in individual subject areas are integrated and related to the total
+resource and general management problems of the Army. Management job of the
+commander at various levels in the Army organization. Policy making and
+administration from an overall management point of view with respect to each
+organization under study. Methods whereby the comptroller, as a member of the
+staff, can and should assist the commander in the solution of command
+problems.  
+
+  
+|
+
+  * ### BUA 787 - Sem/Army Comptrollership
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Courses in individual subject areas are integrated and related to the total
+resource and general management problems of the Army. Management job of the
+commander at various levels in the Army organization. Policy making and
+administration from an overall management point of view with respect to each
+organization under study. Methods whereby the comptroller, as a member of the
+staff, can and should assist the commander in the solution of command
+problems.  
+
+  
+|
+
+  * ### BUA 897 - Resrch Methods & Projects
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Every semester
+
+* * *
+
+Research project in any selected area; may be area of concentration. Results
+of research are prepared and presented under supervision of the faculty
+advisor.  
+
+  
+|
+
+  * ### BUA 960 - Survey of Research Methods in Business
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Quantitative business research techniques for surveys, experiments and
+archival data analysis including model building, cross sectional and
+longitudinal models, simultaneous equations, choice models, structural
+equation modeling, hierarchical linear models, ANOVA, conjoint analysis and
+survival analysis.  
+
+  
+|
+
+  * ### BUA 997 - Masters Thesis
+
+_Martin J. Whitman School of Management_  
+0-6 credit(s) At least 1x fall or spring
+
+* * *
+
+Repeatable  
+
+  
+|
+
+  * ### BUA 999 - Dissertation
+
+_Martin J. Whitman School of Management_  
+0-15 credit(s) At least 1x fall or spring
+
+* * *
+
+Repeatable  
+
+  
+  
+**Computer Art**  
+|
+
+  * ### CAR 501 - Animation Workshop II
+
+_Department of Transmedia_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Building on the collaborative animation experience from the first semester of
+the animation workshop, students step into supervisor roles helping to manage
+all aspects of the production of an animated short film.  
+PREREQ CAR 401  
+
+  
+|
+
+  * ### CAR 502 - Visual Effects Workshop II
+
+_Department of Transmedia_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Building on the collaborative VFX experience from the first semester of the
+VFX workshop, students step into supervisor roles helping to manage all
+aspects of the production team(s) workflow.  
+PREREQ CAR 402  
+
+  
+|
+
+  * ### CAR 530 - Special Topics in Digital Art
+
+_Film and Media Arts_  
+3-12 credit(s) Irregularly
+
+* * *
+
+Various topics in digital art are explored through research, creative
+activity, and theoretical discussion. Topics address historical as well as
+contemporary issues that bridge art and technology.  
+PREREQ CAR 101  
+Repeatable  
+
+  
+|
+
+  * ### CAR 630 - Computer Art Studio
+
+_Department of Transmedia_  
+3-12 credit(s) Every semester
+
+* * *
+
+Research problems. Counseling and permission of advisor to determine area of
+study. Permission of Instructor.  
+Repeatable  
+
+  
+|
+
+  * ### CAR 730 - Computer Art Studio
+
+_Department of Transmedia_  
+3-12 credit(s) Every semester
+
+* * *
+
+Research in advanced problems in computer graphic art. Counseling and
+permission of advisor determines areas of study. Can be taken for a maximum of
+12 credits.  
+PREREQ CAR 630  
+Repeatable 3 time(s), 12 credits maximum  
+
+  
+  
+Page: 1 | 2 | 3 | 4 | **5** | 6 | 7 | 8 | 9 | 10 | 11 … Forward 10 -> 38  
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

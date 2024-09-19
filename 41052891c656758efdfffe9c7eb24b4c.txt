@@ -1,0 +1,1285 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Arts and Sciences Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Arts and Sciences Maxwell offerings can be viewed
+individually by selecting the link.
+
+  * Maxwell School of Citizenship and Public Affairs Courses
+
+  
+  
+## College of Arts and Sciences
+
+#### Courses
+
+**Physics**
+
+  * ### PHY 568 - Introduction to Quantum Mechanics II
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Angular momentum including raising/ lowering operators and spherical
+harmonics; hydrogen atom; spin and addition of angular momentum; time
+independent perturbation theory; structure of and radiation from atoms;
+scattering; and elementary particles.  
+PREREQ PHY 567  
+
+  * ### PHY 576 - Introduction to Solid-State Physics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with ELE 642  
+Elementary aspects of physics of solids; crystal lattices and diffraction,
+phonons and thermal properties in crystals, elementary band theory, and semi-
+conductor physics.  
+PREREQ PHY 567  
+
+  * ### PHY 580 - International Course
+
+_College of Arts and Sciences_  
+1-12 credit(s)
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the S.U.
+academic department to assign the appropriate course level, title, and grade
+for the student's transcript.  
+Repeatable  
+
+  * ### PHY 581 - Methods of Theoretical Physics I
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Calculus of variations. Fourier series and integrals. Matrices. Linear vector
+spaces. Orthogonal polynomials. Sturm-Liouville equations. Singular points of
+differential equations. Special functions. Distributions.  
+PREREQ MAT 511  
+
+  * ### PHY 607 - Computational Physics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Necessary numerical and computations tools for research in physics. The scope
+and implementation of scientific simulation algorithms for solving specific
+physics problems.  
+PREREQ PHY 211 OR 215 OR AP PHYSICS C (MECH) EXAM SCORE MIN 3  
+
+  * ### PHY 621 - Classical Mechanics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Aspects of classical mechanics of significance to modern physical theory.
+Conceptual structure of Newton's mechanics, Lagrange's equations, Hamilton's
+principle, canonical equations and canonical transformations, Hamilton-Jacobi
+theory, small oscillations, rigid-body motion.  
+
+  * ### PHY 635 - Physical Cell Biology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 635 , BIO 635 , CEN 635 , CHE 635  
+This interdisciplinary class for science and engineering students provides an
+introduction to the quantitative description of biological systems and
+processes. The focus is on the biological and physical aspects of structure
+and function of cells and their subsystems.  
+
+  * ### PHY 638 - Open Problems in Soft Interfaces
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 638 , BIO 638 , CEN 638 , CHE 638  
+In this seminar course on soft and biological materials and interfaces, teams
+from science and engineering will identify, discuss and assess current
+articles from the literature. Writing skills related to publishing peer-
+reviewed research are introduced.  
+
+  * ### PHY 641 - Advanced Electromagnetic Theory I
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Review of Maxwell's equations, Relativity and Covariant electrodynamics,
+conservation laws, Green function approach. Radiation from point and extended
+sources. Radiation reaction.  
+PREREQ PHY 425 OR ELE 325  
+
+  * ### PHY 651 - Instrumentation in Modern Physics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with PHY 351  
+Familiarizing students with instrumentation used in modern laboratories.
+Topics include detectors used in science and medicine, electronic noise
+mechanisms, computerized data acquisition systems. Independent research
+projects are encouraged. Additional work required of graduate students.  
+PREREQ PHY 221 OR AP PHYSICS C (MECH) EXAM SCORE MIN 3  
+COREQ PHY 222 OR AP PHYSICS C (ELEC & MAG) EXAM SCORE MIN 3  
+
+  * ### PHY 657 - Statistics and Data Analysis in Physics
+
+_Statistics and Data Analysis in Physics_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+This course provides the skills needed to analyze experimental and
+observational data without getting lost in abstract general principles. While
+these skills are critical to experimental physics and astrophysics, they are
+also relevant to numerical approaches in theoretical physics.  
+PREREQ PHY 607  
+
+  * ### PHY 661 - Quantum Mechanics I
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Origins of quantum mechanics. Schrödinger and Heisenberg formulation. Problems
+in one, two, and three dimensions. Abstract formalism. Angular momentum and
+spin. Scattering theory. Symmetry properties. Perturbation methods. Identical
+particles. Applications to atomic and nuclear systems.  
+PREREQ PHY 567  
+
+  * ### PHY 662 - Quantum Mechanics II
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Origins of quantum mechanics. Schrödinger and Heisenberg formulation. Problems
+in one, two, and three dimensions. Abstract formalism. Angular momentum and
+spin. Scattering theory. Symmetry properties. Perturbation methods. Identical
+particles. Applications to atomic and nuclear systems.  
+PREREQ PHY 567 AND PHY 661  
+
+  * ### PHY 663 - Problem Solving in Graduate Physics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Problem solving skills and topics not covered in courses the previous year.  
+PREREQ PHY 662  
+
+  * ### PHY 690 - Independent Study
+
+_College of Arts and Sciences_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  * ### PHY 731 - Thermodynamics and Statistical Mechanics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+First and second laws of thermodynamics, Boltzman's integrodifferential
+equation, Gibb's statistical mechanics, petit and grand ensembles, quantum
+statistics.  
+PREREQ PHY 531  
+
+  * ### PHY 750 - Topics in Advanced Condensed Matter/Physics Theory
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Electron band theory. Electron-phonon interaction. Superconductivity.
+Impurities in crystals. Many-body Green's function. Disorder and localization.
+Amorphous materials.  
+PREREQ PHY 731  
+Repeatable  
+
+  * ### PHY 771 - High Energy Particle Physics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Classification of subatomic particles. Passage of particles through matter.
+Production, selection, and detection of high-energy particles. Invariance
+principles and dynamic laws of strong, electromagnetic, and weak interactions:
+their experimental discovery and confirmation. Review of outstanding problems.  
+PREREQ PHY 662  
+
+  * ### PHY 775 - Quantum Field Theory
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Physical foundations of field quantization. Free fields. Fock space.
+Lagrangian and functional formulations. Interacting fields: quantum
+electrodynamics, weak and strong interactions. Renormalization. Path
+integrals. Symmetry and invariance. Nonabelian gauges.  
+PREREQ PHY 662  
+
+  * ### PHY 785 - Theory of Relativity
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Special and general theory of relativity. First semester: technical
+introduction to established theory. Part of second semester: current research
+topics.  
+PREREQ PHY 621  
+
+  * ### PHY 795 - Modern Cosmology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Introduction to main ideas of modern cosmology. Expanding universe within
+general relativity; thermodynamics and cosmology; the cosmic microwave
+background; dark matter; dark energy and inflation; structure formation in the
+universe and connections between cosmology and particle physics.  
+PREREQ PHY 621  
+
+  * ### PHY 831 - Statistical Mechanics of Fields and the Renormalization Group
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A continuation of graduate statistical physics. Topics include: collective
+modes and quasiparticles, Ginzburg-Landau theory, modern theory of phase
+transitions, and the renormalization group.  
+PREREQ PHY 731  
+
+  * ### PHY 880 - Selected Topics in Advanced Theoretical Physics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Topics vary over advanced field theory, gravitational physics, condensed
+matter theory, solitons, supersymmetry, cosmology, string theory, and others.
+With permission, may be taken more than once for credit.  
+PREREQ PHY 662  
+Repeatable 1 time(s), 3 credits maximum  
+
+  * ### PHY 890 - Minor Problems In Physics
+
+_College of Arts and Sciences_  
+1-3 credit(s) Every semester
+
+* * *
+
+Independent study and experimentation in some subject in physics.  
+Repeatable  
+
+  * ### PHY 990 - Independent Study
+
+_College of Arts and Sciences_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  * ### PHY 997 - Masters Thesis
+
+_College of Arts and Sciences_  
+1-6 credit(s) At least 1x fall or spring
+
+* * *
+
+Repeatable  
+
+  * ### PHY 999 - Dissertation
+
+_College of Arts and Sciences_  
+1-15 credit(s) At least 1x fall or spring
+
+* * *
+
+Repeatable  
+
+**Polish**
+
+  * ### POL 620 - Language Training in Preparation for Research Using Polish
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Language training to prepare students to conduct research in areas that
+require knowledge of Polish.  
+Repeatable 3 time(s), 12 credits maximum  
+
+**Portuguese**
+
+  * ### POR 620 - Language Training in Preparation for Research Using Portuguese
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Language training to prepare students to conduct research in areas that
+require knowledge of Portuguese.  
+Repeatable 3 time(s), 12 credits maximum  
+
+**Persian**
+
+  * ### PRS 620 - Language Training in Preparation for Research Using Persian
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Language instruction to prepare students to conduct research in areas that
+require knowledge of Persian. Permission of instructor.  
+Repeatable 3 time(s), 12 credits maximum  
+
+**Psychology**
+
+  * ### PSY 600 - Selected Topics
+
+_College of Arts and Sciences_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### PSY 605 - Teaching of Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Discussion of pedagogical topics, building dynamic course materials,
+practicing different teaching strategies, refining your teaching style,
+developing a teaching portfolio.  
+
+  * ### PSY 611 - Proseminar Methods and Topics in Cognitive Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Discussion of methods, theories, and findings for student selected and
+faculty-selected topics in cognitive psychology.  
+Repeatable 5 time(s)  
+
+  * ### PSY 612 - Advanced Experimental Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Current theories, topics, and methods in experimental psychology. Analysis and
+critique of research that uses experimental methods. Permission from
+Instructor.  
+
+  * ### PSY 614 - Cognitive and affective bases of behavior
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+This course is intended to provide a scientific basis for students
+understanding of cognition and affect, and how both of these impact/relates to
+typical and atypical development through classic and contemporary readings.  
+
+  * ### PSY 615 - Behavioral Pharmacology
+
+_College of Arts and Sciences_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Behavioral effects of major psychoactive drugs. Basic concepts in
+pharmacology, behavioral techniques in drug research, the current status of
+minor and major tranquilizers, antidepressants, stimulants, hallucinogens, and
+drugs of abuse. Permission from Instructor.  
+
+  * ### PSY 617 - Individual differences and developmental disability
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+This course is intended to provide a scientific basis for students
+understanding of individual differences and their stability over development
+with a special focus on developmental disability.  
+
+  * ### PSY 620 - Using Robots to Understand the Mind
+
+_Psychology_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with 420  
+**Cognitive science explains behavior mechanistically. This course uses
+simple, autonomous, mobile robots as model cognitive agents. By doing
+cognitive science on these robots we come to understand what it means to say
+that "cognition is computation". **  
+
+  * ### PSY 621 - Contemporary Behavioral Approaches in Health Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Theory and methods derived from advances in psychology. Biofeedback autogenic
+training, guided imagery, hypnosis, and multimodal psychophysiological
+techniques. Permission from Instructor.  
+
+  * ### PSY 622 - Cognitive Psychology: Memory and Attention
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Theory and experimentation in human cognition emphasizing how information
+processing models are constructed, tested, and modified. Permission from
+Instructor.  
+
+  * ### PSY 623 - Psychological Research of Family Systems
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+General systems theory as related to psychological processes. Current research
+programs on psychopathology and family systems. Psychological and empirical
+focus; not a therapy course. Permission from Instructor.  
+
+  * ### PSY 624 - Graduate Seminar in Psychological Methods
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Application of the scientific method and techniques of data collection to
+domain-specific problems in psychology. Topics include: experimental design,
+correlational research, measurement, scientific inference, academic writing,
+and critical evaluation of psychological research.  
+
+  * ### PSY 626 - Cognitive Neurochemistry
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with PSY 426  
+Neurochemical pharmacology and cognitive decline. Organization of
+neurotransmitter systems in mammalian brain, neurochemical approaches to
+cognitive disorders, measurement of neurotransmitters in previously frozen rat
+brain tissue. Additional work required of graduate students.  
+
+  * ### PSY 627 - Proseminar Methods and Topics in Social Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Discussion of methods, theories, and findings for student-selected and
+faculty-selected topics in social psychology.  
+Repeatable 5 time(s), 18 credits maximum  
+
+  * ### PSY 631 - Alcohol Use and Abuse
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Double Numbered with PSY 431  
+Psychological theory and research on alcohol use and the development of abuse
+and dependence. Considers controversial topics related to alcohol abuse
+prevention, regulation, and treatment. Permission of Instructor.  
+
+  * ### PSY 640 - Psychology of Gender
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with WGS 640  
+Research and literature related to sex differences. Process of socialization
+of girls and boys, women and men in American society. Permission of
+Instructor.  
+Repeatable  
+
+  * ### PSY 647 - Clinical Assessment I
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Experience in administration, interpretation, and report writing with
+individual intelligence tests, objective personality measures, and related
+clinical tools. Discussion of testing theory. Permission of Instructor.  
+
+  * ### PSY 648 - Assessment II
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Advanced assessment training in clinical and diagnostic interviewing,
+administering and interpreting psychological assessment instruments, providing
+consultation in response to a specific referral question, writing assessment
+reports, and providing feedback.  
+PREREQ PSY 647  
+
+  * ### PSY 649 - Ethical and Professional Issues in Clinical Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Professional, ethical, scientific, training, and practice issues in clinical
+psychology. Detailed coverage of some recent assessment, treatment, and
+conceptual issues. Permission of Instructor.  
+
+  * ### PSY 651 - Introduction to Statistical Methods
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Application of statistical methods. Exploratory data analysis and graphical
+display. Statistical indices, distributions, and data reexpression. Uses and
+limitations of correlation and regression. Foundations of statistical
+inference. Additional work required of graduate students. Permission of
+Instructor.  
+
+  * ### PSY 653 - Psychological Measurement
+
+_College of Arts and Sciences_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with PSY 353  
+Principles of measurement with respect to the development and use of norm
+referenced and criterion referenced tests. Issues related to test bias and
+assessment. Permission of Instructor.  
+
+  * ### PSY 655 - Experimental Design and Statistical Methods I
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Experimental research design. Distributions, graphs, exploratory data
+analysis, and descriptive statistics. Sampling and basic probability. Between-
+participants and within-participants designs. Inferential statistics: t-tests,
+one-way ANOVA, factorial ANOVA, and ANCOVA..  
+
+  * ### PSY 674 - Advanced Social Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Recurrent methodological problems in social psychology. Integration of
+experimental design, research findings, and theoretical formulations.
+Permission of Instructor.  
+
+  * ### PSY 675 - Social Influences on Human Sexual Behavior
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with PSY 475  
+Theory and research linking social and cultural variables with the sex-related
+attitudes and behaviors of individuals. Importance of social learning as the
+major determinant of sexual motivations and variations in sexual preferences.
+Additional work required of graduate students. Permission of Instructor.  
+
+  * ### PSY 675 - The Social Psychology of Close Relationships
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Discussion of theory and research relevant to understanding close
+relationships, including coverage of evolutionary, attachment,
+interdependence, and social cognitive approaches.  
+
+  * ### PSY 676 - Group Processes
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Research and theory. Social communication, group cohesiveness, social norms
+and roles, leadership, group productivity, and related topics. Permission of
+Instructor.  
+
+  * ### PSY 677 - Social Cognition
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Social inference, attribution theory, psychological control, social schemata,
+attention, person memory and social cognition biases. Permission of
+Instructor.  
+
+  * ### PSY 678 - Attitude Change
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Research and theory concerning the formation and change of beliefs and
+attitudes. Factors that influence the effectiveness of persuasive
+communications, cognitive organization, the relation of belief to action, and
+related topics. Permission of Instructor.  
+
+  * ### PSY 679 - Research Methods in Social Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Methodology of research in social psychology. Experimental design, sampling
+procedures, observational methods, questionnaires and interviews, sociometric
+methods, attitude scaling, analysis and interpretation of data. Permission of
+Instructor.  
+
+  * ### PSY 680 - Seminar in Health Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Psychological factors as they interact with health and illness. Includes
+presentation on cardiovascular disorders, pain, diabetes, issues pertaining to
+health care, primary care psychology, spirituality and health, and prevention,
+among other selected topics. Permission of Instructor.  
+
+  * ### PSY 682 - Physiological Processes and Health Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Graduate level introduction to basic human physiology within the context of
+health psychology. Particular focus on multi-directional interactions between
+physiological processes, behavior, and psychological variables. Permission of
+Instructor.  
+
+  * ### PSY 691 - Meta-Analysis
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Statistical procedures, as well as practical issues involved in the conduct of
+meta-analyses. Permission of Instructor.  
+PREREQ PSY 655  
+
+  * ### PSY 693 - Advanced Personality
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Concepts and research in the development, motivation, and organization of
+personality. Recent empirical findings.  
+
+  * ### PSY 696 - Neuropsychology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Theoretical, empirical, and clinical diagnosis, understanding, and treatment
+of individuals with neurological disturbance. In-depth study of human brain
+function and dysfunction. Implications for new theory, research, and
+treatment. Permission of Instructor.  
+
+  * ### PSY 730 - Seminar in Experimental Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Discussion, readings, and projects in experimental psychology. Topics vary.
+Permission of Instructor.  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### PSY 734 - Developmental Psychology: Infancy and Childhood
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Infant and child behavior. Research methods and strategies, empirical
+relationships, theories of child development, and theories of behavior.
+Permission of Instructor.  
+
+  * ### PSY 736 - Advanced Introduction to Cognitive Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+A broad and general introduction to the empirical and theoretical foundations
+of cognitive psychology. The course will explore the ways in which cognition
+and affect come together to drive behavior.  
+
+  * ### PSY 737 - Experimental Psychology: Cognition and Human Aging
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Basic and applied experimental psychological research in the area of cognition
+and human aging. Emphasizing aging and perception, attention, learning,
+memory, and intelligence. Permission of Instructor.  
+
+  * ### PSY 739 - Lifespan Developmental Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Permission of Instructor.  
+
+  * ### PSY 745 - Introduction to Psychotherapy
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Major approaches to adult psychotherapy and their relationship to personality
+development and change. Permission of Instructor.  
+
+  * ### PSY 746 - Survey to Psychotherapy Research
+
+_College of Arts and Sciences_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Seminar on research philosophies, experimental designs, methodological issues,
+and major findings in psychotherapy research. Permission of Instructor.  
+
+  * ### PSY 756 - Experimental Design and Statistical Methods II
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Correlational and survey research design. Reliability, bivariate correlation,
+partial and part correlation, bivariate regression, multiple regression, and
+logistic regression. Statistical mediation and moderation. Introduction to
+bootstrapping.  
+PREREQ PSY 655  
+
+  * ### PSY 757 - Multiple Correlation and Regression
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Regression versus correlation models. Interpreting regression coefficients,
+and multiple, partial, and semipartial correlation coefficients. Choosing and
+cross-validating models. Locating outlying and influential cases. Computer
+packages and extensive application to behavioral science data.  
+PREREQ PSY 756  
+
+  * ### PSY 761 - Introductory Seminar in School Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Scientist-practitioner model: theory, research, legal and ethical issues in
+databased practice of school psychology. Roles, functions, and goals. Service-
+delivery approaches within educational and sociocultural contexts. Permission
+of Instructor.  
+
+  * ### PSY 762 - Cognitive Intellectual Assessment
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Theory and research on intellectual change and standardization of intelligence
+tests. Experience in administering, scoring, and interpreting recent measures
+of intelligence and cognitive functioning in practicum component. Measurement,
+bias, legal and ethical issues in assessment component. Permission of
+Instructor.  
+
+  * ### PSY 763 - Direct Academic Assessment
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Direct assessment of children's academic performance using curriculum-based
+measures and systematic observation. Research comparing direct assessment to
+norm-referenced testing and legal and ethical issues in using direct
+assessment for classification and intervention. Permission of Instructor.  
+
+  * ### PSY 764 - Socioemotional Assessment
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Research on socioemotional assessment from multiple theoretical perspectives.
+Experience administering, scoring, and interpreting diverse measures of
+socioemotional functioning. Measurement, legal, and ethical issues in
+assessment for classification and intervention. Permission of Instructor.  
+
+  * ### PSY 765 - Principles of Behavior Modification
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Experimental and theoretical advances in learning relevant to the management
+of clinical phenomena. Operant and classical conditioning, modeling, aversive
+controls, extinction, and issues in behavior therapy. Permission of
+Instructor.  
+
+  * ### PSY 775 - Seminar in Social Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Discussion, readings, and projects in selected topics in social psychology.
+Permission of instructor.  
+Repeatable 3 time(s), 12 credits maximum  
+
+  * ### PSY 777 - Advanced Cognitive Neuroscience
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with NEU 777  
+The science of how thought processes are instantiated in the brain including
+advanced techniques for behavioral and neural data and approaches for linking
+them together. Applications that demonstrate the brain-behavior relationship.  
+
+  * ### PSY 778 - Readings in Neuroscience
+
+_College of Arts and Sciences_  
+0-3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with BEN 613 , BIO 624 , CSD 753 , NEU 613  
+A literature-based team-taught course focusing on in depth discussions of
+classical or recent papers of exceptional import to neuroscience. Students
+will complete weekly readings assigned by faculty and participate in a 3-hr/wk
+group facilitated discussion  
+
+  * ### PSY 779 - Interdisciplinary Methods of Neuroscience
+
+_College of Arts and Sciences_  
+0-3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with BEN 614 , BIO 625 , CSD 754 , NEU 614  
+A practical interdisciplinary survey course whereby neuroscience faculty
+introduce students to a wide array of methodologies, including molecular,
+cellular, developmental, systems, behavioral, and cognitive neuroscientific
+approaches to investigate basic, pre-clinical, translational, and clinical
+questions to unravel the relationship between brain and behavior.  
+
+  * ### PSY 780 - Introduction to Structural Equation Modeling
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Multivariate statistical model-building and applications of structural
+equation modeling techniques to date in the behavioral and psychological
+sciences. Path analysis, confirmatory factor analysis, and structural
+regression models.  
+PREREQ PSY 756  
+
+  * ### PSY 840 - Advanced Practicum in Clinical Health Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Health psychology field placement. Practicum experience in multidisciplinary
+settings. Interviewing, brief intervention, ethics, diversity, contemporary
+issues in the field. Permission of Instructor.  
+
+  * ### PSY 843 - Seminar in Psychopathology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Discussion, readings, and projects on selected topics in psychopathology and
+related areas. Presupposes a knowledge of personality theory and abnormal
+psychology. Permission of Instructor.  
+
+  * ### PSY 847 - Practicum in Psychotherapy
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Theory, technique, and supervised experience in conducting psychotherapy.
+Supervision and training of novice psychotherapists. Permission of Instructor.  
+
+  * ### PSY 849 - Advanced Practicum in Clinical Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+For advanced students in psychological diagnosis and treatment. Supervised
+experience in counseling, play therapy, group therapy, and psychological
+diagnosis with children and adults. May be taken for a maximum of six credits.  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### PSY 851 - Clinical Therapy Experience Practicum
+
+_College of Arts and Sciences_  
+0 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Clinical psychology graduate students will conduct intake assessments,
+psychotherapy, and interventions as necessary with clients in the
+Psychological Services Center or other placement. They will receive
+supervision and develop their clinical intervention skills.  
+
+  * ### PSY 852 - Practicum in Clinical Supervision
+
+_College of Arts and Sciences_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+The course provides an introduction to theory and methods of clinical
+supervision, as well as a supervised experience in the provision of
+psychotherapy and/or psychological assessment supervision to junior trainees.  
+PREREQ PSY 840 and PSY 851  
+Repeatable 1 time(s), 2 credits maximum  
+
+  * ### PSY 853 - Experimental Design and Statistical Tests
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Experimental design and appropriate statistical tests. Use of the analysis of
+variance and covariance techniques.  
+
+  * ### PSY 854 - Bayesian Statistical Analysis
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+An introduction to Bayesian data analysis, with an emphasis on designs
+typically encountered in the behavioral and social sciences.  
+
+  * ### PSY 857 - Multivariate Analysis
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Statistical techniques dealing with situations in volving many variables.
+Multivariate analysis of variance, discriminant analysis, canonical
+correlations, and classification procedures.  
+
+  * ### PSY 860 - Topics in Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Special topics of current interest. Topics vary from semester to semester. May
+be taken for credit three times. Permission of Instructor.  
+Repeatable 2 time(s), 9 credits maximum  
+
+  * ### PSY 861 - Consultation Processes
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Research on consultation processes from diverse theoretical perspectives.
+Laboratory involving role playing and simulation of stages of consultation.
+Ethical and legal issues of indirect service delivery.  
+
+  * ### PSY 862 - Consultation Practicum
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Supervised practical experience in consultation process: problem
+identification and analysis, treatment implementation, and process and outcome
+evaluation. Databased indirect service delivery consistent with ethical and
+legal guidelines.  
+
+  * ### PSY 863 - Developmental Psychopathology
+
+_College of Arts and Sciences_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Developmental perspective on problems of childhood adjustment from infancy to
+adolescence. Theoretical concepts of etiology, descriptive characteristics,
+differential diagnosis, and intervention approaches for each disorder.
+Permission of Instructor.  
+
+  * ### PSY 866 - Behavior Theory Practicum
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Review of literature, research, and ethical/legal issues concerning the
+treatment of children's learning and adjustment problems using behavioral
+principles. Supervised experience in behavioral assessment, treatment
+implementation, and outcome evaluation.  
+PREREQ PSY 765  
+
+  * ### PSY 880 - School Psychology Practicum
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Supervised experience in school settings, applying direct and indirect
+psychological services with outcome evaluation. Consideration of legal and
+ethical issues and broader community context for child-related services.
+Permission of Instructor.  
+Repeatable  
+
+  * ### PSY 885 - Internship in School Psychology
+
+_College of Arts and Sciences_  
+0-6 credit(s) At least 1x fall or spring
+
+* * *
+
+Supervised internship in school and/or other child/youth agency. Permission of
+Instructor.  
+Repeatable  
+
+  * ### PSY 894 - History and Systems Psychology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Detailed treatment of principal forces that have played an important role in
+the evolution of modern psychology. Permission of Instructor.  
+
+Page: 1 | 2 | 3 | 4 | 5 | 6 | **7** | 8 | 9
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

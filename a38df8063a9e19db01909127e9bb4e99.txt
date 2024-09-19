@@ -1,0 +1,1345 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Undergraduate Course Catalog Syracuse University |   
+|  |  2023-2024 Undergraduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Arts and Sciences Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Arts and Sciences  
+  
+## College of Arts and Sciences
+
+#### Courses
+
+**Mathematics**
+
+  * ### MAT 414 - Introduction to Ordinary Differential Equations
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+First order differential equations. Second order linear differential
+equations. Power series solutions. Bessel's equations, Laplace transforms.
+Systems of first order differential equations. Applications. Credit will not
+be given for both MAT 414 and MAT 485 .  
+PREREQ MAT 397 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+COREQ MAT 331 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 421 - Applied Probability and Statistics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Sample spaces, counting, random variables and their distributions, expected
+value, central limit theorem. Estimation and confidence intervals, hypothesis
+tests, analysis of variance and regression. MAT 421 does not count towards the
+Mathematics or Applied Mathematics major or minor. Cannot be taken for credit
+after successfully completing MAT 521.  
+PREREQ MAT 286 OR MAT 296  
+
+  * ### MAT 422 - Statistical Computing
+
+_Statistical Computing_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Characteristics of data, data preparation and reformatting, accessing data
+from various sources, programming principles for statistical computing, data
+summary and visualization, statistical study design aspects of sampling and
+randomization, introduction to statistical simulation.  
+PREREQ MAT 222 or permission of instructor  
+
+  * ### MAT 485 - Differential Equations and Matrix Algebra for Engineers
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Solution of ordinary differential equations, including series methods. Vector
+spaces, matrix algebra, rank, linear systems, eigenvalues and eigenvectors.
+Credit not given for both MAT 485 and MAT 414, nor for both MAT 331 and 485.
+Does not count toward mathematics major.  
+PREREQ MAT 397  
+
+  * ### MAT 490 - Independent Study
+
+_College of Arts and Sciences_  
+1-6 credit(s) Irregularly
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  * ### MAT 495 - Fundamentals of Data Science
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with MAT 695  
+Fundamental methods for data science, such as regression, linear discriminant
+analysis, k-nearest neighbors, support vector machine, k-means, principal
+component analysis, and nonlinear dimension reduction. Performance evaluation
+and model selection. Additional work required of graduate students.  
+PREREQ (MAT 331 AND MAT 521) OR (MAT 503 AND MAT 523)  
+
+  * ### MAT 499 - Honors Capstone Project
+
+_College of Arts and Sciences_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### MAT 503 - Matrix Methods for Data Science
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Matrix methods required for data analysis with an emphasis on applications and
+using software. Matrix norms, orthogonality, eigendecomposition, SVD, LS, QRD,
+LDA, PCA. Not for math majors or minors. Additional work required of graduate
+students.  
+PREREQ MAT 397  
+
+  * ### MAT 511 - Advanced Calculus
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Partial derivatives, implicit functions, integration in several variables,
+line and surface integrals.  
+PREREQ (MAT 331 AND MAT 397 ) OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 512 - Introduction to Real Analysis II
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Real-number system, set theory and elementary topological properties of the
+real line, continuity and differentiability, sequences and series, uniform
+convergence, Riemann integration, and improper integrals.  
+PREREQ MAT 412 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### MAT 513 - Introduction to Complex Analysis
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Complex number system and its arithmetic, geometric representation. Linear
+transformations. Analytic functions and the Cauchy-Riemann equations.
+Integration and Cauchy's theorem, Taylor and Laurent series, singularities,
+poles, and residues. Applications.  
+PREREQ MAT 412 OR MAT 511 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### MAT 517 - Partial Differential Equations and Fourier Series
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Partial differential equations, boundary-value problems, Fourier series and
+orthogonal expansions, Bessel functions, and Legendre polynomials.  
+PREREQ MAT 485 OR MAT 414 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### MAT 518 - Fourier Series, Transforms and Wavelets
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Orthogonal functions, Fourier series, Fourier transforms-continuous and
+discrete, Haar wavelets and multiresolution analysis, applications to signal
+processing. Additional work required of graduate students.  
+PREREQ MAT 331 OR MAT 485 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 521 - Introduction to Probability
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Algebra of sets. Probability in finite sample spaces. Binomial and multinomial
+coefficients. Random variables. Expected value and standard deviation. Density
+functions. Statistical applications.  
+PREREQ MAT 397 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### MAT 523 - Statistical Methods for Data Science
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Statistical methods (such as hypothesis testing, parameter estimation,
+regression, ANOVA, sampling, experimental design) required for data science.
+Emphasis on applications and using software. Additional work required for
+graduate students.  
+PREREQ MAT 397 AND (MAT 222 OR CIS 321 OR MAT 421 OR MAT 521)  
+
+  * ### MAT 524 - Regression Analysis
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Concept, theory, methods, and applications of simple linear regression,
+multiple linear regression, and logistic regression models; Parameter
+estimation and testing, Prediction, Regression diagnostics and model adequacy
+checking, Variable selection and model building.  
+PREREQ MAT 331 and (MAT 222 or MAT 421 or MAT 525)  
+
+  * ### MAT 525 - Mathematical Statistics
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Estimation and confidence intervals. Normal distribution and central limit
+theorem. Testing hypotheses, chi-square, t, and F distributions. Least
+squares, regression, and correlation.  
+PREREQ MAT 521 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### MAT 526 - Introduction to Stochastic Processes
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Discrete time Markov chains, Poisson process, continuous time Markov chains
+and other selected stochastic processes.  
+PREREQ MAT 521 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### MAT 527 - Analysis of Variance and Experimental Design
+
+_Analysis of Variance and Experimental Design_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+One-way, two-way, and multi-way analysis of variance, analysis of covariance,
+random/mixed effect models, repeated measure analysis, and special designs
+such as a randomized block design, an incomplete block design, Latin square,
+and a nested design.  
+PREREQ MAT 222 or MAT 421 or MAT 525  
+
+  * ### MAT 528 - Probability Models for Actuarial Science
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Applied probability focusing on distributions for actuarial applications.
+Conditional expectation. Moment generating functions. Limit theorems. Loss and
+Survival models. Parametric and Non-Parametric estimation. Model assessment.
+Benefit reserves and risk measures. Additional work required of graduate
+students.  
+PREREQ MAT 521  
+
+  * ### MAT 529 - Introduction to Bayesian Statistics
+
+_Introduction to Bayesian Statistics_  
+3 credit(s) Irregularly
+
+* * *
+
+Concepts of prior and posterior, Bayesian inference for binomial and Poisson
+distributions, Monte Carlo approximation, Bayesian inference for normal
+distribution, Gibbs sampling, hierarchical models, multivariate normal
+distribution, Metropolis-Hastings algorithms, linear regression models.  
+PREREQ MAT 296 , MAT 331 , MAT 422 , and MAT 525  
+
+  * ### MAT 531 - Second Course in Linear Algebra
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Abstract vector spaces and inner product spaces, linear transformations and
+linear operators, eigenvalues and diagonalization. Primarily for mathematics
+majors.  
+PREREQ ((MAT 375 OR CIS 375 ) AND MAT 331 ) OR GRADUATE STANDING IN
+MATHEMATICAL SCIENCES  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### MAT 532 - Applied Linear Algebra
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Factorization of matrices, eigenvalues and eigenvectors, orthogonality.
+Applications of matrices to such topics as least-squares approximation, fast
+Fourier transform, difference and differential equations, linear programming,
+networks, game theory.  
+PREREQ MAT 331 OR MAT 485 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 534 - Introduction to Abstract Algebra
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Theory of groups, rings, and fields, including the integers and polynomial
+rings.  
+PREREQ MAT 531 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### MAT 541 - Introduction to Number Theory
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Prime numbers, greatest common divisors, congruences. Euler's function,
+Fermat's theorem, primitive roots, indices, quadratic residues, Legendre and
+Jacobi symbols, and the quadratic reciprocity law.  
+PREREQ ((MAT 375 OR CIS 375 ) AND MAT 331 ) OR GRADUATE STANDING IN
+MATHEMATICAL SCIENCES  
+
+  * ### MAT 545 - Introduction to Combinatorics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CIS 545  
+Permutations, combinations, recurrence relations, generating functions,
+inclusion-exclusion and applications, introductory graph theory.  
+PREREQ MAT 375 OR CIS 375 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 551 - Fundamental Concepts of Geometry
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Synthetic projective geometries. Coordinate systems for projective spaces.
+Algebraic representation of projective transformations; euclidean, non-
+euclidean, and affine geometries as real cases of projective geometry.  
+PREREQ ((MAT 375 OR CIS 375 ) AND MAT 331 ) OR GRADUATE STANDING IN
+MATHEMATICAL SCIENCES  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### MAT 554 - Differential Geometry
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Theory of curves in three-dimensional space, including Frenet's formula,
+Gaussian and mean curvature, geodesics, developable surfaces, special
+conformal mappings.  
+PREREQ MAT 412 OR MAT 511 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 562 - Elementary Topology
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Metrics and metric spaces, topologies and topological spaces, separation
+properties, compactness, connectedness, and continuity.  
+PREREQ ((MAT 375 OR CIS 275) AND MAT 412 ) OR GRADUATE STANDING IN
+MATHEMATICAL SCIENCES  
+
+  * ### MAT 581 - Numerical Methods with Programming
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Approximation methods for solution of nonlinear equations. Interpolation
+problems. Numerical integration. Solution of ordinary differential equations.
+Error analysis and writing computer programs. Primarily for mathematics and
+engineering students.  
+PREREQ MAT 397 OR GRADUATE STANDING IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 593 - History of Mathematics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Mathematical concepts in their historical perspective. Character and
+contributions of the great mathematicians and relation of mathematics to other
+sciences.  
+PREREQ (MAT 397 AND AT LEAST TWO 500-LEVEL MATH COURSES) OR GRADUATE STANDING
+IN MATHEMATICAL SCIENCES  
+
+  * ### MAT 598 - Statistics Seminar
+
+_Statistics Seminar_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+In-depth investigation of one or more statistical topics, applications of
+statistical methods and tools, real-world data analysis project using
+software, comprehensive presentation of project findings.  
+PREREQ MAT 422 , MAT 524 ,MAT 525 , and MAT 527  
+
+  * ### MAT 599 - Senior Seminar in Mathematics
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Topic Chosen by the instructor. Permission of department.  
+
+**Maxwell**
+
+  * ### MAX 123 - Critical Issues for the United States
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Interdisciplinary focus on critical issues facing America. Perspectives of
+social science disciplines on the meaning of the American Dream, its past and
+its future.  
+Shared Competencies Critical and Creative Thinking; Civic and Global
+Responsibility; Communication Skills
+
+  * ### MAX 132 - Global Community
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Dynamics of worldwide society and its cultures. Global economy and political
+order. Tensions within these realms. Attempts by different communities to
+either participate in or to hold themselves aloof from "global culture."  
+Shared Competencies Civic and Global Responsibility; Communication Skills
+
+  * ### MAX 201 - Quantitative Methods for the Social Sciences
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Skills necessary to analyze data and evaluate research: research design,
+sampling design, descriptive and inferential statistics, data sources for
+social science, constructing data sets, reading and constructing tables and
+charts.  
+Shared Competencies Critical and Creative Thinking; Scientific Inquiry and
+Research Skills
+
+  * ### MAX 301 - Ethics, Justice, and Citizenship
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Seminar in ethics and political/social justice as they pertain to citizenship
+and civic action. Course covers historical and contemporary approaches to
+citizenship.  
+COREQ MAX 310  
+Shared Competencies Civic and Global Responsibility; Ethics, Integrity, and
+Commitment to Diversity and Inclusion; Scientific Inquiry and Research Skills
+
+  * ### MAX 302 - Civic Engagement Research Seminar
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Readings and research on application of social science methodologies to
+concrete civic, political, and global issues. Initial focus on Maxwell-based
+research; case studies of academically informed civic engagement; final
+project proposal on topic of student's choice.  
+PREREQ MAX 301  
+Shared Competencies Critical and Creative Thinking; Information Literacy and
+Technological Agility; Scientific Inquiry and Research Skills
+
+  * ### MAX 310 - Community Placement in Ethics, Justice and Citizenship
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Introduces students to a variety of non-profit and governmental agencies
+through service-learning.  
+COREQ MAX 301  
+Shared Competencies Civic and Global Responsibility; Communication Skills;
+Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  * ### MAX 401 - Civic Engagement Action Plan Workshop
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Capstone course for Maxwell Citizenship/Civic Engagement Program. Design and
+implementation of 'Action Plan' to improve social, economic and/or political
+conditions at the local, state, federal or global level.  
+PREREQ MAX 302  
+Shared Competencies Critical and Creative Thinking; Communication Skills;
+Scientific Inquiry and Research Skills
+
+  * ### MAX 490 - Independent Study
+
+_College of Arts and Sciences_  
+1-6 credit(s)
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  * ### MAX 499 - Honors Capstone Project
+
+_College of Arts and Sciences_  
+1-3 credit(s)
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable  
+
+**Middle Eastern Studies**
+
+  * ### MES 165 - Discovering Islam
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with REL 165 , SAS 165  
+Islam as a faith and a civilization. Understanding its origins, beliefs,
+rituals, and the historical development of its intellectual traditions in the
+pre-modern and modern eras, and its geographic, cultural and theological
+diversity today.  
+
+  * ### MES 200 - Selected Topics
+
+_College of Arts and Sciences_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### MES 208 - Middle East Since the Rise of Islam
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HST 208  
+Beginning with the rise and spread of Islam through the reform era of the
+nineteenth-century, this course focuses on the social and cultural history of
+the Ottoman Empire.  
+Shared Competencies Critical and Creative Thinking; Civic and Global
+Responsibility; Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  * ### MES 209 - Modern Middle East
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HST 209  
+A survey of modern Middle East history from roughly the 20th century, covering
+the nation-states from Iran to Morocco. Includes culture, social life,
+colonialism and nationalism, feminism, and political change.  
+Shared Competencies Critical and Creative Thinking; Civic and Global
+Responsibility; Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  * ### MES 308 - Ancient Judaism and the Origins of Christianity
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Crosslisted with JSP 308 , REL 308  
+Offered only in Madrid. Social, cultural, intellectual, and historical
+conditions which surrounded the birth of this new world religion in its
+ancient Mediterranean cradle-from Mesopotamia and Egypt to Greece and ancient
+Rome.  
+
+  * ### MES 315 - Arab American Literature and Culture
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course is designed to familiarize students with the burgeoning field of
+contemporary Arab-American literature, highlighting the ways in which this
+literature portrays and complicates Arab-American identities and cultures.  
+
+  * ### MES 317 - The Arab Revolutions
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Crosslisted with HST 317  
+An exploration of the social, economic, and political histories of select Arab
+countries since independence to understand the contexts and reasons for the
+revolutions that began in 2011.  
+Shared Competencies Critical and Creative Thinking; Civic and Global
+Responsibility; Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  * ### MES 318 - Middle East Since the Rise of Islam
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HST 208  
+An introductory survey of Middle East history beginning with the rise of
+Islam. Includes culture, social life, women and politics, early Arab Empires,
+the Ottomans and Safavids, intellectual renaissance.  
+
+  * ### MES 319 - The Middle East in the 20th Century
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HST 319  
+Social and cultural history of the Middle East in the twentieth-century,
+including themes such as colonialism, anti-colonial nationalism, modernity,
+social movements, women and gender, and contemporary issues.  
+
+  * ### MES 321 - Christians, Jews and Muslims
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Crosslisted with HUM 321 , JSP 321 , REL 321  
+Offered only in Madrid. Key historic encounters between the three versions of
+monotheism, with reference to the richness of past cultural and religious
+legacy rooted in the Mediterranean region.  
+
+  * ### MES 335 - Israeli Literature and Culture
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with JSP 335, LIT 335, REL 335  
+Literary and cultural approach to the modern history of Israel, with special
+attention to conflicts that have arisen during the Zionist project.  
+
+  * ### MES 336 - Arabic Cultures
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with ARB 336 , LIT 336  
+Arabic culture through geography, literature, religion (Islam and other
+religions), ethnic groups, social divisions, films, the media, music, art,
+food, gender issues, and everyday life.  
+Shared Competencies Critical and Creative Thinking; Civic and Global
+Responsibility; Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  * ### MES 338 - Middle East Media
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with HST 338  
+This course examines the history, politics, and culture of media in the Middle
+East.  
+
+  * ### MES 340 - America and the Middle East
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with HST 336  
+This course examines the historical relationship between the United States and
+the Middle East from the late 18th century to the present.  
+
+  * ### MES 342 - Religion and Politics in the Israeli-Palestinian Conflict
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with JSP 342 , PSC 342 , REL 342  
+Considers the extent to which religion matters in an enduring ethno-
+nationalist conflict. Approaches the Israeli-Palestinian conflict from an
+interdisciplinary perspective that explores the intersection of religion and
+politics.  
+
+  * ### MES 344 - Politics of the Middle East
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with PSC 344  
+Religious, political, economic, and social dimensions of life in modern Middle
+East. Legacy of Islam, encounter with Western modernity, Arab-Israeli
+conflict, and political economy of the region.  
+
+  * ### MES 349 - Politics of Iran
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 349  
+Historical and theoretical understanding of modern Iranian politics and
+society from the late 19th century to the present time.  
+
+  * ### MES 350 - Gender, Violence, and Sexualities in the "War on Terror"
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course analyzes the ways in which gender has been employed in developing
+narratives of US national security and the War on Terror after 9/11.  
+
+  * ### MES 360 - Reading Gender and Sexualities: Gender and Sexuality in the Arab World
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+This course explores the ways in which gender and sexuality are represented in
+an array of visual, historical, and literary texts from the Arab world and its
+diaspora, starting from the pre-Islamic era up till the contemporary period.  
+
+  * ### MES 364 - Enchanting Words: Muslim Poets, Singers and Storytellers
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with REL 364 , SAS 364  
+Understand the power of words and language in Muslim cultures expressed in
+oral and literary genres including poetry, humor, fables, folksongs and travel
+journals. Explore key themes such as virtue, reality, divine and human nature.  
+
+  * ### MES 365 - God and Beauty in Islamic Art
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with REL 367 , SAS 367  
+Expressions of beauty, creativity and faith in Islamic calligraphy, ceramics,
+textiles, architecture, miniatures and music. Unity and diversity of the
+visual and performing arts of Muslims in different periods, cultures and
+regions.  
+
+  * ### MES 368 - Islam and the West
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Crosslisted with HST 368 , PSC 368  
+Topics include globalization and interdependency of faiths, the "clash of
+civilizations", relations between religion and state in Islam and Christianity
+and whether it is possible to separate the world into monolithic entities
+"Islam" and "West". Offered in London only.  
+
+  * ### MES 374 - Popular Culture in the Middle East
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Crosslisted with HST 374  
+An exploration of history, social change, and culture in the Middle East
+through film, music, television, sports, and the internet. Focused on the
+average citizen asking questions about gender roles, youth culture, and
+national identity  
+
+  * ### MES 381 - Islamic Law & Society
+
+_Islamic Law & Society_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Crosslisted with PSC 381; REL 361  
+This course introduces students to classical/modern Islamic law by analyzing
+Islamic constitutionalism, criminal laws, family laws, gender, political
+violence, and Islamic banking, through the examination of Middle Eastern and
+South Asian legal systems.  
+
+  * ### MES 382 - Health in the Middle East
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with ANT 382, PHP 382  
+Surveys major cultural, biological and environmental features of the Middle
+East and relates them to aspects of health including infectious disease,
+chronic disease, reproductive health, population, war, poverty and
+globalization.  
+
+  * ### MES 386 - Sounds of the Silk Road
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HOM 386 , SAS 386  
+The soundscapes of the overland Silk Road as a window into history, commerce,
+migration, social life, values, faith, tolerance and conflict. Case studies
+from Turkish, Arabic, Persian, Central Asia, and Southwest Asia musics.  
+
+  * ### MES 391 - Revolutions in the Middle East
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 391  
+A comparative study of revolutions in the Middle East in terms of causes,
+processes and outcomes.  
+
+  * ### MES 392 - Islamism and Islamist Movements Today
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 392 , REL 362  
+A study of the historical, religious, social and political origins of Islamism
+and Islamist movements around the world today.  
+
+  * ### MES 393 - Middle Eastern Political Systems
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 393  
+Study of Middle Eastern political systems in terms of cleavages and crisis.  
+
+  * ### MES 394 - History of Islamic Political Thought
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 394  
+A study of Islamic political and social attitudes pertaining to contemporary
+issues.  
+
+  * ### MES 395 - Democratization in the Muslim World
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 395  
+Reasons for and dynamics of democratization in some Muslim countries.  
+
+  * ### MES 400 - Selected Topics
+
+_College of Arts and Sciences_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### MES 404 - 'AZAHAR' The Islamic Conquest and the Christian Reconquest
+
+_College of Arts and Sciences_  
+2 credit(s) Every semester
+
+* * *
+
+Crosslisted with FLL 404 , HUM 404  
+Thirteen day interdisciplinary seminar. Lectures in situ. Artistic,
+historical, cultural monuments of Cordoba, Sevilla, Granada and Toledo or
+Salamanca. Theological, philosophical and historical thought as to recreate
+the artistic and cultural climate of medieval al-Andalus/Spain.  
+
+  * ### MES 406 - The Middle East in Graphic Novels
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Graphic narratives that handle complex issues defining life in the Middle East
+and its diaspora, including wars and military conflicts, coming-of-age
+struggles, and gender relations.  
+
+  * ### MES 407 - Iraq: Modern Nation to US Occupation
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HST 407  
+History of modern Iraq from early 20th century to present, Iraqi cultural
+life, labor movement, socialist politics, women's movement, warfare and
+masculinity, blogging, the Iran-Iraq war, the Gulf War, sanctions, 2003
+invasion and aftermath.  
+Shared Competencies Critical and Creative Thinking; Civic and Global
+Responsibility; Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  * ### MES 430 - Senior Seminar in Middle Eastern Studies
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A required course for students pursuing a minor or major in Middle Eastern
+Studies. An interdisciplinary study of special topics that fall under the
+rubric of Middle Eastern Studies: Western modernity, Islamic thought and
+practices, and popular culture.  
+PREREQ MES 344  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### MES 453 - Feminisms, Sexualities, and Human Rights in Middle Eastern Societies
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with QSX 453 , WGS 453  
+Focuses on the centrality of gender and sexuality to the politics of everyday
+life by mapping women's rights movements, LGBT Mobilizations, and minority
+activisms in the Middle East.  
+
+  * ### MES 465 - Beyond the Veil: Gender Politics in Islam
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with REL 465 , SAS 465 , WGS 465  
+Double Numbered with MES 626  
+Politics of gender, religious identities, and resistance in the Islamic world.
+Gender scripts in Qur'anic scripture and Shariah laws. Contemporary realities
+of Muslim women living in different parts of the world. Additional work
+required of graduate students.  
+
+  * ### MES 468 - Middle East in Anthropological Perspective
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with ANT 468  
+Double Numbered with MES 668  
+Anthropology of the social, cultural, geographical, and political realities of
+the Middle East. Additional work required of graduate students.  
+
+  * ### MES 482 - Azahar: Interfaith Relations in Spain (711-1492)
+
+_Azahar: Interfaith Relations in Spain (711-1492)_  
+3 credit(s) Every semester
+
+* * *
+
+Crosslisted with HUM 482; HST 482  
+ _Offered only in Madrid._ This traveling seminar explores the interweaving of
+Muslim, Jewish, and Christian cultures during the Middle Ages, the resulting
+tensions, and the lasting cultural and social impacts on present-day Spain and
+the modern world.  
+
+  * ### MES 495 - Distinction Thesis in Middle East Studies
+
+_College of Arts and Sciences_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Thesis in partial fulfillment of the requirements for the Distinction in
+Middle Eastern Studies Program. Normally in the semester prior to graduation,
+topic chosen in conjunction with advisor.  
+
+  * ### MES 499 - Honors Capstone Project
+
+_College of Arts and Sciences_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable  
+
+**Music Theory**
+
+  * ### HOM 126 - Introductory Music Theory II
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with MTC 126  
+Harmonic & melodic minor scales, compound intervals, modes, C clefs,
+symmetrical scales, dynamics, harmonic series, instrument transpositions,
+form, cadences, part writing. For non-music majors only.  
+PREREQ HOM 125  
+
+**Native American Studies**
+
+  * ### NAT 105 - Introduction to Native American Studies
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Overview of critical issues in Native American Studies: colonization,
+religious freedom, environment, sovereignty, and politics of identity,
+interdisciplinary, comparative, and indigenous perspectives in relation to
+histories, societies, and cultures.  
+
+  * ### NAT 142 - Native American Religion
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with REL 142  
+Religious beliefs and practices of native Americans; the diversity as well as
+similarity of religious expression.  
+
+  * ### NAT 200 - Selected Topics in Native American Studies
+
+_College of Arts and Sciences_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### NAT 208 - Indigenous Languages: Their Past, Present, and Future
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with LIN 208  
+The past (historical origin and development), present (current diversity and
+vitality) and future (endangerment, revitalization, standardization) of
+indigenous languages in the Americas and around the world. No linguistics
+background necessary.  
+
+  * ### NAT 244 - Indigenous Religions
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Crosslisted with ANT 273 , REL 244  
+The connections between material life and religious life in cultures
+throughout the world. The diverse ways that various cultures inhabit their
+landscapes.  
+
+  * ### NAT 290 - Independent Study
+
+_College of Arts and Sciences_  
+1-6 credit(s) Every semester
+
+* * *
+
+Exploration of a problem, or problems, in depth. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor(s) and the department.  
+Repeatable  
+
+  * ### NAT 300 - Selected Topics in Native American Studies
+
+_College of Arts and Sciences_  
+1-6 credit(s) Every semester
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### NAT 301 - Iroquois Verb Morphology I
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course will analyze the Iroquois verb. The students will be introduced to
+the morphological structure common to all Iroquois languages.  
+
+  * ### NAT 302 - Iroquois Verb Morphology II
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course will analyze the Iroquois verb. The students will be introduced to
+the morphological structure common to all Iroquois languages. This is the
+second course in a two part series.  
+PREREQ NAT 301  
+
+  * ### NAT 305 - Iroquois Phonetics and Phonology
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Explores the sounds and sound systems of the Iroquois Languages (Onondaga,
+Mohawk, Seneca, Cayuga, Oneida, Tuscarora.) How sounds systems are related to
+writing systems.  
+
+  * ### NAT 306 - Iroquois Syntax and Semantics
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A study of semantic distinctions and syntactic structures in Iroquois
+Languages.  
+PREREQ NAT 305  
+
+  * ### NAT 308 - Iroquois Linguistics in Practice
+
+_College of Arts and Sciences_  
+3-6 credit(s) At least 1x fall or spring
+
+* * *
+
+This course will guide the student through the practical application of
+phonetics, phonology, semantics, morphology and syntax to their Iroquois
+language learning and teaching experience.  
+PREREQ NAT 301 AND NAT 302 AND NAT 305 AND NAT 306  
+
+  * ### NAT 323 - Peoples and Cultures of North America
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with ANT 323  
+Racial, linguistic, and cultural areas of North America from the Rio Grande to
+the Arctic. Selected areas and tribes. Data from archaeology, historical
+records, and contemporary anthropological fieldwork.  
+
+  * ### NAT 346 - Native North American Art
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Crosslisted with HOA 387  
+Critical exploration of meanings, functions, techniques, and varieties of art
+in Native North American cultures, ancient to present. Attention to
+continuities, changes, and cultural exchanges; anthropological vs. art
+historical perspectives: limitations of term "art."  
+Shared Competencies Critical and Creative Thinking; Communication Skills;
+Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  * ### NAT 347 - Religion and the Conquest of America
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with REL 347  
+The development of America through the contact between indigenous and colonial
+people's divergent religious understandings of land.  
+
+Page: 1 <\- Back 10 … 11 | 12 | 13 | 14 | 15 | **16** | 17 | 18 | 19 | 20 | 21 -> 26
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Undergraduate University Requirements Syracuse University's Shared
+Competencies
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies Martin J. Whitman School of
+Management Maxwell School of Citizenship and Public Affairs S.I. Newhouse
+School of Public Communications College of Professional Studies College of
+Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

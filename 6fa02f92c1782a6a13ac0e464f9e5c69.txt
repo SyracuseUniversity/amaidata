@@ -1,0 +1,521 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Engineering and Computer Science  
+  
+## College of Engineering and Computer Science
+
+#### Courses
+
+**Manufacturing Engineering**
+
+  * ### MFE 692 - Design for Manufacturing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Major design project which would include initial design definition,
+analysis/CAD, manufacturability studies, design modification, manufacturing
+layout and data bases.  
+PREREQ MFE 636  
+
+  * ### MFE 735 - Artificial Intelligence in Manufacturing Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Artificial Intelligence as a tool for modeling, planning, and controlling
+manufacturing systems. Knowledge representation, inference methods, expert
+systems, blackboard framework, neural networks, and their application in
+manufacturing systems. Issues involved in building intelligent manufacturing
+systems.  
+PREREQ MFE 635  
+
+  * ### MFE 850 - Advanced Topics in Manufacturing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected topics in conventional and non-conventional manufacturing processes,
+flexible manufacturing cell, automated manufacturing, production planning,
+quality control.  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### MFE 997 - Master's Thesis
+
+_College of Engineering and Computer Science_  
+0-9 credit(s)
+
+* * *
+
+Repeatable  
+
+**Materials Science**
+
+  * ### MTS 533 - Introduction to Theory of Materials
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Theoretical concepts that describe the electronic structure of crystals.
+Models of electron and ion interactions to correlate electronic, magnetic, and
+thermal properties of metals, alloys, and compounds.  
+
+  * ### MTS 537 - Introduction to Diffusion in Solids
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Diffusion mechanisms, diffusion equations and their methods of solution.  
+
+  * ### MTS 570 - Nondestructive Testing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Determination of defects in structural materials. Nondestructive inspection
+methods include noise emission techniques, X-ray radiography, leak detectors,
+ultrasonics, magnetic and electrical methods.  
+Repeatable  
+
+  * ### MTS 581 - X-Ray Diffraction
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Kinematic theory of X-ray diffraction and its applications in materials
+science. Experimental methods. Integrated intensity, line broadening, and peak
+shift analyses. Crystal structure. X-ray effects of imperfections in crystals.  
+
+  * ### MTS 625 - Topics in Solid-State Thermodynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Application of classical and statistical thermodynamic principles to the
+behavior of solids. Phase equilibria, diffusion, defects, interfaces, use of
+tabulated data in real problems, elastic, magnetic, and electric systems.  
+
+  * ### MTS 631 - Advanced Physical Metallurgy
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Solid-state processes. Structure of pure metals. Phase diagrams. Solid
+solutions, eutectic and peritectic reactions. Diffusion, nucleation, and
+growth phenomena. Transformation processes.  
+
+  * ### MTS 632 - Transformations in the Solid State
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Reactions and transformations in solids. Allotropy, critical phenomena in
+solid solutions, nucleation, growth, precipitation from supersaturated solid
+solutions, recovery, recrystallization and growth, eutectoid transformations.
+Martensite transformations, etc.  
+PREREQ MTS 631  
+
+  * ### MTS 655 - Electron Transport Phenomena in Crystals
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Electron states. Dynamics of electrons. Electron spin. Thermal energy.
+Interaction of electrons with the lattice and crystal defects.
+Thermoelectricity. Hall Effect, magneto resistance. Optical properties.
+Superconductivity.  
+
+  * ### MTS 671 - Mechanical Behavior of Materials
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Mechanical behavior of metallic materials. Effects of stress systems on
+deformation. Static and dynamic properties of metals and alloys. Plastic
+deformation. Residual stresses. Stress concentrations. Metal forming.  
+
+  * ### MTS 672 - Dislocation Theory
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Deformation laws on the basis of dislocation theory. Types of dislocations.
+Stress field of dislocations. Interaction between dislocations. Yield point
+phenomenon; strain hardening. Age hardening. Fracture initiation and crack
+propagation.  
+
+  * ### MTS 682 - Electron Diffraction and Electron Microscopy
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Kinematic theory of electron diffraction and electron microscopy. Dynamics
+theory. Contrast from perfect and imperfect crystals. Specimen preparation and
+experimental methods.  
+PREREQ MTS 581  
+
+  * ### MTS 684 - Modern Microstructural Techniques
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with SST 684  
+Basic principles, capabilities and applications of various microstructural
+methods not covered in MTS 581 and MTS 682. Scanning electron microscopy,
+electron probe microanalysis, X-ray fluorescence, field ion microscopy.  
+PREREQ MTS 581  
+
+  * ### MTS 720 - Formation of Thin Solid Films
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Science and engineering of the formation of thin solid films. Vacuum
+technology, film formation, theories of nucleation and accommodation, growth
+and structure of single crystal films.  
+Repeatable  
+
+  * ### MTS 721 - Properties of Thin Solid Films
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Topics chosen principally from: mechanical, piezoelectric, magnetic, electron
+transport , superconductive, and optical properties.  
+
+  * ### MTS 748 - Theory of Alloys
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+The application of bond theories in prediction of: structure, stability and
+reactivity of alloy phases, intermetallic compounds, carbides, nitrides, etc.
+Topics covered include valence bond theory, crystal field theory, Engel-Brewer
+correlation as well as other periodic classifications of properties which are
+of value in making the above types of predictions.  
+
+  * ### MTS 756 - Magnetic Phenomena in Crystals
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Orbital magnetic susceptibility, spin paramagnetism, fero, ferri,
+antiferromagnetism, exchange interaction, Ising model, domain structure, fine
+particles, thin films, magnetic anisotropy, reversible and irreversible
+magnetization processes.  
+PREREQ MTS 631  
+
+  * ### MTS 800 - Selected Topics in Mechanics of Materials
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Imperfections in solids, fracture and yielding criteria, fatigue, creep,
+ultrasonic effects, radiation damage, surface phenomena and related subjects
+of current interest.  
+Repeatable  
+
+  * ### MTS 820 - Selected Topics in Materials Science
+
+_College of Engineering and Computer Science_  
+1-4 credit(s) At least 1x fall or spring
+
+* * *
+
+Recent developments in the field of materials science.  
+Repeatable  
+
+  * ### MTS 837 - Advanced Problems in the Physics of Metals
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Quantitative treatment of the theory of the properties of metals and alloys.  
+PREREQ PHY 662  
+
+  * ### MTS 867 - Theory of Surfaces and Interfaces
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Fundamental theory of the interfaces formed between various combinations of
+solids, liquids, and gases based on the thermodynamic and electronic models.
+Phenomena of adsorption, capillarity, catalysis, electronic emissions, double
+layer effects, and heterojunctions.  
+
+  * ### MTS 890 - Metallurgical Research Techniques
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Topics selected from the following and related areas: high and low temperature
+research, high vacuum, high pressure experimental stress analysis,
+quantitative metallograpy, nondestructive testing, electron microscopy, mass
+spectrometry, X-ray and electron diffraction.  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### MTS 960 - Advanced Seminar in Materials Science
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Recent scientific and engineering advances in specific fields of materials
+science.  
+Repeatable  
+
+  * ### MTS 997 - Masters Thesis
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+  * ### MTS 999 - Dissertation
+
+_College of Engineering and Computer Science_  
+1-15 credit(s)
+
+* * *
+
+**Nuclear Energy Track**
+
+  * ### NUC 510 - Nuclear Reactor Design, Operation and Safety
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with MAE 510  
+Principles of fission reactor analysis and design; reactor kinetics, operation
+and control; reactor thermo-fluid-dynamics; reactor safety; reactor accident
+case studies.  
+
+  * ### NUC 520 - Radiochemistry, Nuclear Fuel Reprocessing and Nonproliferation
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CEN 520  
+Radiochemistry for nuclear reactors and nuclear fuel reprocessing;
+nonproliferation issues through detection and monitoring, nuclear fuel
+reprocessing and design, waste vitrification and storage facilities, safety
+issues in nuclear fuel reprocessing.  
+PREREQ NUC 301  
+
+  * ### NUC 530 - Electric Power Generation and Distribution
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fundamental principles governing the electro-mechanical power conversion;
+transformer; generators; introduction to power distribution systems;
+reliability and safety issues related to power generation and delivery,
+particularly in nuclear power plants.3  
+
+  * ### NUC 540 - Experiential Studies in Nuclear Technology
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CEN 540  
+Introduction to experimental methods, procedures and research techniques
+through projects at participating government facilities, industrial entities
+or Syracuse University.  
+PREREQ NUC 301 AND (NUC 510 OR NUC 520 )  
+
+**Solid-State Science and Technology**
+
+  * ### SST 684 - Modern Microstructural Techniques
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with MTS 684  
+Basic principles, capabilities and applications of various microstructural
+methods not covered in MTS 581 and MTS 682. Scanning electron microscopy,
+electron probe microanalysis, X-ray fluorescence, field ion microscopy.  
+PREREQ MTS 581  
+
+  * ### SST 820 - Selected Topics in Solid-State Science and Technology
+
+_College of Engineering and Computer Science_  
+1-4 credit(s) Upon sufficient interest
+
+* * *
+
+Recent developments in the field.  
+Repeatable  
+
+  * ### SST 990 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Every semester
+
+* * *
+
+Exploring a problem or problems in solid-state science. Individual independent
+study upon plan submitted by student.  
+Repeatable  
+
+  * ### SST 997 - Masters Thesis
+
+_College of Engineering and Computer Science_  
+0-6 credit(s)
+
+* * *
+
+Repeatable  
+
+  * ### SST 999 - Dissertation
+
+_College of Engineering and Computer Science_  
+1-15 credit(s)
+
+* * *
+
+Repeatable  
+
+Page: 1 | 2 | 3 | 4 | **5**
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

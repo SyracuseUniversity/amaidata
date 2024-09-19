@@ -1,0 +1,1686 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+View Courses by College . Please note, when searching courses by Code or
+Number, an asterisk (*) can be used to return mass results. For instance a
+Code search of _6*_ can be entered, returning all 600-level courses.
+
+  * Guide to Reading Course Descriptions
+
+  
+  
+Course Filter |   
+---|---  
+Filter this list of courses using course prefix, course code, keywords or any
+combination.  
+Prefix: | Code or Number: | Keyword or Phrase: |   
+Choose Course Prefix All prefixes… AAA AAS ACC ADV AED AEE AIC AJC ALP AMC ANT APH ARB ARC ARI ARL ASL ATR BCM BDJ BEN BIO BSN BTB BUA CAR CAS CCR CEE CEN CFE CHE CHI CIN CIS CLR CMD COM COU CPS CRS CSD CSE CTG DBS DES DRS DSP EAR ECE ECN ECS EDA EDU EED EEE EGR ELE ELL ENA ENC ENG ENI ENL ENV EUP EXE FAS FHN FIL FIN FLT FMA FRE FSC FST GEO GER GRA GRE GTR HEB HED HFS HIN HOA HOM HPD HRP HST HUM ICC IDE IDS ILL INB IND ISD ISM IST ITA JNL JPS JSP KOR LAS LAT LAW LIN LIT LLM LPP MAE MAR MAS MAT MBC MEE MES MFE MFT MGT MHL MIS MMI MND MOT MPD MPH MTC MTD MTS MUE MUI MUS NAT NEU NEW NSD NUC OBO ORG PAI PDG PER PHI PHO PHP PHY PNO POL POR PPE PPM PRC PRL PRS PSC PSY QSX RAE RED REL RES RUS SAL SAS SCE SCI SCM SED SMC SOC SOS SPA SPE SPM SST STT SWA SWK SXP TML TRB TRF TRK TRP TXT VCO VID VIS VLA VLN VOC WGS WRT |  Choose Course Number |  Choose Keyword |   
+Find whole word or phrase only.  
+|  
+  
+---  
+  
+**Information Studies**  
+|
+
+  * ### IST 747 - Complex issues in IT Project Management
+
+_School of Information Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with IST 447  
+Complex issues that confront IT project managers. Case studies to explore
+problems, solutions and best practices. Application of key concepts to diverse
+industry settings. Additional work required of graduate students.  
+PREREQ IST 445 OR IST 645  
+
+  
+|
+
+  * ### IST 754 - Capstone Project in Enterprise Data Systems
+
+_School of Information Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Project-based activity for which student and instructor set milestones and
+deliverables that cover at least three of the five program focus areas.  
+PREREQ Prerequisites: 18 core credits and residency milestone  
+
+  
+|
+
+  * ### IST 755 - Information Systems Capstone
+
+_School of Information Studies_  
+3 credit(s) Every semester
+
+* * *
+
+Seminar. Integration of previous learning on the various components of
+management, user needs, and technologies. In-depth review and use of case
+studies on a range of critical information resources management areas.  
+PREREQ IST 614 and 24 completed credits.  
+
+  
+|
+
+  * ### IST 765 - Information Systems Research Capstone
+
+_Information Systems Research Capstone_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The IS Research Capstone trains students for inquiry into the complexities of
+enterprise digital transformation. Students will complete a research project
+under faculty supervision to fulfill the exit requirement in the Information
+Systems graduate program.  
+PREREQ IST614, IST671, and the completion of 24 credits  
+
+  
+|
+
+  * ### IST 769 - Advanced Big Data Management
+
+_School of Information Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with IST 469  
+Analyze relational and non-relational databases and corresponding database
+management system architectures. Learn to build complex database objects to
+support a variety of needs from big data and traditional perspectives. Data
+systems performance, scalability, security. Additional work required for
+graduate students.  
+PREREQ IST 659 OR IST 359 with a minimum grade of B or higher  
+
+  
+|
+
+  * ### IST 773 - Reflective Portfolio
+
+_School of Information Studies_  
+3 credit(s) Every semester
+
+* * *
+
+Creation of an online reflective portfolio that demonstrates successful
+achievement of all program learning outcomes for the MSLIS degree.  
+
+  
+|
+
+  * ### IST 776 - Research Methods in Information Science and Technology
+
+_School of Information Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Philosophies, approaches, and practices of research in information transfer.
+Statistics as a tool and as a framework for understanding the research
+process.  
+
+  
+|
+
+  * ### IST 777 - Statistical Methods in Information Science and Technology
+
+_School of Information Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Classical statistical procedures used in information transfer research.
+Emphasis on underlying rationale for each procedure and on criteria for
+selecting procedures in a given research situation.  
+  
+Repeatable  
+
+  
+|
+
+  * ### IST 778 - Elicitation and Analytical Techniques for Information Science
+
+_School of Information Studies_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Techniques for data elicitation and analysis for research in information
+science and technology. Includes intellectual history, assumptions,
+procedures, and practical experience with a range of techniques, including
+both qualitative and quantitative approaches.  
+
+  
+|
+
+  * ### IST 782 - Applied Data Science Portfolio
+
+_Applied Data Science Portfolio_  
+1 credit(s) Every semester
+
+* * *
+
+Students select course projects from data science courses that they have
+previously taken and reflect on those projects and think about which program
+learning outcomes were demonstrated in each of their selected projects.  
+
+  
+|
+
+  * ### IST 783 - Intelligent Process Automation
+
+_Intelligent Process Automation_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course trains students to plan, design, and deliver end-to-end automation
+solutions using cognitive toolkit components including machine learning, AI,
+virtual assistants and functional RPA capabilities.  
+PREREQ IST 673  
+
+  
+|
+
+  * ### IST 790 - Advanced Topics in Information Organization
+
+_School of Information Studies_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+May include the organization of bibliographic information in libraries,
+information centers, and retrieval systems; vocabulary control in information
+retrieval systems, classification theory; problems in the organization of
+media.  
+
+  
+|
+
+  * ### IST 800 - Information Studies Seminar
+
+_School of Information Studies_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Selected areas within the information field, emphasizing related disciplines
+and their relationships to the diagnosis of information needs and the
+collection, storage, management, regulation and dissemination of information.  
+Repeatable  
+
+  
+|
+
+  * ### IST 801 - Introduction to Doctoral Studies
+
+_School of Information Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course defines what it means to be a scientist (Ph.D.) or
+practitioner/researcher (DPS), what is meant by science, and what are some of
+the core concepts in the broad intellectual spaces represented by faculty at
+this (and other) iSchool(s). As such, this overview is very directed towards
+concepts, perspectives, and issues that are relevant to the doing of science
+by researchers in iSchools.  
+
+  
+|
+
+  * ### IST 810 - Practicum in Research
+
+_School of Information Studies_  
+2 credit(s) Every semester
+
+* * *
+
+Practical experience in the research process. Students write proposals,
+discuss ongoing research, prepare critiques of research designs, and engage in
+all aspects of the research process.  
+Repeatable  
+
+  
+|
+
+  * ### IST 820 - Seminar in Research Methods
+
+_School of Information Studies_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Principles and applications of appropriate research techniques, including
+probability and statistics, sampling theory, operations research models,
+survey techniques, interviewing, observation, and experimental design. Problem
+formulation, proposal writing, preparation and presentation of final report.  
+
+  
+|
+
+  * ### IST 830 - Seminar in Information Systems
+
+_School of Information Studies_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Theory and practice in the analysis, design, management, and evaluation of
+existing and hypothetical information systems, including computerized storage
+and retrieval systems, libraries, management systems, and networks.  
+
+  
+|
+
+  * ### IST 840 - Practicum in Teaching
+
+_School of Information Studies_  
+1-2 credit(s)
+
+* * *
+
+Practical experience in the teaching process. Students write syllabi,
+classroom assignments, or presentations; discuss ongoing teaching assignments;
+prepare critiques of classes; and engage in all aspects of the teaching
+process.  
+Repeatable 7 time(s), 8 credits maximum  
+
+  
+|
+
+  * ### IST 880 - Intensive Seminar
+
+_School of Information Studies_  
+0 credit(s) Upon sufficient interest
+
+* * *
+
+Residential seminar for Doctorate of Professional Studies distance students.
+Skill building and mentoring for doctoral coursework and dissertation
+preparation. Portfolio evaluation of work accumulated during the semester.  
+Repeatable 7 time(s)  
+
+  
+|
+
+  * ### IST 971 - Information Systems Internship
+
+_School of Information Studies_  
+1-3 credit(s) Every semester
+
+* * *
+
+Fully supervised internship experience for graduate students in the MSIS
+degree program. Must meet GPA requirements and complete a learning agreement
+with site supervisor  
+Repeatable 2 time(s), 3 credits maximum  
+
+  
+|
+
+  * ### IST 972 - School Media Practicum
+
+_School of Information Studies_  
+1-6 credit(s) Every semester
+
+* * *
+
+Fully supervised and evaluated school-based library experience at the
+elementary and secondary levels. Includes online seminar. Must meet
+GPA/program requirements and complete a learning agreement with site
+supervisor.  
+Repeatable  
+
+  
+|
+
+  * ### IST 973 - Internship in Library Science
+
+_School of Information Studies_  
+1-6 credit(s) Every semester
+
+* * *
+
+Fully supervised internship experience. Must meet GPA requirements and
+complete a learning agreement with site supervisor.  
+PREREQ 9 completed graduate level IST credits  
+Repeatable 1 time(s), 6 credits maximum  
+
+  
+|
+
+  * ### IST 974 - Internship in Applied Data Science
+
+_School of Information Studies_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Fully supervised internship experience. Must meet GPA requirements and
+complete a learning agreement with site supervisor. Pre-req: IST ADS master's
+students only.  
+
+  
+|
+
+  * ### IST 997 - Thesis
+
+_School of Information Studies_  
+1-6 credit(s) Every semester
+
+* * *
+
+Repeatable 7 time(s), 45 credits maximum  
+
+  
+|
+
+  * ### IST 999 - Dissertation
+
+_School of Information Studies_  
+1-15 credit(s) Upon sufficient interest
+
+* * *
+
+Repeatable  
+
+  
+  
+**Italian**  
+|
+
+  * ### ITA 620 - Language Training in Preparation for Research Using Italian
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Language training to prepare students to conduct research in areas that
+require knowledge of Italian.  
+Repeatable 3 time(s), 12 credits maximum  
+
+  
+|
+
+  * ### ITA 670 - Teaching Experience
+
+_College of Arts and Sciences_  
+1 credit(s) Irregularly
+
+* * *
+
+For qualified seniors and graduate students. Supervised practical experience
+in teaching beginning and/or intermediate oral Italian.  
+Repeatable  
+
+  
+  
+**Jewelry and Metalsmithing**  
+|
+
+  * ### AIC 641 - History of Jewelry and Metalsmithing
+
+_School of Art_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Double Numbered with AIC 441  
+Study the history of jewelry/metalsmithing from prehistoric to contemporary
+pieces. Differences and similarities among cultures is discussed.  
+
+  
+  
+**Japanese**  
+|
+
+  * ### JPS 620 - Language Training in Preparation for Research Using Japanese
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Language training to prepare students to conduct research in areas that
+require knowledge of Japanese.  
+Repeatable 3 time(s), 12 credits maximum  
+
+  
+  
+**Journalism**  
+|
+
+  * ### JNL 530 - Topics in Specialized Reporting
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Event- and issue-oriented reporting in politics, courts, science, environment,
+minorities, education, local government. Several sections. One news area to a
+section.  
+PREREQ BDJ 664 OR MND 615  
+Repeatable 1 time(s), 6 credits maximum  
+
+  
+|
+
+  * ### JNL 530 - Topics in Specialized Reporting
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Event- and issue-oriented reporting in politics, courts, science, environment,
+minorities, education, local government. Several sections. One news area to a
+section.  
+PREREQ MND 305 OR BDJ 312 OR BDJ 364  
+Repeatable 2 time(s), 6 credits maximum  
+
+  
+|
+
+  * ### JNL 690 - Independent Study
+
+_S.I. Newhouse School of Public Communications_  
+1 credit(s) Every semester
+
+* * *
+
+Exploration of a problem, or problems, in depth. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor(s) and the department.  
+Repeatable  
+
+  
+  
+**Judaic Studies Program**  
+|
+
+  * ### JSP 500 - Selected Topics
+
+_College of Arts and Sciences_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### JSP 600 - Selected Topics
+
+_College of Arts and Sciences_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### JSP 676 - Religion and Jewish Literature
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with REL 676  
+Readings in Jewish literature, with emphasis on allegorical, hasidic,
+neohasidic, and anti-hasidic writing by Nahman of Bratslav, Joseph Perl, I.L.
+Peretz, Franz Kafka, Isaac Babel, and S. Y. Agnon.  
+
+  
+|
+
+  * ### JSP 690 - Independent Study
+
+_College of Arts and Sciences_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a problem, or problems, in depth. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor(s) and the department.  
+Repeatable  
+
+  
+  
+**World Language Program: Korean**  
+|
+
+  * ### KOR 620 - Language Training in Preparation for Research in Korean
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Language instruction to prepare students to conduct research in areas that
+require knowledge of Korean. Permission of instructor.  
+Repeatable 3 time(s), 12 credits maximum  
+
+  
+  
+**Latino-Latin American Studies**  
+|
+
+  * ### LAS 520 - Research on Latin America
+
+_College of Arts and Sciences_  
+1-3 credit(s) Every semester
+
+* * *
+
+Reading and special work  
+Repeatable  
+
+  
+|
+
+  * ### LAS 537 - Environmental Policy in a Development Context
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Crosslisted with GEO 537  
+Offered only in Santiago. Examines historical/intellectual/ material processes
+that transformed nature into natural resources to be exploited; ways global
+political process has guided global responses to environmental problems;
+Chilean environmental policy over the last 20 years.  
+
+  
+|
+
+  * ### LAS 623 - Effects of Globalization in Latin America
+
+_College of Arts and Sciences_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Crosslisted with ANT 623  
+Double Numbered with LAS 423  
+A grassroots view of major transformations in Latin America due to
+globalization/global change, including adaptations to global warming, effects
+of and reactions to neo-liberal policies, internal and international
+migration, ethnic movements and social revolutions.  
+
+  
+  
+**Latin**  
+|
+
+  * ### LAT 620 - Language Training in Preparation for Research Using Latin
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Language training to prepare students to conduct research in areas that
+require knowledge of Latin.  
+Repeatable 3 time(s), 12 credits maximum  
+
+  
+  
+**Law**  
+|
+
+  * ### LAW 530 - Negotiation
+
+_College of Law_  
+1 credit(s) Irregularly
+
+* * *
+
+The course will emphasize learning the skills of negotiation by simulations in
+which students will negotiate and watch their classmates negotiate. Class
+members will conduct three negotiations, a simple sales contract, a retainer
+agreement between an attorney and a client, and a complex multi-party dispute.  
+
+  
+|
+
+  * ### LAW 601 - Civil Procedure
+
+_College of Law_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Procedural processes that guide the adjudication of civil actions in American
+courts. Allocation of judicial power between federal and state courts,
+focusing on the Federal Rules of Civil Procedure. Fundamental policies
+underlying particular procedural rules.  
+
+  
+|
+
+  * ### LAW 602 - Constitutional Law
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course covers (1) Judicial Review in all its aspects, including the Case
+and Controversy Doctrine, and (2) Structure, that is, Federalism (Federal and
+State regulatory and taxing powers) and Separation of Powers/Checks and
+Balances among the branches of the federal government.  
+
+  
+|
+
+  * ### LAW 603 - Contracts
+
+_College of Law_  
+5 credit(s) At least 1x fall or spring
+
+* * *
+
+Legal protection afforded promissory agreements. Contract interpretation;
+contract formation, including offer and acceptance, mutual assent, and
+consideration. Parties affected by contracts and remedies for breach of
+contract.  
+
+  
+|
+
+  * ### LAW 604 - Criminal Law
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Elements of various crimes and problems of statutory construction and
+interpretation. Substantive defenses, emphasizing the defense of insanity, as
+well as attempts and the specific crimes of conspiracy, theft, and homicide.  
+
+  
+|
+
+  * ### LAW 607 - Property
+
+_College of Law_  
+5 credit(s) At least 1x fall or spring
+
+* * *
+
+Problems concerning the possession of land and chattels. Methods of acquiring
+title to personal property, possessory and concurrent estates, and landlord
+and tenant problems. Historical introduction to real estate, including future
+interest, real covenants, and easements.  
+
+  
+|
+
+  * ### LAW 608 - Torts
+
+_College of Law_  
+5 credit(s) At least 1x fall or spring
+
+* * *
+
+Imposition of liability for personal wrongs as viewed by traditional tort law
+and current alternatives. Historical development and policy basis of liability
+for various types of injury-producing conduct, including intentional torts,
+negligence, and strict liability.  
+
+  
+|
+
+  * ### LAW 609 - Legal Communications and Research I & II
+
+_College of Law_  
+2 credit(s) Every semester
+
+* * *
+
+Fall Semester: Introduction to basic lawyering skills, including legal
+analysis, citation, and court hierarchy and application of these skills to
+complex factual situations in a mock law firm setting. Spring Semester:
+Continuation of Legal Communications and Research. Skills introduced this
+semester include legal research, oral argument, and the written presentation
+of legal arguments in persuasive form.  
+Repeatable  
+
+  
+|
+
+  * ### LAW 630 - Negotiation
+
+_College of Law_  
+1 credit(s) Irregularly
+
+* * *
+
+The course will emphasize learning the skills of negotiation by simulations in
+which students will negotiate and watch their classmates negotiate. Class
+members will conduct three negotiations, a simple sales contract, a retainer
+agreement between an attorney and a client, and a complex multi-party dispute.  
+
+  
+|
+
+  * ### LAW 641 - Fact Investigation and Analysis
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+An introduction to the world of fact investigation and analysis, this course
+will provide an overview of how to develop and scrutinize facts. The course
+will cover five major topics: 1) How lawyers gather facts; 2) How lawyers
+evaluate evidence/facts; 3) How to organize evidence into a comprehensive
+narrative; 4) How human memory, biases, and perception affect fact gathering;
+and 5) The ethical issues surrounding fact investigations. The course will
+involve a significant interactive skill development component including mock
+interviews, drafting exercises, guest speakers, and hands-on investigation
+exercises.  
+
+  
+|
+
+  * ### LAW 643 - Land Use Planning and Zoning Law: An Applied Property Course
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The course will provide an applied property experience focused on learning
+strategic lawyering and practice oriented skills while developing knowledge
+about land use law and the administrative regulatory process. The course will
+be structured around three important elements: 1) Learning by observing and
+interacting with local zoning board officials; 2) Translating knowledge into
+strategic action by focusing on how to use the law to advance your client's
+interest; and 3) Solving real world and practice-based problems developed from
+actual zoning application files.  
+
+  
+|
+
+  * ### LAW 644 - National Security Lawyering
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The central goal of this course is to equip students with skills required to
+practice law in a political and bureaucratic context. It will teach students
+about the organizational structure of the national security infrastructure;
+how key figures make, implement, and oversee policy and operational decisions;
+and the unusually diverse array of legal materials that regulate national
+security players and thus constitute the "law" of national security law.  
+
+  
+|
+
+  * ### LAW 645 - Negotiation for Lawyers
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course will introduce students to the theory and practice of negotiation.
+Students will learn basic negotiation skills and will be introduced to a
+variety of other skills including: valuation of a client's position;
+interviewing; business communications; and basic drafting.  
+
+  
+|
+
+  * ### LAW 647 - Professional Responsibility: Becoming a Lawyer
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course will cover the essential components of professional responsibility
+and will focus on professional identity formation. Utilizing a problem
+approach that lends itself to simulations and skills development, students
+will learn how to analyze ethical issues; develop basic interviewing,
+counseling, and informal advocacy skills; practice collaboration; and reflect
+on the role of the lawyer and their own professional development. This course
+meets the Professional Responsibility requirement.  
+
+  
+|
+
+  * ### LAW 690 - Legal Communications & Research III
+
+_College of Law_  
+2 credit(s) Every semester
+
+* * *
+
+A variety of courses that build on the skills learned in the first two
+semesters of the Legal Communication and Research Program. The courses focus
+more specifically on practice areas (such as civil litigation, criminal
+litigation, and transactional drafting) as well as courses that focus on legal
+writing (such as theories and strategies in persuasive writing and revising
+and editing legal prose).  
+PREREQ LAW 609  
+
+  
+|
+
+  * ### LAW 693 - Legal Foundations
+
+_College of Law_  
+2 credit(s) At least 1x fall or spring
+
+* * *
+
+This is the first residential course in the online JD program. it is a two-
+credit course designed to prepare students to study law. The course will
+introduce students to the American legal system, build a foundational
+understanding of the basic framework of legal and lawmaking institutions, and
+help prepare them to succeed in their legal studies.  
+
+  
+|
+
+  * ### LAW 699 - Constitutional Law II
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A continuation of Constitutional Law I (LAW 602) for second-year law students.
+Must be taken during the second year. This course covers Individual Rights,
+that is, Due Process, Equal Protection and the First Amendment, including
+freedom of speech, the press and religion.  
+PREREQ LAW 602  
+
+  
+|
+
+  * ### LAW 700 - National Security Law
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Obtaining information about the government; restraints on publication;
+government surveillance; travel restrictions; war and emergency powers;
+nuclear weapons issues; civil disobedience and draft issues.  
+
+  
+|
+
+  * ### LAW 701 - Accounting for Lawyers
+
+_College of Law_  
+2 credit(s) Irregularly
+
+* * *
+
+Principles of financial accounting applied to business entities:
+proprietorships, partnerships, and corporations; accounting for and tax
+implications of business organizations; and problems with estates and trusts.
+Not open to students who have more than one year of accounting.  
+
+  
+|
+
+  * ### LAW 702 - Administrative Law
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Nature and function of the administrative process. Procedural constraints on
+administrative investigation, adjudication, and rule making; judicial review
+of agency action.  
+
+  
+|
+
+  * ### LAW 703 - Pension and Employee Benefit Law
+
+_College of Law_  
+2 credit(s) Irregularly
+
+* * *
+
+Tax and other consequences of various plans of deferred compensation for
+executives and other employees.  
+
+  
+|
+
+  * ### LAW 704 - Commercial Transactions
+
+_College of Law_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Commercial practices under the Uniform Commercial Code, particularly sales,
+commercial paper and bank collections, letters of credit, bulk transfers, and
+secured transactions; business background, planning, and counseling.  
+
+  
+|
+
+  * ### LAW 705 - Comparative Law
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+This course will provide a comprehensive introduction to the legal systems of
+the civil law, with a focus on continental Europe. Many characteristic
+features of the Civil Law - the absence of a jury, the relative lack of
+reliance on judicial precedents, the emphasis on codification - have their
+origin in ancient and medieval times. Our course will therefore trace a
+historical review of European legal history and the civil law, beginning with
+Roman law, proceeding through medieval times and the early modern era of the
+18th and 19th centuries, to the modern period of international law. We will
+focus on the emergence of the three most influential modern systems, those of
+France, Germany, and Italy. We will examine the civil codes, the nature of
+continental adjudication, the inquisitorial approach to criminal justice, and
+comparative constitutional law. We will conclude the course by addressing the
+rise of the European Union and its legal institutions.  
+
+  
+|
+
+  * ### LAW 706 - Conflict of Laws
+
+_College of Law_  
+2 credit(s) Irregularly
+
+* * *
+
+Legal rules applicable to disputes with contacts to more than one state or
+country; the historical development of such rules; and their application in
+contract, tort, property, and other cases.  
+
+  
+|
+
+  * ### LAW 708 - Constitutional Criminal Procedure - Investigative
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Constitutional and statutory requirement for investigative procedures in
+criminal cases. Topics include searches, seizures, lineups, confessions, and
+electronic surveillances.  
+
+  
+|
+
+  * ### LAW 709 - Capital Habeas Practicum
+
+_College of Law_  
+1 credit(s) Irregularly
+
+* * *
+
+This course provides students with an overview of the substantive and
+procedural law involved in capital post-conviction litigation. Topics include
+an overview of some of the constitutional principles governing the imposition
+of the death penalty, the exclusion of intellectually disabled defendants from
+death-eligibility, effective assistance of counsel in capital cases, and
+certain aspects of state post-conviction and federal habeas corpus procedure.
+This course has a heavy experiential component in which students focus on
+developing lawyering skills needed for effective post-conviction capital
+litigation, including legal research and writing and effective courtroom
+advocacy.  
+
+  
+|
+
+  * ### LAW 710 - Sexual Orientation & the Law
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+Legal issues as they affect the lives of lesbians, gays, and bisexuals in the
+United States. Constitutional law, employment law, family law, property law,
+criminal law, and estate planning will be the areas of primary focus.  
+
+  
+|
+
+  * ### LAW 712 - Business Associations
+
+_College of Law_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+This is a business organizations course covering both unincorporated
+businesses and corporations. The first half of the course pertains to small
+business forms: partnerships; LLCs and close corporations. The balance covers
+public corporations, including regulation under securities laws.  
+
+  
+|
+
+  * ### LAW 713 - Adv. Constitutional Law
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+Comprehensive coverage of issues of freedom of speech, the free exercise of
+religion, and establishment of religion.  
+
+  
+|
+
+  * ### LAW 714 - Deposition Practice
+
+_College of Law_  
+2 credit(s) Irregularly
+
+* * *
+
+This course is designed for students who intend to engage in a heavy civil
+litigation practice. The course focuses on the skills, techniques, tactics,
+strategies and ethical considerations of witness preparation for depositions
+and the taking and defending of depositions under federal and state rules of
+civil procedure.  
+
+  
+|
+
+  * ### LAW 715 - Wills and Trusts
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Law governing interstate succession; execution, and revocation of wills; inter
+vivos will substitutes; the creation, nature, and revocation of trusts.  
+
+  
+|
+
+  * ### LAW 716 - Environmental Law
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+Pollution control and toxic substance regulation; the ends and means of
+environmental protection; the institutional responsibilities of legislatures,
+agencies, and courts. This course devotes substantial time to statutory
+interpretation and some time to covering administrative law, including agency
+rulemaking and judicial review of agency rulemaking.  
+
+  
+|
+
+  * ### LAW 717 - Estate & Gift Taxation
+
+_College of Law_  
+3-4 credit(s) At least 1x fall or spring
+
+* * *
+
+Taxation of transfers during life and at death. Planning and alternative modes
+of disposition.  
+
+  
+|
+
+  * ### LAW 718 - Evidence
+
+_College of Law_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Procedural and substantive rules of evidence. Judicial notice, presumptions
+and burdens of proof, rules governing the receipt of oral and documentary
+evidence, impeachment, direct and cross-examination, competency, hearsay,
+privileges, and the best evidence rules.  
+
+  
+|
+
+  * ### LAW 719 - Law and Psychology
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+An important goal of the legal system is to guide, constrain, and react to
+human behavior. In doing so, the law makes numerous assumptions about people's
+thoughts, beliefs, attitudes, and conduct-assumptions that may or may not be
+true. Psychology, as the empirical study of human thoughts, beliefs, attitudes
+and conduct, is in an important position to evaluate such assumptions. Over
+the past several decades, increasing numbers of social scientists have devoted
+substantial attention to the systematic study of law and legal institutions.
+At the same time, social scientists are testifying as experts in increasing
+numbers, and encouraging courts and policy-makers to use research evidence in
+adjudicating court cases and in setting public policy. This course will
+provide a survey of research in psychology as it relates to the legal and
+political process; in-class activities and demonstrations will form a
+significant part of the class. Among the topics covered may be jury decision-
+making, the insanity defense, paternalism, media violence, negotiation, race,
+trial consulting, obscenity and pornography, and capital punishment. Each
+topic will be considered from both a theoretical and an applied perspective.  
+
+  
+|
+
+  * ### LAW 720 - Family Law
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+State regulation of family relations. Family autonomy, marital and nonmarital
+contracts, adoption. Issues in divorce: separation agreements, spousal and
+child support, property division, and child custody.  
+
+  
+|
+
+  * ### LAW 721 - Federal Courts
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Essential functions of federal courts. Relationships between federal courts
+and the other branches of the federal government, the states, and the
+individual.  
+
+  
+|
+
+  * ### LAW 722 - Federal Income Tax I: Individual Tax
+
+_College of Law_  
+3-4 credit(s) At least 1x fall or spring
+
+* * *
+
+A study of the structure and underlying principles of the U.S. Federal income
+tax system, including an introduction to tax planning. This course devotes
+substantial class time to the fundamentals of statutory interpretation,
+including: agency adjudications, judicial review of agency action, statutory
+interpretation techniques, methodologies, and legislative history.  
+
+  
+|
+
+  * ### LAW 723 - Federal Income Tax II: Taxation of Business Transactions
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+Income tax problems of the corporation and its shareholders, emphasizing
+corporate organization, distributions, redemptions, liquidations,
+reorganizations, collapsible corporations, and S corporations.  
+PREREQ LAW 722  
+
+  
+|
+
+  * ### LAW 724 - Veterans Law
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course examines the substantive, administrative, and procedural process
+of claims before the Department of Veterans Affairs. Students will learn how
+to write regulations, understand the notice and comment procedures for
+proposed regulations, and write informal and formal briefs to the agency and
+courts. Students will have the opportunity to advocate for a mock veteran,
+third party, and VA interests. The course will devote substantial class time
+in covering fundamentals of administrative law, including agency rulemaking
+process, agency adjudication, and judicial review.  
+
+  
+|
+
+  * ### LAW 725 - Distressed Dealmaking
+
+_College of Law_  
+1 credit(s) Irregularly
+
+* * *
+
+Distressed Dealmaking is designed to provide students with a real world,
+hands-on understanding of the issues involved in a major corporate
+restructuring. In considering the perspectives of all stakeholders and the
+management of a business in financial distress, the course will explore ¿
+through cases lived by the professor (including Toys R Us, BCBG, Gymboree, the
+Atlantis Bahamas and others) ¿ the delicate balance of legal knowledge,
+business acumen and crisis management skills necessary to maximize the value
+of the corporation. Students will participate in a simulated presentation to a
+board of directors to better understand the complexities of a corporate
+reorganization process.  
+
+  
+|
+
+  * ### LAW 726 - Intellectual Property
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Survey of the foundations of copyright, patent, unfair competition, and trade
+law. For students who wish to concentrate in intellectual property or who want
+a basic course as preparation for business planning or litigation practice.  
+
+  
+|
+
+  * ### LAW 727 - International Business Transactions
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+This course provides an introduction to the transactional, regulatory, and
+litigation aspects of international business involving at least one private
+party. Major areas of substantive coverage include international sales of
+goods (with special focus on the United Nations Convention on the
+International Sale of Goods), licensing of technology, foreign direct
+investment, contract and tort liability in the United States and abroad, and
+the law proscribing corruption in cross-border transactions. We will also
+cover subsidiary litigation and regulatory topics, such as choice-of-law
+analysis, international commercial arbitration, international civil litigation
+in U.S. courts (focusing on jurisdiction and other procedural threshold
+issues), U.S. regulation of foreign investment and export controls, and
+intellectual property protection.  
+
+  
+|
+
+  * ### LAW 728 - International Law
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course introduces students to the basic subjects, processes, and problems
+of contemporary public international law. We begin by exploring the sources of
+public international law; the traditional role of states in international law
+formation; and the growing role of international organizations,
+nongovernmental organizations, and subnational municipalities in transnational
+legal processes. Our attention then turns to the relationship between
+international law and U.S. law, including the principles that govern (and
+impede) the application of international law in U.S. courts. Rather than
+attempt to canvass the myriad subfields that comprise contemporary public
+international law, we devote sustained attention to a selection from among the
+following subjects: principles of jurisdiction, international regulatory
+regimes and globalization, state claims to natural resources, the law of war,
+and international human rights. With this foundation in place, the course
+concludes with an invitation to grapple with several perennial critiques of
+the international legal system.  
+
+  
+|
+
+  * ### LAW 729 - Homeland Security Law & Policy
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+  
+|
+
+  * ### LAW 730 - Labor and Employment Law
+
+_College of Law_  
+2-3 credit(s) Irregularly
+
+* * *
+
+Organization and representation of employees, union collective action;
+collective bargaining, including the administration and enforcement of
+collective agreements.  
+
+  
+|
+
+  * ### LAW 731 - Selecting Your Jury
+
+_College of Law_  
+1 credit(s) Irregularly
+
+* * *
+
+Students will be instructed on the procedures and laws governing jury
+selection in a criminal case, see jury selection modeled for them, and will
+also participate in simulated jury selection exercises under the supervision
+of experienced trial attorneys. An emphasis will be placed on identifying a
+theory of the case and identifying potential jurors who can be persuaded to
+accept the case theory. Other topics to be addressed include but are not
+limited to preparation, organization, interacting with the judge and opposing
+counsel, the role of the client, and overcoming objections. ¿  
+
+  
+|
+
+  * ### LAW 732 - Housing Law
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+This course examines housing law through the lenses of federal and state law.
+Topics will include: The Fair Housing Act, housing affordability, smart
+cities, gentrification, exclusionary and inclusionary zoning, federal housing
+policy, community development and investment, and housing discrimination.  
+
+  
+|
+
+  * ### LAW 735 - Federal Criminal Law
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+Examines substantive Federal criminal law, including the following topics: The
+Federal Role in Enforcement Against Crime, The Consequences of Jurisdictional
+Overlap, Fraud and Political Corruption, Mail Fraud, The Hobbs Act, Official
+Bribery and Gratuities, Drug Trafficking and Money Laundering, Currency
+Reporting Offenses, Group and Organizational Crime (including RICO), Anti-
+Terrorism Enforcement, The Criminal Civil Rights Statutes, The Federal False
+Statement Statutes, Obstruction of Justice, Sentencing Guidelines, and
+Forfeiture.  
+
+  
+|
+
+  * ### LAW 737 - Media and Communications Law
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+This is a survey class that covers First Amendment issues for all media,
+defamation, privacy, incitement and violence, FCC licensing, political
+programming, regulation of cable and satellite, copyright, international
+regulation, music, advertising, and film industry contracts.  
+
+  
+|
+
+  * ### LAW 740 - Health Law & Policy
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+  
+|
+
+  * ### LAW 742 - Entertainment Law
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+Will simulate actual entertainment law practice and will emphasize the process
+by which contracts are developed and entered into so as to make use of
+copyrighted properties. The student will be required to draw upon and further
+develop multiple legal skills, particularly substantive analysis, drafting,
+analysis of and otherwise dealing with "paper" from the other side, practical
+research, formulation of advice, and participation in various kinds of oral
+discussions.  
+
+  
+|
+
+  * ### LAW 743 - New York Civil Practice
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Civil practice law and rules and interpretive cases and other aspects of civil
+litigation in New York.  
+
+  
+|
+
+  * ### LAW 744 - Perspectives on Terrorism
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+This unique, interdisciplinary course provides insight into the dynamics of
+terrorism and counterterrorism. Specializations are offered in four areas:
+law, politics, history, and communications. Law and other graduate students my
+register in any of the four departments, with the permission of the
+instructor. Although some class sessions will include discipline-specific
+discussions in small groups, participants will also converge in a large
+classroom for presentations, discussions and examinations of fundamental
+problems associated with terrorism.  
+
+  
+|
+
+  * ### LAW 745 - Negotiation Skills
+
+_College of Law_  
+2 credit(s) Irregularly
+
+* * *
+
+Negotiation Skills will introduce students to the tools they need for
+effective negotiation. This course will focus on the three stages of
+negotiation: preparation, negotiation and post negotiation self ¿assessment.
+Students will negotiation numerous times during the semester and will receive
+feedback on their negotiations.  
+
+  
+|
+
+  * ### LAW 746 - Professional Responsibility
+
+_College of Law_  
+3 credit(s) Every semester
+
+* * *
+
+Relationship of the lawyer to the profession, community, client, and society.
+ABA Code of Professional Responsibility, ABA Model Rules of Professional
+Conduct, and American Lawyer's Code of Conduct.  
+
+  
+|
+
+  * ### LAW 747 - Real Estate Transactions
+
+_College of Law_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Standard residential and commercial real estate transactions, including
+consideration of brokerage arrangements, contracts of sale, methods of
+financing, methods of title protection, mortgage markets, construction loans,
+and permanent financing.  
+
+  
+|
+
+  * ### LAW 748 - Sports Law
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+This course will examine various areas of the law as they relate to sports
+(both professional sports and intercollegiate sports), including such areas as
+contract law, antitrust law, labor law, law regulating player agents, gender
+discrimination law, and personal injury law.  
+
+  
+|
+
+  * ### LAW 750 - Securities Regulations
+
+_College of Law_  
+3 credit(s) Irregularly
+
+* * *
+
+Securities Act of 1933: regulation of the distribution of securities,
+including the registration process, exempt securities, exempt transactions,
+enforcement, and liabilities. Securities Exchange Act of 1934: regulation of
+trading in securities and related market activities, including tender offers
+proxy solicitations, market manipulation, disclosure requirements, insider
+trading, and express and implied civil liabilities.  
+
+  
+  
+Page: 1 <\- Back 10 … 15 | 16 | 17 | 18 | 19 | **20** | 21 | 22 | 23 | 24 | 25 … Forward 10 -> 38  
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

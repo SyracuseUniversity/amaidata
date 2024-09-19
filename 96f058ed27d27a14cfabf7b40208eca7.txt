@@ -1,0 +1,1322 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Engineering and Computer Science  
+  
+## College of Engineering and Computer Science
+
+#### Courses
+
+**Computational Science**
+
+  * ### CPS 621 - Introduction to Probability and Statistics
+
+_College of Engineering and Computer Science_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Programming-oriented introduction to fundamentals in statistics and
+probability; elementary statistics, graphical and numerical representation;
+probability distributions; tests and confidence intervals; regression, and
+correlation. CPS 621 adds Journalism applications of statistical methods.  
+
+  * ### CPS 640 - Tpcs:Ntwkng&Multimed; Appl
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Current topics in networking and multimedia applications. Topics may include
+advanced networking solutions, performance issues and design of multimedia
+delivery systems, and integration of distributed multi-media software.  
+Repeatable  
+
+  * ### CPS 681 - Explorations in Computing and Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A project-focused study in core computing concepts. Implementation and
+synthesis of the concepts via scripting, programming, and IDEs, focusing on
+large distributed data. Utilize computing as an "amplifier" for journalism.
+Basic programming experience recommended.  
+
+  * ### CPS 688 - Algorithms for Computational Journalism and Linguistics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A hands-on approach to algorithms for practical applications. Collaborative
+filtering, graphical algorithms, visualization of information, searching and
+document ranking, and optimizations. Focus on Internet-based programming and
+database-oriented client-server model.  
+
+  * ### CPS 690 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  * ### CPS 782 - Capstone Project Course for Computational Journalism
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Jointly taught by computer science and journalism instructors. Students are
+asked to submit a major project proposal in computational journalism.  
+COREQ CIS 668 OR IST 664  
+
+**Computer Engineering**
+
+  * ### CSE 561 - Digital Machine Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Behavioral and structural design methods and examples using a hardware
+description language (VHDL). Control, arithmetic, bus systems, memory systems.
+Logic synthesis from hardware language descriptions.  
+PREREQ CSE 261  
+
+  * ### CSE 581 - Introduction to Database Management Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+DBMS building blocks; entity-relationship and relational models; SQL/Oracle;
+integrity constraints; database design; file structures; indexing; query
+processing; transactions and recovery; overview of object relational DBMS,
+data warehouses, data mining.  
+PREREQ CSE 382 OR CIS 351  
+
+  * ### CSE 591 - Special Problems in Computer Systems Engineering
+
+_College of Engineering and Computer Science_  
+1-4 credit(s) Upon sufficient interest
+
+* * *
+
+Students work on special projects. Instructors present new or special
+material.  
+Repeatable 29 time(s), 30 credits maximum  
+
+  * ### CSE 612 - Cloud Computing
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CIS 612  
+Virtualized data centers, including virtual machine management, power
+management, and networking; cloud computing applications; and mobile cloud
+computing.  
+PREREQ CSE 458  
+
+  * ### CSE 618 - Machine Intelligence with Deep Learning
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Mathematical fundamentals of classification models; deep neural networks;
+convolutional and recurrent neural networks; analysis, implementation and
+acceleration of inference and learning; and state-of-art applications on high-
+performance computing platforms.  
+
+  * ### CSE 640 - Topics in Mobile Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CIS 640  
+Double Numbered with CSE 440  
+A variety of subjects surveyed or a particular subject in depth. Additional
+coursework required of graduate students.  
+Repeatable 2 time(s), 9 credits maximum  
+
+  * ### CSE 643 - Computer Security
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Operating system security. Unix security. Trusted Computing Base.
+Authentication. Access control. Security models. Capability. Sandboxing.
+Software vulnerabilities. Worms. Viruses. Secure engineering principles.
+Secure programming. Auditing. Forensics.  
+
+  * ### CSE 644 - Internet Security
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Internet architecture. Security and attacks on TCP/IP, DNS, and BGP protocols.
+Internet protocol security. Firewall. Intrusion detection. Network traceback.
+Web security. Encryption. Public Key infrastructure. One-way harsh function.
+Digital signature. Security protocols.  
+
+  * ### CSE 651 - Mobile Application Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CIS 651  
+Double Numbered with CSE 444  
+Development of applications for different mobile devices. Creating effective
+user interfaces, efficient use of persistent storage, network services, GPS,
+maps and sensors. Additional work required of graduate students.  
+
+  * ### CSE 661 - Advanced Computer Architecture
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Advanced computer architecture including discussion of instruction set design
+(RISC and CISC), virtual memory system design, memory hierarchies, cache
+memories, pipelining, vector processing, I/O subsystems, co-processors, and
+multiprocessor architectures. Case studies of current systems.  
+
+  * ### CSE 664 - Introduction to System-on-Chip Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with ELE 664  
+**Design principles and fabrication of computer chips. Standard cell based
+system-on-chip design, top down design flow, RT level design and synthesis,
+pipelining and performance analysis, software-hardware co-design and co-
+simulation.**  
+
+  * ### CSE 671 - Embedded System Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with ELE 667  
+Methodologies for systematic design of embedded systems. System specification,
+architecture modeling, component partitioning, estimation metrics, hardware
+software co-design. Embedded computing platforms and programming. ASIC, CPU,
+and glue logic. Individual project required.  
+
+  * ### CSE 674 - Advanced Data Structures and Algorithms
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Internals of all major data structures. Algorithms for sorting, balancing
+trees, graph querying, hashing and compression are discussed. Cache effects.
+Parallel algorithms.  
+
+  * ### CSE 684 - Introduction to Artificial Intelligence
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CIS 667  
+Knowledge representation, production systems, search algorithms, game playing,
+uncertainty handling, learning, automated reasoning, computer vision, and
+natural language processing. Programming project or term paper required for
+CIS 667, not for CIS 467.  
+
+  * ### CSE 686 - Internet Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CIS 688  
+A laboratory projects course. Programming models on web clients and servers.
+Topics include: browser and server object models, tagged languages,
+emphasizing HTML and XML, ASP programming, and database connectivity.  
+
+  * ### CSE 687 - Object Oriented Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CIS 687  
+Basic methods of object oriented software design and implementation. Object
+oriented software engineering methodologies: specification, hierarchical
+decomposition, reuse and extensibility. Implementation of projects in object
+oriented programming language and analysis of design case studies.  
+
+  * ### CSE 690 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a problem, or problems, in depth. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor(s) and the department.  
+Repeatable  
+
+  * ### CSE 691 - Special Problems in Computer Systems Engineering
+
+_College of Engineering and Computer Science_  
+1-4 credit(s) Upon sufficient interest
+
+* * *
+
+Topics vary and represent current interests in computer engineering.  
+Repeatable  
+
+  * ### CSE 731 - VLSI Timing Analysis
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with ELE 761  
+Delay modeling and timing analysis of interconnections and gates. Critical
+path analysis and delay budgeting. Buffer insertion and device sizing. Switch
+and circuit level simulations.  
+PREREQ CSE 664  
+
+  * ### CSE 764 - Advanced Topics in Synthesis of VLSI Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Issues in design and synthesis of modern VLSI systems from abstract high-level
+behavioral specifications: temporal and spatial optimizations, synthesis for
+low power, reconfigurale computing, (digital/analog and SW/HW) co-design,
+formal specification and verification.  
+PREREQ CSE 561 , CSE 664  
+
+  * ### CSE 765 - System Verification and Testing
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with ELE 765  
+Concepts, methods, and technology for effective verification of complex
+systems. Coverage metrics, event- and assertion-based verification, and formal
+methods including model checking and logical equivalence checking. Testing
+strategies, architecting testbenches, and design for verification.  
+
+  * ### CSE 774 - Principles of Distributed Access Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CIS 774  
+Specification, verification, and design of secure networks using formal logic.
+Includes historical access control models, role-based access control, and
+logics for reasoning about authentication, authorization, audit, delegation,
+and trust.  
+PREREQ CIS 607 OR CSE 607  
+
+  * ### CSE 775 - Distributed Objects
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CIS 775  
+Design and implement software components using the Component Object Model
+(COM). Students will develop programs with COM components, ActiveX controls,
+and distributed applications.  
+PREREQ CSE 681 AND CSE 687  
+
+  * ### CSE 776 - Design Patterns
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CIS 776  
+A seminar course based on the book "Design Patterns." Object oriented design
+methods emphasizing conceptual understanding rather than software development
+projects.  
+PREREQ CSE 681 AND CSE 687  
+
+  * ### CSE 778 - Advanced Windows Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CIS 778  
+Seminar/projects course including: MFC library; windows architecture Graphics
+Device Interface; common, ActiveX, and Explorer controls; bitmaps; property
+sheets; toolbars; and status bars.  
+PREREQ CSE 681 OR CSE 687  
+
+  * ### CSE 787 - Analytical Data Mining
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CIS 787  
+Knowledge discovery process, data warehouses, OLAP, data mining inference
+based on statistics and machine learning, rule generation; emphasis on
+analytical aspects; applications.  
+PREREQ CIS 675 , ELE 606 , CSE 607  
+
+  * ### CSE 788 - Computer-Aided Design for VLSI and Digital Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with ELE 762  
+Computer aids for automatic physical design of digital systems. Algorithms for
+partitioning, placement, wire routing, layout compaction, etc. Programming
+competence required.  
+PREREQ CSE 664  
+
+  * ### CSE 791 - Special Problems in Computer Systems Engineering
+
+_College of Engineering and Computer Science_  
+1-4 credit(s) Upon sufficient interest
+
+* * *
+
+Topics vary and represent current interests in computer engineering.  
+Repeatable 5 time(s), 24 credits maximum  
+
+  * ### CSE 864 - Topics in VLSI Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Seminar on the design and analysis of very large scale integrate circuits and
+systems. Opportunities for chip fabrication and testing.  
+PREREQ CSE 664  
+
+  * ### CSE 890 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a problem, or problems, in depth. Individual independent study
+upon a plan submitted by the student. Admission by permission of supervising
+instructor or instructor and the department.  
+Repeatable  
+
+  * ### CSE 891 - Special Problems in Computer Systems Engineering
+
+_College of Engineering and Computer Science_  
+1-4 credit(s) Upon sufficient interest
+
+* * *
+
+Work on special projects. Instructor presents new or special material.  
+Repeatable  
+
+  * ### CSE 995 - Engineer Degree Project
+
+_College of Engineering and Computer Science_  
+0-6 credit(s) Upon sufficient interest
+
+* * *
+
+Independent investigation or original research on engineering problem under
+faculty supervision.  
+Repeatable, 6 credits maximum  
+
+  * ### CSE 997 - Masters Thesis
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Independent investigation on a topic of interest under supervision of a member
+of the graduate school faculty. Credit to be arranged.  
+Repeatable, 6 credits maximum  
+
+**Electrical & Computer Engineering**
+
+  * ### ECE 756 - Random Processes
+
+_College of Engineering and Computer Science_  
+0 credit(s)
+
+* * *
+
+**Engineering and Computer Science**
+
+  * ### ECS 511 - Sustainable Manufacturing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Visions of sustainable manufacturing, systems approach to sustainable product
+development and design, manufacturing processes and systems, alternative
+energy systems for manufacturing, innovation and entrepreneurship
+opportunities. Senior standing.  
+PREREQ MFE 331  
+
+  * ### ECS 525 - Probability for Engineers
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Sample spaces, events, and probabilities. Conditional probability and
+independence. Random variables, random vectors. Probability distributions and
+densities. Expectations. Moment-generating functions. Introduction to data
+analysis. Engineering applications.  
+
+  * ### ECS 526 - Statistics for Engineers
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Point estimation, confidence intervals, simple hypothesis testing,
+nonparametric tests, curve fitting and regression, analysis of variance,
+factorial experiments, and engineering applications.  
+PREREQ ECS 525 OR MAT 521  
+
+  * ### ECS 555 - Virtual Design Studio for Green Building Systems (VDS-GBS)
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Integrative design methodology; Interactions between form, structure, and
+flows of energy & mass, and their impacts on building performance; Computer
+simulation tools for performance-based design. Exploration of green building
+design and technology through case studies  
+
+  * ### ECS 561 - Data Centers: Infrastructure Design and Energy Efficiency
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to data centers and the infrastructure supporting the IT
+equipment. Focus on the energy efficiency aspects of various designs.
+Introduction of servers, storage and networking equipment that are housed in
+data centers. Power and cooling infrastructure that supports the IT equipment.  
+Repeatable 1 time(s)  
+
+  * ### ECS 570 - Professional Practice
+
+_College of Engineering and Computer Science_  
+0 credit(s) Every semester
+
+* * *
+
+Full-time practical engineering or computer work experience, with a
+participating employer, that is related to the student's field of study, and
+is of a semester's duration. May not be repeated.  
+PREREQ ECS GRADUATE PROGRAM  
+
+  * ### ECS 588 - Principles of Wind Turbines
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CEE 588, MAE 588  
+Aerodynamics, performance, control, and electrical aspects wind turbines.  
+PREREQ MAE 341  
+
+  * ### ECS 629 - Modeling and Optimization Techniques
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Introduction to major deterministic and stochastic modeling techniques,
+including linear programming and its extensions, integer programming, dynamic
+programming, Markov chains, queuing theory, simulation, and other modeling
+techniques.  
+
+  * ### ECS 630 - Simulation and Data Analytics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Introduction to discrete-event simulation, system dynamics, and agent-based
+simulation; hybrid simulation modeling, input and output data analysis, tools
+and techniques needed for practice, uses of simulation for predictive and
+prescriptive analytics.  
+PREREQ ECS 526  
+
+  * ### ECS 636 - Sustainable Development and Infrastructure Management
+
+_College of Engineering and Computer Science_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Crosslisted with CEE 639  
+Introduction to public infrastructure systems. Management of infrastructure
+systems. Monitoring, planning, design, construction,
+maintenance/rehabilitation and operation. Emphasis on water, storm water,
+waste water, transportation, electrical power distribution and
+telecommunications systems.  
+
+  * ### ECS 650 - Managing Sustainability: Purpose, Principles, and Practice
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BUA 650  
+Dynamics and interdependence of economic, social, and environmental systems.
+Sustainable management frameworks, tools, and metrics. Local, national, and
+international implications. Relevance of technology, ethics, law, and policy.
+Interdisciplinary emphasis.  
+
+  * ### ECS 651 - Strategic Management and the Natural Environment
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BUA 651  
+Sustainability from firm perspective. Regulatory, international, resource,
+market, and social drivers of environmental strategy. Impact of
+sustainability-related strategies on competitive advantage and potential
+liability.  
+PREREQ ECS 650 /BUA 650  
+
+  * ### ECS 666 - Advanced Course in Engineering I
+
+_College of Engineering and Computer Science_  
+6 credit(s)
+
+* * *
+
+Multidisciplinary course of study to develop engineering leadership skills.
+Weekly problems on engineering law, engineering mathematics, modeling, control
+theory, system and signals, thermodynamics, structural analysis, materials.  
+
+  * ### ECS 667 - Advanced Course in Engineering II
+
+_College of Engineering and Computer Science_  
+6 credit(s)
+
+* * *
+
+Continuation of ECS 666. Covers fluid mechanics, environmental engineering,
+computer hardware and software theories, modeling and simulation, network
+theory and implementation.  
+PREREQ ECS 666  
+
+  * ### ECS 691 - Fundamentals of Research
+
+_College of Engineering and Computer Science_  
+1 credit(s)
+
+* * *
+
+Subjects such as selection of a dissertation topic, state-of-the-art search,
+research proposal, intellectual property, and academic integrity will be
+examined within the context of a mini-research project.  
+
+  * ### ECS 759 - Sustainability-Driven Enterprise
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BUA 759  
+CAS in Sustainable Enterprise capstone. Sustainable approaches to complex
+organizational challenges, opportunities: organizational, industry,
+stakeholder analysis, sustainability objectives, strategies, and metrics.
+Multidisciplinary team consulting project.  
+PREREQ (ECS 650 OR BUA 650 ) AND (ECS 651 OR BUA 651 )  
+
+  * ### MAE 672 - Engineering Data Analytics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course introduces students the fundamental concepts of engineering data
+techniques including data collection, cleaning, transformation, management and
+analysis. It also provides students with hands-on experiences exploring key
+concepts related to data science and engineering field.  
+
+  * ### MAE 673 - Fundamentals of Photovoltaics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fundamental topics on photovoltaic materials and devices. Analysis of
+different photovoltaic materials and performance evaluation of photovoltaic
+devices. Solar cell structures and fabrication technologies.  
+
+**Entrepreneurship and Emerging Enterprises**
+
+  * ### EEE 600 - Selected Topics
+
+_Management_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+**Engineering**
+
+  * ### EGR 670 - Professional Practice
+
+_College of Engineering and Computer Science_  
+0 credit(s) Every semester
+
+* * *
+
+Full-time practical engineering work experience with a participating employer,
+which is related to the student's field of study, and is of a semester's
+duration.  
+Repeatable  
+
+  * ### EGR 770 - Professional Training
+
+_College of Engineering and Computer Science_  
+0 credit(s) Every semester
+
+* * *
+
+Full time practical work experience, with a participating employer, which is
+related to the student's field of study and is of a semester's duration.  
+Repeatable  
+
+**Electrical Engineering**
+
+  * ### ELE 516 - Control of Robots
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CIS 543  
+Kinematics, dynamics, and control of mobile and/or manipulator robots. Path
+planning, actuators, sensors, human/machine interface. Two hours lecture and
+two hours laboratory weekly. Design project.  
+
+  * ### ELE 516 - Control of Robots
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CIS 543  
+Kinematics, dynamics, and control of mobile and/or manipulator robots. Path
+planning, actuators, sensors, human/machine interface. Two hours lecture and
+two hours laboratory weekly. Design project.  
+
+  * ### ELE 524 - Introduction to Applied Optics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Geometrical optics, two-dimensional Fourier transforms and wave propagation,
+optical fibers, Fresnel and Fraunhofer diffraction, interferometry, imaging
+and Fourier transforming properties of lenses, image processing, complex
+filters and holography. Includes laboratory: design and experiment.  
+PREREQ ELE 324  
+
+  * ### ELE 591 - Special Problems in Electrical Engineering
+
+_College of Engineering and Computer Science_  
+1-4 credit(s) Upon sufficient interest
+
+* * *
+
+Students work on special projects. Instructors present new or special
+material.  
+Repeatable  
+
+  * ### ELE 601 - Applications of Complex Function Theory
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Theory of functions of a complex variable. Fourier and Laplace transforms.
+Applications to engineering problems.  
+
+  * ### ELE 603 - Functional Methods of Engineering Analysis
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Linear functional systems from the viewpoint of vector spaces. Function
+spaces, differential and integral operators, eigenvalues and eigenfunctions,
+Jordan forms, functions of a matrix and state-space solutions.  
+
+  * ### ELE 606 - Probabilistic Methods in Electrical Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Set-theoretic basis of probability. Probabilistic modeling of practical
+problems. Random variables in one and several dimensions. Functions of random
+variables. Moments, characteristic functions, correlation, sampling. Poisson
+process. Laws of large numbers and central limit theorem.  
+
+  * ### ELE 612 - Modern Control Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+State space representation. State variable feedback design. Controllability,
+observability, and identifiability. Optimum design and the matrix Ricatti
+equation.  
+
+  * ### ELE 614 - Power System Analysis and Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with ELE 414  
+Three phase power systems, Power flow analysis, Symmetrical components, Fault
+analysis, Power system stability,Power system controls, Fundamentals of
+economic dispatch. Additional project required for graduate students.  
+
+  * ### ELE 615 - Microgrids
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with ELE 415  
+Challenges and opportunities in smart microgrids. Distributed energy resources
+in microgrids. Grid-connected and islanding mode of microgrid operation.
+Microgrid monitoring and protection. Control technology requirements and
+solutions. Additional work required for graduate students.  
+
+  * ### ELE 617 - Power Electronics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with ELE 417  
+Semiconductor devices, switching power poles, switching analysis, topology
+selection and design, single phase and three phase rectifiers, inverters, and
+converters, feedback controllers and power supply. Additional work required of
+graduate students.  
+
+  * ### ELE 618 - Sensors & Measurements
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with ELE 418  
+Sensor signal domains, sensor classifications and architecture, sensor types,
+data acquisition methods, signal conversion methods, standards, introduction
+to metrology, measurement result processing, synchrophasor technology and
+applications. Additional work required of graduate students.  
+
+  * ### ELE 621 - Electromagnetic Fields
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Development of electromagnetic theory from the basic postulates leading to
+Maxwell's equations in differential and integral forms. Solution to static,
+quasi-static, and wave-propagation problems.  
+
+  * ### ELE 623 - Microwave Engineering Fundamentals
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+**Microwave engineering fundamentals including transmission line theory,
+impedance matching techniques, microwave network analysis and device
+characterization. Practical illustration of these concepts via network
+analyzer measurements, spectrum analyzer measurements, and computer based
+electromagnetic modeling tools.**  
+
+  * ### ELE 625 - High Frequency Transmission Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Transmission line parameters, transients on lossless lines, time-harmonic
+excitation of lines, Smith chart, impedance matching techniques, matrix
+representation of multiport devices, coupled transmission systems, even and
+odd mode theory, circuit theory of rectangular waveguides.  
+
+  * ### ELE 633 - Discrete and Integrated Analog Electronic Circuits
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Linear and non-linear circuit models of electronic devices as derived from
+structural and empirical parameters. Anatomy and applications of integrated
+operational amplifiers; active filters, multipliers, comparators, voltage-
+controlled oscillators, wave-form generators, phase-locked loops.  
+
+  * ### ELE 635 - Digital Electronic Circuits
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Digital device and circuit technology and trends. Nanoscale semiconductor
+devices and memories as well as magnetic and optical memories. Semiconductor
+industry road map. Device fabrication techniques. DA and AD conversion
+circuits.  
+
+  * ### ELE 642 - Introduction to Solid-State Physics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with PHY 576  
+Elementary aspects of physics of solids; crystal lattices and diffraction,
+phonons and thermal properties in crystals, elementary band theory, and semi-
+conductor physics.  
+PREREQ PHY 567  
+
+  * ### ELE 643 - Theory of Semiconductor Devices
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Fundamental theory of semiconductor devices and their linear and nonlinear
+mathematical and circuit models. Frequency response and switching
+characteristics of discrete and integrated structures comprising both bipolar
+and field effect devices.  
+
+  * ### ELE 651 - Digital Communications
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Baseband data transmission. Advanced digital modulation techniques. Optimum
+receivers. Topics in information theory and coding.  
+PREREQ ELE 551  
+
+  * ### ELE 652 - Digital Audio Signal Processing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with ELE 452  
+Course combines classroom theory with hands-on lab. Covers digital audio
+fundamentals, filter-design, DSP architecture, parallel assembly programming,
+circular buffers, processing music signals. Additional work required of
+graduate students.  
+
+  * ### ELE 653 - Image and Video Processing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with ELE 453  
+
+Concepts and applications of image and video processing. Principles of image
+formation, low-level image processing methods, noise filtering, histogram
+processing, feature detection, face recognition, moving object detection and
+tracking, multi-camera systems. Significant project for graduate students.  
+
+  * ### ELE 659 - Digital Signal Processing I
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Discrete time signals. Z-transform. Discrete Fourier transform. Fast Fourier
+transform. Finite impulse response filters. Infinite impulse response filters.
+Effects of finite word length.  
+
+  * ### ELE 664 - Introduction to System-on-Chip Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 664  
+**Design principles and fabrication of computer chips. Standard cell based
+system-on-chip design, top down design flow, RT level design and synthesis,
+pipelining and performance analysis, software-hardware co-design and co-
+simulation.**  
+
+  * ### ELE 667 - Embedded System Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 671  
+Methodologies for systematic design of embedded systems. System specification,
+architecture modeling, component partitioning, estimation metrics, hardware
+software co-design. Embedded computing platforms and programming. ASIC, CPU,
+and glue logic. Individual project required.  
+
+  * ### ELE 681 - Introduction to Photonic Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Topics include: geometrical theory; optical diffraction theory; angular
+spectral propagation theory; Fresnel and Frauhofer integral solutions;
+gaussian beam theory; reflection and refraction; mathematics of polarization;
+lenses and lenslike media; and photons and atoms.  
+
+  * ### ELE 682 - Fiber Optic Communication
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Topics include: 1) network structures; 2) links; 3) full nets; 4) measures of
+networks; 5) conductivity; 6) transfer rates; 7) present network constraints;
+8) new demands on networks; 9) architectures and interconnections; 10)
+instrumentation for analysis; and 11) control, regulation, and
+standardization.  
+
+  * ### ELE 683 - Infrared Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Topics include: 1) review of optical diffraction theory; 2) radiometry; 3)
+blackbody radiation theory; 4) IR sources; 5) atmospheric IR transmissions; 6)
+IR optics; 7) IR detectors and noise; 8) IR lasers; 9) passive systems; and
+10) active, heterodyne IR radar systems.  
+
+  * ### ELE 685 - Photonic Devices
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Topics include: 1) electro optic detectors; 2) photo diodes; 3) avalanche
+photo-diodes; 4) multi-quantum well detectors; 5) photo-multipliers; 6) micro-
+channel plates; 7) multi-quantum well modulators; 8) Mach-Zhender modulators
+and switches; 9) couplers; 10) wavelength division couplers; and 11) grating
+devices.  
+
+  * ### ELE 691 - Special Topics in Electrical Engineering
+
+_College of Engineering and Computer Science_  
+1-4 credit(s) Upon sufficient interest
+
+* * *
+
+Topics vary and represent current interests in electrical engineering.  
+Repeatable  
+
+  * ### ELE 715 - Robot Manipulators I
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with MEE 715  
+Robot manipulators and their defining equations. Transformations, kinematics,
+dynamics, and motion trajectories. Control considerations, compliance and
+organization of programming. Includes a hardware and software laboratory.  
+PREREQ ELE 612  
+
+  * ### ELE 721 - Antennas and Antenna Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Characteristics of electromagnetic radiators. Equivalent circuits of antenna
+elements: dipoles, loops, helices, horns, and other radiators. Phased arrays.
+Pattern synthesis. Numerical methods. Broadband antennas. Measurement
+techniques.  
+PREREQ ELE 621  
+
+  * ### ELE 723 - Microwave Transistor Amplifiers
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Two-port network representations, matching networks, power gain equations,
+stability conditions, simultaneous conjugate match, constant gain, VSWR and
+noise figure circles, balanced and feedback amplifiers. Design, simulate,
+build, and test a microwave amplifier.  
+PREREQ ELE 623  
+
+  * ### ELE 724 - Microwave Oscillators
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Matching networks, S-parameters. Oscillation conditions, One-port and two-port
+Negative-resistance Oscillators, oscillator design using large-signal
+measurements, DROs, YIG Oscillators, VCOs, and Phase noise. Design, simulate,
+build, and test a microwave oscillator.  
+PREREQ ELE 623  
+
+  * ### ELE 725 - Electromagnetic Engineering I
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Time varying electromagnetic fields. Field theorems, propagation and
+reflection of waves, wave guides, resonators, radiation, and diffraction.
+Applications to antenna theory.  
+PREREQ ELE 621  
+
+  * ### ELE 742 - Electronic Materials
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Electronic properties of dielectric, magnetic, and superconducting materials.
+Application to devices.  
+PREREQ ELE 621  
+
+  * ### ELE 751 - Wireless Communications
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Cellular communication systems. Mobile radio propagation. Modulation
+techniques. Equalization, diversity, and channel coding. Link budget analysis.
+Speech coding. Multiple access techniques. Spread spectrum systems and CDMA.
+Wireless systems and networking.  
+PREREQ ELE 606 AND ELE 651  
+
+  * ### ELE 755 - Digital Image Processing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Two-dimensional signals and systems. Image formation and perception.
+Representation, coding, filtering, restoration, and enhancement. Feature
+extraction and scene analysis. Introduction to computer vision.  
+PREREQ ELE 601 , ELE 659  
+
+  * ### ELE 756 - Random Processes
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Stationary and nonstationary random processes. Gaussian process. Narrow-band
+representation. Response of linear filters and nonlinear detectors to random
+processes. Applications to communication problems.  
+PREREQ ELE 606  
+COREQ ELE 651  
+
+Page: 1 | 2 | **3** | 4 | 5
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

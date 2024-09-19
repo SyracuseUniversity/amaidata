@@ -1,0 +1,217 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science Courses
+
+Print-Friendly Page (opens a new window) Facebook this Page (opens a new
+window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Engineering and Computer Science  
+  
+## College of Engineering and Computer Science
+
+#### Courses
+
+**Computational Science**
+
+  * • CPS 621 - Introduction to Probability and Statistics
+  * • CPS 640 - Tpcs:Ntwkng&Multimed Appl
+  * • CPS 681 - Explorations in Computing and Programming
+  * • CPS 688 - Algorithms for Computational Journalism and Linguistics
+  * • CPS 690 - Independent Study
+  * • CPS 782 - Capstone Project Course for Computational Journalism
+
+**Computer Engineering**
+
+  * • CSE 561 - Digital Machine Design
+  * • CSE 581 - Introduction to Database Management Systems
+  * • CSE 591 - Special Problems in Computer Systems Engineering
+  * • CSE 612 - Cloud Computing
+  * • CSE 618 - Machine Intelligence with Deep Learning
+  * • CSE 640 - Topics in Mobile Programming
+  * • CSE 643 - Computer Security
+  * • CSE 644 - Internet Security
+  * • CSE 651 - Mobile Application Programming
+  * • CSE 661 - Advanced Computer Architecture
+  * • CSE 664 - Introduction to System-on-Chip Design
+  * • CSE 671 - Embedded System Design
+  * • CSE 674 - Advanced Data Structures and Algorithms
+  * • CSE 684 - Introduction to Artificial Intelligence
+  * • CSE 686 - Internet Programming
+  * • CSE 687 - Object Oriented Design
+  * • CSE 690 - Independent Study
+  * • CSE 691 - Special Problems in Computer Systems Engineering
+  * • CSE 731 - VLSI Timing Analysis
+  * • CSE 764 - Advanced Topics in Synthesis of VLSI Systems
+  * • CSE 765 - System Verification and Testing
+  * • CSE 774 - Principles of Distributed Access Control
+  * • CSE 775 - Distributed Objects
+  * • CSE 776 - Design Patterns
+  * • CSE 778 - Advanced Windows Programming
+  * • CSE 787 - Analytical Data Mining
+  * • CSE 788 - Computer-Aided Design for VLSI and Digital Systems
+  * • CSE 791 - Special Problems in Computer Systems Engineering
+  * • CSE 864 - Topics in VLSI Design
+  * • CSE 890 - Independent Study
+  * • CSE 891 - Special Problems in Computer Systems Engineering
+  * • CSE 995 - Engineer Degree Project
+  * • CSE 997 - Masters Thesis
+
+**Electrical & Computer Engineering**
+
+  * • ECE 756 - Random Processes
+
+**Engineering and Computer Science**
+
+  * • ECS 511 - Sustainable Manufacturing
+  * • ECS 525 - Probability for Engineers
+  * • ECS 526 - Statistics for Engineers
+  * • ECS 555 - Virtual Design Studio for Green Building Systems (VDS-GBS)
+  * • ECS 561 - Data Centers: Infrastructure Design and Energy Efficiency
+  * • ECS 570 - Professional Practice
+  * • ECS 588 - Principles of Wind Turbines
+  * • ECS 629 - Modeling and Optimization Techniques
+  * • ECS 630 - Simulation and Data Analytics
+  * • ECS 636 - Sustainable Development and Infrastructure Management
+  * • ECS 650 - Managing Sustainability: Purpose, Principles, and Practice
+  * • ECS 651 - Strategic Management and the Natural Environment
+  * • ECS 666 - Advanced Course in Engineering I
+  * • ECS 667 - Advanced Course in Engineering II
+  * • ECS 691 - Fundamentals of Research
+  * • ECS 759 - Sustainability-Driven Enterprise
+  * • MAE 672 - Engineering Data Analytics
+  * • MAE 673 - Fundamentals of Photovoltaics
+
+**Entrepreneurship and Emerging Enterprises**
+
+  * • EEE 600 - Selected Topics
+
+**Engineering**
+
+  * • EGR 670 - Professional Practice
+  * • EGR 770 - Professional Training
+
+**Electrical Engineering**
+
+  * • ELE 516 - Control of Robots
+  * • ELE 516 - Control of Robots
+  * • ELE 524 - Introduction to Applied Optics
+  * • ELE 591 - Special Problems in Electrical Engineering
+  * • ELE 601 - Applications of Complex Function Theory
+  * • ELE 603 - Functional Methods of Engineering Analysis
+  * • ELE 606 - Probabilistic Methods in Electrical Engineering
+  * • ELE 612 - Modern Control Systems
+  * • ELE 614 - Power System Analysis and Control
+  * • ELE 615 - Microgrids
+  * • ELE 617 - Power Electronics
+  * • ELE 618 - Sensors & Measurements
+  * • ELE 621 - Electromagnetic Fields
+  * • ELE 623 - Microwave Engineering Fundamentals
+  * • ELE 625 - High Frequency Transmission Systems
+  * • ELE 633 - Discrete and Integrated Analog Electronic Circuits
+  * • ELE 635 - Digital Electronic Circuits
+  * • ELE 642 - Introduction to Solid-State Physics
+  * • ELE 643 - Theory of Semiconductor Devices
+  * • ELE 651 - Digital Communications
+  * • ELE 652 - Digital Audio Signal Processing
+  * • ELE 653 - Image and Video Processing
+  * • ELE 659 - Digital Signal Processing I
+  * • ELE 664 - Introduction to System-on-Chip Design
+  * • ELE 667 - Embedded System Design
+  * • ELE 681 - Introduction to Photonic Engineering
+  * • ELE 682 - Fiber Optic Communication
+  * • ELE 683 - Infrared Engineering
+  * • ELE 685 - Photonic Devices
+  * • ELE 691 - Special Topics in Electrical Engineering
+  * • ELE 715 - Robot Manipulators I
+  * • ELE 721 - Antennas and Antenna Systems
+  * • ELE 723 - Microwave Transistor Amplifiers
+  * • ELE 724 - Microwave Oscillators
+  * • ELE 725 - Electromagnetic Engineering I
+  * • ELE 742 - Electronic Materials
+  * • ELE 751 - Wireless Communications
+  * • ELE 755 - Digital Image Processing
+  * • ELE 756 - Random Processes
+
+Page: 1 | 2 | **3** | 4 | 5
+
+  
+
+* * *
+
+Back to Top | Print-Friendly Page (opens a new window)
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

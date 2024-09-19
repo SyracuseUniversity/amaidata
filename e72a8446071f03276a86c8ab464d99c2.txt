@@ -1,0 +1,1587 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Undergraduate Course Catalog Syracuse University |   
+|  |  2023-2024 Undergraduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG]  
+
+#  Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+View Courses by College . Please note, when searching courses by Code or
+Number, an asterisk (*) can be used to return mass results. For instance a
+Code search of 2* can be entered, returning all 200-level courses.
+
+  * Guide to Reading Course Descriptions
+
+  
+  
+Course Filter |   
+---|---  
+Filter this list of courses using course prefix, course code, keywords or any
+combination.  
+Prefix: | Code or Number: | Keyword or Phrase: |   
+Choose Course Prefix All prefixes… AAA AAS ACC ADV AED AEE AIC AMC ANT APH ARB ARC ARI ARL ASC ASL AST BAN BCM BDJ BEN BIO BPS BSN BTB BUA CAN CAR CAS CEE CEN CFE CHE CHI CIN CIS CLA CLB CLR CLS CMD COG COM COU CPS CRL CRS CSD CSE CTG CYB DAN DAP DBS DES DRA DRD DRM DRS DSP EAR ECE ECN ECS EDI EDU EED EEE ELE ELL ENC ENG ENI ENL ENP ENV ESP EUP EXE FAS FHN FIL FIN FLL FLT FMA FRE FSC FST FYS GEO GER GRA GRE GTR HCA HEA HEB HFS HIN HNR HOA HOM HPD HRP HSH HST HUM IDE IDS ILL INB IND IRP ISD IST ITA JNL JPS JSP KNM KOR LAS LAT LGL LIN LIT LLA LPP MAE MAG MAR MAS MAT MAX MEE MES MFE MFT MGT MHL MIS MMI MND MPD MSL MTC MTD MTS MUE MUI MUS NAT NEU NEW NSD NUC O&M OBO OGL ORG PAI PDG PED PHI PHO PHP PHY PIR PNO POL POR PPE PPM PRC PRL PRS PSC PST PSY PTG QSX QUM RAE RED REL RES RMT RUS SAL SAS SCE SCI SCM SCP SCU SED SEM SIS SMC SOC SOL SOM SOS SPA SPE SPM STS STT SWA SWK SXP TML TRB TRF TRK TRP TXT URP VCO VID VIS VLA VLN VOC VPA WGS WRT |  Choose Course Number |  Choose Keyword |   
+Find whole word or phrase only.  
+|  
+  
+---  
+  
+**Computer and Information Science**  
+|
+
+  * ### CIS 563 - Introduction to Data Science
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fundamentals of the knowledge discovery and data mining process. Basics of
+supervised and unsupervised learning. Applications (recommendation and
+collaborative filtering) and computational tools for carrying out
+predictive/descriptive modeling. Additional work required for graduate
+students.  
+PREREQ MAT 503  
+
+  
+|
+
+  * ### CIS 565 - Introduction to Artificial Neural Networks
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Perceptrons and the Perceptron Convergence Theorem; non-linear optimization,
+gradient descent methods; neural net architecture, conjugate-gradient and
+recurrent networks; Hopfield networks, Kohonen's feature maps; non-neural
+clustering algorithms.  
+
+  
+  
+**Collaborative Laboratory**  
+|
+
+  * ### CLB 300 - Selected Topics
+
+_School of Design_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+  
+**Classics**  
+|
+
+  * ### CLA 421 - Classical Mythology
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Crosslisted with LIT 421 , REL 421  
+Myths and rituals of Greek mythology and religion. Ancient poets/playwrights
+and important mythological themes found in later Western religious/artistic
+traditions. Offered only in Florence.  
+
+  
+  
+**Clarinet**  
+|
+
+  * ### CLR 140 - Clarinet/Non Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For non-music students.  
+Repeatable 1 time(s), 4 credits maximum  
+
+  
+|
+
+  * ### CLR 145 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### CLR 146 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### CLR 240 - Clarinet/Non Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For non-music students.  
+Repeatable 1 time(s), 4 credits maximum  
+
+  
+|
+
+  * ### CLR 245 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### CLR 246 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### CLR 340 - Clarinet/Non Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For non-music students.  
+Repeatable 1 time(s), 4 credits maximum  
+
+  
+|
+
+  * ### CLR 345 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### CLR 346 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### CLR 349 - Clarinet/Perform Honors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+Repeatable 1 time(s), 4 credits maximum  
+
+  
+|
+
+  * ### CLR 440 - Clarinet/Non Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For non-music students.  
+Repeatable 1 time(s), 4 credits maximum  
+
+  
+|
+
+  * ### CLR 445 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### CLR 446 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### CLR 449 - Clarinet/Perform Honors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+Repeatable 1 time(s), 4 credits maximum  
+
+  
+|
+
+  * ### CLR 540 - Clarinet/Non Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For non-music students.  
+Repeatable 1 time(s), 4 credits maximum  
+
+  
+|
+
+  * ### CLR 545 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+|
+
+  * ### CLR 546 - Clarinet/Music Majors
+
+_Setnor School of Music_  
+1-4 credit(s) Every semester
+
+* * *
+
+For music students.  
+
+  
+  
+**College Learning Strategies**  
+|
+
+  * ### CLS 105 - College Learning Strategies
+
+_School of Education_  
+3 credit(s) Every semester
+
+* * *
+
+Study and application of learning strategies in the context of lectures,
+reading, recitations and independent learning situations.  
+
+  
+  
+**Communication Design**  
+|
+
+  * ### CMD 104 - Fundamentals of Communications Design
+
+_School of Design_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to processes, materials, methods required for creation and
+production of visual communications. Typography, image creation,
+communication, layout.  
+PREREQ DES 101 AND 103  
+COREQ DES 102  
+Shared Competencies Communication Skills
+
+  
+|
+
+  * ### CMD 251 - Intro Communication Design I
+
+_School of Design_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Survey of concepts, methods, techniques, and media used to solve graphic
+design problems.  
+COREQ CMD 281  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### CMD 252 - Intro Communication Design II
+
+_School of Design_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Continuation of CMD 251 . Emphasizes typography, layout, and three-dimensional
+design projects.  
+PREREQ CMD 251 AND CMD 281  
+COREQ CMD 282  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### CMD 270 - Experience Credit
+
+_School of Design_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Participation in a discipline or subject related experience. Student must be
+evaluated by written or oral reports or an examination. Permission in advance
+with the consent of the department chairperson, instructor, and dean. Limited
+to those in good academic standing.  
+Repeatable  
+
+  
+|
+
+  * ### CMD 281 - Design Methods
+
+_School of Design_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduces design principles and production techniques, emphasizing visual,
+manual, and intellectual skills for communication of ideas and their
+translation through traditional methods into print.  
+COREQ CMD 251  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### CMD 282 - Design Skills & Processes
+
+_School of Design_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduces Macintosh technology and software programs as design and production
+tools for print media. Application of tools and software to create solutions
+to traditional visual communications' problems.  
+PREREQ CMD 251 AND CMD 281  
+COREQ CMD 252  
+Shared Competencies Communication Skills
+
+  
+|
+
+  * ### CMD 351 - Problem Solving Strategies
+
+_School of Design_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Thinking, creativity, and communication theory as applied to design problem
+solving. Students encouraged to explore and develop their own personal style
+of thinking and overcome obstacles inhibiting creativity.  
+PREREQ CMD 252 AND CMD 282  
+COREQ CMD 450  
+Shared Competencies Critical and Creative Thinking; Communication Skills
+
+  
+|
+
+  * ### CMD 352 - Design Project Management
+
+_School of Design_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Research, planning, development, and art direction of complex, multifaceted
+projects.  
+PREREQ CMD 351 AND CMD 450  
+Shared Competencies Critical and Creative Thinking; Communication Skills
+
+  
+|
+
+  * ### CMD 450 - Communication Design Problems
+
+_School of Design_  
+1-6 credit(s) Every semester
+
+* * *
+
+Individual instruction in various areas of editorial design. In mixed-level
+groups, students develop projects according to individual interests and
+abilities. Strategic planning based on research and marketing principles. CMD
+450 students also develop writing and presentation skills.  
+PREREQ CMD 252 AND CMD 282  
+Repeatable  
+Shared Competencies Critical and Creative Thinking; Communication Skills
+
+  
+|
+
+  * ### CMD 451 - Design Research
+
+_School of Design_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Research as background for solving communication design problems. Exercises
+and projects simulate actual professional experiences.  
+PREREQ CMD 351 AND CMD 450  
+
+  
+|
+
+  * ### CMD 452 - Portfolio & Practice
+
+_School of Design_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Career planning and portfolio preparation for the designer.  
+PREREQ CMD 351 AND CMD 450  
+Shared Competencies Communication Skills
+
+  
+|
+
+  * ### CMD 499 - Honors Capstone Project
+
+_School of Design_  
+1-3 credit(s) Every semester
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable 2 time(s), 3 credits maximum  
+
+  
+|
+
+  * ### CMD 550 - Communication Design Problems
+
+_School of Design_  
+1-6 credit(s) Every semester
+
+* * *
+
+Individual instruction in various areas of editorial design. In mixed-level
+groups, students develop projects according to individual interests and
+abilities. Strategic planning based on research and marketing principles. CMD
+450 students also develop writing and presentation skills.  
+Repeatable  
+
+  
+  
+**Cognitive Science**  
+|
+
+  * ### COG 100 - Selected Topics
+
+_College of Arts and Sciences_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### COG 200 - Selected Topics
+
+_College of Arts and Sciences_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### COG 301 - Introduction to Cognitive Science
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with NEU 301  
+Concepts and methods in the study and explanation of cognition. Knowledge that
+underlies such abilities as vision, language use, and problem solving. How it
+is represented and used. Comparison of methods in different disciplines
+studying cognition.  
+
+  
+|
+
+  * ### COG 490 - Independent Study
+
+_College of Arts and Sciences_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  
+  
+**Communications**  
+|
+
+  * ### COM 100 - Public Communications First-Year Seminar
+
+_S.I. Newhouse School of Public Communications_  
+0 credit(s) At least 1x fall or spring
+
+* * *
+
+Repeatable, 2 Times  
+
+  
+|
+
+  * ### COM 101 - Practical Grammar for Public Communications
+
+_S.I. Newhouse School of Public Communications_  
+0 credit(s) Every semester
+
+* * *
+
+Understanding how Standard American English is used in Public Communications
+and developing the skills to apply that knowledge to writing and speaking.  
+
+  
+|
+
+  * ### COM 107 - Communications and Society
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Mass media and their functions. Contemporary problems of the media; legal,
+social, economic, and psychological implications of their relationships with
+society. Required of all students in the school.  
+Shared Competencies Ethics, Integrity, and Commitment to Diversity and
+Inclusion
+
+  
+|
+
+  * ### COM 117 - Multimedia Storytelling
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Working in collaborative teams, students write, design and produce short
+fiction and non-fiction stories using digital media and the Internet. Emphasis
+on how story structures change with audience and delivery system.  
+Shared Competencies Communication Skills
+
+  
+|
+
+  * ### COM 180 - International Course
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the S.U.
+academic department to assign the appropriate course level, title, and grade
+for the student's transcript.  
+
+  
+|
+
+  * ### COM 200 - Selected Topics
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### COM 300 - Selected Topics
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### COM 337 - Real News, Fake News: Literacy for the Information Age
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Critical-thinking skills to distinguish news from other information, such as
+commentary and propaganda, and to judge quality of news and sources. For non-
+journalism majors.  
+
+  
+|
+
+  * ### COM 344 - Diversity and Media Issues
+
+_S.I. Newhouse School of Public Communications_  
+1 credit(s) Every semester
+
+* * *
+
+Students will develop understanding of concepts such as social identity,
+stereotyping, ideology and hegemony. Apply concepts to areas such as news,
+sports media and contemporary music, through the use of case studies and
+online discussions.  
+PREREQ COM 107  
+
+  
+|
+
+  * ### COM 346 - Race, Gender, and the Media
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Introduction of fundamental issues of diversity that confront media workers
+and audiences. Topics include roles, obligations, stereotypes, ownership of
+media in a multicultural society. Students may not receive credit for more
+than one of the following: COM 346, 348, 350.  
+PREREQ COM 107  
+Shared Competencies Ethics, Integrity, and Commitment to Diversity and
+Inclusion
+
+  
+|
+
+  * ### COM 348 - Beauty and Diversity in Fashion Media
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The issues that arise in the fashion industry and the messages that it
+communicates to the public through its associated media outlets. Students may
+not receive credit for more than one of the following: COM 346, 348, 350.  
+Shared Competencies Ethics, Integrity, and Commitment to Diversity and
+Inclusion
+
+  
+|
+
+  * ### COM 350 - Topics in Media, Diversity and Inclusion
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Introduction to fundamental issues related to diversity and inclusion in the
+media industries as approached through the lens of particular topics,
+industries, and/or media products. Students may not receive credit for more
+than one of the following: COM 346, 348, 350.  
+PREREQ COM 107  
+Shared Competencies Ethics, Integrity, and Commitment to Diversity and
+Inclusion
+
+  
+|
+
+  * ### COM 400 - Selected Topics
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### COM 408 - Advertising and Public Relations Law
+
+_S.I. Newhouse School of Public Communications_  
+2 credit(s) Irregularly
+
+* * *
+
+A survey of legal issues relevant to advertising and public relations.
+Specific topics will include free speech, corporate speech, advertising
+regulations, political advertising, intellectual property, and defamation.
+Students may not receive credit for more than one of the following: COM 408,
+505, 506, 507, 509.  
+
+  
+|
+
+  * ### COM 415 - Digital Nation
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Digital Nation explores the impact of video in digital delivery and social
+media and how it is transforming the global media business. Students will
+learn content strategy, publishing, brand development, and the art of the
+pitch.  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### COM 425 - Social Platforms, Processes, and Perspectives
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Students will learn how to use social platforms in a professional setting.
+This course is designed with live lectures, off-site field trips, and in-class
+workshops. Assignments will mirror tasks and deliverables expected when
+working in the field.  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### COM 427 - Social Media for Communicators
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Course examines strategic use of digital and social media platforms and tools
+for professional communication purposes, with emphasis on hands-on experience
+and skill. Students learn to analyze social media for communication
+industries.  
+
+  
+|
+
+  * ### COM 430 - Topics in Digital Media Content Strategies
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Double Numbered with COM 630  
+Students will develop skills that enhance a digital media property's social
+media and distributed content. Leading media properties such as Buzzfeed will
+rotate by section as industry partner. Additional work is required of graduate
+students.  
+
+  
+|
+
+  * ### COM 442 - International Communications in European Media
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Offered regularly through Syracuse Abroad. This course analyzes trends in
+media and communication practices across Europe and how they intersect with
+European political institutions. Topics include mass media, development of
+media systems, and the effects of the media on the public.  
+
+  
+|
+
+  * ### COM 470 - Experience Credit
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Every semester
+
+* * *
+
+Participation in a discipline- or subject-related experience. Students must be
+evaluated by written or oral reports or an examination. Limited to those in
+good academic standing.  
+Repeatable  
+
+  
+|
+
+  * ### COM 475 - NYC Communications Industry Practicum
+
+_S.I. Newhouse School of Public Communications_  
+1-3 credit(s) Every semester
+
+* * *
+
+Practical experience in the NYC communications industry. Includes media-based
+internship along with required classroom sessions and guest speakers.
+Internship grade determined by internship supervisor performance evaluation,
+class assignments, journal, and final paper.  
+
+  
+|
+
+  * ### COM 490 - Independent Study
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  
+|
+
+  * ### COM 499 - Honors Capstone Project
+
+_S.I. Newhouse School of Public Communications_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable 2 time(s), 3 credits maximum  
+
+  
+|
+
+  * ### COM 500 - Selected Topics
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### COM 505 - Communications Law for Journalists
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Survey of communications law emphasizing First Amendment issues: libel,
+privacy, confidentiality, access to information, etc. for journalists.
+Students may not receive credit for more than one of the following: COM 505,
+506, 507, 509.  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### COM 506 - Communications Law for Television, Radio, Film
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Survey of communications law emphasizing First Amendment and regulatory law as
+they pertain to television, radio, film. Students may not receive credit for
+more than one of the following: COM 505, 506, 507, 509.  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### COM 507 - Communications Law for Advertising and Public Relations
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Survey of communications law emphasizing applications to advertising and
+public relations. Students may not receive credit for more than one of the
+following: COM 505, 506, 507, 509.  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### COM 509 - Communications Law for Public Communicators
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+The course covers the First Amendment; systems of media regulation; corporate
+speech and election-related speech; commercial speech (advertising
+regulation); defamation; privacy; access to places, documents and meetings;
+reporter/source confidentiality; and intellectual property. Students may not
+receive credit for more than one of the following: COM 505, 506, 507, 509.  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### COM 527 - International Communications
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Irregularly
+
+* * *
+
+Communication of news and opinion among nations and under varying types of
+social, political, and economic systems. Roles of mass media, news agencies,
+governments, and communications systems. Offered at SU Abroad Centers in
+London and Strasbourg.  
+
+  
+  
+**Counseling**  
+|
+
+  * ### COU 101 - Developmental Issues of College Age Adults
+
+_School of Education_  
+3 credit(s) Every semester
+
+* * *
+
+Issues of college students such as time management, identity development,
+intimacy, sexuality, alcohol and drug use, conflict management, interpersonal
+communications, dealing with diversity, choosing a major and a career.  
+
+  
+|
+
+  * ### COU 585 - General Counseling Methods
+
+_School of Education_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+For non-majors, introduces students to fundamental components of the practice
+of counseling for application in a variety of professional settings. This
+course cannot be used to waive a required course for a master's program in
+Counseling and Human Services.  
+
+  
+  
+**Computational Science**  
+|
+
+  * ### CPS 100 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### CPS 155 - Introduction to Cyber Security
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Introductory concepts of: network organization and operation security.
+Differentiate among physical, organizational and personal security. Introduce
+mechanisms and history of software, hardware and OS security. Significant
+hands-on laboratory component with demonstrations and projects.  
+
+  
+|
+
+  * ### CPS 181 - Introduction to Computing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Organization of computers, elementary programming, and problem solving.
+Applications in such areas as calculation and visualization, communication,
+databases, graphics, and artificial intelligence. Origins of the modern
+digital computer, future trends, social impact, abuses. Includes lab.  
+
+  
+|
+
+  * ### CPS 185 - Introduction to Animation and Game Development
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+This course provides a visual introduction to computer programming. Students
+will learn the basics of programming and high-level 3-dimensional animation
+together, while programming animations and games for assignments and an
+integrative final project.  
+
+  
+|
+
+  * ### CPS 196 - Introduction to Computer Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Basic computing concepts, data representation, problem definition, algorithms
+and flow charts, programming exercises. Students may not receive credit for
+both CPS 196 and ECS 102 .  
+
+  
+|
+
+  * ### CPS 234 - Introduction to Computational Thinking
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Computational-thinking skills developed through team-based problem solving.
+Fundamental concepts of computation, including algorithms, data organization,
+and computational strategies. Application of those concepts to solve problems
+from multiple settings and disciplines.  
+
+  
+|
+
+  * ### CPS 290 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+Repeatable  
+
+  
+|
+
+  * ### CPS 300 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+
+  
+|
+
+  * ### CPS 333 - UNIX Operating System and Internet
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+UNIX operating system: commands, hierarchical file systems, editors,
+windowing, networking, security, administration. Emphasis on shell
+programming, awk scripts, sed, e-mail, newsgroups, Internet, telnet/ftp,
+search tools (Archie, Gopher, WAIS, Mosaic). For non-majors in computer
+science.  
+
+  
+|
+
+  * ### CPS 335 - JAVA programming for the Internet
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Introduction to JAVA, object-oriented programming concepts and windows
+programming. Variables and data types, expression evaluation, control, stand-
+alone programs, inheritance, polymorphism, applets, graphics classes, arrays
+and strings, interfaces, threads, windows, widgets, animation, sound,
+libraries.  
+
+  
+|
+
+  * ### CPS 430 - Topics in Computational Science
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+A variety of subjects surveyed or a particular subject in depth.  
+Repeatable 3 time(s), 12 credits maximum  
+
+  
+|
+
+  * ### CPS 490 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor and the department.  
+Repeatable  
+
+  
+|
+
+  * ### CPS 501 - Selected Topics
+
+_College of Engineering and Computer Science_  
+0 credit(s) Irregularly
+
+* * *
+
+  
+|
+
+  * ### CPS 504 - Introduction to C++
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Object oriented programming in C++: classes, derived classes, data
+abstraction, inheritance, and access control. Substantial programming
+assignments. For students not majoring in computer science.  
+PREREQ CPS 196  
+
+  
+|
+
+  * ### CPS 506 - Introduction to C
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Programming in C: data types, control structures; the preprocessor; arrays and
+pointers. Substantial programming assignments. For students in computer
+science.  
+
+  
+|
+
+  * ### CPS 551 - Computer Organization & Operating System Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Fundamentals of computer organization and operating systems design. Computer
+organization topics: CPU & pipeline architecture, data representation and
+memory hierarchies, assembly language and instruction sets. Operating system
+concepts: system calls, processes, threads, synchronization, memory
+management, input-output, traps, and file systems.  
+Repeatable 1 time(s), 3 credits maximum  
+
+  
+  
+**Creative Leadership**  
+|
+
+  * ### CRL 100 - Selected Topics
+
+_College of Professional Studies_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+
+  
+|
+
+  * ### CRL 200 - Selected Topics
+
+_College of Professional Studies_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+
+  
+|
+
+  * ### CRL 300 - Selected Topics
+
+_College of Professional Studies_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+
+  
+|
+
+  * ### CRL 301 - Introduction to Creative Leadership
+
+_College of Professional Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to concepts of creative leadership. Principles related to
+foundational competencies of creative problemsolving; divergent thinking;
+gathering and using data to make informed decisions; and strategic and
+visionary thinking.  
+Shared Competencies Communication Skills
+
+  
+|
+
+  * ### CRL 311 - Professional Issues in Creative Leadership
+
+_College of Professional Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Emphasizes leadership in the 21st century that requires creative skills to
+seek opportunity, anticipate the unexpected, redefinition of excellence,
+innovative practices, and skills to build and share momentum in multi-
+generational teams.  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### CRL 313 - Strategic Leadership in Professional Studies
+
+_College of Professional Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A macro view of the important role of the strategic leader in today¿s world;
+entails making informed, purposeful decisions. A framework that examines the
+personal, communal, organizational, and broad environmental realms a leader
+operates in.  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### CRL 319 - Global Leadership
+
+_College of Professional Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+  
+Understanding the dimensions of culture will form the foundation for study
+after which the course will then layer in the aspects of leadership impacted
+by and developed from a globalized workforce and workplace. Dynamics specific
+to both individuals and their workplaces will be emphasized.  
+  
+
+  
+|
+
+  * ### CRL 320 - Coaching for Leaders
+
+_College of Professional Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course prepares you to distinguish between managing strategies, build
+your coaching competencies, and apply coaching skills to empower effective
+thinkers and self-motivated performers.  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### CRL 342 - Customer Relations Leadership
+
+_College of Professional Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+World-class practices in customer relations. Review of current research,
+critical analysis of case studies, workplace applications. Designing and
+leading plans and change, developing support structures and processes.
+Assessment and evaluation.  
+
+  
+|
+
+  * ### CRL 400 - Selected Topics
+
+_College of Professional Studies_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+
+  
+|
+
+  * ### CRL 406 - Leading from Within
+
+_College of Professional Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Guided by the premise that who we are is how we lead, this course explores the
+intrapersonal aspects of leadership through frameworks for self-awareness and
+empathy building.  
+Shared Competencies Critical and Creative Thinking; Ethics, Integrity, and
+Commitment to Diversity and Inclusion
+
+  
+|
+
+  * ### CRL 472 - Organizational Leadership
+
+_College of Professional Studies_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Theoretical models and experiential practices of leadership. Concepts, best
+practices, and business applications. Acquire competency as a strategist,
+facilitator, change agent, and navigator.  
+
+  
+|
+
+  * ### CRL 490 - Independent Study
+
+_College of Professional Studies_  
+1-6 credit(s)
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  
+  
+**Communication and Rhetorical Studies**  
+|
+
+  * ### CRS 100 - Selected Topics
+
+_Communication and Rhetorical Studies_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+
+  
+  
+Page: 1 <\- 6 | 7 | 8 | 9 | 10 | **11** | 12 | 13 | 14 | 15 | 16 … Forward 10 -> 55  
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Undergraduate University Requirements Syracuse University's Shared
+Competencies
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies Martin J. Whitman School of
+Management Maxwell School of Citizenship and Public Affairs S.I. Newhouse
+School of Public Communications College of Professional Studies College of
+Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

@@ -1,0 +1,1310 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Engineering and Computer Science  
+  
+## College of Engineering and Computer Science
+
+#### Courses
+
+**Electrical Engineering**
+
+  * ### ELE 758 - Selected Topics in Data Networks
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Topics vary each term. Typical topics: Gigabit networks, network security, ATM
+networks, and personal communication networks.  
+PREREQ ELE 658  
+Repeatable  
+
+  * ### ELE 759 - Digital Signal Process II
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Spectral analysis with Fast Fourier transform. Advanced filtering algorithms.
+Multichannel signal processing. Selected topics on DSP applications.  
+PREREQ ELE 659  
+
+  * ### ELE 761 - VLSI Timing Analysis
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 731  
+Delay modeling and timing analysis of interconnections and gates. Critical
+path analysis and delay budgeting. Buffer insertion and device sizing. Switch
+and circuit level simulations.  
+
+  * ### ELE 762 - Computer-Aided Design for VLSI and Digital Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 788  
+Computer aids for automatic physical design of digital systems. Algorithms for
+partitioning, placement, wire routing, layout compaction, etc. Programming
+competence required.  
+
+  * ### ELE 765 - System Verification and Testing
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CSE 765  
+Concepts, methods, and technology for effective verification of complex
+systems. Coverage metrics, event- and assertion-based verification, and formal
+methods including model checking and logical equivalence checking. Testing
+strategies, architecting testbenches, and design for verification.  
+
+  * ### ELE 784 - Optical Information Processng
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Fourier transforming and imaging properties of lenses. 2-D linear systems.
+Frequency analysis. 2-D information processing, synthetic aperture radar,
+planar and volume holography and applications. Bragg diffraction, optical
+memory and photonics in computing systems.  
+PREREQ ELE 681  
+
+  * ### ELE 786 - Laser Propagation and Modulation
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Topics include: 1) wave propagation in anisotropic media, 2) index modulation
+tensors, 3) bifringent toptical systems, 4) periodic media, 5) acousto-optics,
+6) electro-optic effects, 7) second harmonic generation, 8) phase conjugation,
+and 9) nonlinear optics.  
+PREREQ ELE 681  
+
+  * ### ELE 787 - Lasers
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Review of quantum mechanics, review of light propagation theory. Interaction
+of light and atoms and electrons. Rate equations. Mode locking and Q.
+switching, gas, solid-state and semiconductor lasers, laboratory
+experiments/demonstrations.  
+PREREQ ELE 681  
+
+  * ### ELE 791 - Advanced Topics in Electrical Engineering
+
+_College of Engineering and Computer Science_  
+1-4 credit(s) Upon sufficient interest
+
+* * *
+
+Topics vary and represent current interests in electrical engineering. Each
+offering has a graduate-level prerequisite.  
+Repeatable  
+
+  * ### ELE 851 - Detection and Estimation Theory
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Hypothesis testing and parameter estimation. Series representation of random
+processes. Detection and estimation of known signals in white and nonwhite
+Gaussian noise. Detection of signals with unwanted parameters.  
+PREREQ ELE 756  
+
+  * ### ELE 890 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) At least 1x fall or spring
+
+* * *
+
+Exploration of a problem, or problems, in depth. Individual independent study
+upon a plan submitted by the student. Admission by permission of supervising
+instructor or instructor and the department.  
+Repeatable  
+
+  * ### ELE 995 - Engineer Degree Project
+
+_College of Engineering and Computer Science_  
+0-6 credit(s)
+
+* * *
+
+Independent investigation or original research on an engineering problem under
+supervision of member of the faculty. Credit to be arranged.  
+Repeatable, 6 credits maximum  
+
+  * ### ELE 997 - Masters Thesis
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) At least 1x fall or spring
+
+* * *
+
+Independent investigation on a topic of interest under supervision of a member
+of the Graduate School faculty. Credits to be arranged.  
+Repeatable, 6 credits maximum  
+
+**Mechanical and Aerospace Engineering**
+
+  * ### MAE 510 - Nuclear Reactor Design, Operation and Safety
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with NUC 510  
+Principles of fission reactor analysis and design; reactor kinetics, operation
+and control; reactor thermo-fluid-dynamics; reactor safety; reactor accident
+case studies.  
+PREREQ NUC 301 AND MAE 551  
+
+  * ### MAE 512 - Technology Management
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course develops a foundation for the concepts of ethics, technology life-
+cycles, product life cycles, concurrent engineering, managing people, project
+evaluation, leading technology teams, managing R&D and innovation and managing
+risks in order to support the planning, scheduling, and controlling activities
+required for successful completion of technologically innovative projects.
+
+  
+
+  * ### MAE 525 - Soft Robotics: Materials, Mechanics, and Machines
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Soft robotics offers many advantages over conventional robotics. This course
+explores relevant materials and mechanics for recent progress in soft robotics
+through lectures, literature surveys, and course projects where students work
+in teams to repeat part of recent soft robotics papers.  
+PREREQ ECS 325  
+
+  * ### MAE 530 - Introduction to Design Optimization
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Theory and use of numerical design optimization methods. Problem formulation,
+practical application, and results analysis. Unconstrained nonlinear problems,
+constrained linear and nonlinear problems, and multi-objective optimization.
+Graduate students will do additional work in surrogate models and optimizing
+under uncertainty. Extensive use of Matlab functions and programming.  
+PREREQ MAT 485  
+
+  * ### MAE 536 - Composite Materials
+
+_College of Engineering and Computer Science_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Design, analysis, and manufacturing of fiber-reinforced composite materials.
+Emphasis is on polymeric composites for general aerospace and automotive
+applications, and on ceramic matrix composites for hypersonic applications.  
+PREREQ ECS 325  
+
+  * ### MAE 545 - Applications of Fluid Mechanics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Selected topics in applied fluid mechanics, to be determined by the
+instructor. Tools employed include control volume analysis, Bernoulli
+equation, exact and simplified solutions of the Navier-Stokes equations, and
+test correlations.  
+PREREQ MAE 341  
+
+  * ### MAE 548 - Engineering Economics and Technology Valuation
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEE 548  
+Value-based assessment and management of engineering/technology projects:
+equivalence; discounted cash flow; taxes/depreciation; financial statements.
+Risk-adjusted valuation: risk/uncertainty in staged projects; Monte Carlo
+simulations; decision trees; real options; project portfolio management.  
+PREREQ MAT 296  
+
+  * ### MAE 551 - Energy Conversion
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEE 551  
+Energy demand and resources. Fundamentals of combustion. Power plants,
+refrigeration systems. Turbines and engines. Advanced systems. Direct energy
+conversion. Alternate energy sources. Energy storage. Costs and environmental
+impact.  
+PREREQ MAE 251  
+
+  * ### MAE 552 - Building Environmental Measurements and Controls
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Crosslisted with CEE 552  
+Fundamentals of building ventilating methods for measuring and controlling
+indoor environmental conditioning, thermal comfort, and indoor air quality.  
+PREREQ MAE 341 AND 355  
+
+  * ### MAE 553 - HVAC Systems Analysis and Design
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Crosslisted with CEE 553  
+Fundamentals of moist air properties, basic air conditioning processes, heat
+transfer in building structures, heating and cooling load calculations, and
+air distribution systems.  
+PREREQ MAE 251  
+
+  * ### MAE 554 - Principles of Refrigeration
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Basic thermodynamic analysis of refrigeration cycles. Components selection.
+Environmental issues and recent developments in the refrigeration and the air
+conditioning industry.  
+PREREQ MAE 251  
+
+  * ### MAE 555 - Fundamentals of Nano-Science & Nano-Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Definition of nano-, micro- and macro- scales. Overview of nanotechnology.
+Molecular and surface forces at the nanoscale. Atomistic definitions of
+continuum properties. Molecular Simulations. Principles of nanofabrication.
+Characterization of nanomaterials. Additional paper for graduate students.  
+PREREQ PHY 212 AND MAT 485  
+
+  * ### MAE 571 - Applications of Computational Fluid Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Use of commercial Computational Fluid Dynamics (CFD) softwares to solve
+problems of practical interest. Modeling of fluid/thermal systems.
+Introduction to CFD algorithms. Simulation, evaluation, and interpretation of
+CFD results.  
+PREREQ MAE 341  
+
+  * ### MAE 573 - Application of Finite Element Analysis
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Formulation of mechanics and heat transfer problems by finite element
+analysis. Application of the finite element method using commercial software
+in the static and dynamic analysis of mechanical components.  
+PREREQ ECS 325 AND MAT 485  
+
+  * ### MAE 580 - International Course
+
+_College of Engineering and Computer Science_  
+1-12 credit(s) Irregularly
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the SU academic
+department to assign the appropriate course level, title, and grade for the
+student's transcript.  
+Repeatable  
+
+  * ### MAE 585 - Principles of Turbomachines
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fluid dynamics and thermodynamics of turbomachines. Performance
+characteristics and analysis of axial and radial turbomachines. Cascade
+theory. Radial equilibrium equation. Meridional flow analysis. Three
+dimensional flow characteristics of turbomachines.  
+PREREQ MAE 251 AND 341  
+
+  * ### MAE 587 - Design of Solar Energy System
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fundamentals of solar radiation, collectors and storage. Design of solar space
+heating, cooling; water heating systems. Study of solar electric systems.
+Economics of solar design; application to heat pumps, energy conservation
+techniques.  
+PREREQ MAE 251  
+
+  * ### MAE 588 - Principles of Wind Turbines
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEE 588, ECS 588  
+Aerodynamics, performance, control, and electrical aspects wind turbines.  
+PREREQ MAE 341  
+
+  * ### MAE 611 - Analytical and Computational Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Modern analytical rigid body dynamics formulation and computational techniques
+applied to multibody systems. Kinematics of motion, analytical and
+computational determination of inertia properties, Kane's equations, holonomic
+and nonholonomic constraints, recursive algorithms, collisions  
+
+  * ### MAE 613 - New Product Development
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Methods of product concept generation, understanding of the market and
+customer needs. Design with a view to the entire product life cycle, from
+feasibility through disposal. Product development encompassing engineering and
+manufacturing issues, and management of the processes and intellectual
+property.
+
+  
+
+  * ### MAE 615 - Instrumentation
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Basic theory of electronics, modulation, recording, and measurement combined
+with basic fundamentals in mechanical engineering, such as acoustics,
+vibration, heat transfer, stain, and turbulence.  
+
+  * ### MAE 621 - Failure Analysis of Composite Materials
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Review of mechanical behavior of composites. Failure predictions for
+composites based on macroscopic mechanisms. Fatigue and fracture. Damage,
+delamination and debond growth. Residual strength and life predictions. Damage
+tolerance and nondestructive inspection.  
+
+  * ### MAE 625 - Fracture Mechanics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Introduction to basic elements: elastic and elastic-plastic crack tip stress
+and strain fields, stress intensity factor, crack extension form, J integral,
+fracture toughness, fatigue crack growth, and the applications of fracture
+mechanics.  
+
+  * ### MAE 626 - Vibration of Mechanical Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Fundamental physical and mathematical aspects of vibration phenomena in linear
+systems. Theory of transients, eigenvalue problems, vibration isolation and
+measurement techniques.  
+
+  * ### MAE 627 - Advanced Helicopter Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Mathematics of rotating systems, rotary wing dynamics, and calculation of
+aerodynamic forces both in rotating and fixed frames.  
+
+  * ### MAE 628 - Linear Systems
+
+_Linear Systems_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to control theory and linear time invariant systems. Feedback and
+stabilization, controllability, observability, and application of control
+design methods to systems of relevance in mechanical and aerospace
+engineering.  
+
+  * ### MAE 630 - Advanced Practical Optimization
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Advanced theory and application of numerical optimization. Topics may include:
+Unconstrained/constrained linear and nonlinear problems; multiobjective,
+discrete and global optimization; optimization under uncertainty; evolutionary
+optimization. Knowledge of Linear Algebra and Ordinary Differential Equations
+required. Matlab used.  
+
+  * ### MAE 635 - Advanced Mechanics of Materials
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Stress analysis. Beam-column analysis by series and variational techniques,
+beams on elastic foundation, torsion with restrained warping, deflections due
+to transverse shear, introductory problems in plates and shells.  
+PREREQ ECS 325  
+
+  * ### MAE 643 - Fluid Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEN 643  
+Review of undergraduate fluids; kinematics, vorticity; dynamics, stresses,
+Euler and Navier-Stokes equations; energy, Bernoulli's equation; potential
+flows; Stokes flows; boundary layers; flow separation; other applications.  
+PREREQ MAE 341 OR CEN 333  
+
+  * ### MAE 644 - Applied Fluid Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Fundamental flow phenomena encountered in practical engineering situations.
+Topics may include: flow separation, turbulent mixing, bluffbody aerodynamics,
+three dimensional flow, flow control, high-lift devices, cavitation, fan
+stall, flow-structure interaction.  
+PREREQ MAE 643  
+
+  * ### MAE 645 - Fluid Dynamics Measurements
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Measurement of pressure, density, and velocity in low- and high-speed flows.
+Hot wire anemometry and laser Doppler anemometry. Flow visualizations and
+image analysis. Digital data acquisition and time series analysis. Uncertainty
+estimation. Lecture and laboratory sessions.  
+
+  * ### MAE 647 - Gas Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Equations of motion for compressible perfect fluids. Crocco's equation. Wave
+equation. Acoustic speed. Unsteady flows. Shock formation. Normal and oblique
+shocks. Prandtl-Meyer expansion. Wave interactions. Method of characteristics.
+Supersonic diffuser, nozzle jet flows.  
+
+  * ### MAE 648 - Biofluid Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with BEN 648  
+Principles of momentum transfer in bioengineering systems. Flight and swimming
+in nature including flagellar propulsion. Newtonian and non-Newtonian fluid
+phenomena, including low-Reynolds-number flow, pulsatile and separated flows.
+Flow past bifurcations. Respiratory and blood circulatory flows.  
+
+  * ### MAE 651 - Advanced Thermodynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Review of thermodynamic laws and macroscopic coordinates of general systems.
+Reversibility, equilibrium and exergy. Introduction to statistical
+thermodynamics.  
+PREREQ MAE 251  
+
+  * ### MAE 655 - Advanced Heat Transfer
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Theory and application of heat transfer by conduction and radiation for both
+steady and unsteady state conditions. Mathematical, graphical, and numerical
+methods of solution.  
+
+  * ### MAE 657 - Convective Heat and Mass Transfer
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Fluid properties and transport equations. Introduction to turbulent transport.
+Laminar and turbulent heat transfer in internal and external flows. Free
+convection. Heat transfer in high-speed flow. Convective mass transfer.
+Special topics.  
+PREREQ MAE 643  
+
+  * ### MAE 658 - Building Environmental Modeling and Simulations
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEE 648  
+Building environmental analysis; contaminant source and sink models; single-
+zone, multizone, and computational fluid dynamics models.  
+PREREQ MAE 341 AND MAE 355  
+
+  * ### MAE 659 - Building Materials and Envelope
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEE 649  
+Understanding of heat, air and moisture transfer effects on building
+envelope/enclosure through linking material properties, assembly design and
+hygorthermal performance with structural and mechanical considerations.
+Introduction to advanced computational tools for building enclosures.  
+
+  * ### MAE 671 - Numerical Methods in Mechanical Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Derivation and use of numerical methods for polynomial approximation,
+extraction of roots, evaluation of determinants, eigenvectors and eigenvalues,
+orthogonal transformations, angles of orthogonal transformation, robotics,
+differential equations, mechanism analysis, Fourier representation.  
+
+  * ### MAE 675 - Methods of Analysis in Mechanical Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Methods of analyzing linear mechanical systems based on theorems in linear
+algebra, tensor calculus, and linear differential equations. Vector spaces,
+linear transformations, tensor fields, and eigenvalue problems.  
+
+  * ### MAE 682 - Computational Solid Mechanics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Theory and implementation of the finite element method (FEM). Boundary value
+problems in solid mechanics. Commercial and open source FEM software.  
+COREQ MAE 675  
+
+  * ### MAE 683 - Applied Environmental Acoustics and Noise Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with MAE 483  
+Introductory to environmental acoustics, sound propagation, psychoacoustics,
+noise criteria for design, noise sources, absorption, noise isolation, design
+of critical spaces, sound measurement, vibration isolation, product noise
+ratings, sound quality.  
+
+  * ### MAE 686 - Advanced Fuel Cell Science and Technology
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The scientific challenges of fuel cells will be discussed: fundamental
+electrochemistry, thermodynamics and kinetics of electrode process, with
+emphasis on fundamental principles of fuel cells, mass transport processes and
+performance of fuel cells. Department Consent Required.  
+
+  * ### MAE 688 - Machine Learning for Mechanical Engineers
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course mainly focuses on applications of state-of-the-art machine
+learning (ML) techniques in mechanical engineering. It also covers the
+fundamentals of probability and statistical learning theory. This class
+requires basic/intermediate-level programming in Python.  
+
+  * ### MAE 721 - Theory of Elasticity
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+General theorems governing the mechanics of linear elastic solids. Cartesian
+tensor analysis. Kinematics of infinitesimal deformations and force
+transmission. Balance principles and linear elastic constitutive theory. Plane
+and three- dimensional problems in elastostatics and elastodynamics.  
+
+  * ### MAE 723 - Asymptotic Methods for Engineering Applications
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Introduction including problems in vibrations and fluid mechanics. Regular and
+singular perturbations; asymptotic matching. Boundary value problems;
+distinguished limits. Multiple scale expansions, WKB theory.  
+
+  * ### MAE 728 - Geometric and Optimal Control
+
+_Geometric and Optimal Control_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Linear controllability and observability. Introduction to geometric control:
+Lie algebras, distributions, nonlinear controllability and observability.
+Control of mechanical systems: geometric mechanics, Lagrangian and Hamiltonian
+methods. Optimal control: Pontryagin's Maximum Principle for systems on
+manifolds.  
+PREREQ MAE 628 or equivalent  
+
+  * ### MAE 731 - Bending of Plates and Shells I
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Small-deflection theory of plates. Analysis of variously shaped plates under
+various loading and support conditions. Membrane theory of shells. Bending
+theory of cylindrical shells.  
+PREREQ MAE 635  
+
+  * ### MAE 735 - Buckling Problems
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Physical and mathematical aspects of buckling. Analysis of elastic buckling
+phenomena for columns, beams, arches, rings, plates, and shells under various
+loading and support conditions. Buckling due to thermal stress, inelastic
+buckling, creep buckling.  
+PREREQ MAE 635  
+
+  * ### MAE 741 - Fundamentals of Turbulence
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Qualitative description, main parameters and scaling variables; similarity
+analysis of mixing layers, jet boundary layers, pipe flows; extension to
+transport and mixing with emphasis on K-E models.  
+PREREQ MAE 643  
+
+  * ### MAE 746 - Viscous Fluids
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Exact solutions of Navier-Stokes equations. Low Reynolds-number flows.
+Hydrodynamic theory of lubrication. Boundary-layer equations, exact and
+approximate methods of solution. Compressible viscous flows.  
+PREREQ MAE 643  
+
+  * ### MAE 765 - Combustion Phenomena in Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Reacting gases-equilibrium composition and kinetics. Kinetically and
+diffusionally controlled combustion. Ignition. Flames in premixed gases.
+Laminar flame speed. Turbulent flames. Detonation Diffusion flames.
+Applications to combustion equipment.  
+PREREQ MAE 651  
+
+  * ### MAE 771 - Computational Fluid Mechanics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Numerical solutions using finite difference methods and other techniques.
+Principles of approximations; accuracy considerations. Applications including
+boundary-layer and potential flow solutions.  
+
+  * ### MAE 785 - Continuum Mechanics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Foundations of the mechanics of deformable bodies. Elements of tensor
+calculus. Kinematics of deformation and transmission of force. Balance
+principles. Theory of constitutive equations and an introduction to
+hyperelastic solids and Stokesian fluids.  
+
+  * ### MAE 849 - Advanced Topics in Fluid Mechanics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Topics dealing with fluid flow, such as theories of turbulence, jets, wakes,
+cavities, magnetohydrodynamics.  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### MAE 879 - Advanced Topics in Mechanical Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected topics dealing with problems in mechanical design, such as theory of
+lubrication and bearings, balancing problems, high-speed mechanisms.  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### MAE 889 - Selected Topics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected topics dealing with the theory and design of steam and gas turbines,
+centrifugal and axial flow compressors.  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### MAE 990 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  * ### MAE 994 - Capstone Project
+
+_College of Engineering and Computer Science_  
+0 credit(s)
+
+* * *
+
+Review technical papers or reports in the open literature related to student's
+field of interest. Students prepare oral presentation to the faculty
+summarizing the technical content of the document.  
+
+  * ### MAE 995 - Graduate Seminar
+
+_College of Engineering and Computer Science_  
+0 credit(s) Every semester
+
+* * *
+
+  * ### MAE 997 - Master's Thesis
+
+_College of Engineering and Computer Science_  
+1-9 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+  * ### MAE 999 - Dissertation
+
+_College of Engineering and Computer Science_  
+1-15 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+**Mechanical Engineering**
+
+  * ### MEE 524 - Microprocessors in Mechanical and Manufacturing Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Introduction to the microprocessor and its various configurations used in
+controlling machine operations, data acquisition, etc. Project-oriented work
+involving program development in machine, assembly, and basic languages.
+Micro-computers used for off-line program development. Not open to electrical
+and computer engineering students.  
+
+  * ### MEE 571 - Computer Aided Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Use CAD software and hardware in the solution of mechanical engineering
+problems. Computer graphics, computer aided geometry (space curves, splines,
+patches) design, solid modeling, optimization and an introduction to finite
+element method.  
+PREREQ MAE 284 AND MAT 485  
+
+  * ### MEE 584 - Noise from Industrial Flow Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Basic fluid mechanics and acoustics. Noise generation by fluid flows and their
+interaction with solid bodies. Types of noise sources. Analysis and control of
+such flow noise sources in manufacturing, transportation, propulsion, power
+generation, and industrial control systems.  
+PREREQ MAE 341  
+
+  * ### MEE 585 - Fuel & Energy Utilization
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+  * ### MEE 637 - Mechanics of Heterogeneous Solids
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Effective elastic moduli of composite materials. Bounds on effective moduli.
+Classical analysis of laminated plates. Higher order laminated plate theory.
+Wave propagation. Inelastic and nonlinear effects.  
+
+  * ### MEE 715 - Robot Manipulators I
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with ELE 715  
+Robot manipulators and their defining equations. Transformations, kinematics,
+dynamics, and motion trajectories. Control considerations, compliance and
+organization of programming. Includes a hardware and software laboratory.  
+
+  * ### MEE 725 - Advanced Engineering Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Newton's laws of motion. Motion of a particle; a rigid body. Work and energy.
+Theorem of virtual displacements. D'Alembert's principle. Generalized
+coordinates. Lagrange's equations. Hamilton's principle. Small vibrations.
+Ballistics. Balancing. Gyroscopes.  
+
+  * ### MEE 775 - Dynamics of Controls
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Continuation of MEE 725 . Analysis of mechanical and hydraulic control systems
+of linear and nonlinear characteristics. Stability criteria in systems subject
+to self-induced vibrations. Operational calculus and Laplace transforms for
+linear systems of one and two degrees of freedom. Multiple controller
+servomechanisms.  
+PREREQ MEE 725  
+
+  * ### MEE 825 - Theory of Plasticity
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Basic behavior of materials and formulation of laws governing plastic flows.
+Different inelastic behaviors of metals. Yielding and the yielding loci.
+Strain hardening laws. Complete stress-strain relations. Total strain theory
+and incremental strain theory. Plastic potential. Boundary value problems.
+Variational principles. Plastic anistropy.  
+PREREQ MAE 721  
+
+  * ### MEE 829 - Advanced Topics in Dynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected topics dealing with dynamics of rigid bodies, vibration and stability
+of linear systems.  
+PREREQ MEE 727  
+
+  * ### MEE 856 - Advanced Topics in Heat Transfer
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected topics in heat transfer. Boiling, condensation, melting, ablation,
+rarified gas flow, liquid metals, cooling of electronic components.  
+PREREQ MAE 655  
+
+  * ### MEE 859 - Advanced Topics in Thermodynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected topics in classical and statistical thermodynamics of interest to
+mechanical and aeronautical engineers.  
+PREREQ MAE 651  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### MEE 885 - Advanced Topics in Thermal Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected topics in theory and design of equipment and plants for power
+generation, air conditioning, refrigeration, water purification, and other
+thermal engineering application.  
+PREREQ MAE 655  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### MEE 895 - Advanced Topics in Mechanics of Deformable Bodies
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected topics in theories of elasticity, plasticity, and rheology, such as
+finite strain theory, elastic and plastic waves, anisotropic bodies, special
+mathematical techniques.  
+PREREQ MAE 721  
+Repeatable 1 time(s), 6 credits maximum  
+
+  * ### MEE 990 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a problem, or problems, in depth. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor(s) and the department.  
+Repeatable  
+
+  * ### MEE 996 - Special Projects
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Every semester
+
+* * *
+
+Repeatable  
+
+**Manufacturing Engineering**
+
+  * ### MFE 534 - Statistical Quality Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Controlling product quality through the control of the manufacturing process
+and acceptance sampling. Industrial project required.  
+PREREQ MFE 326  
+
+  * ### MFE 595 - Multidisciplinary Analysis and Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Interdisciplinary subjects related to engineering, information technology,
+networking, AI and HTTP://WWW-based tools. The objective is to use different
+MAD tools in the product realization process.  
+PREREQ MEE 571  
+
+  * ### MFE 633 - Enterprise Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with IST 633  
+Technical overview of Enterprise Systems and their impact on organizations.
+The concepts, fundamentals, issues and technologies in planning, implementing
+and operating an Enterprise System. Current trends, issues, technologies and
+extensions. Laboratory exercises  
+PREREQ CSE 581 OR IST 659  
+
+  * ### MFE 634 - Productivity and Quality Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Measuring, evaluating and improving productivity in conjunction with total
+quality methods. Multidimensional measures of performance. Quality function
+deployment, concurrent engineering, loss function; system, parameter and
+tolerance design using statistically designed experiments. Statistical quality
+control overview.  
+PREREQ ECS 526  
+
+  * ### MFE 635 - Manufacturing Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Survey of different types of manufacturing systems and design methodologies.
+Topics include transfer line, flow shops, job shops, manufacturing cells,
+flexible manufacturing systems, and computer integrated manufacturing systems.
+Integration of manufacturing components and emerging trends.  
+PREREQ ECS 526  
+
+  * ### MFE 636 - Materials and Processing in Manufacturing
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Properties of metals, polymers, ceramics; mechanics and mechanisms of
+deformation processing, manufacturing processes. Laboratory demonstrations.  
+
+  * ### MFE 639 - CAD/CAM Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Advanced topics in Computer Aided Design and Solid Modeling, Computer-
+integrated Manufacturing, Concurrent Engineering, Process Planning,
+Manufacturing Control, Measurement and Analysis.  
+
+  * ### MFE 654 - Production System Design and Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to design, planning, execution, and control of production systems
+using mathematical, computational, and other modern techniques. Forecasting,
+inventory control, lean manufacturing, materials requirement planning,
+enterprise resource planning, and supply chain planning.  
+PREREQ ECS 526  
+
+  * ### MFE 676 - Computer Control of Machines and Processes
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Application of microcomputers, programmable controllers, numerical controls,
+analog-digital conversion, robotics, software development, laboratory
+experiments.  
+
+Page: 1 | 2 | 3 | **4** | 5
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

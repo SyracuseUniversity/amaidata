@@ -1,0 +1,205 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science Courses
+
+Print-Friendly Page (opens a new window) Facebook this Page (opens a new
+window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Engineering and Computer Science  
+  
+## College of Engineering and Computer Science
+
+#### Courses
+
+**Civil and Environmental Engineering**
+
+  * • CEE 554 - Principles of Environmental Toxicology
+  * • CEE 555 - Hazardous Waste Mgmt
+  * • CEE 558 - Solid Wastes: Collection and Disposal
+  * • CEE 562 - Air Resources I
+  * • CEE 570 - Water&Wastewtr Trtmnt Des
+  * • CEE 571 - Water Quality Modeling
+  * • CEE 577 - Urban Stormwater Management
+  * • CEE 584 - Designg W/Geosynthetics
+  * • CEE 588 - Principles of Wind Turbines
+  * • CEE 600 - Selected Topics
+  * • CEE 601 - Construction Engineering and Project Management
+  * • CEE 605 - Construction Estimating and Scheduling
+  * • CEE 609 - Environmental Data Science
+  * • CEE 613 - Physical Hydrology
+  * • CEE 629 - Reliability of Civil Systems
+  * • CEE 630 - Environmental Organic Chemistry
+  * • CEE 631 - Classical and Matrix Structural Analysis
+  * • CEE 632 - Structural Dynamics and Earthquake Engineering
+  * • CEE 633 - Finite Element Analysis
+  * • CEE 634 - Stability Analysis of Structural Systems
+  * • CEE 635 - Adv Reinforced Concrt Des
+  * • CEE 636 - Plstc Des/Steel Strctures
+  * • CEE 637 - Adv Soil Mech Fndtns I
+  * • CEE 638 - Adv Soil Mech&Foundtns II
+  * • CEE 639 - Sustainable Development and Infrastructure Management
+  * • CEE 641 - Seepage & Earth Dam Desgn
+  * • CEE 642 - Treatment Processes in Environmental Engineering
+  * • CEE 643 - Transportation Engineering
+  * • CEE 648 - Building Environmental Modeling and Simulations
+  * • CEE 649 - Building Materials and Envelope
+  * • CEE 650 - Environmental Risk Assessment and Toxicology
+  * • CEE 651 - Physical-Chemical Process
+  * • CEE 652 - Biologicl Waste Treatment
+  * • CEE 653 - Applied Aquatic Chemistry
+  * • CEE 657 - Biogeochemistry
+  * • CEE 659 - Advanced Hydrology
+  * • CEE 660 - Seminar Civil Engineering
+  * • CEE 662 - Chem/Soil & Natural Srfcs
+  * • CEE 663 - Introduction to Sustainable Engineering
+  * • CEE 665 - Modern Urban Infrastructure
+  * • CEE 666 - Design of Concrete Bridges
+  * • CEE 671 - Environmental Chemistry and Analysis
+  * • CEE 672 - Applied Env Microbiology
+  * • CEE 673 - Transp Procss/Env Engrng
+  * • CEE 676 - Multiscale Material Modeling and Simulations
+  * • CEE 678 - Rehabilitation of Civil Infrastructure
+  * • CEE 687 - Environmental Geostatistics
+  * • CEE 690 - Independent Study
+  * • CEE 737 - Applied Soil Mechanics
+  * • CEE 739 - Soil Stabilization
+  * • CEE 740 - Soil Dynamics
+  * • CEE 764 - Industrial Hygiene Eng
+  * • CEE 789 - Special Investigtns/CEE
+  * • CEE 995 - Master's Exit Paper
+  * • CEE 996 - Master's Project
+  * • CEE 997 - Masters Thesis
+  * • CEE 999 - Dissertation
+
+**Computer and Information Science**
+
+  * • CIS 500 - Selected Topics
+  * • CIS 531 - Compiler Construction
+  * • CIS 543 - Control of Robots
+  * • CIS 545 - Introduction to Combinatorics
+  * • CIS 554 - Object Oriented Programming in C++
+  * • CIS 563 - Introduction to Data Science
+  * • CIS 565 - Introduction to Artificial Neural Networks
+  * • CIS 612 - Cloud Computing
+  * • CIS 623 - Assured Programming with Formal Methods
+  * • CIS 628 - Introduction to Cryptography
+  * • CIS 629 - Blockchain: Foundation and Applications
+  * • CIS 632 - Modeling Concurrent Systems
+  * • CIS 640 - Topics in Mobile Programming
+  * • CIS 645 - Graph Theory
+  * • CIS 646 - Enumeration, Designs, and Matroids
+  * • CIS 651 - Mobile Application Programming
+  * • CIS 655 - Computer Architecture
+  * • CIS 656 - Concepts in Concurrent Programming
+  * • CIS 657 - Principles of Operating Systems
+  * • CIS 662 - Introduction to Machine Learning & its Algorithms
+  * • CIS 663 - Biometrics
+  * • CIS 667 - Introduction to Artificial Intelligence
+  * • CIS 668 - Natural Language Processing
+  * • CIS 675 - Design and Analysis of Algorithms
+  * • CIS 678 - Quantum Computing
+  * • CIS 681 - Software Modeling and Analysis
+  * • CIS 687 - Object Oriented Design
+  * • CIS 688 - Internet Programming
+  * • CIS 690 - Independent Study
+  * • CIS 731 - Artificial Neural Netwks
+  * • CIS 735 - Machine Learning for Security
+  * • CIS 752 - Wireless Network Security
+  * • CIS 774 - Principles of Distributed Access Control
+  * • CIS 775 - Distributed Objects
+  * • CIS 776 - Design Patterns
+  * • CIS 778 - Advanced Windows Programming
+  * • CIS 787 - Analytical Data Mining
+  * • CIS 997 - Masters Thesis
+  * • ECS 697 - Capstone Project in Operations Research and System Analytics
+
+**Computational Science**
+
+  * • CPS 501 - Selected Topics
+  * • CPS 504 - Introduction to C++
+  * • CPS 506 - Introduction to C
+  * • CPS 551 - Computer Organization & Operating System Design
+
+Page: 1 | **2** | 3 | 4 | 5
+
+  
+
+* * *
+
+Back to Top | Print-Friendly Page (opens a new window)
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

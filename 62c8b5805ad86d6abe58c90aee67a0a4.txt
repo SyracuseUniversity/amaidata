@@ -1,0 +1,1246 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  Martin J. Whitman School of Management Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: Martin J. Whitman School of Management  
+  
+## Martin J. Whitman School of Management
+
+#### Courses
+
+**Marketing Management**
+
+  * ### MAR 753 - Marketing Channel Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Marketing channels as both economic and social systems. Channel change and
+evolution, channel membership, structural and functional relationships,
+interorganizational behavior, and channel information management.  
+PREREQ MBC 636  
+
+  * ### MAR 754 - Seminar in Marketing Research
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Collection, analysis, and interpretation of data. Problem definition,
+questionnaire design, attitude measurement, data analysis, and demand
+forecasting. For those interested in conducting marketing research or using
+research information for marketing decision making.  
+PREREQ MBC 636 , MBC 638  
+
+  * ### MAR 755 - Marketing Communications Strategy
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Managerial aspects. Determination of promotional budgets, planning and
+building promotional effectiveness, scheduling and monitoring promotional
+impact.  
+PREREQ MBC 636  
+
+  * ### MAR 756 - Market Measurement and Analysis
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Application of analytical and quantitative techniques to market measurement.
+Product-market strategy.  
+PREREQ MBC 636 AND MBC 638  
+
+  * ### MAR 757 - Managing Innovative Products and New Ventures
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Problems in developing new products and new corporate ventures. Designing
+innovation strategies, risk taking, technology planning, evaluation of new
+product proposals, and managing the innovation team.  
+PREREQ MBC 636  
+
+  * ### MAR 759 - Seminar in Marketing
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected topics in marketing. Current issues and problems in marketing.  
+PREREQ MBC 636  
+
+  * ### MAR 761 - Marketing Strategies for Innovations
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Commercializing new products, services, and technologies. Introduction and
+diffusion of innovations, market planning, product strategy design, and
+marketing decision making.  
+PREREQ MBC 636  
+
+  * ### MAR 777 - Global Supply Chain Management & Risk Mgmt
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with SCM 777  
+Topics include: design of global facility networks, containerization and
+logistical planning across borders, benefits and risks of outsourcing and
+offshoring while integrating financial and accounting-related matters such as
+exchange rates, duties, drawbacks and tax differentials.  
+PREREQ MBC 616, MBC 638  
+
+  * ### MAR 930 - Seminar in Marketing Theory
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Current marketing theory as developed by contemporary writers.  
+PREREQ MBC 636  
+Repeatable  
+
+  * ### MAR 960 - Doctoral Seminar in Marketing
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### MAR 962 - Marketing and Supply Chain Models
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with SCM 962  
+Statistical/econometric and management science modeling approaches to
+marketing/supply chain management problem solving.  
+
+**Managerial Statistics**
+
+  * ### MAS 766 - Linear Statistical Models I: Regression Models
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+General regression model, estimation methods, general linear hypothesis tests,
+residual analysis, indicator variables, multicollinearity, autoregressive
+model, weighted least squares, variable-screening procedures.  
+
+  * ### MAS 777 - Time Series Modeling and Analysis
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fundamental concepts and procedures for forecasting discrete time series for
+planning and control. Regression analysis, ARIMA methods, econometric
+modeling, transfer functions, intervention analysis, Kalman filters,
+univariate and multivariate methods.  
+PREREQ MBC 638  
+
+**Master of Business Core**
+
+  * ### MBC 600 - Selected Topics
+
+_Martin J. Whitman School of Management_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### MBC 601 - Economic Foundations of Business
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+Business applications of selected economic tools such as supply and demand,
+production, costs, and the basic models of market structure. The use of these
+tools for managerial decision making.  
+
+  * ### MBC 602 - Economics for International Business
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+The global business and economic environment and its implications for
+managerial decision making. Global markets, industrial structure in the global
+economy, multinationals, foreign direct investment, and international trade.
+Global risks and management.  
+PREREQ MBC 601  
+
+  * ### MBC 603 - Creating Customer Value
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+How marketing managers develop an organization-wide customer orientation and
+create customer value through strategic planning, systematic analysis of the
+market environment, effective customer segmentation, target market selection,
+and product positioning.  
+
+  * ### MBC 604 - Managing the Marketing Mix
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+Concepts and skills needed for developing and implementing the product,
+pricing, distribution, and communication strategies for goods and services.
+Focus on building sound, actionable, integrated marketing plans based upon
+target market and positioning strategies.  
+PREREQ MBC 603  
+
+  * ### MBC 606 - Information Technology for Decision Support
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+Information technology tools for decision support using spreadsheets and
+databases. Spreadsheet fundamentals, data extraction from databases, what-if
+analysis, scenario evaluation, and finding optimal solutions to problems.  
+
+  * ### MBC 607 - Understanding Financial Statements
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+Financial statement information and related disclosures. Interpretation of
+financial information to assess and evaluate firm performance.  
+
+  * ### MBC 608 - Creating Financial Statements
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+Financial accounting concepts and procedures to record business activities.
+Presentation of business activities in financial statements.  
+PREREQ MBC 607  
+
+  * ### MBC 609 - Accounting for Managerial Decisions
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+An understanding of the usefulness of the accounting information in helping
+managers with their decision making and decision influencing tasks.  
+PREREQ MBC 608  
+
+  * ### MBC 610 - Opportunity Recognition and Ideation
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+Focuses on four critical skill areas for contemporary M.B.A. students,
+including opportunity recognition: recognition, opportunity assessment,
+creative problem solving, and translation of creativity into bold business
+ideas.  
+
+  * ### MBC 616 - Operations Management
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+Management of the operations function of an organization and its relationship
+to other functional areas and a firm's strategy.  
+
+  * ### MBC 617 - Supply Chain Management
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+The management of flows of resources both within and between organizations
+with the aim of achieving strategic advantages in terms of quality, price,
+choice, speed, and flexibility.  
+
+  * ### MBC 618 - Competitive Strategy
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+Techniques and tools to analyze how competitive advantage is created and
+sustained, focusing on business-level strategy. Topics include industry and
+competitor analysis, firm resources and capabilities, competitive strategies,
+and competitive dynamics.  
+PREREQ MBC 607  
+
+  * ### MBC 619 - Corporate Strategy
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+Corporate-level strategy and analysis of the scope of a firm's activities.
+Topics include vertical integration, alliances, global strategy,
+diversification, and managing the multibusiness firm.  
+PREREQ MBC 608 AND MBC 618  
+
+  * ### MBC 627 - Financial Markets and Institutions
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+The nature of the firm's financial environment and the implications for
+financial management. Characteristics and functions of major financial
+institutions and markets. Debt markets, equity markets, interest rates,
+initial public offerings, private equity, and valuation of financial assets.  
+PREREQ MBC 601 , MBC 602 , MBC 607 , MBC 608 , AND MBC 638  
+
+  * ### MBC 628 - Fundamentals of Financial Management
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+Major decisions facing financial managers. Emphasis on the firm's investments
+decision and the tools used in its analysis. Market efficiency, risk-return
+analysis, valuation of real assets, and investing in risky assets.  
+PREREQ MBC 627  
+
+  * ### MBC 629 - Legal and Ethical Aspects of Management
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+An analysis of the legal and ethical environments of business and how they
+influence managerial decision making and advance business objectives. The
+course uses cases and discussion to probe selected legal, public policy, and
+ethical issues affecting business.  
+
+  * ### MBC 630 - Behavior in Organizations
+
+_Martin J. Whitman School of Management_  
+1.5 credit(s) At least 1x fall or spring
+
+* * *
+
+The course will cover the topics of motivation, leadership, individual
+differences, perception, job design, stress, and cultural diversity in the
+global economy. This course will address both the prescriptive and descriptive
+perspectives.  
+
+  * ### MBC 631 - Financial Accounting
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Impact of accounting information and accounting method choice on corporate
+decision making, reported results and financial evaluation through application
+of analysis techniques to published financial statements.  
+
+  * ### MBC 632 - Managerial Accounting
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Theory, design elements and application of cost management accounting to
+manage economic organizations. Focus on how accounting measures can be used to
+promote efficient resource allocation/consumption within the organization.  
+PREREQ MBC 631  
+
+  * ### MBC 633 - Managerial Finance
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Language and tools of finance. Modern theory and practice of corporate
+finance. Enhances ability to evaluate firm's financing, investment and
+dividend decisions as they relate to firm's objectives.  
+PREREQ MBC 631  
+
+  * ### MBC 634 - Introduction to Information Technology and E-commerce
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+How traditional and e-commerce enterprises use various information
+technologies. The focus is on why these ITs work and on the business,
+managerial, organizational, and technological issues surrounding their use.  
+
+  * ### MBC 635 - Operations and Supply Chain Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Management of the resources used to create and distribute goods and services
+with the aim of achieving strategic advantages in terms of quality, price,
+choice, speed, and flexibility.  
+
+  * ### MBC 636 - Marketing Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Developing an organization-wide marketing orientation and developing skills
+needed to make strategic and tactical decisions in marketing.  
+
+  * ### MBC 638 - Data Analysis and Decision Making
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Concepts, principles and methods to support scientific approach to managerial
+problem solving and process improvement. Basic statistical techniques, their
+appropriateness to situations and assumptions underlying their use.  
+
+  * ### MBC 639 - Leadership in Organizations
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Every semester
+
+* * *
+
+Examines leadership on both a knowledge and skill basis. Leadership from a
+business perspective on three levels: individual, team, and organization.  
+
+  * ### MBC 642 - Strategic Human Resource Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Managing human capital to create competitive advantage. Topics include
+strategic reward systems, performance management, attracting and developing
+human assets, human resource architecture design, managing workforce
+heterogeneity, managing organizational conflict, and legal environment of
+employment.  
+
+  * ### MBC 643 - The Legal and Ethical Environments of Business
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Analysis of the legal and ethical environments of business and how they
+influence managerial decision making and further the objectives of the
+business. Discussion of cases that raise issues of law, public policy, and
+ethics.  
+
+  * ### MBC 645 - Strategic Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Strategy and its integrative role in management. Concepts, models, and skills
+for developing strategies to create and sustain competitive advantage in a
+dynamic and global environment. Topics include environmental analysis,
+strategy formulation, and strategy implementation.  
+
+  * ### MBC 647 - Global Entrepreneurial Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The utilization and integration of functional area knowledge to successfully
+plan and launch new ventures and concepts in start-up, corporate, and
+nonprofit contexts.  
+
+  * ### MBC 691 - Experiential Perspectives and Applications
+
+_Martin J. Whitman School of Management_  
+1.5-3 credit(s) Every semester
+
+* * *
+
+A set of structured managerial experiences involving the application of
+managerial concepts, frameworks or theories; substantive engagement with
+professionals within for-profit and/or non-profit organizations; and specific
+deliverables at the completion of each experience.  
+Repeatable 5 time(s), 9 credits maximum  
+
+  * ### MBC 700 - Business Perspectives and Applications
+
+_Martin J. Whitman School of Management_  
+1 credit(s) Every semester
+
+* * *
+
+Residencies allow students to meet face-to-face to supplement their online
+coursework. They focus on a topic relevant to its location. Students will
+learn from global business leaders who will engage them in highly interactive
+learning.  
+Repeatable 5 time(s), 6 credits maximum  
+
+**Management**
+
+  * ### MGT 656 - Human Resource Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Explores human resource management issues facing managers. Recruitment,
+selection and placement. Performance appraisal. Career planning, training and
+development. Compensation. Labor-management relations.  
+
+  * ### MGT 701 - Women in Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Investigate the opportunities and obstacles that women face in management and
+develop skills for leading women and men in order to improve individual, group
+and organizational performance. Enhance critical thinking skills essential for
+managers.  
+
+  * ### MGT 702 - Transformational Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The development of personal skills in designing, implementing, and processing
+structured learning intervention that facilitate comprehension of
+organizational dynamics as well as foster real organizational learning and
+transformation. An experiential learning methodology will be employed.  
+
+  * ### MGT 703 - Organizational Process Consultation Skills
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Develop group process consultation skills necessary for creating high
+performance work groups as well as developing collaborative and learning
+relationships between groups within an organization.  
+
+  * ### MGT 704 - Job Satisfaction, Motivation, and Work Behavior
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Theories analyzed in terms of soundness, research support, and management
+implications. Work design and environment, reward systems in relation to
+employee motivation, stress, job satisfaction and performance.  
+
+  * ### MGT 705 - Organizational Theory and Design
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Contemporary organizational systems, structural variables, and dynamics: the
+organization, organizational growth, effects of size and technology, emergence
+of new control systems, forms of organizational pathology, and directions of
+change in organizational pathology, and directions of change in organizational
+forms.  
+
+  * ### MGT 709 - Business Policy
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Interdepartmental approach to policy-making and administration from a top-
+management point of view. Thinking about business problems from an overall
+point of view.  
+
+  * ### MGT 710 - Administrative Policy
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Applies the principles and techniques of management to the life-cycle
+management process through the use of a computerized management simulation
+problem. Includes consideration of policy-making issues from the top
+management point of view.  
+Repeatable  
+
+  * ### MGT 754 - Compensation Administration
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with MGT 454  
+Concepts, models, theories, and legislation related to employee compensation:
+wage theory, job analysis, job evaluation, job structure pricing, employee
+motivation, individual appraisal and reward, and benefits. Additional work
+required of graduate students.  
+PREREQ MGT 355 OR 656  
+
+  * ### MGT 755 - Collective Bargaining
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+History and development of collective bargaining in the United States.
+Structure, processes, and institutional framework of collective bargaining
+within the industrial relations systems.  
+
+  * ### MGT 756 - Human Resource Assessment and Staffing
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Concepts, problems, and research related to the assessment of individual
+qualifications for employment and performance when recruiting, staff planning,
+and allocating staff resources.  
+PREREQ MGT 355 OR 656  
+
+  * ### MGT 757 - Career Planning, Training, and Development
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Theory and analysis of the empirical evidence related to training, career
+planning, and development concepts, methods, and programs. Conditions of
+learning, program evaluation, staff and career-planning models.  
+
+  * ### MGT 758 - Labor Arbitration and Dispute Resolution
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Economic, social, and legal implications of labor arbitration. Historic and
+contemporary problems commonly adjudicated by labor arbitrators. Theoretical
+and empirical evidence of the effectiveness of various dispute resolution
+strategies.  
+
+  * ### MGT 761 - Strategic Planning and Corporate Forecasting for Innovative Organizations
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Focuses on innovative growth organizations continually subject to
+technological and economic uncertainties.  
+
+  * ### MGT 762 - Leadership and Organization Change
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with MGT 462  
+Nature of the organizational development field and dominant methods, models
+and perspectives taken. Opportunities provided to increase skills and
+effectiveness in diagnosing and intervening in ongoing systems. Additional
+work required of graduate students.  
+
+  * ### MGT 763 - Authority and Power Dynamics in Organizations
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Explores the psychodynamics of authority and power within and between small
+work groups in the context of an evolving, fluid learning organization.
+Participants develop skills identifying, interpreting and expressing the
+emotions of leadership within groups.  
+
+  * ### MGT 764 - Strategic Change and Organizational Innovation
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Focuses on managing required system-wide changes through an understanding of
+the technical, political and cultural subsystems and their interrelationships.  
+
+  * ### MGT 855 - Seminar in Organization and Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Results of supervised readings and independent study presented by participants
+for group discussion and evaluation. History, direction, and substance of
+developments in the fields of organization and management.  
+
+**Management Information Systems**
+
+  * ### MIS 625 - Information Systems Analysis for Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Analysis and design of management information systems in the context of cost
+and behaviorally effective managerial decision making. Structured design
+methods, systems controls, and documentation. Readings in selected areas
+required.  
+PREREQ MBC 634  
+
+  * ### MIS 635 - The MIS Data Base
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Data base concepts and methods that enhance managerial decision making.
+Machine-user interface, data base model modularity, and integration. Criteria
+for file organization and data base management system selection.  
+PREREQ MIS 625 /ISM 741  
+
+  * ### MIS 645 - Implementing a Web-enabled Enterprise
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with MIS 445  
+Identify a business opportunity, develop an e-business strategy, and design
+the web store. Gain hands-on experience in setting up a fully functional web
+store.  
+
+  * ### MIS 646 - Issues in Management Information Systems
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Issues and success factors in planning, design, development, evaluation, and
+use of computer based systems. Technical, managerial, and human factors
+influencing effective development and use of management information systems in
+organizations.  
+PREREQ MBC 634  
+
+  * ### MIS 655 - Customer Relationship Management with Systems Applications and Products
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with MAR 655 , SCM 655  
+Integration of marketing, supply-chain and technology management aspects of
+customer relationship management. Operational, analytical and collaborative
+processes supported by SAP's integrated software. Actual use of SAP software,
+including Business Data Warehouse, with best-practice processes.  
+
+  * ### MIS 745 - Decision Support Technologies
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Conventional and innovative technologies for designing and implementing
+decision-making models. Advanced spreadsheet capabilities and add-on tools for
+genetic algorithms, neural networks, induced decision trees, and data mining.  
+
+  * ### MIS 930 - Doctoral Seminar in Management Information Systems
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Advanced topics and current research areas in management information systems.  
+Repeatable  
+
+**Management of Technology**
+
+  * ### MOT 711 - Innovation and Technology Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Every semester
+
+* * *
+
+Focuses on innovation and technology management in different organizational
+contexts, e.g. manufacturing, e-commerce, and services. Models of innovation
+are examined as well as the involvement of key stakeholders. Major factors
+influencing innovation are examined.  
+
+**Real Estate**
+
+  * ### RES 600 - Selected Topics
+
+_Martin J. Whitman School of Management_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### RES 631 - Real Estate Principles
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The understanding of real estate fundamentals, including roles, activities,
+terminology, transaction processes and how the tools and models in real estate
+are used to make informed decisions, with emphasis on developing valuation
+skills.  
+
+  * ### RES 642 - Real Estate Development
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with RES 342  
+Build understanding of the real estate development process. Deliver the
+prerequisite understanding of terms, concepts and competencies necessary for a
+basic understanding of and participation in real estate development.  
+
+  * ### RES 643 - Real Estate Capital Markets
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with RES 443  
+Real estate debt and equity instruments. Primary and secondary mortgage
+markets, mortgage banking, loan instruments, and securitization. Lender and
+borrower decisions regarding real estate financing. Additional work required
+of graduate students.  
+PREREQ FIN 751 OR FIN 756  
+
+  * ### RES 652 - Real Estate Asset Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with RES 452  
+The purpose of this course is to examine techniques to increase the value of
+real estate assets under management. Topics include asset-repositioning
+strategies, capital expenditure planning, designing tenant mix, cost control
+techniques, and management strategies. Additional work is required for
+graduate students.  
+PREREQ RES 631  
+
+  * ### RES 662 - Real Estate Finance and Investment
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Real estate investment, finance, and valuation. Different measures of
+investment performance, impact of the financing decision, and various real
+estate financing techniques.  
+
+  * ### RES 672 - Case Studies in Real Estate Investment and Finance
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with RES 472  
+The course examines different areas of the real estate market. Analysis of the
+real estate space market, the real estate capital markets, cash flow analysis
+and different financing techniques, with examples in different property types.
+Additional work required of graduate students.  
+
+  * ### RES 692 - Real Estate Modeling
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with RES 492  
+The course provides a comprehensive overview of real estate modeling using
+Excel and Argus. Students learn to model existing and development property
+cashflows, accommodate for different financial structures and account for
+various risks. Additional work is required for graduate students.  
+PREREQ RES 631  
+
+**Supply Chain Management**
+
+  * ### SCM 600 - Selected Topics
+
+_Management_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### SCM 651 - Business Analytics
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Every semester
+
+* * *
+
+Business analytics including advanced spreadsheets; relational database and
+SQL queries; statistical analysis in R including multi-linear regression,
+interactions, tests for regression assumptions, logit, probit; neural
+networks; and dashboards.  
+
+  * ### SCM 655 - Customer Relationship Management with Systems Applications and Products
+
+_Martin J. Whitman School of Management_  
+3 credit(s)
+
+* * *
+
+Crosslisted with MAR 655 , MIS 655  
+Integration of marketing, supply-chain and technology management aspects of
+customer relationship management. Operational, analytical and collaborative
+processes supported by SAP's integrated software. Actual use of SAP software,
+including Business Data Warehouse, with best-practice processes.  
+
+  * ### SCM 656 - Project Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Every semester
+
+* * *
+
+Elements of successful project management. The organization and planning
+necessary from requirements definition to project closure. Project management
+processes and techniques.  
+
+  * ### SCM 690 - Independent Study
+
+_Martin J. Whitman School of Management_  
+1-6 credit(s) Every semester
+
+* * *
+
+Exploration of a problem, or problems, in depth. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor(s) and the department.  
+Repeatable  
+
+  * ### SCM 701 - Supply Chain and Logistics Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Every semester
+
+* * *
+
+Quantitative and qualitative analysis of global supply chains, channels of
+distribution, and logistics networks. Extensive use of cases.  
+PREREQ MBC 635 , MBC 636 , AND MBC 638  
+
+  * ### SCM 703 - Principles of Management Science
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Concepts and development of analytical model building as used in global supply
+chain decision.  
+
+  * ### SCM 711 - Supply Chain Management Systems
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with SCM 411  
+Theory and application of supply chain systems. Manufacturing resource
+planning, distribution requirements planning, electronic data interchange,
+tracking technologies, vendor managed inventory, collaborative planning,
+forecasting, and replenishment, emerging issues. Additional work required for
+graduate students.  
+
+  * ### SCM 732 - Strategic Sourcing
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with SCM 432  
+Impact of strategic sourcing on the success of businesses. Ethical,
+contractual, and legal issues faced by purchasing professionals. Strategic
+nature of purchasing, negotiating tactics, international sourcing and cutting-
+edge technology used in 'word class' purchasing departments.  
+PREREQ MBC 635  
+
+  * ### SCM 740 - Green Supply Chain Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with SCM 440  
+This course provides an overview of sustainable supply chain management. It
+examines how companies are becoming more "green" in their work and across
+multiple parts of their supply chain work, including procurement, packaging,
+suppliers, and other inputs. Heavy case-based approach. Additional work
+required for graduate students.  
+PREREQ MBC 635  
+
+  * ### SCM 744 - Wine Analytics
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with SCM 444  
+This course focuses the analytical techniques used in the wine industry to aid
+in wine-makers decision-making about operational costs, production,
+distribution, inventory, sales, and futures pricing. Heavy case-based
+emphasis. Additional work required for graduate students.  
+
+  * ### SCM 751 - Supply Chain Finance
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with 451  
+This course focuses on the supply chain decisions and connects them to the
+financial performance and financing decisions of companies. It aims to provide
+an integrated management of supply chain and financial flows. Additional work
+required for graduate students includes four case study reports.  
+
+  * ### SCM 755 - Lean Six Sigma
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with SCM 455  
+Six sigma process-improvement approach focused on quality, reliability and
+value to customers. Skills include techniques from the define, measure,
+analyze, improve and control (DMAIC) approach. Lean concepts from supply chain
+management. Additional work required of graduate students.  
+
+  * ### SCM 777 - Global Supply Chain Management & Risk Mgmt
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with MAR 777  
+Double Numbered with SCM 477  
+Topics include: design of global facility networks, containerization and
+logistical planning across borders, benefits and risks of outsourcing and
+offshoring while integrating financial and accounting-related matters such as
+exchange rates, duties, drawbacks and tax differentials.  
+PREREQ MBC 616, MBC 638  
+
+  * ### SCM 960 - Doctoral Seminar in Supply Chain Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Repeatable  
+
+  * ### SCM 962 - Marketing and Supply Chain Models
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with MAR 962  
+Statistical/econometric and management science modeling approaches to
+marketing/supply chain management problem solving.  
+
+  * ### SCM 999 - Dissertation
+
+_Martin J. Whitman School of Management_  
+0-15 credit(s) At least 1x fall or spring
+
+* * *
+
+Page: 1 | **2**
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

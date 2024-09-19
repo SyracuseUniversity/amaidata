@@ -1,0 +1,470 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Graduate Course Catalog Syracuse University |   
+|  |  2023-2024 Graduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG]  
+
+#  Sport Management Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: David B. Falk College of Sport and Human Dynamics  
+  
+## Sport Management
+
+#### Courses
+
+**Sport Analytics**
+
+  * ### SAL 601 - Introduction to Sport Analytics and Visualization
+
+_Introduction to Sport Analytics and Visualization_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+This course covers a basic statistics review, visualization techniques in
+Tableau, a discussion of the Moneyball hypothesis, and an overview of the
+current state of player/team analytics in different sports.  
+
+  * ### SAL 602 - Introduction to R for Sport Analytics
+
+_Introduction to R for Sport Analytics_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+This course serves as an introduction to R and covers basic coding, data
+frames, data cleaning and editing, visualization techniques, and basic
+modeling of data in R. These techniques are taught using sports data.  
+PREREQ SAL 601  
+
+  * ### SAL 603 - Introduction to Databases and Python for Sport Analytics
+
+_Introduction to Databases and Python for Sport Analytics_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+This course serves as an introduction to Python. Sports data are used in
+conjunction with NumPy, Pandas, management, cleaning, wrangling, and
+aggregation. Key strategies of effective use of Python for sports data are
+discussed.  
+PREREQ SAL 602  
+
+  * ### SAL 604 - Linear Regression and Econometrics for Sport Analytics
+
+_Linear Regression and Econometrics for Sport Analytics_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+The course covers linear regression, modeling techniques, interpretation of
+regression results, diagnostic tests and corrections for econometric issues,
+logistic regression, and key sport economic insights.  
+PREREQ SAL 603  
+
+  * ### SAL 605 - R for Sport Analytics II
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Continued training in coding, webscraping, creating interactive graphics,
+using dashboards, and combining databases and SQL with R for Sport Analytics.
+Techniques used include nearest neighbors, classification, trees, and cluster
+analysis.  
+PREREQ SAL 604  
+
+  * ### SAL 606 - Applications of Machine Learning for Sport Analytics using Python
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Applications of machine learning for sport analytics using Python. Topics
+include supervised vs. unsupervised models, clustering, Bayesian networks,
+component analysis, and neural networks using sports data.  
+PREREQ SAL 605  
+
+  * ### SAL 607 - Econometrics for Sport Analytics II
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Continued application of econometrics in Sport Analytics, including additional
+tests for violations of assumptions of CLRM. Other topics include nonlinear
+regression, qualitative response models, panel data, and simultaneous equation
+models and methods.  
+PREREQ SAL 606  
+
+  * ### SAL 608 - Applications of Machine Learning for Sport Analytics Using R
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Applications of Machine Learning for Sport Analytics Using R. Elements of both
+supervised and unsupervised learning. Key topics include classifier models
+(KNN, Naïve Bayes), decision trees, clustering, cross validation, bagging, and
+neural networks.  
+PREREQ SAL 607  
+
+  * ### SAL 611 - Sport Law and Analytics
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Legal issues facing the sports industry related to contracts, antitrust,
+arbitration, etc., and the various dilemmas they create are explored. Students
+will research and use analytics, offer analysis, and discuss possible
+resolutions to specific dilemmas.  
+PREREQ SAL 603  
+
+  * ### SAL 612 - Baseball's Collective Bargaining Agreement Analytics Applications
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The sport of baseball and its Collective Bargaining Agreement (CBA), which
+describes the rules and regulations governing both the business behind and
+playing of the sport, are explored with analytics applications related to key
+concepts.  
+PREREQ SAL 611  
+
+  * ### SAL 613 - Football Analytics Applications
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The sport of football and its Collective Bargaining Agreement (CBA), which
+describes the rules and regulations governing both the business behind and
+playing of the sport, are explored with analytics applications related to key
+concepts.  
+PREREQ SAL 611  
+
+  * ### SAL 614 - Basketball and Analytics Applications
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The sport of basketball and its Collective Bargaining Agreement (CBA), which
+describes the rules and regulations governing both the business behind and
+playing of the sport, are explored with analytics applications related to key
+concepts.  
+PREREQ SAL 611  
+
+  * ### SAL 615 - Hockey and Analytics Applications
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The sport of hockey and its Collective Bargaining Agreement (CBA), which
+describes the rules and regulations governing both the business behind and
+playing of the sport, are explored with analytics applications related to key
+concepts.  
+PREREQ SAL 611  
+
+  * ### SAL 621 - Sport Gambling and Analytics
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+The theory and practice of the sports betting and daily fantasy marketplace
+are studied. Topics include market efficiency, risk assessment, line
+movements, portfolio analysis, and momentum trading. Analytical applications
+are presented and explored throughout.  
+PREREQ SAL 611  
+
+**Sport Management**
+
+  * ### SPM 600 - Selected Topics
+
+_Sport Management_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### SPM 614 - Foundations of Sport Venue and Event Management
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Application of sport management theory to venue and event management
+associated with hosting, managing and sponsoring events. Management process,
+including theory of management and practical applications within the sport
+venue and event planning industry.  
+
+  * ### SPM 634 - Sport Event and Hospitality Management
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Theoretical and practical principles and procedures for designing, planning,
+implementing, and evaluating a variety of sporting events.  
+PREREQ SPM 614  
+
+  * ### SPM 635 - Marketing of Sport Venues & Events
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Students will learn concepts and skills of sport marketing, sponsorship, and
+revenue generation as they pertain to a variety of sport venue and event
+settings.  
+
+  * ### SPM 637 - Sport Venue Management
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with SPM 437  
+Planning and managing different types of sport facilities. Understanding the
+complexity of conceptualizing, constructing, promoting, managing and
+maintaining modern sport stadiums, arenas, domes and multi-purpose facilities.
+Additional work required of graduate students.  
+
+  * ### SPM 645 - The Strategic Management of People in Sport
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A survey course of management theory, principles, and techniques in the sport
+industry, with a particular emphasis on managing the various types of workers
+(e.g., employees, contractors, volunteers), necessary to produce sport
+services and events.  
+
+  * ### SPM 649 - Technologies in Game Day Operations
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with SPM 449  
+Current applications of technology as it relates to sport venues and sport
+organizations will be examined. Topics include: sound systems, ticketing
+systems, video and score board operations, and lighting systems. Additional
+work required of graduate students.  
+
+  * ### SPM 650 - Sports Ticket Sales
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with SPM 350  
+Sports ticket sales process and best practices. Simulated ticket sales
+environments, application of sales practices and connecting with industry
+sales professionals. Additional work required of graduate students.  
+
+  * ### SPM 654 - Sport Venue Operations
+
+_Sport Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Producing and implementing various sport and entertainment events.
+Organizational set-up, planning and execution of events in multi-purpose sport
+facilities. Analyze logistics, budgeting and operational costs of transforming
+venue into different sporting and entertainment configurations.  
+PREREQ SPM 614  
+
+  * ### SPM 655 - Practicum in Sport Venue and Events Management
+
+_Sport Management_  
+3-9 credit(s) Every semester
+
+* * *
+
+The practicum provides students with hands-on industry experience in sports
+venue and event settings. Students will utilize knowledge and skills learned
+in other Sport Venue and Event Management coursework through industry
+application.  
+PREREQ SPM 614  
+Repeatable 2 time(s), 9 credits maximum  
+
+  * ### SPM 664 - Financial Management of Sport Facilities and Events
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Sport finance applied to managerial control of sport venues and events.
+Fundamental business concepts. Analysis of financial statements, budget
+forecasting and planning, securing optional funding sources and capital
+budgeting as related to multiple sport venues.  
+PREREQ SPM 614  
+
+  * ### SPM 665 - Advanced Sport Event Management
+
+_Sport Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Students will build upon prior coursework and knowledge through the planning
+of a local sport event. All facets of the event will be covered in detail and
+applied to the actual event.  
+
+  * ### SPM 670 - Experience Credit
+
+_Sport Management_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Participation in a discipline or subject related experience. Student must be
+evaluated by written or oral reports or an examination. Permission in advance
+with the consent of the department chairperson, instructor, and dean. Limited
+to those in good academic standing.  
+Repeatable  
+
+  * ### SPM 675 - Capstone/Practicum Pre-Planning
+
+_Sport Management_  
+0 credit(s) Every semester
+
+* * *
+
+Double Numbered with SPM 375  
+
+Pre-planning for matching and securing a Capstone/Practicum. Course
+facilitates access to the Tevera Internship system via Blackboard.  
+Repeatable 4 time(s)  
+
+  * ### SPM 690 - Independent Study
+
+_Sport Management_  
+1-6 credit(s)
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+based on a plan submitted by the student. Permission in advance with the
+consent of the department chairperson, instructor and dean. Limited to those
+in good academic standing.  
+Repeatable  
+
+  * ### SPM 700 - Selected Topics
+
+_Sport Management_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies College of Law Martin J. Whitman
+School of Management Maxwell School of Citizenship and Public Affairs S.I.
+Newhouse School of Public Communications College of Professional Studies
+College of Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+
