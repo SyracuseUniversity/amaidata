@@ -1,0 +1,394 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Undergraduate Course Catalog Syracuse University |   
+|  |  2023-2024 Undergraduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG]  
+
+#  School of Information Studies
+
+![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a
+new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+  * Academic Offerings
+  * Faculty
+  * Courses
+  * About the School
+  * Accreditation
+
+|
+
+  * Vision and Values
+  * Undergraduate Education
+  * Student Learning Outcomes
+  * Bachelor of Science Degree Requirements
+
+  
+---|---  
+  
+![](/mime/media/35/5806/Sears-400x300-1.jpg)Andrew Sears, Dean  
+ischool.syr.edu
+
+### About the School
+
+The Syracuse University School of Information Studies (iSchool) is a leader in
+the information field, advancing innovation in the digital age through our
+work at the intersection of business, technology, and society.
+
+The iSchool became the original information school in the U.S. when it
+embraced information technology and the rise of the internet. Today, we offer
+an innovative curriculum that is continually updated to meet future industry
+trends and incorporate rapidly changing technologies.
+
+Our faculty combine expertise in information systems, linguistics, computer
+science, library science, economics, education, business management, school
+media, digital literacy, management information systems, data science,
+enterprise and cloud computing, and communication. An active research
+community explores topics that reflect the faculty's diverse intellectual
+backgrounds and interests.
+
+### Accreditation
+
+Syracuse University is fully accredited by the Middle States Commission on
+Higher Education (MSCHE) and all programs are registered with the New York
+State Education Department. The MSCHE is a voluntary, non-governmental
+membership association that has been dedicated to quality assurance and
+improvement through accreditation via peer evaluation since 1919.
+
+### Vision and Values
+
+The School of Information Studies, established in 1896 and renamed from the
+Original Information School in 1974, has a long tradition of leading
+innovation and change. Our ideals and values are the foundation for our
+success. To learn more, visit our website.
+
+### Undergraduate Education
+
+Syracuse University's School of Information Studies (iSchool) undergraduates
+are innovative problem-solvers who are studying at the intersection of
+technology, business, and society. They explore topics like cloud computing,
+cybersecurity, machine learning and AI, social media and data analytics.
+
+Our flexible curriculum allows students to pursue a broad array of
+intellectual areas while providing a core knowledge of the technical,
+organizational, and communication skills necessary to succeed in our digital
+economy.
+
+We offer dual degree programs with Syracuse University's Martin J. Whitman
+School of Management and S.I. Newhouse School of Public Communications.
+Students from other schools and colleges at SU can enroll as a double major in
+the iSchool in one of the ischool's three minors.
+
+### Student Learning Outcomes
+
+In the course of earning their degree, students are expected to achieve the
+following learning outcomes:
+
+  * Identify and analyze the use of information, technologies, and data to solve problems in various contexts in the age of digital transformation
+  * Present ideas through oral and written communication using data and information technologies
+  * Identify and propose solutions to issues of diversity, equity, inclusion, and accessibility in the ethical use of data and information technologies
+  * Compare the use of information technologies and data in a global context in the age of digital transformation
+
+### iSchool Bachelor of Science Degree Requirements
+
+The B.S. degree in Applied Data Analytics, Information Management and
+Technology, or Innovation, Society, and Technology requires 120 credits,
+distributed as indicated below.
+
+#### I. iSchool Major (30-31 credits)
+
+Students are required to complete a primary core for each major as a
+requirement for graduation. See individual program pages for detailed core
+requirements.
+
+#### II. iSchool Electives (15 credits)
+
+Students must complete five additional courses to fulfill their elective
+requirement.
+
+Students are required to complete at least one of our course concentrations as
+a requirement with a minimum of three courses in that concentration for
+graduation in the B.S. degree in Information Management and Technology or
+Innovation, Society, and Technology.
+
+Students in the B.S. degree in Applied Data Analytics may complete one iSchool
+concentration or obtain a minor outside the iSchool that leverages the use of
+analytics (e.g., Sport Analytics, Business Analytics, Computer Science,
+Applied Statistics, Economics).  Students who choose to obtain a minor (or
+double major) outside the iSchool can count two analytical focused courses as
+part of their 15 credit iSchool electives.
+
+**Data Analytics Concentration**
+
+Required
+
+  * IST 359 - Introduction to Database Management Systems
+  * IST 387 - Introduction to Applied Data Science
+
+Concentration Electives
+
+  * IST 407 - Data Mining
+  * IST 414 - Data Driven Inquiry
+  * IST 418 - Big Data Analytics
+  * IST 421 - Information Visualization
+  * IST 462 - Scripting for Data Analysis
+
+**Digital Retail Strategies Concentration**
+
+Required
+
+  * IST 195 - Information Technologies
+  * RMT 301 - Retailing Fundamentals
+  * RMT 407 - Retail Buying and Planning
+  * RMT 457 - Electronic Retailing and Marketing
+
+Concentration Electives
+
+  * IST 263 - Introduction to Front-End Web Development
+  * IST 322 - Digital Strategy & Analytics for the Web
+  * IST 486 - Social Media in the Organization
+  * IST 523 - Graphic Design for the Web
+
+**Information Security Management Concentration**
+
+Required
+
+  * IST 323 - Introduction to Information Security
+
+Concentration Electives
+
+  * IST 336 - Leading Issues in Information Security
+  * IST 342 - Information Security Policy
+  * IST 402 - Digital Forensics
+  * IST 425 - Enterprise Risk Management
+  * IST 431 - Security in a Networked Environment
+  * IST 476 - Applied Information Security
+
+**Innovation, Design & Startups Concentration**
+
+Required:
+
+  * IDS 301 - What's the Big Idea?: Technology Innovation
+  * IDS 302 - Idea2Startup
+  * IDS 403 - iLaunchPad
+
+**Cloud Computing Concentration**
+
+Required
+
+  * IST 233 - Introduction to Networks and Cloud Computing
+
+Concentration Electives
+
+  * IST 346 - Information Technology Management and Administration
+  * IST 408 - Blockchain Management
+  * IST 431 - Security in a Networked Environment
+  * IST 452 - Advanced Computer Networking
+
+**Project Management Concentration**
+
+Required
+
+  * IST 345 - Managing Information Systems Projects
+
+Concentration Electives
+
+  * IST 352 - Information Analysis of Organizational Systems
+  * IST 425 - Enterprise Risk Management
+  * IST 442 - Agile Project Management Methodologies
+  * IST 455 - Enterprise IT Consultation
+  * IST 456 - Information Policies and Decision Making
+
+**Web Design & Management Concentration**
+
+Required
+
+  * IST 263 - Introduction to Front-End Web Development
+
+Concentration Electives
+
+  * IST 322 - Digital Strategy & Analytics for the Web
+  * IST 341 - Human-Centered Design
+  * IST 349 - Human Computer Interaction
+  * IST 363 - Advanced Front End Web Design
+  * IST 486 - Social Media in the Organization
+  * IST 523 - Graphic Design for the Web
+
+#### University-wide Requirements
+
+The iSchool participates in students' knowledge and skill development through
+the Shared Competencies, Syracuse University's institutional learning goals
+that highlight the knowledge and skills students can expect to gain through
+their major courses, liberal arts requirements and co-curricular activities.
+
+All incoming and transfer students are required to take a 1-credit FYS 101
+course, and a 3-credit IDEA course that can be selected from an approved list
+.
+
+IST courses appearing on the approved IDEA course requirement list may be
+taken to fulfill both requirements.
+
+#### III. Skills Electives (15-17 credits)
+
+**A. Programming Skills**
+
+Students are required to complete the computer programming course listed
+below:
+
+  * IST 256 - Application Programming for Information Systems
+  * Any programming course approved by petition
+
+**B. Communication Skills (9 credits)**
+
+Students are required to take 12 credits in communications skills, including
+IST 344 , as well as one course from each of the three categories below:
+
+  * WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing OR
+  * WRT 109 - Studio 1: Practices of Academic Writing (Honors)
+
+  * WRT 205 - WRT 205 - Studio 2: Critical Research and Writing OR
+  * WRT 209 - Studio 2: Critical Research and Writing (Honors)
+
+  * WRT 303 - Advanced Writing Studio: Research and Writing OR
+  * WRT 307 - Advanced Writing Studio: Professional Writing
+
+**C. Quantitative Skills (6-8 credits)**
+
+Students are required to attain minimum competence in mathematics by
+completing the quantitative skills requirement of the Liberal Art Core
+curriculum of the College of Arts and Sciences.
+
+All IMT and IST majors are required to attain minimum competence in
+mathematics. Students may satisfy this requirement by completing the
+quantitative skills requirement of the Liberal Arts Core curriculum  
+of the College of Arts and Sciences.  
+All ADA majors are required to attain minimum competence in mathematics.
+Students should take MAT 121 / 122 (Probability and Statistics for the Liberal
+Arts) or MAT 221 / 222 (Elementary Probability and  
+Statistics).
+
+#### IV. Arts & Sciences Divisional Requirements (12 courses; minimum 36
+credits)
+
+Students are required to take three courses in each of the three divisions of
+the Arts and Sciences-Natural Sciences and Mathematics, Social Sciences, and
+Humanities. In addition, three courses in any of the divisions must be
+completed to fulfill this requirement.
+
+#### V. General Electives (20-23 credits)
+
+Students can take any Syracuse University course open to them or concentrate
+on a minor, a dual degree, a combined degree, an internship experience, or
+study abroad.
+
+Courses appearing on the approved IDEA course requirement list may be taken to
+fulfill both requirements: General elective and IDEA.
+
+#### VI. International Experience
+
+Students will be required to complete one international experience to graduate
+with their iSchool undergraduate degree. Students can fulfill their
+international requirement in one of the following ways:
+
+  * Semester abroad
+  * University exchange
+  * Short term abroad program
+  * International Internship
+  * Coursework (6 credits from approved list)
+  * Approved international component - by petition
+
+#### Programs
+
+**Major**
+
+  * • Applied Data Analytics, BS
+  * • Information Management and Technology, BS
+  * • Innovation, Society and Technology, BS
+
+**Minor**
+
+  * • Applied Data Analytics Minor
+  * • Information Management and Technology Minor
+  * • IT Innovation, Design, and Startups Minor
+
+  
+
+* * *
+
+![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Undergraduate University Requirements Syracuse University's Shared
+Competencies
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies Martin J. Whitman School of
+Management Maxwell School of Citizenship and Public Affairs S.I. Newhouse
+School of Public Communications College of Professional Studies College of
+Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

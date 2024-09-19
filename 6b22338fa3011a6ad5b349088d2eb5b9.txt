@@ -1,0 +1,213 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+Syracuse University |   
+|  |  2023-2024 Undergraduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science Courses
+
+Print-Friendly Page (opens a new window) Facebook this Page (opens a new
+window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Engineering and Computer Science  
+  
+## College of Engineering and Computer Science
+
+#### Courses
+
+**Civil and Environmental Engineering**
+
+  * • CEE 552 - Building Environmental Measurements and Controls
+  * • CEE 553 - HVAC Systems Analysis and Design
+  * • CEE 554 - Principles of Environmental Toxicology
+  * • CEE 555 - Hazardous Waste Mgmt
+  * • CEE 558 - Solid Wastes: Collection and Disposal
+  * • CEE 562 - Air Resources I
+  * • CEE 570 - Water&Wastewtr Trtmnt Des
+  * • CEE 571 - Water Quality Modeling
+  * • CEE 577 - Urban Stormwater Management
+  * • CEE 584 - Designg W/Geosynthetics
+  * • CEE 588 - Principles of Wind Turbines
+
+**Chemical Engineering**
+
+  * • CEN 212 - Experimental Methods in Chemical Engineering and Bioengineering
+  * • CEN 231 - Mass and Energy Balances
+  * • CEN 252 - Chemical Engineering Thermodynamics I
+  * • CEN 311 - Chemical Engineering Laboratory I
+  * • CEN 333 - Fluid Transport
+  * • CEN 341 - Fundamentals of Heat and Mass Transfer
+  * • CEN 353 - Chemical Engineering Thermodynamics II
+  * • CEN 390 - Research In CEN
+  * • CEN 400 - Selected Topics
+  * • CEN 412 - Chemical Engineering Laboratory II
+  * • CEN 421 - Biochemical Engineering
+  * • CEN 429 - Methods in Materials Characterization
+  * • CEN 433 - Drug Delivery
+  * • CEN 442 - Heat and Mass Transfer Operations
+  * • CEN 450 - Environmental Risk Assessment & Toxicology
+  * • CEN 451 - Molecular and Statistical Thermodynamics
+  * • CEN 455 - Materials for Energy Systems
+  * • CEN 461 - Environmental Chemistry and Analysis
+  * • CEN 462 - Biofuels, Bioproducts, and Biorefining
+  * • CEN 472 - Applied Env Microbiology
+  * • CEN 473 - Biomanufacturing
+  * • CEN 474 - Process Design
+  * • CEN 490 - Independent Study
+  * • CEN 499 - Honors Capstone Project
+  * • CEN 500 - Selected Topics
+  * • CEN 520 - Radiochemistry, Nuclear Fuel Reprocessing and Nonproliferation
+  * • CEN 540 - Experiential Studies in Nuclear Technology
+  * • CEN 561 - Polymer Science & Engineering
+  * • CEN 562 - Air Resources I
+  * • CEN 565 - Bioremediation
+  * • CEN 567 - Biotechnology
+  * • CEN 573 - Principles and Design in Air Pollution Control
+  * • CEN 575 - Process Control
+  * • CEN 576 - Green Engineering
+  * • CEN 587 - Chemical Reaction Engineering
+  * • CEN 590 - Recent Advances In CEN
+
+**Computer and Information Science**
+
+  * • CIS 151 - Fundamentals of Computing and Programming
+  * • CIS 223 - Statistical Reasoning and Practice
+  * • CIS 252 - Elements of Computer Science
+  * • CIS 321 - Introduction to Probability and Statistics
+  * • CIS 341 - Computer Organization & Programming Systems
+  * • CIS 342 - Introduction to Systems Programming
+  * • CIS 351 - Data Structures
+  * • CIS 352 - Programming Language: Theory & Practice
+  * • CIS 375 - Introduction to Discrete Mathematics
+  * • CIS 380 - International Course
+  * • CIS 386 - Principles of Computer System Design
+  * • CIS 390 - Honors Seminar in Computer & Information Science
+  * • CIS 400 - Selected Topics
+  * • CIS 425 - Introduction to Computer Graphics
+  * • CIS 428 - Introduction to Cryptography
+  * • CIS 440 - Topics in Mobile Programming
+  * • CIS 444 - Mobile Application Programming
+  * • CIS 451 - Modern Programming in Java
+  * • CIS 453 - Software Specification and Design
+  * • CIS 454 - Software Implementation
+  * • CIS 458 - Data Networks: Basic Principles
+  * • CIS 467 - Introduction to Artificial Intelligence
+  * • CIS 468 - Natural Language Processing
+  * • CIS 470 - Experience Credit
+  * • CIS 471 - Optimization Methods
+  * • CIS 473 - Automata and Computability
+  * • CIS 477 - Introduction to Analysis of Algorithms
+  * • CIS 478 - Introduction to Quantum Computing
+  * • CIS 487 - Access Control, Security and Trust
+  * • CIS 489 - Mobile Systems Security
+  * • CIS 490 - Independent Study
+  * • CIS 499 - Honors Capstone Project
+  * • CIS 500 - Selected Topics
+  * • CIS 531 - Compiler Construction
+  * • CIS 543 - Control of Robots
+  * • CIS 545 - Introduction to Combinatorics
+  * • CIS 554 - Object Oriented Programming in C++
+  * • CIS 563 - Introduction to Data Science
+  * • CIS 565 - Introduction to Artificial Neural Networks
+
+**Computational Science**
+
+  * • CPS 100 - Selected Topics
+  * • CPS 155 - Introduction to Cyber Security
+  * • CPS 181 - Introduction to Computing
+  * • CPS 185 - Introduction to Animation and Game Development
+  * • CPS 196 - Introduction to Computer Programming
+  * • CPS 234 - Introduction to Computational Thinking
+  * • CPS 290 - Independent Study
+  * • CPS 300 - Selected Topics
+  * • CPS 333 - UNIX Operating System and Internet
+  * • CPS 335 - JAVA programming for the Internet
+  * • CPS 430 - Topics in Computational Science
+  * • CPS 490 - Independent Study
+  * • CPS 501 - Selected Topics
+  * • CPS 504 - Introduction to C++
+
+Page: 1 | **2** | 3 | 4
+
+  
+
+* * *
+
+Back to Top | Print-Friendly Page (opens a new window)
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Undergraduate University Requirements Syracuse University's Shared
+Competencies
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies Martin J. Whitman School of
+Management Maxwell School of Citizenship and Public Affairs S.I. Newhouse
+School of Public Communications College of Professional Studies College of
+Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

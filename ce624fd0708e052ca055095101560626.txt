@@ -1,0 +1,595 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Undergraduate Course Catalog Syracuse University |   
+|  |  2023-2024 Undergraduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science
+
+![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a
+new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+  * Academic Offerings
+  * Faculty
+  * Courses
+  * About the College
+  * Educational Mission and Vision
+  * Accreditation
+  * Undergraduate Program Overview
+  * Arts and Sciences/Engineering & Computer Science (Combined Degrees)
+
+|
+
+  * Intra-University Transfer
+  * Advising in ECS
+  * Career Services
+  * Office of Inclusive Excellence
+  * Undergraduate Minors
+  * Study Abroad
+  * Facilities 
+
+  
+---|---  
+  
+![Portrait photograph of Dean J Cole
+Smith](/mime/media/30/4082/Dean%20J%20Cole%20Smith.JPG)J. Cole Smith, Dean  
+223 Link Hall  
+eng-cs.syr.edu
+
+### About the College
+
+Founded in 1901, Syracuse University's College of Engineering and Computer
+Science (ECS) enjoys a long-standing reputation for excellence and innovation.
+The college community is composed of outstanding students, faculty, and staff
+who are dedicated to personal excellence and success.
+
+Today, the demand for individuals with degrees in engineering and computer
+science is greater than ever: Not only in traditional engineering settings,
+but also in areas such as law, medicine, public policy, finance, management,
+and communications.
+
+Today's engineers and computer scientists must possess a broader set of
+perspectives, experiences, and skills to contribute successfully in a dynamic,
+rapidly changing world. ECS offers courses and programs that are designed to
+prepare leaders for a high-technology, diverse, and knowledge-based global
+community. Through courses and experiential learning, ECS offers students a
+breadth of opportunities and experiences that is unmatched by programs at most
+other universities.
+
+The college offers ten undergraduate programs: bachelor of science programs in
+aerospace engineering, bioengineering, chemical engineering, civil
+engineering, computer engineering, electrical engineering, environmental
+engineering, and mechanical engineering are accredited by the Engineering
+Accreditation Commission of ABET, and bachelor science program in computer
+science is accredited by the Computing Accreditation Commission of ABET,
+http://www.abet.org.
+
+New engineering and computer science students enroll in ECS 101 - Introduction
+to Engineering and Computer Science . ECS 101 provides a broad introduction to
+each of our degree programs, allowing students an opportunity to explore areas
+outside their initial majors. ECS 101 is also open to students of other SU
+colleges who are interested in exploring the areas of engineering or computer
+science. In fact, this course serves as a unique launchpad to integrating six
+institutional learning goals that enhance undergraduate education broadly at
+Syracuse. These six goals are SU's "Shared Competencies," and include ethics,
+integrity, and commitment to diversity and inclusion; creative thinking;
+research skills; civic and global responsibility; communication skills; and
+technological agility.
+
+ECS students may choose from a variety of study options, including technical
+and non-technical minors, combined B.S./M.S. degree programs, and a combined
+undergraduate degree program between ECS and the College of Arts and Sciences.
+The college also offers its students opportunities for study abroad,
+internships, co-ops, and undergraduate research.
+
+### Accreditation
+
+Bachelor of science programs in aerospace engineering, bioengineering,
+chemical engineering, civil engineering, computer engineering, electrical
+engineering, environmental engineering, and mechanical engineering accredited
+by the Engineering Accreditation Commission of ABET (www.abet.org), and the
+bachelor of science program in computer science accredited by the Computing
+Accreditation Commission of ABET.
+
+#### Student Outcomes
+
+Graduates of the engineering programs will have the ability to:
+
+  1. Identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+  2. Apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+  3. Communicate effectively with a range of audiences.
+  4. Recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+  5. Function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+  6. Develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+  7. Acquire and apply new knowledge as needed, using appropriate learning strategies.
+
+Graduates of the computer science program will have an ability to:
+
+  1. Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions.
+  2. Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program's discipline.
+  3. Communicate effectively in a variety of professional contexts.
+  4. Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+  5. Function effectively as a member or leader of a team engaged in activities appropriate to the program's discipline.
+  6. Apply computer science theory and software development fundamentals to produce computing-based solutions
+
+### Educational Mission and Vision
+
+#### The College Mission
+
+The mission of the college is to promote learning in engineering and computer
+science through integrated activities in teaching, research, scholarship,
+creative accomplishments, and service.
+
+#### The College Vision
+
+The vision of the college is to earn recognition among universities for
+engineering and computer science programs that prepare leaders for a high-
+technology, knowledge-based, global community. The vision for E&CS is a
+distinct student-centered research university model for engineering and
+computer science education. Features of this model include the following:
+
+  * the commitment that all programs relate directly to students and their learning experiences;
+  * the commitment that research is an integral element of the learning environment;
+  * the flexibility for students to pursue the diversity of learning opportunities available in a broad university setting; and
+  * the commitment to world-class quality in courses and programs.
+
+### Undergraduate Program Overview
+
+The college offers ten undergraduate programs: The bachelor of science
+programs in aerospace engineering, bioengineering, chemical engineering, civil
+engineering, computer engineering, electrical engineering, environmental
+engineering, and mechanical engineering are accredited by the Engineering
+Accreditation Commission of ABET, and bachelor science program in computer
+science is accredited by the Computing Accreditation Commission of ABET,
+www.abet.org. In addition we offer the Systems and Information Science, BS.
+
+#### College of Engineering and Computer Science Bachelor of Science Degree
+Requirements
+
+The B.S. degree, in any of the 10 areas available, requires at least 120
+credits, distributed as indicated below. In addition, all students must
+complete two university-wide required courses.
+
+#### University-wide Requirements
+
+All incoming and transfer students are required to take a 1-credit FYS 101
+course and a 3-credit IDEA course that can be selected from an approved list .
+
+All students must include at least one IDEA-designated course into their
+program of study.
+
+#### General Regulations
+
+For academic rules and regulations that apply to all University students, see
+the Academic Rules section of this catalog, which also contains special
+regulations that apply only to students matriculated in the College of
+Engineering and Computer Science.
+
+Engineering and computer science students enrolling at Syracuse University
+must maintain at least a 2.0 grade point average in all engineering,
+mathematics, and science courses taken at SU. Furthermore, all students must
+satisfactorily complete at least 24 credits, including summer courses taken
+here or transferred to Syracuse University from another institution, within
+any 12-month period to maintain satisfactory progress, with a 2.0 semester and
+overall average; students cannot graduate with courses having missing grades
+or incompletes.
+
+For graduation, students must have a minimum cumulative GPA of 2.00 and at
+least a 2.00 GPA in all ECS, mathematics, and science courses taken at
+Syracuse University. In addition, students must meet all degree requirements
+specific to their chosen major.
+
+### Arts and Sciences/Engineering & Computer Science (Combined Degrees)
+
+Arts and Sciences contact the Advising and Academic Support Office, 329 Hall
+of Languages, 315-443-3150.
+
+Engineering and Computer Science contact Maria Marceau, Director of Student
+Records, 130 Link Hall, 315-443-5191.  
+Engineering Faculty, See individual departments listed in the "College of
+Engineering and Computer Science."
+
+The College of Arts and Sciences , in cooperation with the College of
+Engineering and Computer Science, offers a five-year combined curriculum.
+Students complete the requirements for and receive two degrees-one degree in a
+major of their choice in engineering or computer science and one degree in a
+major in the College of Arts and Sciences. Students who enter this program are
+urged to talk with advisors in both departments in which they plan to major as
+soon as possible. It is important that they learn the curricular requirements
+of each department in order to understand how best to merge the two sets of
+requirements.
+
+Students register with the College of Arts and Sciences as the home college
+for the first three years. They receive a basic education in mathematics and
+science along with a liberal education in the social sciences and humanities.
+While most of the coursework taken during that time is in the liberal arts,
+approximately one quarter of the program consists of first- and second-year
+courses in the engineering field chosen by the students.
+
+After completing the third year, students transfer the home college
+designation to the College of Engineering and Computer Science while
+maintaining a connection with the College of Arts and Sciences. The fourth and
+fifth years of the program focus on engineering subjects. The B.A. or B.S.
+degree in the Arts and Sciences major may be awarded upon completion of the
+fourth year, but increased scheduling options are possible by completing both
+degrees at the end of the fifth year.
+
+While some flexibility is possible in the program, it is a formalized
+curriculum. Students usually major in mathematics, biology, physics, or
+chemistry in the College of Arts and Sciences, although other majors are
+allowed upon approval by both colleges. The completion of the combined degree
+program requires a minimum of 150 total credits earned.
+
+Admission requirements are the same as those for students entering the College
+of Engineering and Computer Science. Students who are already enrolled in the
+College of Engineering and Computer Science or the College of Arts and
+Sciences may transfer into the combined program provided requirements can be
+met. Such transfers must be approved by both colleges.
+
+### Intra-University Transfer
+
+Students who wish to transfer into any program within the College of
+Engineering and Computer Science from another school or college within the
+University should have a strong record of achievement and demonstrated success
+in key technical courses and a cumulative GPA of 3.00. Specifically, it is
+critical for the applicant to have proven their ability to excel in college-
+level calculus (by completing at least one of MAT 295 , MAT 296 , or MAT 397
+with a grade of B- or better) and science (by completing at least one set of
+PHY 211 /PHY 221 or CHE 106 /CHE 107 with a grade of B- or better). Students
+who wish to major in computer science must also complete CIS 252 with a grade
+of at least a B.
+
+### Advising in ECS
+
+We want to see every student succeed in the College of Engineering and
+Computer Science. Starting in the first semester each undergraduate student is
+assigned a support network consisting of a Faculty Advisor, Success Advisor,
+and Career Advisor to guide them on academic, professional, and social matters
+from their transition to college through degree completion.
+
+Through engagement with the College of Engineering and Computer Science and
+the Student Success Center, upon graduation, an ECS undergraduate student:
+
+  * Will have established a personal, academic, and professional support network
+  * Will have developed a peer network through involvement in college activities, mentoring opportunities, and leadership experiences
+  * Will be able to develop and model an accurate sense of self; cultivate a profound understanding of personal motivation; and practice personal, academic, & professional responsibility
+  * Will proactively make every effort to increase their skill sets and remain abreast of the latest technology so as to maintain a competitive advantage
+  * Will be encouraged to take the initiative to develop the skills necessary to position themselves as a competitive candidate in academic and professional markets
+  * Will have utilized the available internal and external resources and engage with a variety of career-related services so that they can successfully obtain co-op/internship/research opportunities and ultimately achieve successful post-graduation goals
+  * Will be able to articulate the connection between their degree program and their professional aspirations
+
+#### Faculty Advising
+
+All students are assigned to a faculty member in their chosen Department who
+they will meet with each semester to discuss their curriculum, progress toward
+degree, course selection and registration for the following semester, and
+professional mentoring in their field.
+
+#### Student Success Advising
+
+Success Advisors focus on the students' overall experience and success.
+Through individual meetings, small group workshops, and large-scale events,
+Success Advisors assist student in goal setting, time management, campus
+involvement, stress management, wellness, and other strategies to overcome
+challenges.
+
+Success Advisors work collaboratively with a students' Faculty and Career
+Advisors, as well as various campus partners, to provide holistic support in
+reaching their goals.
+
+First and second year students, as well as students on academic probation meet
+regularly with their Success Advisor to build a strong foundation for their
+experience in ECS. Success Advisors monitor all students' progress through
+Orange Success and provide timely and effective outreach in addressing
+challenges that arise.
+
+### Career Services
+
+Recognizing that career development is an ongoing process, students are
+encouraged to engage with Career Services early and often so that we can
+empower them to get the most of their college experience. Undergraduates in
+ECS will be expected to meet with their assigned Career Advisor by the end of
+their 2nd year to discuss post-graduation goals and to strategize how to
+achieve them during their undergraduate career.
+
+Highlights of our services include, but are not limited to:
+
+_**Career Preparation:**_ Resume preparation, Interview skills, Job search
+strategies, Cover letter writing, Negotiating the offer, Mock interviewing,
+Career fair preparation sessions.
+
+_**Campus Fairs:**_ College Career Fairs each semester, campus-wide career
+fairs, Employer networking and information events.
+
+_**Co-Op: **_The Engineering and Computer Science Cooperative Education
+program (Co-op) empowers undergraduate students to take advantage of
+experiential learning opportunities that have proven to aid them in
+successfully reaching their post-graduate goals. The Co-op program consists of
+full-time professional work primarily during the summer. This design allows
+students the opportunity to gain more than six months of paid work experience
+in their field of study and still graduate in four years. Working during the
+academic year is an option that students may choose, with the understanding
+that their ability to graduate in four years may be affected. To be eligible,
+students must be enrolled full time in the College of Engineering and Computer
+Science.
+
+### Office of Inclusive Excellence
+
+The Office of Inclusive Excellence is committed to breaking barriers and
+building bridges in our community. We augment and integrate diversity, equity,
+and inclusion within the college through education, research, dialogue,
+policy, and assessment. The Office leads high-impact student retention
+programs, and hosts training and education for faculty, staff, and students.
+
+Inclusive Excellence Programs are designed to foster a sense of community,
+collaboration, support and individual growth. Highlights of some support
+opportunities available through the Office of inclusive excellence include:
+
+  * Academic Excellence Workshops (**AEW**) are peer-facilitated, one-credit, pass/fail courses designed to support academic excellence by supplementing instruction in many first and second year courses. Students are able to register for these classes during the course add period via MySlice.
+  * In addition to AEW, the College is committed to offering a number of different resources to ensure academic success. **Tutoring** support, including Sponsorship Vouchers for fee based tutoring in eligible courses, is available each semester.
+  * We use our **Leadership Dialogue Circle** program to develop inclusive excellence leadership skills-crucial for enhancing campus climate and skills cited by employers as essential for leadership in today's global, diverse, and multicultural workforce. The dialogue circles bring people together in small groups to foster mutual understanding and trust, uncovering new ways to work together and solve problems. Each circle is led by diverse, trained facilitators to address and encourage understanding across identity differences. Dialogue Circles are available to faculty, staff, and students.
+  * The ECS **Inclusive Excellence Council** is led by the Assistant Dean and comprised of faculty, staff and students. Driven by work in various sub-committees, the council is an action-based group focused on representation, expanding opportunities for underrepresented minorities and females and supporting the ECS Leadership Dialogue Circle program.
+  * Support and development of ECS **Student Organizations** , **Pre-College Initiatives** , and various **targeted events** , are additional opportunities to engage and integrate diversity, equity, and inclusion.
+
+Students interested in further information on services provided by the ECS
+Office of Inclusive Excellence can stop-by 121 Link Hall, call 315-443-4422,
+or email ecsieoffice@syr.edu.
+
+### Undergraduate Minors
+
+#### Engineering Students
+
+Engineering students can pursue any minor within the University. Students are
+required to complete from 127 to 139 credits, depending on their program of
+study. Minors can be earned by taking optional or additional coursework.
+Minors commonly pursued include mathematics, economics, and management.
+
+#### Computer Science Students
+
+Computer science students can easily pursue any minor within the University.
+Of the 120 credits required for graduation, 8 credits are free electives.
+
+#### Bioengineering Students
+
+Bioengineering students can earn a mathematics minor within the prescribed
+curriculum. Other minors (e.g., biology) can be earned by taking additional
+courses. Students enrolling with AP credit or who take summer school courses
+can easily select from a variety of minors.
+
+#### Chemical Engineering Students
+
+Chemical engineering students can earn the engineering and computer science
+management minor, select technical minors (e.g., physics, chemistry or
+mathematics) or one of numerous social science or humanities minors within the
+prescribed curriculum. Students interested in pursuing other minors should
+meet with the chemical engineering program director early in their program.
+
+#### Civil Engineering Students
+
+Civil students can pursue the infrastructure, cities and the future minor
+within their program of study. Additional minors thought to be especially
+complementary to the major are: architecture, earth sciences, economics,
+environment and society, geography, math, engineering management, energy
+systems, management, project management, construction management,
+sustainability construction.
+
+#### Computer Engineering Students
+
+Students can pursue any minor in the University, with the exception of
+computer science due to overlap. Some technical electives may be used to
+pursue a minor in Electrical Engineering, while non-technical electives may be
+used to pursue a minor outside the College of Engineering and Computer
+Science.
+
+#### Electrical Engineering Students
+
+Students can pursue a any minor in the University. Some technical electives
+may be used to pursue a minor in Computer Engineering or Computer Science.
+Non-technical electives my be used to pursue a minor outside the College of
+Engineering and Computer Science and a mathematics minor can be obtained by
+taking only one additional math course.
+
+#### Environmental Engineering Students
+
+Environmental students can pursue the infrastructure, cities and the future
+minor, or the civil engineering minor within their program of study.
+Additional minors thought to be especially complementary to the major are:
+architecture, earth sciences, economics, environment and society, geography,
+math, engineering management, energy systems, management, project management,
+construction management, sustainability construction
+
+#### All Other Students
+
+Students enrolled in colleges other than Engineering and Computer Science can
+earn a minor in computer science. Students with sufficient background in math
+and science can pursue a minor in computer engineering or electrical
+engineering.
+
+### Study Abroad
+
+In a time of rapidly growing global complexity and opportunity, international
+study is an increasingly important and relevant component of undergraduate
+study, especially for students preparing for careers in engineering or
+computer science. Of all the major professions, engineering and computer
+science are the most likely to involve international activity. In addition to
+strong technical skills, employers are increasingly looking for international
+experience, cross-cultural skills by developing a "global mindset" and
+perspectives, and an understanding of the world's diversity.
+
+For over 20 years, E&CS in a partnership with Syracuse Abroad, has been a
+national leader in providing distinctive international study opportunities.
+These opportunities include:
+
+  * Study at SU Centers during Fall or Spring Semesters at: Florence, London, Madrid, Santiago and Strasbourg.
+  * Study at World Partner Programs at affiliated universities across the globe.
+  * Summer Research program in Strasbourg, France
+
+The College of Engineering and Computer Science's international study programs
+give students the opportunity to gain global experience, develop new ways of
+viewing the world, form lasting friendships abroad, and deepen their
+connection to other countries, languages and cultures. Students with these
+experiences gain a competitive edge in today's multinational, multicultural
+environment.
+
+To participate, students must be in good academic standing with a cumulatively
+GPA of 3.0 and in one of Syracuse University's engineering, computer science
+and systems & information science programs or in an equivalent program
+elsewhere. Participants must also meet any language requirements of the host
+country.
+
+For further information, contact the College of Engineering and Computer
+Science Study Abroad Office in 130 Link Hall or Syracuse University Study
+Abroad, 106 Walnut Place (suabroad.syr.edu).
+
+### Facilities and Research
+
+#### Undergraduate
+
+##### Facilities
+
+The College of Engineering and Computer Science has facilities in three
+buildings on the SU Main Campus: Link Hall, Bowne Hall and the Center for
+Science and Technology.
+
+More than 200 computers are available around the clock for the exclusive use
+of students in engineering and computer science. These computers are housed in
+Windows, Mac and UNIX computer labs networked by up-to-date servers offering a
+range of software appropriate to the disciplines offered by the college.
+
+Students in the college can readily access campus-wide resources operated by
+the University's central Information Technology Services (ITS) organization.
+Wireless network access is available in all campus buildings and across the
+Quad. Detailed information about IT resources campus-wide is available at
+its.syr.edu.
+
+#### Programs
+
+**Major**
+
+  * • Aerospace Engineering, BS
+  * • Biomedical Engineering, BS
+  * • Chemical Engineering, BS
+  * • Civil Engineering, BS
+  * • Computer Engineering, BS
+  * • Computer Science, BS
+  * • Electrical Engineering, BS
+  * • Environmental Engineering, BS
+  * • Mechanical Engineering, BS
+
+**Minor**
+
+  * • Civil Engineering Minor
+  * • Computer Engineering Minor
+  * • Computer Science Minor
+  * • Electrical Engineering Minor
+  * • Energy Systems Minor
+  * • Engineering and Computer Science Management Minor
+  * • Infrastructure, Cities, and the Future Minor
+
+**Combined Degree**
+
+  * • Aerospace Engineering, BS/Engineering Management, MS
+  * • Aerospace Engineering, BS/Mechanical and Aerospace Engineering, MS
+  * • Aerospace Engineering/Business Administration (3-2 Program), BS/MBA
+  * • Biomedical Engineering, BS/Engineering Management, MS
+  * • Biomedical Engineering, BS/MS
+  * • Biomedical Engineering/Business Administration, BS/MBA
+  * • Chemical Engineering, BS/Engineering Management, MS
+  * • Chemical Engineering, BS/MS
+  * • Chemical Engineering/Business Administration (3-2 Program), BS/MBA
+  * • Civil Engineering, BS/MS
+  * • Civil Engineering/Business Administration (3-2 Program), BS/MBA
+  * • Computer Engineering, BS/MS
+  * • Computer Engineering/Business Administration (3-2 Program), BS/MBA
+  * • Computer Science, BS/MS
+  * • Computer Science/Business Administration (3+2 Program), BS/MBA
+  * • Electrical Engineering, BS/MS
+  * • Electrical Engineering/Business Administration (3-2 Program), BS/MBA
+  * • Environmental Engineering, BS/Environmental Engineering, MS
+  * • Environmental Engineering/Business Administration (3-2 Program), BS/MBA
+  * • Mechanical Engineering, BS/Engineering Management, MS
+  * • Mechanical Engineering, BS/Mechanical and Aerospace Engineering, MS
+  * • Mechanical Engineering/Business Administration (3-2 Program), BS/MBA
+
+  
+
+* * *
+
+![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Undergraduate University Requirements Syracuse University's Shared
+Competencies
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies Martin J. Whitman School of
+Management Maxwell School of Citizenship and Public Affairs S.I. Newhouse
+School of Public Communications College of Professional Studies College of
+Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

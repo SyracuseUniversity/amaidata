@@ -1,0 +1,1353 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Undergraduate Course Catalog Syracuse University |   
+|  |  2023-2024 Undergraduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Engineering and Computer Science  
+  
+## College of Engineering and Computer Science
+
+#### Courses
+
+**Civil and Environmental Engineering**
+
+  * ### CEE 552 - Building Environmental Measurements and Controls
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with MAE 552  
+Fundamentals of building ventilating methods for measuring and controlling
+indoor environmental conditioning, thermal comfort, and indoor air quality.  
+PREREQ MAE 341 AND MAE 355  
+
+  * ### CEE 553 - HVAC Systems Analysis and Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with MAE 553  
+Fundamentals of moist air properties, basic air conditioning processes, heat
+transfer in building structures, heating and cooling load calculations, and
+air distribution systems.  
+PREREQ MAE 251  
+
+  * ### CEE 554 - Principles of Environmental Toxicology
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Factors that make chemicals environmental hazards and techniques used in their
+evaluation. Topics include chemical, physiological, and molecular aspects of
+toxicology; transport and fate of chemicals in the environment; and current
+legislation.  
+PREREQ (BIO 121 AND BIO 122 AND BIO 123) OR (CHE 106 AND CHE 107 AND CHE 275)
+OR (CHE 109 AND CHE 129)  
+
+  * ### CEE 555 - Hazardous Waste Mgmt
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Regulations that address management of hazardous wastes. Practices and
+technologies commonly used in meeting regulations. Investigative and
+diagnostic techniques.  
+
+  * ### CEE 558 - Solid Wastes: Collection and Disposal
+
+_College of Engineering and Computer Science_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Composition of refuse. Quantities produced by individuals and industries.
+Collection equipment, methods, and associated costs. Disposal problems and
+solutions, such as landfills, incineration, and composting.  
+
+  * ### CEE 562 - Air Resources I
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEN 562  
+Occurrence, nature and properties, major sources and quantities of
+contaminants. Ambient air concentration levels, community distribution
+patterns, and control of air pollution.  
+
+  * ### CEE 570 - Water&Wastewtr; Trtmnt Des
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Design of water and wastewater treatment plants; design capacity, process size
+and configuration, and overall treatment system performance for specific use
+needs and regulatory requirements. Groups prepare designs and cost estimates
+with written and oral reports.  
+PREREQ CEE 327 AND CEE 342  
+Repeatable  
+
+  * ### CEE 571 - Water Quality Modeling
+
+_College of Engineering and Computer Science_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Conceptual and mathematical models of water quality in surface waters.
+Application of mass and energy balances to aquatic systems. Numerical methods
+for solution of governing equations. Students will build simple models and use
+existing water quality modeling software.  
+PREREQ MAT 296 AND CEE 341  
+
+  * ### CEE 577 - Urban Stormwater Management
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Theory and practice of urban stormwater management systems. Selecting and
+sizing stormwater quality and quantity control devices and systems.
+Sustainability aspects of urban stormwater design and regulatory compliance
+requirements. ENVISION rating system. Final design project.  
+
+  * ### CEE 584 - Designg W/Geosynthetics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Engineering properties of geosynthetics (geotextiles, geogrids, geonets,
+geomembranes, and geocomposites). Design of filters using geotextiles,
+retaining structures using geosynthetics, design of liquid impoundment, and
+solid waste containment facilities.  
+PREREQ CEE 337  
+
+  * ### CEE 588 - Principles of Wind Turbines
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with ECS 588, MAE 588  
+Aerodynamics, performance, control, and electrical aspects wind turbines.  
+PREREQ MAE 341  
+
+**Chemical Engineering**
+
+  * ### CEN 212 - Experimental Methods in Chemical Engineering and Bioengineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 212  
+Statistical analysis and presentation of experimental data. Parameter
+estimation. Design of experiments. Hardware and software for computer
+interfacing. Collection, analysis, and reporting of laboratory data.  
+PREREQ MAT 296 AND ECS 104  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### CEN 231 - Mass and Energy Balances
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Material balances for single units and multistage processes. Recycle and
+bypass streams. Introduction to phase equilibrium. Energy balances including
+latent and sensible heat effects, heats of reaction.  
+
+  * ### CEN 252 - Chemical Engineering Thermodynamics I
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Review of first law. Second law and thermodynamic analysis of processes. Power
+and refrigeration cycles. Thermodynamic properties of pure substances and
+homogeneous mixtures. Phase behavior of ideal solutions.  
+PREREQ CEN 231  
+Shared Competencies Critical and Creative Thinking; Information Literacy and
+Technological Agility
+
+  * ### CEN 311 - Chemical Engineering Laboratory I
+
+_College of Engineering and Computer Science_  
+2 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to report writing and laboratory safety. Experiments on fluid
+mechanics, heat conduction, and convective heat transfer. Analysis of
+experimental data. Engineering reports, summary reports, and oral
+presentations required. One three-hour laboratory each week.  
+COREQ CEN 341  
+Shared Competencies Communication Skills
+
+  * ### CEN 333 - Fluid Transport
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 333  
+Fluid statics. Shear stress and viscosity. Energy and momentum balances for
+flow systems. Dimensional analysis. Friction and drag coefficients. Turbulent
+flow of compressible and incompressible fluids. Non-Newtonian fluids.  
+PREREQ MAT 397 AND (PHY 212 OR PHY 216 )  
+Shared Competencies Critical and Creative Thinking
+
+  * ### CEN 341 - Fundamentals of Heat and Mass Transfer
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 341  
+Principles of heat and mass transfer. Conduction, convection, and radiation.
+Thermal properties of materials. Solutions of steady state and transient heat
+and mass transfer problems. Diffusion with chemical reaction. Convective mass
+transfer.  
+PREREQ CEN 333 OR BEN 333  
+Shared Competencies Critical and Creative Thinking
+
+  * ### CEN 353 - Chemical Engineering Thermodynamics II
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Thermodynamics of homogeneous mixtures and mixing processes. Phase equilibrium
+for nonideal solutions. Equilibrium stage separations with applications
+including distillation and extraction. Chemical reaction equilibria.  
+PREREQ CEN 252  
+Shared Competencies Critical and Creative Thinking; Information Literacy and
+Technological Agility
+
+  * ### CEN 390 - Research In CEN
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+Repeatable  
+
+  * ### CEN 400 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### CEN 412 - Chemical Engineering Laboratory II
+
+_College of Engineering and Computer Science_  
+2 credit(s) At least 1x fall or spring
+
+* * *
+
+Report writing and laboratory safety. Statistical analysis and experimental
+design. Experiments on distillation, diffusion, and convective mass transfer.
+Engineering reports, summary reports, and oral presentations required. One
+four-hour laboratory a week.  
+PREREQ CEN 341 and CEN 311  
+Shared Competencies Scientific Inquiry and Research Skills
+
+  * ### CEN 421 - Biochemical Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 421  
+Double Numbered with CEN 621  
+Introduction to microbiology, biochemical kinetics. Biochemical-reactor
+design, including methods for oxygen transfer and control. Introduction to
+separation processes in biochemical engineering. Additional work for graduate
+students.  
+
+  * ### CEN 429 - Methods in Materials Characterization
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with CEN 629  
+Establish working knowledge of experimental tools to characterize solid
+materials (catalysts, metals, semiconductors). Theory for each technique,
+information provided for various research topics, experimental parameters, and
+data interpretation will be discussed. Additional work required of graduate
+students.  
+
+  * ### CEN 433 - Drug Delivery
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 433  
+Double Numbered with CEN 633  
+Integration of biology, chemistry, and engineering to understand how
+pharmaceuticals are delivered to, and behave within, the body. Includes drug
+formulation, pharmacokinetics, pharmacodynamics, controlled release, and
+targeted delivery. Additional work is required of graduate students.  
+
+  * ### CEN 442 - Heat and Mass Transfer Operations
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Selected topics in heat and mass transfer. Application of transport principles
+to analysis & design of unit operations.  
+PREREQ CEN 341  
+Shared Competencies Information Literacy and Technological Agility
+
+  * ### CEN 450 - Environmental Risk Assessment & Toxicology
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 450, CEE 450  
+Double Numbered with CEN 650  
+Students will analyze the human health impact of exposure to toxic chemicals
+in air, water, and soil according to USEPA  _Risk Assessment Guidance for
+Superfund_. Additional work required of graduate students.  
+
+  * ### CEN 451 - Molecular and Statistical Thermodynamics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with CEN 651  
+Classical and molecular thermodynamics in chemical equilibrium, with
+applications. Emphasis on concepts of statistical mechanics and correlation
+with properties of gases and condensed matter. Additional work required of
+graduate students.  
+PREREQ CEN 353  
+
+  * ### CEN 455 - Materials for Energy Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with CEN 655  
+Materials related to energy technologies and existing energy resources. Topics
+include: geologic fuels; photovoltaics; wind energy; thermoelectrics;
+electrical energy storage; hydrogen production, storage, and use; solid-state
+lighting; nuclear energy. Additional work required of graduate students  
+
+  * ### CEN 461 - Environmental Chemistry and Analysis
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEE 471  
+Double Numbered with CEN 661  
+An introduction to chemical principles in natural and engineered environmental
+systems. Thermodynamics and kinetics of reactions; acid-base chemistry;
+environmental organic chemistry; treatment process design applications.
+Includes selected laboratory exercises. Additional work is required of
+graduate students.  
+
+  * ### CEN 462 - Biofuels, Bioproducts, and Biorefining
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with BEN 462  
+Double Numbered with CEN 662  
+Survey of modern technologies available for the production of transportation
+fuels from abundant natural resources. Additional work required of graduate
+students.  
+
+  * ### CEN 472 - Applied Env Microbiology
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEE 472  
+Double Numbered with CEN 672  
+General Principles and application of environmental microbiology and microbial
+processes. Role of microbes in water pollution control, environmental health,
+and element cycling in the environment. Additional work is required of
+graduate students.  
+
+  * ### CEN 473 - Biomanufacturing
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with BEN 473  
+Double Numbered with CEN 673  
+Students learn the governing principles of conventional and advanced
+manufacturing techniques, which are adapted/modified to engineer living
+tissues/organs, biomedical products and test-platforms for investigating
+fundamental cell biology. Additional work required for grad students.  
+
+  * ### CEN 474 - Process Design
+
+_College of Engineering and Computer Science_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Chemical engineering principles for plant design and optimal process
+operation. Cost estimation and profitability analysis. Shortcut and computer-
+aided process design techniques. Environmental impact and health and safety
+concerns.  
+PREREQ CEN 353 AND CEN 587  
+
+  * ### CEN 490 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  * ### CEN 499 - Honors Capstone Project
+
+_College of Engineering and Computer Science_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### CEN 500 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### CEN 520 - Radiochemistry, Nuclear Fuel Reprocessing and Nonproliferation
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with NUC 520  
+Radiochemistry for nuclear reactors and nuclear fuel reprocessing;
+nonproliferation issues through detection and monitoring, nuclear fuel
+reprocessing and design, waste vitrification and storage facilities, safety
+issues in nuclear fuel reprocessing.  
+PREREQ NUC 301  
+
+  * ### CEN 540 - Experiential Studies in Nuclear Technology
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with NUC 540  
+Introduction to experimental methods, procedures and research techniques
+through projects at participating government facilities, industrial entities
+or Syracuse University.  
+PREREQ NUC 301 AND (NUC 510 OR NUC 520 )  
+
+  * ### CEN 561 - Polymer Science & Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with BEN 561  
+Polymer structure, physical properties, and applications of polymers. Polymer
+synthesis, characterization of molecular structure, and copolymerization and
+blending. Unique physical properties of polymeric materials. Processing and
+applications of polymers.  
+
+  * ### CEN 562 - Air Resources I
+
+_Air Resources I_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with CEE 562  
+Occurrence, nature and properties, major sources and quantities of
+contaminants. Ambient air concentration levels, community distribution
+patterns, and control of air pollution.  
+
+  * ### CEN 565 - Bioremediation
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Uses of bioremediation in engineering applications. Role of microorganisms in
+degradation of pollutants and contaminants. Regulatory, societal, and legal
+issues of bioremediation.  
+PREREQ CEE 472 OR CEN 472  
+
+  * ### CEN 567 - Biotechnology
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Engineering applications of biotechnology in agriculture, industry, and the
+environment. Principles of molecular genetics as applied in the biotechnology
+industry. Hands-on exposure to laboratory recombinant DNA technology.  
+PREREQ CEE 472 /CEN 472  
+
+  * ### CEN 573 - Principles and Design in Air Pollution Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Fundamental principles of pollution control, design of control processes and
+equipment. Criteria for selection of control processes and equipment for
+gaseous and particulate pollutants.  
+
+  * ### CEN 575 - Process Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Modeling and linearization of process dynamics. Transfer functions.
+Performance and stability of feedback control loops. Introduction to
+multivariable and digital controls.  
+PREREQ MAT 485  
+Shared Competencies Critical and Creative Thinking; Information Literacy and
+Technological Agility
+
+  * ### CEN 576 - Green Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Review of environmental regulations. Evaluating the environmental fate of
+chemicals. Techniques for improving environmental performance of processes.
+Methods for evaluating environmental performance, design of unit operations,
+and flowsheets for pollution prevention. Environmental cost accounting.  
+PREREQ CEN 341 AND CEN 353  
+
+  * ### CEN 587 - Chemical Reaction Engineering
+
+_College of Engineering and Computer Science_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Conversion and reactor sizing, isothermal reactor design for flow and batch
+systems, rate laws and stoichiometry, analysis of rate data, multiple
+reactions, introduction to heterogeneous reactor design.  
+PREREQ CEN 341  
+Shared Competencies Critical and Creative Thinking
+
+  * ### CEN 590 - Recent Advances In CEN
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Selected topics in research and new areas of competence in chemical
+engineering.  
+Repeatable  
+
+**Computer and Information Science**
+
+  * ### CIS 151 - Fundamentals of Computing and Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Principles and practice of programming. Computing fundamentals: variables,
+types, scope, objects, classes, functions, parameter passing, input/output,
+conditionals, and iteration. Defensive programming techniques, including
+exceptions. Program testing and debugging. Includes programming laboratory.  
+Shared Competencies Information Literacy and Technological Agility
+
+  * ### CIS 223 - Statistical Reasoning and Practice
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Methods for exploratory data analysis. Graphical and numerical summaries of
+numerical and categorical data. Drawing conclusions from data. Basic
+probability, correlation, estimation and testing. Concepts of study design.  
+PREREQ MAT 194  
+
+  * ### CIS 252 - Elements of Computer Science
+
+_College of Engineering and Computer Science_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Introduction to key computer-science concepts through functional programming.
+Recursion, data representation, data abstraction, and computational patterns.
+Algebraic data types and higher-order functions. Models of computation. Three
+hours of lecture and one hour of computer laboratory.  
+PREREQ CIS 151 or CPS 196  
+
+  * ### CIS 321 - Introduction to Probability and Statistics
+
+_College of Engineering and Computer Science_  
+4 credit(s) At least 1x fall or spring
+
+* * *
+
+Programming-oriented introduction to fundamentals in statistics and
+probability; elementary statistics, graphical and numerical representation;
+probability distributions; tests and confidence intervals; regression, and
+correlation. CPS 621 adds Journalism applications of statistical methods.  
+PREREQ MAT 295  
+
+  * ### CIS 341 - Computer Organization & Programming Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Digital logic, data types and their representations, instruction set
+architecture, assembly language, program construction, processors, memory
+hierarchy, traps and interrupts, privilege and security, input-output
+subsystems.  
+PREREQ CIS 351  
+
+  * ### CIS 342 - Introduction to Systems Programming
+
+_College of Engineering and Computer Science_  
+1 credit(s) At least 1x fall or spring
+
+* * *
+
+Input and output, including error handling, file descriptors and interface to
+OS. Pointers and pointer arithmetic. Structures. Memory functions and storage
+allocation. Makefiles, header files, libraries, compilation, and linking.  
+PREREQ CIS 351  
+COREQ CIS 341  
+
+  * ### CIS 351 - Data Structures
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Abstract data structures including arrays, lists, trees, binary search trees,
+priority queues, graphs. Algorithm analysis. Examples include data structures
+used for security-related applications.  
+PREREQ CIS 252 or CSE 283  
+
+  * ### CIS 352 - Programming Language: Theory & Practice
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Environments, stores, scoping, functional and imperative languages, modules,
+classes, data encapsulation, types, and polymorphism. Implementation of these
+constructs in a definitional interpreter.  
+PREREQ CIS 252 AND CIS 375 AND CIS 351  
+
+  * ### CIS 375 - Introduction to Discrete Mathematics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Basic set theory and symbolic logic. Methods of proof, including mathematical
+induction. Relations, partitions, partial orders, functions, and graphs.
+Credit cannot be given for both MAT 375 and CIS 375.  
+PREREQ PHI 251  
+
+  * ### CIS 380 - International Course
+
+_College of Engineering and Computer Science_  
+1-12 credit(s) Irregularly
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the S.U.
+academic department to assign the appropriate course level, title, and grade
+for the student's transcript.  
+Repeatable  
+
+  * ### CIS 386 - Principles of Computer System Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Fundamental design principles for computer and information systems.
+Concurrency, race conditions, complexity, modularity, abstraction, layering,
+hierarchy, iteration, emergent properties, organization, virtualization,
+performance, atomicity, fault tolerance, consistency, and security.  
+PREREQ ECS 102 AND CIS 351  
+
+  * ### CIS 390 - Honors Seminar in Computer & Information Science
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Specific topics in computer and information science suitable for honors-thesis
+research.  
+Repeatable  
+
+  * ### CIS 400 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### CIS 425 - Introduction to Computer Graphics
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Graphics programming. User interfaces. Modeling and viewing transformations.
+Shading techniques. Representations of three-dimensional models. Curves and
+non-planar surfaces. Ray tracing and radiosity. Antialiasing.  
+PREREQ CIS 351 OR CSE 382  
+
+  * ### CIS 428 - Introduction to Cryptography
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Classical cryptosystems and their cryptanalysis, RSA and other public-key
+cryptosystems, pseudo-random sequences, zero-knowledge protocols, related
+ethical and social concerns.  
+PREREQ CIS 477 OR MAT 534 OR MAT 541  
+
+  * ### CIS 440 - Topics in Mobile Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with CIS 640  
+A variety of subjects surveyed or a particular subject in depth. Additional
+coursework required of graduate students.  
+PREREQ CIS 351  
+Repeatable 2 time(s), 9 credits maximum  
+
+  * ### CIS 444 - Mobile Application Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CSE 444  
+Double Numbered with CIS 651  
+Development of applications for different mobile devices. Creating effective
+user interfaces, efficient use of persistent storage, network services, GPS,
+maps and sensors. Additional work required of graduate students.  
+PREREQ CIS 351 OR CSE 382  
+
+  * ### CIS 451 - Modern Programming in Java
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Programming in Java with generic classes. Defining generic classes. Specifying
+types and inheritance. Verifying correctness of Java methods and classes.
+Managing concurrency, remote method invocation, and performance
+considerations.  
+
+  * ### CIS 453 - Software Specification and Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Software engineering process models. Software requirements analysis, including
+object-oriented methodology. Behavioral and nonbehavioral requirements.
+Development of specification documents. Unified Modeling Language. High-level
+design and software architecture. Team projects.  
+PREREQ CIS 351 OR CSE 382  
+
+  * ### CIS 454 - Software Implementation
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Detailed design of software. Implementation and software testing. Developing
+software implementations from UML specifications and design documents.
+Software development methodologies, including agile development. Ethics and
+social responsibility. Team projects.  
+PREREQ CIS 453  
+
+  * ### CIS 458 - Data Networks: Basic Principles
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CSE 458, ELE 458  
+Data communication networks, multilayer network architecture, data
+transmission fundamentals, network protocols, local and wide area networks,
+transport and application protocols.  
+PREREQ CIS 321 OR MAT 521  
+
+  * ### CIS 467 - Introduction to Artificial Intelligence
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with CIS 667  
+Knowledge representation, production systems, search algorithms, game playing,
+uncertainty handling, learning, automated reasoning, computer vision, and
+natural language processing. Programming project or term paper required for
+CIS 667, not for CIS 467 .  
+PREREQ CIS 375 AND CIS 321 AND (CIS 351 OR CSE 382 )  
+
+  * ### CIS 468 - Natural Language Processing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Double Numbered with CIS 668  
+Linguistic and computational aspect of natural language processing
+technologies. Lectures, readings, and projects in the computational techniques
+required to perform all levels of linguistic processing of text. Additional
+work required of graduate students.  
+
+  * ### CIS 470 - Experience Credit
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Every semester
+
+* * *
+
+Participation in a discipline- or subject-related experience. Students must be
+evaluated by written or oral reports or an examination. Limited to those in
+good academic standing.  
+Repeatable  
+
+  * ### CIS 471 - Optimization Methods
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Classical methods of minimum and maximum, gradient methods, conjugate
+direction methods, linear programming and simplex algorithm, integer
+programming, non-linear optimization, random search algorithms.  
+
+  * ### CIS 473 - Automata and Computability
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Countable and uncountable sets; diagonalization proofs; finite state automata;
+regular, context-free, context-sensitive, recursive, and r. e. languages;
+Turing machines; relationships between classes of languages and machines; the
+halting problem; proof methods for decidability and undecidabilty.  
+PREREQ CIS 375 OR MAT 375  
+
+  * ### CIS 477 - Introduction to Analysis of Algorithms
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Mathematical modeling of computational problems; searching and sorting
+algorithms; search trees, heaps, and hash tables; divide-and-conquer, dynamic
+programming, and greedy choice design techniques; graph algorithms;
+cryptographic algorithms; NP-completeness; and selected topics.  
+PREREQ CIS 375 AND CIS 351  
+
+  * ### CIS 478 - Introduction to Quantum Computing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Purpose of QC; simple Markov processes; quantum registers; quantum state
+transitions; classical vs quantum models of computation; measurement and
+superposition; no-cloning theorem; quantum teleportation; quantum logic.  
+PREREQ CIS 375 AND (MAT 397 OR MAT 331 )  
+
+  * ### CIS 487 - Access Control, Security and Trust
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with CSE 487  
+Analytical/logical basis for trusting systems. Access requests,
+authorizations, certificates, credentials, jurisdiction, and delegation.
+Applications include distributed access control, process isolation and
+sharing, and access policies.  
+PREREQ CIS 375  
+
+  * ### CIS 489 - Mobile Systems Security
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Components in Mobile OS; basic mobile app development; sandbox mechanism;
+permission enforcement; vulnerabilities; malware attacks. Additional work
+required of graduate students.  
+PREREQ CIS 486 OR CSE 486  
+
+  * ### CIS 490 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  * ### CIS 499 - Honors Capstone Project
+
+_College of Engineering and Computer Science_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable 2 time(s), 3 credits maximum  
+
+  * ### CIS 500 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### CIS 531 - Compiler Construction
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Programming a small compiler. Lexical analysis, tokens, finite automata,
+hashing. Syntax analysis, grammars, syntax trees, error recovery. Scope and
+type analysis, symbol tables. Run-time stack, variable addressing, expression
+evaluation, procedure activation, recursion. Code generation, 0ptimization,
+portability.  
+PREREQ CIS 351  
+
+  * ### CIS 543 - Control of Robots
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Crosslisted with ELE 516  
+Kinematics, dynamics, and control of mobile and/or manipulator robots. Path
+planning, actuators, sensors, human/machine interface. Two hours lecture and
+two hours laboratory weekly. Design project.  
+
+  * ### CIS 545 - Introduction to Combinatorics
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with MAT 545  
+Permutations, combinations, recurrence relations, generating functions,
+inclusion-exclusion and applications, introductory graph theory.  
+PREREQ CIS 375 OR MAT 375  
+
+  * ### CIS 554 - Object Oriented Programming in C++
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Pointers, dynamic memory management, data abstraction, classes, derived
+classes, inheritance, types, structures and templates. Threaded programming,
+standard template library, interfaces. Substantial programming assignments.  
+PREREQ CIS 351 or CSE 382  
+
+  * ### CIS 563 - Introduction to Data Science
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Fundamentals of the knowledge discovery and data mining process. Basics of
+supervised and unsupervised learning. Applications (recommendation and
+collaborative filtering) and computational tools for carrying out
+predictive/descriptive modeling. Additional work required for graduate
+students.  
+PREREQ MAT 503  
+
+  * ### CIS 565 - Introduction to Artificial Neural Networks
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Perceptrons and the Perceptron Convergence Theorem; non-linear optimization,
+gradient descent methods; neural net architecture, conjugate-gradient and
+recurrent networks; Hopfield networks, Kohonen's feature maps; non-neural
+clustering algorithms.  
+
+**Computational Science**
+
+  * ### CPS 100 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  * ### CPS 155 - Introduction to Cyber Security
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Introductory concepts of: network organization and operation security.
+Differentiate among physical, organizational and personal security. Introduce
+mechanisms and history of software, hardware and OS security. Significant
+hands-on laboratory component with demonstrations and projects.  
+
+  * ### CPS 181 - Introduction to Computing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Organization of computers, elementary programming, and problem solving.
+Applications in such areas as calculation and visualization, communication,
+databases, graphics, and artificial intelligence. Origins of the modern
+digital computer, future trends, social impact, abuses. Includes lab.  
+
+  * ### CPS 185 - Introduction to Animation and Game Development
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+This course provides a visual introduction to computer programming. Students
+will learn the basics of programming and high-level 3-dimensional animation
+together, while programming animations and games for assignments and an
+integrative final project.  
+
+  * ### CPS 196 - Introduction to Computer Programming
+
+_College of Engineering and Computer Science_  
+3 credit(s) Every semester
+
+* * *
+
+Basic computing concepts, data representation, problem definition, algorithms
+and flow charts, programming exercises. Students may not receive credit for
+both CPS 196 and ECS 102 .  
+
+  * ### CPS 234 - Introduction to Computational Thinking
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Computational-thinking skills developed through team-based problem solving.
+Fundamental concepts of computation, including algorithms, data organization,
+and computational strategies. Application of those concepts to solve problems
+from multiple settings and disciplines.  
+
+  * ### CPS 290 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+Repeatable  
+
+  * ### CPS 300 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+
+  * ### CPS 333 - UNIX Operating System and Internet
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+UNIX operating system: commands, hierarchical file systems, editors,
+windowing, networking, security, administration. Emphasis on shell
+programming, awk scripts, sed, e-mail, newsgroups, Internet, telnet/ftp,
+search tools (Archie, Gopher, WAIS, Mosaic). For non-majors in computer
+science.  
+
+  * ### CPS 335 - JAVA programming for the Internet
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Introduction to JAVA, object-oriented programming concepts and windows
+programming. Variables and data types, expression evaluation, control, stand-
+alone programs, inheritance, polymorphism, applets, graphics classes, arrays
+and strings, interfaces, threads, windows, widgets, animation, sound,
+libraries.  
+
+  * ### CPS 430 - Topics in Computational Science
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+A variety of subjects surveyed or a particular subject in depth.  
+Repeatable 3 time(s), 12 credits maximum  
+
+  * ### CPS 490 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s)
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor and the department.  
+Repeatable  
+
+  * ### CPS 501 - Selected Topics
+
+_College of Engineering and Computer Science_  
+0 credit(s) Irregularly
+
+* * *
+
+  * ### CPS 504 - Introduction to C++
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+Object oriented programming in C++: classes, derived classes, data
+abstraction, inheritance, and access control. Substantial programming
+assignments. For students not majoring in computer science.  
+PREREQ CPS 196  
+
+Page: 1 | **2** | 3 | 4
+
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Undergraduate University Requirements Syracuse University's Shared
+Competencies
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies Martin J. Whitman School of
+Management Maxwell School of Citizenship and Public Affairs S.I. Newhouse
+School of Public Communications College of Professional Studies College of
+Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

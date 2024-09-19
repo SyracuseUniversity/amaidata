@@ -1,0 +1,1605 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+2023-2024 Undergraduate Course Catalog Syracuse University |   
+|  |  2023-2024 Undergraduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG]  
+
+#  Courses
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+View Courses by College . Please note, when searching courses by Code or
+Number, an asterisk (*) can be used to return mass results. For instance a
+Code search of 2* can be entered, returning all 200-level courses.
+
+  * Guide to Reading Course Descriptions
+
+  
+  
+Course Filter |   
+---|---  
+Filter this list of courses using course prefix, course code, keywords or any
+combination.  
+Prefix: | Code or Number: | Keyword or Phrase: |   
+Choose Course Prefix All prefixes… AAA AAS ACC ADV AED AEE AIC AMC ANT APH ARB ARC ARI ARL ASC ASL AST BAN BCM BDJ BEN BIO BPS BSN BTB BUA CAN CAR CAS CEE CEN CFE CHE CHI CIN CIS CLA CLB CLR CLS CMD COG COM COU CPS CRL CRS CSD CSE CTG CYB DAN DAP DBS DES DRA DRD DRM DRS DSP EAR ECE ECN ECS EDI EDU EED EEE ELE ELL ENC ENG ENI ENL ENP ENV ESP EUP EXE FAS FHN FIL FIN FLL FLT FMA FRE FSC FST FYS GEO GER GRA GRE GTR HCA HEA HEB HFS HIN HNR HOA HOM HPD HRP HSH HST HUM IDE IDS ILL INB IND IRP ISD IST ITA JNL JPS JSP KNM KOR LAS LAT LGL LIN LIT LLA LPP MAE MAG MAR MAS MAT MAX MEE MES MFE MFT MGT MHL MIS MMI MND MPD MSL MTC MTD MTS MUE MUI MUS NAT NEU NEW NSD NUC O&M OBO OGL ORG PAI PDG PED PHI PHO PHP PHY PIR PNO POL POR PPE PPM PRC PRL PRS PSC PST PSY PTG QSX QUM RAE RED REL RES RMT RUS SAL SAS SCE SCI SCM SCP SCU SED SEM SIS SMC SOC SOL SOM SOS SPA SPE SPM STS STT SWA SWK SXP TML TRB TRF TRK TRP TXT URP VCO VID VIS VLA VLN VOC VPA WGS WRT |  Choose Course Number |  Choose Keyword |   
+Find whole word or phrase only.  
+|  
+  
+---  
+  
+**Mechanical Engineering**  
+|
+
+  * ### MEE 470 - Experience Credit
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Every semester
+
+* * *
+
+Participation in a discipline- or subject-related experience. Students must be
+evaluated by written or oral reports or an examination. Limited to those in
+good academic standing.  
+Repeatable  
+
+  
+|
+
+  * ### MEE 471 - Design Practice
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Topics in design methodology and development, professional practice, costing,
+intellectual property, use of modern engineering tools.  
+PREREQ MEE 332 AND MAE 284  
+
+  
+|
+
+  * ### MEE 472 - Synthesis of Mechanical Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Second course in the capstone design sequence. Development through completion
+of design projects. Elements of planning for production and manufacture,
+sustainability, intellectual property.  
+PREREQ MEE 471  
+
+  
+|
+
+  * ### MEE 473 - Engineering Design Analysis
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Design problems that integrate the principles of diverse engineering courses.
+Use of ANSYS as a modeling and analysis tool.  
+
+  
+|
+
+  * ### MEE 475 - Special Design Project
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Special design project carried out by student under supervision of staff
+member.  
+
+  
+|
+
+  * ### MEE 480 - International Course
+
+_College of Engineering and Computer Science_  
+1-12 credit(s) Irregularly
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the S.U.
+academic department to assign the appropriate course level, title, and grade
+for the student's transcript.  
+Repeatable  
+
+  
+|
+
+  * ### MEE 486 - Introduction to Nuclear Power
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Application of engineering principles to nuclear power reactors. Relation of
+nuclear power to present and future world energy sources. Elements of reactor
+theory. Power removal, utilization, and economics. Design considerations and
+examinations of nuclear power plants.  
+PREREQ MAE 251  
+
+  
+|
+
+  * ### MEE 487 - Design of Solar-Energy Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Solar radiation, collectors, and storage. Design of solar space heating,
+cooling; water-heating systems. Solar electric systems. Economics of solar
+design. Applications of heat pumps, energy conservation techniques.  
+PREREQ MAE 251  
+
+  
+|
+
+  * ### MEE 490 - Independent Study
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Every semester
+
+* * *
+
+In-depth exploration of a problem or problems. Individual independent study
+upon a plan submitted by the student. Admission by consent of supervising
+instructor or instructors and the department.  
+Repeatable  
+
+  
+|
+
+  * ### MEE 499 - Honors Capstone Project
+
+_College of Engineering and Computer Science_  
+1-3 credit(s)
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable 2 time(s), 3 credits maximum  
+
+  
+|
+
+  * ### MEE 524 - Microprocessors in Mechanical and Manufacturing Engineering
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Introduction to the microprocessor and its various configurations used in
+controlling machine operations, data acquisition, etc. Project-oriented work
+involving program development in machine, assembly, and basic languages.
+Micro-computers used for off-line program development. Not open to electrical
+and computer engineering students.  
+
+  
+|
+
+  * ### MEE 571 - Computer Aided Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Use CAD software and hardware in the solution of mechanical engineering
+problems. Computer graphics, computer aided geometry (space curves, splines,
+patches) design, solid modeling, optimization and an introduction to finite
+element method.  
+PREREQ MAE 284 AND MAT 485  
+
+  
+|
+
+  * ### MEE 584 - Noise from Industrial Flow Systems
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Basic fluid mechanics and acoustics. Noise generation by fluid flows and their
+interaction with solid bodies. Types of noise sources. Analysis and control of
+such flow noise sources in manufacturing, transportation, propulsion, power
+generation, and industrial control systems.  
+PREREQ MAE 341  
+
+  
+|
+
+  * ### MEE 585 - Fuel & Energy Utilization
+
+_College of Engineering and Computer Science_  
+3 credit(s)
+
+* * *
+
+  
+  
+**Media Management & Innovation**  
+|
+
+  * ### MMI 300 - Selected Topics
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### MMI 306 - Content Management, Development and Innovation
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with MMI 606  
+This course teaches the principles of content development, optimization, and
+management practices, including SEO and analytics, to empower communications
+professionals to create, optimize, and deliver digital content across a
+multitude of channels now and in the future. Additional work required of
+graduate students.  
+
+  
+|
+
+  * ### MMI 365 - Web Development & Design for Media
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Double Numbered with MMI 665  
+In this introductory-level web development course, students learn HTML, CSS,
+front-end development frameworks, and web design to deliver mobile-friendly
+web pages. Students will research and evaluate an audience to perform a
+website redesign. Additional work required for graduate students.  
+
+  
+|
+
+  * ### MMI 400 - Selected Topics
+
+_S.I. Newhouse School of Public Communications_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### MMI 425 - Advanced Media Business
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with MMI 625  
+How tech-empowered consumers and data are reshaping the roles of big brands,
+big tech, and big media, including: TV, streaming, film, audio, gaming, print,
+online, web3, NFTs, blockchain, the metaverse, AR/MR/VR, and beyond.
+Additional work is required of graduate students.  
+
+  
+|
+
+  * ### MMI 427 - New Media Venture Launch
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with MMI 627  
+Students will learn the process of preparing and validating new media business
+ideas for launching - whether freelance, small business or high-scale
+ventures. In the process, all learn tools and techniques required to become
+media innovators and entrepreneurs. Additional work required of graduate
+students.  
+Shared Competencies Information Literacy and Technical Agility; Critical and
+Creative Thinking
+
+  
+|
+
+  * ### MMI 428 - Entertainment Innovation & Entrepreneurship
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with MMI 628  
+This course provides study in the entrepreneurial process for the creative
+industries. Students learn effectuation, the five types of new ventures, and
+the basics of startup culture and media product development. Additional work
+required of graduate students.  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### MMI 434 - Trendspotting in Digital Media
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) Every semester
+
+* * *
+
+Double Numbered with MMI 634  
+Students analyze current and future technologies, searching for innovative and
+disruptive new media, platforms, and careers. They will learn strategies to
+recognize potential trends. Additional work is required of graduate students.  
+Shared Competencies Critical and Creative Thinking; Information Literacy and
+Technical Agility
+
+  
+|
+
+  * ### MMI 475 - Advanced Web Design
+
+_S.I. Newhouse School of Public Communications_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with MMI 675  
+Students learn programming and scripting concepts for advanced web
+applications. This course builds on mark-up frameworks to create advanced
+interactions and dynamic content updates. Additional work required of graduate
+students.  
+PREREQ MMI 365  
+
+  
+|
+
+  * ### MMI 510 - Topics in Media Entrepreneurship
+
+_S.I. Newhouse School of Public Communications_  
+1 credit(s) Every semester
+
+* * *
+
+These five-week mini-courses provide specific areas of study not covered in
+depth in other courses. Examples: New Ventures in Media, Lean Digital Media
+Startups, and others based on faculty and student interest.  
+Repeatable, 3 credits maximum  
+
+  
+  
+**Middle Eastern Studies**  
+|
+
+  * ### MES 165 - Discovering Islam
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with REL 165 , SAS 165  
+Islam as a faith and a civilization. Understanding its origins, beliefs,
+rituals, and the historical development of its intellectual traditions in the
+pre-modern and modern eras, and its geographic, cultural and theological
+diversity today.  
+
+  
+|
+
+  * ### MES 200 - Selected Topics
+
+_College of Arts and Sciences_  
+1-6 credit(s) Upon sufficient interest
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### MES 208 - Middle East Since the Rise of Islam
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HST 208  
+Beginning with the rise and spread of Islam through the reform era of the
+nineteenth-century, this course focuses on the social and cultural history of
+the Ottoman Empire.  
+Shared Competencies Critical and Creative Thinking; Civic and Global
+Responsibility; Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  
+|
+
+  * ### MES 209 - Modern Middle East
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HST 209  
+A survey of modern Middle East history from roughly the 20th century, covering
+the nation-states from Iran to Morocco. Includes culture, social life,
+colonialism and nationalism, feminism, and political change.  
+Shared Competencies Critical and Creative Thinking; Civic and Global
+Responsibility; Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  
+|
+
+  * ### MES 308 - Ancient Judaism and the Origins of Christianity
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Crosslisted with JSP 308 , REL 308  
+Offered only in Madrid. Social, cultural, intellectual, and historical
+conditions which surrounded the birth of this new world religion in its
+ancient Mediterranean cradle-from Mesopotamia and Egypt to Greece and ancient
+Rome.  
+
+  
+|
+
+  * ### MES 315 - Arab American Literature and Culture
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course is designed to familiarize students with the burgeoning field of
+contemporary Arab-American literature, highlighting the ways in which this
+literature portrays and complicates Arab-American identities and cultures.  
+
+  
+|
+
+  * ### MES 317 - The Arab Revolutions
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Crosslisted with HST 317  
+An exploration of the social, economic, and political histories of select Arab
+countries since independence to understand the contexts and reasons for the
+revolutions that began in 2011.  
+Shared Competencies Critical and Creative Thinking; Civic and Global
+Responsibility; Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  
+|
+
+  * ### MES 318 - Middle East Since the Rise of Islam
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HST 208  
+An introductory survey of Middle East history beginning with the rise of
+Islam. Includes culture, social life, women and politics, early Arab Empires,
+the Ottomans and Safavids, intellectual renaissance.  
+
+  
+|
+
+  * ### MES 319 - The Middle East in the 20th Century
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HST 319  
+Social and cultural history of the Middle East in the twentieth-century,
+including themes such as colonialism, anti-colonial nationalism, modernity,
+social movements, women and gender, and contemporary issues.  
+
+  
+|
+
+  * ### MES 321 - Christians, Jews and Muslims
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+Crosslisted with HUM 321 , JSP 321 , REL 321  
+Offered only in Madrid. Key historic encounters between the three versions of
+monotheism, with reference to the richness of past cultural and religious
+legacy rooted in the Mediterranean region.  
+
+  
+|
+
+  * ### MES 335 - Israeli Literature and Culture
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with JSP 335, LIT 335, REL 335  
+Literary and cultural approach to the modern history of Israel, with special
+attention to conflicts that have arisen during the Zionist project.  
+
+  
+|
+
+  * ### MES 336 - Arabic Cultures
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with ARB 336 , LIT 336  
+Arabic culture through geography, literature, religion (Islam and other
+religions), ethnic groups, social divisions, films, the media, music, art,
+food, gender issues, and everyday life.  
+Shared Competencies Critical and Creative Thinking; Civic and Global
+Responsibility; Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  
+|
+
+  * ### MES 338 - Middle East Media
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with HST 338  
+This course examines the history, politics, and culture of media in the Middle
+East.  
+
+  
+|
+
+  * ### MES 340 - America and the Middle East
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with HST 336  
+This course examines the historical relationship between the United States and
+the Middle East from the late 18th century to the present.  
+
+  
+|
+
+  * ### MES 342 - Religion and Politics in the Israeli-Palestinian Conflict
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with JSP 342 , PSC 342 , REL 342  
+Considers the extent to which religion matters in an enduring ethno-
+nationalist conflict. Approaches the Israeli-Palestinian conflict from an
+interdisciplinary perspective that explores the intersection of religion and
+politics.  
+
+  
+|
+
+  * ### MES 344 - Politics of the Middle East
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with PSC 344  
+Religious, political, economic, and social dimensions of life in modern Middle
+East. Legacy of Islam, encounter with Western modernity, Arab-Israeli
+conflict, and political economy of the region.  
+
+  
+|
+
+  * ### MES 349 - Politics of Iran
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 349  
+Historical and theoretical understanding of modern Iranian politics and
+society from the late 19th century to the present time.  
+
+  
+|
+
+  * ### MES 350 - Gender, Violence, and Sexualities in the "War on Terror"
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+This course analyzes the ways in which gender has been employed in developing
+narratives of US national security and the War on Terror after 9/11.  
+
+  
+|
+
+  * ### MES 360 - Reading Gender and Sexualities: Gender and Sexuality in the Arab World
+
+_College of Arts and Sciences_  
+3 credit(s) Every semester
+
+* * *
+
+This course explores the ways in which gender and sexuality are represented in
+an array of visual, historical, and literary texts from the Arab world and its
+diaspora, starting from the pre-Islamic era up till the contemporary period.  
+
+  
+|
+
+  * ### MES 364 - Enchanting Words: Muslim Poets, Singers and Storytellers
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with REL 364 , SAS 364  
+Understand the power of words and language in Muslim cultures expressed in
+oral and literary genres including poetry, humor, fables, folksongs and travel
+journals. Explore key themes such as virtue, reality, divine and human nature.  
+
+  
+|
+
+  * ### MES 365 - God and Beauty in Islamic Art
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with REL 367 , SAS 367  
+Expressions of beauty, creativity and faith in Islamic calligraphy, ceramics,
+textiles, architecture, miniatures and music. Unity and diversity of the
+visual and performing arts of Muslims in different periods, cultures and
+regions.  
+
+  
+|
+
+  * ### MES 368 - Islam and the West
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Crosslisted with HST 368 , PSC 368  
+Topics include globalization and interdependency of faiths, the "clash of
+civilizations", relations between religion and state in Islam and Christianity
+and whether it is possible to separate the world into monolithic entities
+"Islam" and "West". Offered in London only.  
+
+  
+|
+
+  * ### MES 374 - Popular Culture in the Middle East
+
+_College of Arts and Sciences_  
+3 credit(s)
+
+* * *
+
+Crosslisted with HST 374  
+An exploration of history, social change, and culture in the Middle East
+through film, music, television, sports, and the internet. Focused on the
+average citizen asking questions about gender roles, youth culture, and
+national identity  
+
+  
+|
+
+  * ### MES 381 - Islamic Law & Society
+
+_Islamic Law & Society_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Crosslisted with PSC 381; REL 361  
+This course introduces students to classical/modern Islamic law by analyzing
+Islamic constitutionalism, criminal laws, family laws, gender, political
+violence, and Islamic banking, through the examination of Middle Eastern and
+South Asian legal systems.  
+
+  
+|
+
+  * ### MES 382 - Health in the Middle East
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with ANT 382, PHP 382  
+Surveys major cultural, biological and environmental features of the Middle
+East and relates them to aspects of health including infectious disease,
+chronic disease, reproductive health, population, war, poverty and
+globalization.  
+
+  
+|
+
+  * ### MES 386 - Sounds of the Silk Road
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HOM 386 , SAS 386  
+The soundscapes of the overland Silk Road as a window into history, commerce,
+migration, social life, values, faith, tolerance and conflict. Case studies
+from Turkish, Arabic, Persian, Central Asia, and Southwest Asia musics.  
+
+  
+|
+
+  * ### MES 391 - Revolutions in the Middle East
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 391  
+A comparative study of revolutions in the Middle East in terms of causes,
+processes and outcomes.  
+
+  
+|
+
+  * ### MES 392 - Islamism and Islamist Movements Today
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 392 , REL 362  
+A study of the historical, religious, social and political origins of Islamism
+and Islamist movements around the world today.  
+
+  
+|
+
+  * ### MES 393 - Middle Eastern Political Systems
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 393  
+Study of Middle Eastern political systems in terms of cleavages and crisis.  
+
+  
+|
+
+  * ### MES 394 - History of Islamic Political Thought
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 394  
+A study of Islamic political and social attitudes pertaining to contemporary
+issues.  
+
+  
+|
+
+  * ### MES 395 - Democratization in the Muslim World
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with PSC 395  
+Reasons for and dynamics of democratization in some Muslim countries.  
+
+  
+|
+
+  * ### MES 400 - Selected Topics
+
+_College of Arts and Sciences_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### MES 404 - 'AZAHAR' The Islamic Conquest and the Christian Reconquest
+
+_College of Arts and Sciences_  
+2 credit(s) Every semester
+
+* * *
+
+Crosslisted with FLL 404 , HUM 404  
+Thirteen day interdisciplinary seminar. Lectures in situ. Artistic,
+historical, cultural monuments of Cordoba, Sevilla, Granada and Toledo or
+Salamanca. Theological, philosophical and historical thought as to recreate
+the artistic and cultural climate of medieval al-Andalus/Spain.  
+
+  
+|
+
+  * ### MES 406 - The Middle East in Graphic Novels
+
+_College of Arts and Sciences_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Graphic narratives that handle complex issues defining life in the Middle East
+and its diaspora, including wars and military conflicts, coming-of-age
+struggles, and gender relations.  
+
+  
+|
+
+  * ### MES 407 - Iraq: Modern Nation to US Occupation
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with HST 407  
+History of modern Iraq from early 20th century to present, Iraqi cultural
+life, labor movement, socialist politics, women's movement, warfare and
+masculinity, blogging, the Iran-Iraq war, the Gulf War, sanctions, 2003
+invasion and aftermath.  
+Shared Competencies Critical and Creative Thinking; Civic and Global
+Responsibility; Ethics, Integrity, and Commitment to Diversity and Inclusion
+
+  
+|
+
+  * ### MES 430 - Senior Seminar in Middle Eastern Studies
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+A required course for students pursuing a minor or major in Middle Eastern
+Studies. An interdisciplinary study of special topics that fall under the
+rubric of Middle Eastern Studies: Western modernity, Islamic thought and
+practices, and popular culture.  
+PREREQ MES 344  
+Repeatable 1 time(s), 6 credits maximum  
+
+  
+|
+
+  * ### MES 453 - Feminisms, Sexualities, and Human Rights in Middle Eastern Societies
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with QSX 453 , WGS 453  
+Focuses on the centrality of gender and sexuality to the politics of everyday
+life by mapping women's rights movements, LGBT Mobilizations, and minority
+activisms in the Middle East.  
+
+  
+|
+
+  * ### MES 465 - Beyond the Veil: Gender Politics in Islam
+
+_College of Arts and Sciences_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with REL 465 , SAS 465 , WGS 465  
+Double Numbered with MES 626  
+Politics of gender, religious identities, and resistance in the Islamic world.
+Gender scripts in Qur'anic scripture and Shariah laws. Contemporary realities
+of Muslim women living in different parts of the world. Additional work
+required of graduate students.  
+
+  
+|
+
+  * ### MES 468 - Middle East in Anthropological Perspective
+
+_College of Arts and Sciences_  
+3 credit(s) Irregularly
+
+* * *
+
+Crosslisted with ANT 468  
+Double Numbered with MES 668  
+Anthropology of the social, cultural, geographical, and political realities of
+the Middle East. Additional work required of graduate students.  
+
+  
+|
+
+  * ### MES 482 - Azahar: Interfaith Relations in Spain (711-1492)
+
+_Azahar: Interfaith Relations in Spain (711-1492)_  
+3 credit(s) Every semester
+
+* * *
+
+Crosslisted with HUM 482; HST 482  
+ _Offered only in Madrid._ This traveling seminar explores the interweaving of
+Muslim, Jewish, and Christian cultures during the Middle Ages, the resulting
+tensions, and the lasting cultural and social impacts on present-day Spain and
+the modern world.  
+
+  
+|
+
+  * ### MES 495 - Distinction Thesis in Middle East Studies
+
+_College of Arts and Sciences_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Thesis in partial fulfillment of the requirements for the Distinction in
+Middle Eastern Studies Program. Normally in the semester prior to graduation,
+topic chosen in conjunction with advisor.  
+
+  
+|
+
+  * ### MES 499 - Honors Capstone Project
+
+_College of Arts and Sciences_  
+1-3 credit(s) Upon sufficient interest
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable  
+
+  
+  
+**Manufacturing Engineering**  
+|
+
+  * ### MFE 300 - Selected Topics
+
+_College of Engineering and Computer Science_  
+1-6 credit(s) Every semester
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### MFE 326 - Probability and Statistical Methods for Engineers
+
+_College of Engineering and Computer Science_  
+4 credit(s) Irregularly
+
+* * *
+
+Theory of probability, sampling, estimation, hypothesis testing, quality
+control techniques. Experimental design and analysis.  
+
+  
+|
+
+  * ### MFE 429 - System Modeling and Optimization
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Introduction to system modeling and optimization techniques and their
+applications. Topics include linear programming and its extensions, integer
+programming, dynamic programming, stochastic modeling, simulation and other
+system modeling techniques.  
+PREREQ MAT 397 AND MAT 521  
+
+  
+|
+
+  * ### MFE 436 - Robotics in Manufacturing
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Topics include requirements for robotic application, mechanical
+considerations, and effectors, sensors, software, applications, and
+optimization of robotic systems. Laboratory experiments included.  
+
+  
+|
+
+  * ### MFE 453 - Production Planning and Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) Upon sufficient interest
+
+* * *
+
+Problems in designing and controlling manufacturing facilities. Layout design,
+line balancing, production planning, sequencing, material-requirements
+planning, group technology, and quality control.  
+PREREQ MFE 326 AND MFE 429  
+
+  
+|
+
+  * ### MFE 470 - Experience Credit
+
+_College of Engineering and Computer Science_  
+1-3 credit(s)
+
+* * *
+
+Participation in a discipline or subject-related experience. Students will be
+evaluated by written and/or oral report.  
+Repeatable  
+
+  
+|
+
+  * ### MFE 534 - Statistical Quality Control
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Controlling product quality through the control of the manufacturing process
+and acceptance sampling. Industrial project required.  
+PREREQ MFE 326  
+
+  
+|
+
+  * ### MFE 595 - Multidisciplinary Analysis and Design
+
+_College of Engineering and Computer Science_  
+3 credit(s) Irregularly
+
+* * *
+
+Interdisciplinary subjects related to engineering, information technology,
+networking, AI and HTTP://WWW-based tools. The objective is to use different
+MAD tools in the product realization process.  
+PREREQ MEE 571  
+
+  
+  
+**Marriage and Family Therapy**  
+|
+
+  * ### MFT 567 - Sexual Issues for the Helping Professional
+
+_Marriage and Family Therapy_  
+3 credit(s) Only during the summer
+
+* * *
+
+Sexual abuse, sexual assault, sexual dysfunction, sex and disability, and
+nontraditional sexual relationships. Introduction to educational and
+therapeutic intervention.  
+
+  
+  
+**Management**  
+|
+
+  * ### MGT 247 - Introduction to Strategic Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Every semester
+
+* * *
+
+How a firm's leadership structure guides the strategic management process.
+Topics covered include the role of the CEO and top management team, internal
+and external analysis and strategy formulation and implementation.  
+Shared Competencies Critical and Creative Thinking
+
+  
+|
+
+  * ### MGT 248 - Managing and Leading People in Organizations
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Every semester
+
+* * *
+
+Introduces students to the management functions of planning, organizing,
+leading and controlling. Topics include teamwork, ethics, motivation, and
+others with an emphasis on the application of conceptual tools to analyze and
+address managerial issues.  
+COREQ MGT 247 AND SOM 354  
+Shared Competencies Critical and Creative Thinking; Ethics, Integrity, and
+Commitment to Diversity and Inclusion
+
+  
+|
+
+  * ### MGT 300 - Selected Topics
+
+_Martin J. Whitman School of Management_  
+1-6 credit(s) Irregularly
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### MGT 346 - Organizational Behavior
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Individual and group behavior in complex organizations. Influence of
+organization structure and management practices on individual and group work
+behavior.  
+
+  
+|
+
+  * ### MGT 355 - Strategic Human Resource Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Every semester
+
+* * *
+
+Human resources as a source of competitive advantage and financial
+performance. Employment law, reward and control systems, human resource
+architecture, workforce development.  
+
+  
+|
+
+  * ### MGT 447 - Advanced Topics in Strategic Management
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Solution of unstructured managerial problems requiring the application of
+students' integrated knowledge of the management curriculum using
+comprehensive organizational case problems.  
+PREREQ MGT 247 AND FIN 256 AND MAR 255 AND SCM 265  
+
+  
+|
+
+  * ### MGT 448 - Management in a Cross-cultural Environment
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Factors that have an impact on managerial effectiveness in an international
+organization: language, religion, values and attitudes, educational structure,
+social organization, technology, political climate, and legal environment.
+Additional work required of graduate students.  
+PREREQ SOM 354  
+
+  
+|
+
+  * ### MGT 454 - Compensation Administration
+
+_Martin J. Whitman School of Management_  
+3 credit(s) Irregularly
+
+* * *
+
+Double Numbered with MGT 754  
+Concepts, models, theories, and legislation related to employee compensation:
+wage theory, job analysis, job evaluation, job structure pricing, employee
+motivation, individual appraisal and reward, and benefits. Additional work
+required of graduate students.  
+PREREQ MGT 355 OR MGT 656  
+
+  
+|
+
+  * ### MGT 462 - Leadership and Organization Change
+
+_Martin J. Whitman School of Management_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Double Numbered with MGT 762  
+Nature of the organizational development field and dominant methods, models
+and perspectives taken. Opportunities provided to increase skills and
+effectiveness in diagnosing and intervening in ongoing systems. Additional
+work required of graduate students.  
+
+  
+|
+
+  * ### MGT 499 - Honors Capstone Project
+
+_Martin J. Whitman School of Management_  
+1-3 credit(s) Every semester
+
+* * *
+
+Completion of an Honors Capstone Project under the supervision of a faculty
+member.  
+Repeatable 2 time(s), 3 credits maximum  
+
+  
+  
+**Music History and Literature**  
+|
+
+  * ### MHL 071 - Weekly Student Convocation, Freshman
+
+_Setnor School of Music_  
+0 credit(s) Every semester
+
+* * *
+
+  
+|
+
+  * ### MHL 072 - Weekly Student Convocation, Freshman
+
+_Setnor School of Music_  
+0 credit(s) Every semester
+
+* * *
+
+  
+|
+
+  * ### MHL 073 - Weekly Student Convocation, Sophomore
+
+_Setnor School of Music_  
+0 credit(s) Every semester
+
+* * *
+
+  
+|
+
+  * ### MHL 074 - Weekly Student Convocation, Sophomore
+
+_Setnor School of Music_  
+0 credit(s) Every semester
+
+* * *
+
+  
+|
+
+  * ### MHL 075 - Weekly Student Convocation, Junior
+
+_Setnor School of Music_  
+0 credit(s) Every semester
+
+* * *
+
+  
+|
+
+  * ### MHL 076 - Weekly Student Convocation, Junior
+
+_Setnor School of Music_  
+0 credit(s) Every semester
+
+* * *
+
+  
+|
+
+  * ### MHL 077 - Weekly Student Convocation, Senior
+
+_Setnor School of Music_  
+0 credit(s) Every semester
+
+* * *
+
+  
+|
+
+  * ### MHL 078 - Weekly Studnt Convocation
+
+_Setnor School of Music_  
+0 credit(s) Every semester
+
+* * *
+
+  
+|
+
+  * ### MHL 185 - Introduction to World Music
+
+_Setnor School of Music_  
+3 credit(s)
+
+* * *
+
+Crosslisted with HOM 285  
+Introduction to world music in its social, political, and cultural contexts,
+with an emphasis on building listening and analytic skills. Intended primarily
+for music and music history and culture majors.  
+Shared Competencies Critical and Creative Thinking; Communication Skills
+
+  
+|
+
+  * ### MHL 267 - European Music before 1800
+
+_Setnor School of Music_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with HOM 267  
+European music before 1800 in its cultural and philosophical contexts.
+Extensive listening. Analytical focus on selected composers and works.
+Presupposes familiarity with musical notation, terms, and contexts.  
+Shared Competencies Communication Skills; Ethics, Integrity, and Commitment to
+Diversity and Inclusion
+
+  
+|
+
+  * ### MHL 268 - European and American Music Since 1800
+
+_Setnor School of Music_  
+3 credit(s) At least 1x fall or spring
+
+* * *
+
+Crosslisted with HOM 268  
+Major trends and figures in art music in the United States and Europe since
+1800. Topics include nationalism, neoclassicism, serialism, indeterminacy, and
+minimalism. Assumes basic knowledge of music.  
+Shared Competencies Critical and Creative Thinking; Communication Skills
+
+  
+|
+
+  * ### MHL 380 - International Course
+
+_Setnor School of Music_  
+1-12 credit(s) Upon sufficient interest
+
+* * *
+
+Offered through SUAbroad by educational institution outside the United States.
+Student registers for the course at the foreign institution and is graded
+according to that institution's practice. SUAbroad works with the S.U.
+academic department to assign the appropriate course level, title, and grade
+for the student's transcript.  
+Repeatable  
+
+  
+|
+
+  * ### MHL 400 - Selected Topics
+
+_Setnor School of Music_  
+1-6 credit(s)
+
+* * *
+
+Exploration of a topic (to be determined) not covered by the standard
+curriculum but of interest to faculty and students in a particular semester.  
+Repeatable  
+
+  
+|
+
+  * ### MHL 428 - Organ Literature
+
+_Setnor School of Music_  
+3 credit(s) Even Academic Yr e.g. 2004-5
+
+* * *
+
+Double Numbered with MHL 628  
+Overview of organ repertoire, instrument design, performance practice and
+historical context. Exploration of the history of organ building and music
+making through primary and secondary source readings, listening and score
+study, field trips, lectures, and discussions. Additional work for graduate
+students.  
+PREREQ MHL 267 and MHL 268  
+
+  
+|
+
+  * ### MHL 448 - History of Wind Ensemble Literature
+
+_Setnor School of Music_  
+3 credit(s) Odd academic yr e.g. 2007-8
+
+* * *
+
+Double Numbered with MHL 648  
+Study of wind ensemble repertoire of the past 500 years. Emphasis is placed on
+historical trends, genre and instrumentation, national schools, and the
+concurrent development of music for chamber winds and concert bands.
+Additional work will be required of graduate students.  
+PREREQ MTC 246 and MHL 267 and MHL 268  
+
+  
+  
+Page: 1 <\- Back 10 … 31 | 32 | 33 | 34 | 35 | **36** | 37 | 38 | 39 | 40 | 41 … Forward 10 -> 55  
+  
+
+* * *
+
+Contract All Courses |  ![Print this page.](img/print.gif)Print this Page
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Undergraduate University Requirements Syracuse University's Shared
+Competencies
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies Martin J. Whitman School of
+Management Maxwell School of Citizenship and Public Affairs S.I. Newhouse
+School of Public Communications College of Professional Studies College of
+Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+

@@ -1,0 +1,219 @@
+Skip to Content
+
+#
+
+|
+
+##  Course Catalog
+
+Office of the Registrar, 106 Steele Hall Syracuse, NY 13244 | (315) 443-2422
+
+  * ﻿ Like Us on Facebook
+  * ﻿ Follow Us on Twitter
+
+  * Accessibility
+  * Accreditation
+  * Emergencies
+  * Privacy
+
+  
+---  
+Syracuse University |   
+|  |  2023-2024 Undergraduate Course Catalog |  |  Select a Catalog 2024-2025 Undergraduate Course Catalog 2024-2025 Graduate Course Catalog 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG] 2023-2024 Graduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Undergraduate Course Catalog [ARCHIVED CATALOG] 2022-2023 Graduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Undergraduate Course Catalog [ARCHIVED CATALOG] 2021-2022 Graduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Undergraduate Course Catalog [ARCHIVED CATALOG] 2020-2021 Graduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Undergraduate Course Catalog [ARCHIVED CATALOG] 2019-2020 Graduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Undergraduate Course Catalog [ARCHIVED CATALOG] 2018-2019 Graduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Undergraduate Course Catalog [ARCHIVED CATALOG] 2017-2018 Graduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Undergraduate Course Catalog [ARCHIVED CATALOG] 2016-2017 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Graduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Undergraduate Course Catalog [ARCHIVED CATALOG] 2014-2015 Graduate Course Catalog [ARCHIVED CATALOG] 2015-2016 Undergraduate Course Catalog [ARCHIVED CATALOG] |   
+---|---  
+|  Sep 19, 2024  |   
+|  |  **HELP** 2023-2024 Undergraduate Course Catalog [ARCHIVED CATALOG]  
+
+#  College of Engineering and Computer Science Courses
+
+Print-Friendly Page (opens a new window) Facebook this Page (opens a new
+window) Tweet this Page (opens a new window)  
+---  
+  
+* * *  
+  
+Return to: College of Engineering and Computer Science  
+  
+## College of Engineering and Computer Science
+
+#### Courses
+
+**Computational Science**
+
+  * • CPS 506 - Introduction to C
+  * • CPS 551 - Computer Organization & Operating System Design
+
+**Computer Engineering**
+
+  * • CSE 261 - Digital Logic Design
+  * • CSE 262 - Digital Logic Design Laboratory
+  * • CSE 280 - International Course
+  * • CSE 283 - Introduction to Object-Oriented Design
+  * • CSE 381 - Computer Architecture
+  * • CSE 382 - Algorithms & Data Structures
+  * • CSE 384 - Systems and Network Programming
+  * • CSE 389 - Web System Architecture and Programming
+  * • CSE 397 - Microcontroller Laboratory
+  * • CSE 398 - Embedded and Mobile Systems Laboratory
+  * • CSE 400 - Selected Topics
+  * • CSE 418 - Deep Learning
+  * • CSE 444 - Mobile Application Programming
+  * • CSE 458 - Data Networks: Basic Principles
+  * • CSE 464 - Introduction to VLSI Design
+  * • CSE 480 - International Course
+  * • CSE 483 - C# and Windows Programming
+  * • CSE 484 - Introduction to Computer and Network Security
+  * • CSE 486 - Design of Operating Systems
+  * • CSE 487 - Access Control, Security and Trust
+  * • CSE 488 - Introduction to Internet Security
+  * • CSE 491 - Senior Design Project I
+  * • CSE 492 - Senior Design Project II
+  * • CSE 499 - Honors Capstone Project
+  * • CSE 561 - Digital Machine Design
+  * • CSE 581 - Introduction to Database Management Systems
+  * • CSE 591 - Special Problems in Computer Systems Engineering
+
+**Electrical & Computer Engineering**
+
+  * • ECE 499 - Honors Capstone Project
+
+**Engineering and Computer Science**
+
+  * • ECS 100 - Selected Topics
+  * • ECS 101 - Introduction to Engineering and Computer Science
+  * • ECS 102 - Introduction to Computing
+  * • ECS 104 - Engineering Computational Tools
+  * • ECS 105 - LCS SummerStart Supplemental Math Workshop
+  * • ECS 109 - ECS SummerStart Seminar
+  * • ECS 110 - Introduction to Engineering Mathematics
+  * • ECS 114 - Academic Excellence Workshop for Pre-Calculus
+  * • ECS 115 - Academic Excellence Workshop for Calculus I
+  * • ECS 116 - Academic Excellence Worksho for Calculus II
+  * • ECS 117 - Academic Excellence Workshop for Calculus III
+  * • ECS 122 - Academic Excellence Workshop for Intro. to Computing
+  * • ECS 125 - Survey of Engineering Problems
+  * • ECS 200 - Selected Topics
+  * • ECS 201 - Academic Excellence Workshop for Statics
+  * • ECS 202 - Academic Excellence Workshop for Dynamics
+  * • ECS 203 - Introduction to Technology
+  * • ECS 204 - Mathematical Programming for Engineers
+  * • ECS 205 - Academic Excellence Workshop for Thermodynamics
+  * • ECS 206 - Academic Excellence Workshop for Mass & Energy Balances
+  * • ECS 207 - AEW for CEN Thermodynamics
+  * • ECS 221 - Statics
+  * • ECS 222 - Dynamics
+  * • ECS 290 - Independent Study
+  * • ECS 301 - Understanding Contemporary Technology
+  * • ECS 302 - Understanding Contemporary Technology
+  * • ECS 325 - Mechanics of Solids
+  * • ECS 326 - Engineering Materials, Properties, and Processing
+  * • ECS 353 - Automotive Technology for Non-Engineers
+  * • ECS 354 - Green Technology and Sustainability
+  * • ECS 365 - Engineering Peer Mentor Forum
+  * • ECS 370 - Professional Practice
+  * • ECS 371 - International Professional Practice
+  * • ECS 375 - Academic Excellence Facilitator Forum
+  * • ECS 391 - Legal Aspects of Engineering and Computer Science
+  * • ECS 392 - Ethical Aspects of Engineering and Computer Science
+  * • ECS 400 - Selected Topics
+  * • ECS 401 - Spec. Projects-Soling Program
+  * • ECS 441 - Leonardo da Vinci: Artist and Engineer
+  * • ECS 470 - Professional Practice
+  * • ECS 480 - International Course
+  * • ECS 490 - Independent Study
+  * • ECS 498 - Concepts & Issues of Tech.
+  * • ECS 499 - Honors Capstone Project
+  * • ECS 511 - Sustainable Manufacturing
+  * • ECS 525 - Probability for Engineers
+  * • ECS 526 - Statistics for Engineers
+  * • ECS 555 - Virtual Design Studio for Green Building Systems (VDS-GBS)
+  * • ECS 561 - Data Centers: Infrastructure Design and Energy Efficiency
+  * • ECS 570 - Professional Practice
+  * • ECS 588 - Principles of Wind Turbines
+
+**Engineering Physics**
+
+  * • ENP 499 - Honors Capstone Project
+
+**Electrical Engineering**
+
+  * • ELE 231 - Electrical Engineering Fundamentals
+  * • ELE 251 - Fundamentals of Linear Systems
+  * • ELE 280 - International Course
+  * • ELE 291 - Electrical Engineering Laboratory I
+  * • ELE 292 - Linear Systems Laboratory
+  * • ELE 314 - Power Engineering
+  * • ELE 324 - Electromagnetics
+  * • ELE 333 - Analog Electronics
+  * • ELE 346 - Semiconductor Devices
+  * • ELE 351 - System and Signal Analysis
+  * • ELE 352 - Digital Signal Processing
+  * • ELE 354 - Communication Systems
+  * • ELE 392 - Digital Signal Processing and Control Systems Laboratory
+  * • ELE 400 - Selected Topics
+  * • ELE 412 - Control Systems
+  * • ELE 414 - Power System Analysis and Control
+  * • ELE 415 - Microgrids
+  * • ELE 416 - Electromechanical Devices
+
+Page: 1 | 2 | **3** | 4
+
+  
+
+* * *
+
+Back to Top | Print-Friendly Page (opens a new window)
+
+Facebook this Page (opens a new window)
+
+Tweet this Page (opens a new window)  
+  
+|  Global Search Catalog Search  
+Choose Search Location Select an option Courses Programs Schools and Colleges
+Academic Rules Entire Catalog  
+Search Keyword Field  
+  
+Whole Word/Phrase  
+Advanced Search  
+  
+---  
+  
+* * *  
+  
+Catalog Navigation |  Catalog Home
+
+* * *
+
+General Information
+
+* * *
+
+Academic Rules
+
+* * *
+
+Undergraduate University Requirements Syracuse University's Shared
+Competencies
+
+* * *
+
+Academic Offerings Other Programs Courses
+
+* * *
+
+School of Architecture College of Arts and Sciences School of Education
+College of Engineering and Computer Science David B. Falk College of Sport and
+Human Dynamics School of Information Studies Martin J. Whitman School of
+Management Maxwell School of Citizenship and Public Affairs S.I. Newhouse
+School of Public Communications College of Professional Studies College of
+Visual and Performing Arts SUNY-ESF (Partner Institution)
+
+* * *
+
+Archived Catalogs  
+---  
+  
+* * *  
+  
+All catalogs (C) 2024 Syracuse University. Powered by Modern Campus Catalog™. | 
+
